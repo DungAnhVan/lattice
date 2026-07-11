@@ -1,5 +1,21 @@
 # Cambridge IGCSE Mathematics 0580 — Syllabus Taxonomy (Gate 1)
 
+## Gate 1B data flow
+
+The pipeline is separated into `extraction/` (regenerable coordinate-aware PDF blocks), `drafts/` (regenerable review candidates), and `taxonomy/` (canonical data). Extraction, draft building, index generation, and validation never overwrite canonical taxonomy.
+
+```text
+npm run extract:0580-syllabus
+npm run build:0580-drafts
+npm run promote:0580-taxonomy -- --confirm
+npm run generate:0580-indexes
+npm run validate:0580-taxonomy
+npm run test:0580-taxonomy
+npm run gate1b:0580
+```
+
+Promotion writes `reports/promotion-diff.md`, requires `--confirm`, creates a timestamped backup, and refuses conflicts with approved records.
+
 ## What is Lattice?
 
 Lattice is an internal curriculum and past-paper corpus system. Its core principle is **one canonical record per syllabus point and per question**; topics, skills, papers, and syllabus points are **views** generated through indexes, never duplicate content folders.

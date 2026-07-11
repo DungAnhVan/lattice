@@ -1,37 +1,22 @@
 {
-  "2-3-a-and-c-are-rational-numbers-and-b-is-a-positive-integer": {
+  "apply-algebraic-fractions": {
     "topicIds": [
       "algebra-and-graphs"
     ],
     "syllabusPointIds": [
-      "E2.10"
+      "E2.3"
     ]
   },
-  "5-3-j-l-kk-n-p-oo": {
+  "apply-algebraic-manipulation": {
     "topicIds": [
       "algebra-and-graphs"
     ],
     "syllabusPointIds": [
-      "E2.4"
+      "C2.2",
+      "E2.2"
     ]
   },
-  "ab-sin-c": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "E6.5"
-    ]
-  },
-  "add-and-subtract-vectors": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "E7.2"
-    ]
-  },
-  "alternate-segment-theorem": {
+  "apply-alternate-segment-theorem": {
     "topicIds": [
       "geometry"
     ],
@@ -39,15 +24,7 @@
       "E4.7"
     ]
   },
-  "angle-at-the-centre-is-twice-the-angle-at-the": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "E4.7"
-    ]
-  },
-  "angle-between-tangent-and-radius-90": {
+  "apply-angle-in-semicircle-theorem": {
     "topicIds": [
       "geometry"
     ],
@@ -56,248 +33,23 @@
       "E4.7"
     ]
   },
-  "angle-in-a-semicircle-90": {
+  "apply-angle-properties-of-polygons": {
     "topicIds": [
       "geometry"
     ],
     "syllabusPointIds": [
-      "C4.7",
-      "E4.7"
+      "E4.6"
     ]
   },
-  "angles-in-the-same-segment-are-equal": {
+  "apply-angle-properties-of-regular-polygons": {
     "topicIds": [
       "geometry"
     ],
     "syllabusPointIds": [
-      "E4.7"
+      "C4.6"
     ]
   },
-  "apply-differentiation-to-gradients-and-stationary": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.12"
-    ]
-  },
-  "apply-other-measures-of-rate": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.12",
-      "E1.12"
-    ]
-  },
-  "apply-the-idea-of-rate-of": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.9"
-    ]
-  },
-  "appreciate-restrictions-on-drawing-conclusions-from": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "C9.2",
-      "E9.2"
-    ]
-  },
-  "ask-for-the-gradient-or-y-intercept-of-a-graph": {
-    "topicIds": [
-      "coordinate-geometry"
-    ],
-    "syllabusPointIds": [
-      "C3.5",
-      "E3.5"
-    ]
-  },
-  "ax-by-c": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.11"
-    ]
-  },
-  "between-different-units-of-area-eg-cm2-m2": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.1",
-      "E5.1"
-    ]
-  },
-  "between-units-of-volume-and-capacity": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.1",
-      "E5.1"
-    ]
-  },
-  "calculate-a-given-percentage-of-a-quantity": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.13",
-      "E1.13"
-    ]
-  },
-  "calculate-an-estimate-of-the-mean": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "E9.3"
-    ]
-  },
-  "calculate-conditional-probability-using-venn": {
-    "topicIds": [
-      "probability"
-    ],
-    "syllabusPointIds": [
-      "E8.4"
-    ]
-  },
-  "calculate-cube-roots": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.3",
-      "E1.3"
-    ]
-  },
-  "calculate-cubes": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.3",
-      "E1.3"
-    ]
-  },
-  "calculate-distance-travelled-as-area-under-a-speedtime-graph": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.9"
-    ]
-  },
-  "calculate-expected-frequencies-eg-use-results": {
-    "topicIds": [
-      "probability"
-    ],
-    "syllabusPointIds": [
-      "C8.2",
-      "E8.2"
-    ]
-  },
-  "calculate-lengths-of-similar-shapes": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "C4.4",
-      "E4.4"
-    ]
-  },
-  "calculate-other-powers-and-roots-of-numbers": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.3",
-      "E1.3"
-    ]
-  },
-  "calculate-percentage-increase-or-decrease": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.13",
-      "E1.13"
-    ]
-  },
-  "calculate-square-roots": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.3",
-      "E1.3"
-    ]
-  },
-  "calculate-squares": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.3",
-      "E1.3"
-    ]
-  },
-  "calculate-the-gradient-of-a-straight": {
-    "topicIds": [
-      "coordinate-geometry"
-    ],
-    "syllabusPointIds": [
-      "E3.3"
-    ]
-  },
-  "calculate-the-length-of-a-line-segment": {
-    "topicIds": [
-      "coordinate-geometry"
-    ],
-    "syllabusPointIds": [
-      "E3.4"
-    ]
-  },
-  "calculate-the-mean-median-mode-and-range": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "C9.3"
-    ]
-  },
-  "calculate-the-mean-median-mode-quartiles": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "E9.3"
-    ]
-  },
-  "calculate-the-probability-of-a-single-event": {
-    "topicIds": [
-      "probability"
-    ],
-    "syllabusPointIds": [
-      "C8.1",
-      "E8.1"
-    ]
-  },
-  "calculate-times-in-terms-of-the-24-hour-and-12-hour-clock": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.15",
-      "E1.15"
-    ]
-  },
-  "calculate-unknown-angles-and-give-geometric": {
+  "apply-angle-sum-of-quadrilateral": {
     "topicIds": [
       "geometry"
     ],
@@ -306,7 +58,7 @@
       "E4.6"
     ]
   },
-  "calculate-unknown-angles-and-give-simple": {
+  "apply-angle-sum-of-triangle": {
     "topicIds": [
       "geometry"
     ],
@@ -315,112 +67,25 @@
       "E4.6"
     ]
   },
-  "calculate-using-reverse-percentages": {
+  "apply-angles-around-a-point": {
     "topicIds": [
-      "number"
+      "geometry"
     ],
     "syllabusPointIds": [
-      "E1.13"
+      "C4.6",
+      "E4.6"
     ]
   },
-  "calculate-with-frequency-density-on-histograms": {
+  "apply-angles-on-a-straight-line": {
     "topicIds": [
-      "statistics"
+      "geometry"
     ],
     "syllabusPointIds": [
-      "E9.7"
+      "C4.6",
+      "E4.6"
     ]
   },
-  "calculate-with-money": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.16",
-      "E1.16"
-    ]
-  },
-  "calculate-with-simple-and-compound-interest": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.13",
-      "E1.13"
-    ]
-  },
-  "calculate-with-the-following": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.3",
-      "E1.3"
-    ]
-  },
-  "calculate-with-time-seconds-s-minutes": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.15",
-      "E1.15"
-    ]
-  },
-  "calculate-with-values-in-standard-form": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.8",
-      "E1.8"
-    ]
-  },
-  "carry-out-calculations-and-solve-problems": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.5",
-      "E5.5"
-    ]
-  },
-  "carry-out-calculations-and-solve-problems-2": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.5",
-      "E5.5"
-    ]
-  },
-  "carry-out-calculations-involving-angles-of": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "E6.2"
-    ]
-  },
-  "carry-out-calculations-involving-arc-length": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.3",
-      "E5.3"
-    ]
-  },
-  "carry-out-calculations-involving-the-circumference": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.3",
-      "E5.3"
-    ]
-  },
-  "carry-out-calculations-involving-the-perimeter-and": {
+  "apply-area-and-perimeter": {
     "topicIds": [
       "mensuration"
     ],
@@ -429,532 +94,7 @@
       "E5.2"
     ]
   },
-  "change-the-subject-of-formulas-eg": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.5"
-    ]
-  },
-  "change-the-subject-of-simple-formulas": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.5"
-    ]
-  },
-  "classify-and-tabulate-statistical-data": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "C9.1",
-      "E9.1"
-    ]
-  },
-  "compare-sets-of-data-using-tables": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "C9.2",
-      "E9.2"
-    ]
-  },
-  "complete-the-square-for-expressions-in-the-form-ax2-bx-c": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.2"
-    ]
-  },
-  "construct-a-triangle-given-the-lengths": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "C4.2",
-      "E4.2"
-    ]
-  },
-  "construct-expressions-equations-and-formulas": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.5"
-    ]
-  },
-  "construct-simple-expressions-equations-and-formulas": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.5"
-    ]
-  },
-  "construct-solve-and-interpret-linear-inequalities": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.6"
-    ]
-  },
-  "construct-tables-of-values-and-draw": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.10",
-      "E2.10"
-    ]
-  },
-  "continue-a-given-number-sequence-or-pattern": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.7",
-      "E2.7"
-    ]
-  },
-  "convert-from-one-currency-to-another": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.16",
-      "E1.16"
-    ]
-  },
-  "convert-numbers-into-and-out-of-standard-form": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.8",
-      "E1.8"
-    ]
-  },
-  "cuboid": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "curved-surface-area-of-a-cone": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "curved-surface-area-of-a-cylinder": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "cylinder": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "describe-a-translation-using-a-vector": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "E7.2"
-    ]
-  },
-  "discriminate-between-maxima-and-minima-by": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.12"
-    ]
-  },
-  "draw-and-interpret": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "C9.4",
-      "E9.4"
-    ]
-  },
-  "draw-and-interpret-cumulative-frequency-tables-and-diagrams": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "E9.6"
-    ]
-  },
-  "draw-and-interpret-graphs-representing-exponential": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.10"
-    ]
-  },
-  "draw-and-interpret-histograms": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "E9.7"
-    ]
-  },
-  "draw-and-interpret-scale-drawings": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "C4.3",
-      "E4.3"
-    ]
-  },
-  "draw-and-interpret-scatter-diagrams": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "C9.5",
-      "E9.5"
-    ]
-  },
-  "draw-by-eye-interpret-and-use-a-straight-line-of-best-fit": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "C9.5",
-      "E9.5"
-    ]
-  },
-  "draw-graphs-from-given-data": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.9"
-    ]
-  },
-  "draw-graphs-from-given-data-eg": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.9"
-    ]
-  },
-  "draw-straight-line-graphs-for-linear-equations": {
-    "topicIds": [
-      "coordinate-geometry"
-    ],
-    "syllabusPointIds": [
-      "C3.2",
-      "E3.2"
-    ]
-  },
-  "draw-use-and-interpret-nets-a": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "C4.2",
-      "E4.2"
-    ]
-  },
-  "enlargement-of-a-shape-from-a-centre-by-a-scale-factor": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "C7.1",
-      "E7.1"
-    ]
-  },
-  "enter-values-appropriately-on-a-calculator": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.14",
-      "E1.14"
-    ]
-  },
-  "estimate-and-interpret-the-median-percentiles": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "E9.6"
-    ]
-  },
-  "estimate-gradients-of-curves-by-drawing-tangents": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.12"
-    ]
-  },
-  "expand-products-of-algebraic-expressions": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.2",
-      "E2.2"
-    ]
-  },
-  "express-direct-and-inverse-proportion-in-algebraic": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.8"
-    ]
-  },
-  "express-one-quantity-as-a-percentage-of-another": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.13",
-      "E1.13"
-    ]
-  },
-  "factorise-and-simplify-rational-expressions": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.3"
-    ]
-  },
-  "factorise-by-extracting-common-factors": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.2",
-      "E2.2"
-    ]
-  },
-  "factorise-expressions-of-the-form-ax": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.2"
-    ]
-  },
-  "find-and-use-the-nth-term": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.7",
-      "E2.7"
-    ]
-  },
-  "find-the-coordinates-of-the-midpoint-of-a-line-segment": {
-    "topicIds": [
-      "coordinate-geometry"
-    ],
-    "syllabusPointIds": [
-      "E3.4"
-    ]
-  },
-  "find-the-gradient-and-equation-of-a-straight-line": {
-    "topicIds": [
-      "coordinate-geometry"
-    ],
-    "syllabusPointIds": [
-      "C3.6",
-      "E3.6",
-      "E3.7"
-    ]
-  },
-  "find-the-gradient-of-a-straight-line": {
-    "topicIds": [
-      "coordinate-geometry"
-    ],
-    "syllabusPointIds": [
-      "C3.3",
-      "E3.3"
-    ]
-  },
-  "find-upper-and-lower-bounds-of": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "E1.10"
-    ]
-  },
-  "for-0-x-360-2-cos-x-1-0-for-0-x-360": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "E6.4"
-    ]
-  },
-  "form-composite-functions-as-defined-by-gfx-gfx": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.13"
-    ]
-  },
-  "give-upper-and-lower-bounds-for": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "E1.10"
-    ]
-  },
-  "give-upper-and-lower-bounds-for-data-rounded-to-a": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.10"
-    ]
-  },
-  "graphs-of-functions-2": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.10"
-    ]
-  },
-  "hours-15-minutes": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.14",
-      "E1.14"
-    ]
-  },
-  "identify-and-use": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.1",
-      "E1.1"
-    ]
-  },
-  "identify-common-factors": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.1",
-      "E1.1"
-    ]
-  },
-  "identify-common-multiples": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.1",
-      "E1.1"
-    ]
-  },
-  "identify-cube-numbers": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.1",
-      "E1.1"
-    ]
-  },
-  "identify-integers-positive-zero-and-negative": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.1",
-      "E1.1"
-    ]
-  },
-  "identify-natural-numbers": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.1",
-      "E1.1"
-    ]
-  },
-  "identify-prime-numbers": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.1",
-      "E1.1"
-    ]
-  },
-  "identify-rational-and-irrational-numbers": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.1",
-      "E1.1"
-    ]
-  },
-  "identify-reciprocals": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.1",
-      "E1.1"
-    ]
-  },
-  "identify-square-numbers": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.1",
-      "E1.1"
-    ]
-  },
-  "identify-the-modal-class-from-a": {
+  "apply-averages-and-measures-of-spread": {
     "topicIds": [
       "statistics"
     ],
@@ -962,100 +102,66 @@
       "E9.3"
     ]
   },
-  "indices-ii-3": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.4"
-    ]
-  },
-  "indices-ii-4": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.4"
-    ]
-  },
-  "interpret-the-calculator-display-appropriately-eg": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.14",
-      "E1.14"
-    ]
-  },
-  "involve-finding-the-equation-when-the-graph-is": {
-    "topicIds": [
-      "coordinate-geometry"
-    ],
-    "syllabusPointIds": [
-      "C3.5",
-      "E3.5"
-    ]
-  },
-  "know-and-use-angle-properties-of": {
+  "apply-centre-circumference-angle-theorem": {
     "topicIds": [
       "geometry"
     ],
     "syllabusPointIds": [
-      "E4.6"
+      "E4.7"
     ]
   },
-  "know-and-use-angle-properties-of-regular-polygons": {
+  "apply-circles-arcs-and-sectors": {
+    "topicIds": [
+      "mensuration"
+    ],
+    "syllabusPointIds": [
+      "C5.3",
+      "E5.3"
+    ]
+  },
+  "apply-compound-shapes-and-parts-of-shapes": {
+    "topicIds": [
+      "mensuration"
+    ],
+    "syllabusPointIds": [
+      "C5.5",
+      "E5.5"
+    ]
+  },
+  "apply-cumulative-frequency-diagrams": {
+    "topicIds": [
+      "statistics"
+    ],
+    "syllabusPointIds": [
+      "E9.6"
+    ]
+  },
+  "apply-cyclic-quadrilateral-angle-property": {
     "topicIds": [
       "geometry"
     ],
     "syllabusPointIds": [
-      "C4.6"
+      "E4.7"
     ]
   },
-  "know-and-use-pythagoras-theorem": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "C6.1",
-      "E6.1"
-    ]
-  },
-  "know-and-use-the-sine-cosine": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "C6.2",
-      "E6.2"
-    ]
-  },
-  "know-that-letters-can-be-used": {
+  "apply-differentiation": {
     "topicIds": [
       "algebra-and-graphs"
     ],
     "syllabusPointIds": [
-      "C2.1",
-      "E2.1"
+      "E2.12"
     ]
   },
-  "know-that-the-perpendicular-distance-from": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "E6.2"
-    ]
-  },
-  "list-inequalities-that-define-a-given-region": {
+  "apply-equations": {
     "topicIds": [
       "algebra-and-graphs"
     ],
     "syllabusPointIds": [
-      "E2.6"
+      "C2.5",
+      "E2.5"
     ]
   },
-  "make-estimates-for-calculations-involving-numbers": {
+  "apply-estimation": {
     "topicIds": [
       "number"
     ],
@@ -1064,15 +170,39 @@
       "E1.9"
     ]
   },
-  "manipulate-algebraic-fractions": {
+  "apply-exact-trigonometric-values": {
+    "topicIds": [
+      "trigonometry"
+    ],
+    "syllabusPointIds": [
+      "E6.3"
+    ]
+  },
+  "apply-fractional-index-laws": {
     "topicIds": [
       "algebra-and-graphs"
     ],
     "syllabusPointIds": [
-      "E2.3"
+      "E2.4"
     ]
   },
-  "measure-and-draw-lines-and-angles": {
+  "apply-fractions-decimals-and-percentages": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "E1.4"
+    ]
+  },
+  "apply-functions-concepts": {
+    "topicIds": [
+      "algebra-and-graphs"
+    ],
+    "syllabusPointIds": [
+      "E2.13"
+    ]
+  },
+  "apply-geometrical-constructions": {
     "topicIds": [
       "geometry"
     ],
@@ -1081,597 +211,24 @@
       "E4.2"
     ]
   },
-  "mm-cm-m-km": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.1",
-      "E5.1"
-    ]
-  },
-  "mm2-cm2-m2-km2": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.1",
-      "E5.1"
-    ]
-  },
-  "mm3-cm3-m3": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.1",
-      "E5.1"
-    ]
-  },
-  "multiply-a-vector-by-a-scalar": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "E7.2"
-    ]
-  },
-  "opposite-angles-of-a-cyclic-quadrilateral-sum-to": {
+  "apply-geometrical-terms": {
     "topicIds": [
       "geometry"
     ],
     "syllabusPointIds": [
-      "E4.7"
+      "C4.1",
+      "E4.1"
     ]
   },
-  "order-quantities-by-magnitude-and-demonstrate": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.5",
-      "E1.5"
-    ]
-  },
-  "pyramid": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "pythagoras-theorem-and-trigonometry": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "E6.6"
-    ]
-  },
-  "rationalise-the-denominator": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "E1.18"
-    ]
-  },
-  "read-clocks-and-timetables": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.15",
-      "E1.15"
-    ]
-  },
-  "read-interpret-and-draw-inferences-from": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "C9.2",
-      "E9.2"
-    ]
-  },
-  "recognise-equivalence-and-convert-between-these-forms": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.4",
-      "E1.4"
-    ]
-  },
-  "recognise-line-symmetry-and-order-of": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "E4.5"
-    ]
-  },
-  "recognise-line-symmetry-and-order-of-rotational": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "C4.5"
-    ]
-  },
-  "recognise-patterns-in-sequences-including-the": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.7",
-      "E2.7"
-    ]
-  },
-  "recognise-sketch-and-interpret-graphs-of-the": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.11"
-    ]
-  },
-  "recognise-sketch-and-interpret-the-following": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "E6.4"
-    ]
-  },
-  "recognise-symmetry-properties-of-prisms-cylinders": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "E4.5"
-    ]
-  },
-  "reflection-of-a-shape-in-a-straight-line": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "E7.1"
-    ]
-  },
-  "reflection-of-a-shape-in-a-vertical-or-horizontal-line": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "C7.1"
-    ]
-  },
-  "represent-and-interpret-inequalities-including-on": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.6"
-    ]
-  },
-  "represent-and-interpret-inequalities-including-on-a": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.6"
-    ]
-  },
-  "represent-and-interpret-linear-inequalities-in": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.6"
-    ]
-  },
-  "represent-vectors-by-directed-line-segments": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "E7.4"
-    ]
-  },
-  "rotation-of-a-shape-about-a-centre-through-multiples-of-90": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "E7.1"
-    ]
-  },
-  "rotation-of-a-shape-about-the": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "C7.1"
-    ]
-  },
-  "round-answers-to-a-reasonable-degree": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.9",
-      "E1.9"
-    ]
-  },
-  "round-values-to-a-specified-degree-of-accuracy": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.9",
-      "E1.9"
-    ]
-  },
-  "sample-space-diagrams": {
-    "topicIds": [
-      "probability"
-    ],
-    "syllabusPointIds": [
-      "C8.3",
-      "E8.3"
-    ]
-  },
-  "simplify-expressions-by-collecting-like-terms": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.2",
-      "E2.2"
-    ]
-  },
-  "sin-x-and-cos-x-for-x-0-30-45-60-and-90": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "E6.3"
-    ]
-  },
-  "solve-associated-equations-graphically-including-finding": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.10",
-      "E2.10"
-    ]
-  },
-  "solve-fractional-equations-with-numerical-and": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.5"
-    ]
-  },
-  "solve-linear-equations-in-one-unknown": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.5",
-      "E2.5"
-    ]
-  },
-  "solve-problems-and-give-simple-explanations": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "E4.4"
-    ]
-  },
-  "solve-problems-in-two-dimensions-using": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "C6.2",
-      "E6.2"
-    ]
-  },
-  "solve-problems-involving-average-speed-eg": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.12",
-      "E1.12"
-    ]
-  },
-  "solve-quadratic-equations-by-factorisation-completing": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.5"
-    ]
-  },
-  "solve-simultaneous-equations-involving-one-linear": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.5"
-    ]
-  },
-  "solve-simultaneous-linear-equations-in-two-unknowns": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.5",
-      "E2.5"
-    ]
-  },
-  "solve-trigonometric-equations-involving-sin-x": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "E6.4"
-    ]
-  },
-  "sphere": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "substitute-numbers-into-expressions-and-formulas": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.1",
-      "E2.1"
-    ]
-  },
-  "surface-area-of-a-sphere": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "tan-x-for-x-0-30-45-and-60": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "E6.3"
-    ]
-  },
-  "the-magnitudes-of-vectors-will-be": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "E7.3"
-    ]
-  },
-  "translation-of-a-shape-by-a": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "E7.1"
-    ]
-  },
-  "translation-of-a-shape-by-a-vector-x-y-j-l-kk-n-p-oo": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "C7.1"
-    ]
-  },
-  "tree-diagrams": {
-    "topicIds": [
-      "probability"
-    ],
-    "syllabusPointIds": [
-      "C8.3",
-      "E8.3"
-    ]
-  },
-  "understand-and-find-inverse-functions-f-1x": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.13"
-    ]
-  },
-  "understand-and-use-indices-positive-zero": {
-    "topicIds": [
-      "algebra-and-graphs",
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.7",
-      "E1.7",
-      "E2.4"
-    ]
-  },
-  "understand-and-use-indices-positive-zero-and-negative": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "C2.4"
-    ]
-  },
-  "understand-and-use-probability-notation": {
-    "topicIds": [
-      "probability"
-    ],
-    "syllabusPointIds": [
-      "E8.1"
-    ]
-  },
-  "understand-and-use-ratio-and-proportion-to": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.11",
-      "E1.11"
-    ]
-  },
-  "understand-and-use-set-language-notation-and": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.2",
-      "E1.2"
-    ]
-  },
-  "understand-and-use-surds-including-simplifying-expressions": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "E1.18"
-    ]
-  },
-  "understand-and-use-the-probability-scale-from": {
-    "topicIds": [
-      "probability"
-    ],
-    "syllabusPointIds": [
-      "C8.1",
-      "E8.1"
-    ]
-  },
-  "understand-and-use-the-rules-of": {
-    "topicIds": [
-      "algebra-and-graphs",
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.7",
-      "C2.4",
-      "E2.4"
-    ]
-  },
-  "understand-and-use-the-rules-of-indices": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "E1.7"
-    ]
-  },
-  "understand-divide-a-quantity-in-a-given-ratio": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.11",
-      "E1.11"
-    ]
-  },
-  "understand-functions-domain-and-range-and": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.13"
-    ]
-  },
-  "understand-give-ratios-in-their-simplest-form": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.11",
-      "E1.11"
-    ]
-  },
-  "understand-relative-frequency-as-an-estimate-of-probability": {
-    "topicIds": [
-      "probability"
-    ],
-    "syllabusPointIds": [
-      "C8.2",
-      "E8.2"
-    ]
-  },
-  "understand-that-the-probability-of-an": {
-    "topicIds": [
-      "probability"
-    ],
-    "syllabusPointIds": [
-      "C8.1",
-      "E8.1"
-    ]
-  },
-  "understand-use-proportional-reasoning-and-ratios-in": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.11",
-      "E1.11"
-    ]
-  },
-  "understand-what-is-meant-by-positive": {
-    "topicIds": [
-      "statistics"
-    ],
-    "syllabusPointIds": [
-      "C9.5",
-      "E9.5"
-    ]
-  },
-  "use-a-calculator-efficiently": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.14",
-      "E1.14"
-    ]
-  },
-  "use-and-interpret-cartesian-coordinates-in": {
+  "apply-gradient-of-linear-graphs": {
     "topicIds": [
       "coordinate-geometry"
     ],
     "syllabusPointIds": [
-      "C3.1"
+      "E3.3"
     ]
   },
-  "use-and-interpret-cartesian-coordinates-in-two": {
-    "topicIds": [
-      "coordinate-geometry"
-    ],
-    "syllabusPointIds": [
-      "E3.1"
-    ]
-  },
-  "use-and-interpret-graphs-in-practical": {
+  "apply-graphs-in-practical-situations": {
     "topicIds": [
       "algebra-and-graphs"
     ],
@@ -1680,59 +237,145 @@
       "E2.9"
     ]
   },
-  "use-and-interpret-the-following-geometrical": {
+  "apply-graphs-of-functions": {
     "topicIds": [
-      "geometry"
+      "algebra-and-graphs"
     ],
     "syllabusPointIds": [
-      "C4.1",
-      "E4.1"
+      "C2.10"
     ]
   },
-  "use-and-interpret-the-vocabulary-of": {
+  "apply-histograms": {
     "topicIds": [
-      "geometry"
+      "statistics"
     ],
     "syllabusPointIds": [
-      "C4.1",
-      "E4.1"
+      "E9.7"
     ]
   },
-  "use-and-interpret-the-vocabulary-of-2": {
+  "apply-indices": {
     "topicIds": [
-      "geometry"
+      "algebra-and-graphs",
+      "number"
     ],
     "syllabusPointIds": [
-      "C4.1",
-      "E4.1"
+      "C2.4",
+      "E1.7"
     ]
   },
-  "use-and-interpret-three-figure-bearings": {
+  "apply-inequalities": {
     "topicIds": [
-      "geometry"
+      "algebra-and-graphs"
     ],
     "syllabusPointIds": [
-      "C4.3",
-      "E4.3"
+      "E2.6"
     ]
   },
-  "use-and-request-lines-in-different-forms-eg": {
+  "apply-integer-index-laws": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.7"
+    ]
+  },
+  "apply-interpreting-statistical-data": {
+    "topicIds": [
+      "statistics"
+    ],
+    "syllabusPointIds": [
+      "C9.2",
+      "E9.2"
+    ]
+  },
+  "apply-introduction-to-algebra": {
+    "topicIds": [
+      "algebra-and-graphs"
+    ],
+    "syllabusPointIds": [
+      "C2.1",
+      "E2.1"
+    ]
+  },
+  "apply-introduction-to-probability": {
+    "topicIds": [
+      "probability"
+    ],
+    "syllabusPointIds": [
+      "C8.1",
+      "E8.1"
+    ]
+  },
+  "apply-length-and-midpoint": {
     "topicIds": [
       "coordinate-geometry"
     ],
     "syllabusPointIds": [
-      "E3.5"
+      "E3.4"
     ]
   },
-  "use-and-request-lines-in-the-forms": {
+  "apply-limits-of-accuracy": {
     "topicIds": [
-      "coordinate-geometry"
+      "number"
     ],
     "syllabusPointIds": [
-      "C3.5"
+      "C1.10",
+      "E1.10"
     ]
   },
-  "use-common-measures-of-rate": {
+  "apply-money-concepts": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.16",
+      "E1.16"
+    ]
+  },
+  "apply-parallel-line-angle-properties": {
+    "topicIds": [
+      "geometry"
+    ],
+    "syllabusPointIds": [
+      "C4.6",
+      "E4.6"
+    ]
+  },
+  "apply-percentages-concepts": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.13",
+      "E1.13"
+    ]
+  },
+  "apply-proportion": {
+    "topicIds": [
+      "algebra-and-graphs"
+    ],
+    "syllabusPointIds": [
+      "E2.8"
+    ]
+  },
+  "apply-pythagoras-theorem": {
+    "topicIds": [
+      "trigonometry"
+    ],
+    "syllabusPointIds": [
+      "C6.1",
+      "E6.1"
+    ]
+  },
+  "apply-pythagoras-theorem-and-trigonometry": {
+    "topicIds": [
+      "trigonometry"
+    ],
+    "syllabusPointIds": [
+      "E6.6"
+    ]
+  },
+  "apply-rates-concepts": {
     "topicIds": [
       "number"
     ],
@@ -1741,12 +384,489 @@
       "E1.12"
     ]
   },
-  "use-equal-chords-are-equidistant-from-the-centre": {
+  "apply-ratio-and-proportion": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.11",
+      "E1.11"
+    ]
+  },
+  "apply-relative-and-expected-frequencies": {
+    "topicIds": [
+      "probability"
+    ],
+    "syllabusPointIds": [
+      "C8.2",
+      "E8.2"
+    ]
+  },
+  "apply-right-angled-triangles": {
+    "topicIds": [
+      "trigonometry"
+    ],
+    "syllabusPointIds": [
+      "C6.2",
+      "E6.2"
+    ]
+  },
+  "apply-same-segment-angle-theorem": {
+    "topicIds": [
+      "geometry"
+    ],
+    "syllabusPointIds": [
+      "E4.7"
+    ]
+  },
+  "apply-scale-drawings": {
+    "topicIds": [
+      "geometry"
+    ],
+    "syllabusPointIds": [
+      "C4.3",
+      "E4.3"
+    ]
+  },
+  "apply-scatter-diagrams": {
+    "topicIds": [
+      "statistics"
+    ],
+    "syllabusPointIds": [
+      "C9.5",
+      "E9.5"
+    ]
+  },
+  "apply-sequences": {
+    "topicIds": [
+      "algebra-and-graphs"
+    ],
+    "syllabusPointIds": [
+      "C2.7",
+      "E2.7"
+    ]
+  },
+  "apply-sets": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "E1.2"
+    ]
+  },
+  "apply-similarity-concepts": {
+    "topicIds": [
+      "geometry"
+    ],
+    "syllabusPointIds": [
+      "E4.4"
+    ]
+  },
+  "apply-standard-form": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.8",
+      "E1.8"
+    ]
+  },
+  "apply-surds": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "E1.18"
+    ]
+  },
+  "apply-surface-area-and-volume": {
+    "topicIds": [
+      "mensuration"
+    ],
+    "syllabusPointIds": [
+      "C5.4",
+      "E5.4"
+    ]
+  },
+  "apply-symmetry-concepts": {
+    "topicIds": [
+      "geometry"
+    ],
+    "syllabusPointIds": [
+      "E4.5"
+    ]
+  },
+  "apply-tangent-radius-angle-property": {
+    "topicIds": [
+      "geometry"
+    ],
+    "syllabusPointIds": [
+      "C4.7",
+      "E4.7"
+    ]
+  },
+  "apply-time-concepts": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.15",
+      "E1.15"
+    ]
+  },
+  "apply-trigonometric-functions": {
+    "topicIds": [
+      "trigonometry"
+    ],
+    "syllabusPointIds": [
+      "E6.4"
+    ]
+  },
+  "apply-using-a-calculator": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.14",
+      "E1.14"
+    ]
+  },
+  "apply-vector-geometry": {
+    "topicIds": [
+      "transformations-and-vectors"
+    ],
+    "syllabusPointIds": [
+      "E7.4"
+    ]
+  },
+  "apply-vectors-in-two-dimensions": {
+    "topicIds": [
+      "transformations-and-vectors"
+    ],
+    "syllabusPointIds": [
+      "E7.2"
+    ]
+  },
+  "calculate-averages-and-range": {
+    "topicIds": [
+      "statistics"
+    ],
+    "syllabusPointIds": [
+      "C9.3"
+    ]
+  },
+  "calculate-conditional-probability": {
+    "topicIds": [
+      "probability"
+    ],
+    "syllabusPointIds": [
+      "E8.4"
+    ]
+  },
+  "calculate-magnitude-of-a-vector": {
+    "topicIds": [
+      "transformations-and-vectors"
+    ],
+    "syllabusPointIds": [
+      "E7.3"
+    ]
+  },
+  "calculate-powers-and-roots": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.3",
+      "E1.3"
+    ]
+  },
+  "calculate-probability-of-combined-events": {
+    "topicIds": [
+      "probability"
+    ],
+    "syllabusPointIds": [
+      "C8.3",
+      "E8.3"
+    ]
+  },
+  "calculate-similarity-concepts": {
+    "topicIds": [
+      "geometry"
+    ],
+    "syllabusPointIds": [
+      "C4.4"
+    ]
+  },
+  "calculate-triangle-area-using-sine": {
+    "topicIds": [
+      "trigonometry"
+    ],
+    "syllabusPointIds": [
+      "E6.5"
+    ]
+  },
+  "classify-classifying-statistical-data": {
+    "topicIds": [
+      "statistics"
+    ],
+    "syllabusPointIds": [
+      "C9.1",
+      "E9.1"
+    ]
+  },
+  "classify-rational-and-irrational-numbers": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.1"
+    ]
+  },
+  "compare-quantities-using-inequality-symbols": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.5"
+    ]
+  },
+  "convert-between-fractions-decimals-and-percentages": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.4"
+    ]
+  },
+  "draw-drawing-linear-graphs": {
+    "topicIds": [
+      "coordinate-geometry"
+    ],
+    "syllabusPointIds": [
+      "C3.2",
+      "E3.2"
+    ]
+  },
+  "draw-statistical-charts-and-diagrams": {
+    "topicIds": [
+      "statistics"
+    ],
+    "syllabusPointIds": [
+      "C9.4",
+      "E9.4"
+    ]
+  },
+  "find-common-factors": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.1"
+    ]
+  },
+  "find-common-multiples": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.1"
+    ]
+  },
+  "find-gradient-of-linear-graphs": {
+    "topicIds": [
+      "coordinate-geometry"
+    ],
+    "syllabusPointIds": [
+      "C3.3"
+    ]
+  },
+  "find-parallel-lines": {
+    "topicIds": [
+      "coordinate-geometry"
+    ],
+    "syllabusPointIds": [
+      "C3.6",
+      "E3.6"
+    ]
+  },
+  "find-perpendicular-lines": {
+    "topicIds": [
+      "coordinate-geometry"
+    ],
+    "syllabusPointIds": [
+      "E3.7"
+    ]
+  },
+  "find-reciprocals": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.1"
+    ]
+  },
+  "identify-cube-numbers": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.1"
+    ]
+  },
+  "identify-integers": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.1"
+    ]
+  },
+  "identify-natural-numbers": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.1"
+    ]
+  },
+  "identify-prime-numbers": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.1"
+    ]
+  },
+  "identify-square-numbers": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.1"
+    ]
+  },
+  "identify-types-of-number": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "E1.1"
+    ]
+  },
+  "interpret-equations-of-linear-graphs": {
+    "topicIds": [
+      "coordinate-geometry"
+    ],
+    "syllabusPointIds": [
+      "C3.5",
+      "E3.5"
+    ]
+  },
+  "interpret-exponential-growth-and-decay": {
+    "topicIds": [
+      "algebra-and-graphs"
+    ],
+    "syllabusPointIds": [
+      "E2.10"
+    ]
+  },
+  "order-ordering": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "E1.5"
+    ]
+  },
+  "order-quantities-by-magnitude": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.5"
+    ]
+  },
+  "plot-graphs-of-functions": {
+    "topicIds": [
+      "algebra-and-graphs"
+    ],
+    "syllabusPointIds": [
+      "E2.10"
+    ]
+  },
+  "recognise-sketching-curves": {
+    "topicIds": [
+      "algebra-and-graphs"
+    ],
+    "syllabusPointIds": [
+      "C2.11",
+      "E2.11"
+    ]
+  },
+  "recognise-symmetry-concepts": {
+    "topicIds": [
+      "geometry"
+    ],
+    "syllabusPointIds": [
+      "C4.5"
+    ]
+  },
+  "recognise-transformations": {
+    "topicIds": [
+      "transformations-and-vectors"
+    ],
+    "syllabusPointIds": [
+      "C7.1",
+      "E7.1"
+    ]
+  },
+  "represent-inequalities": {
+    "topicIds": [
+      "algebra-and-graphs"
+    ],
+    "syllabusPointIds": [
+      "C2.6"
+    ]
+  },
+  "represent-sets-with-venn-diagrams": {
+    "topicIds": [
+      "number"
+    ],
+    "syllabusPointIds": [
+      "C1.2"
+    ]
+  },
+  "solve-equations-graphically": {
+    "topicIds": [
+      "algebra-and-graphs"
+    ],
+    "syllabusPointIds": [
+      "E2.10"
+    ]
+  },
+  "use-circle-theorems": {
     "topicIds": [
       "geometry"
     ],
     "syllabusPointIds": [
       "E4.8"
+    ]
+  },
+  "use-coordinates": {
+    "topicIds": [
+      "coordinate-geometry"
+    ],
+    "syllabusPointIds": [
+      "C3.1",
+      "E3.1"
+    ]
+  },
+  "use-cosine-rule": {
+    "topicIds": [
+      "trigonometry"
+    ],
+    "syllabusPointIds": [
+      "E6.5"
     ]
   },
   "use-exponential-growth-and-decay": {
@@ -1757,39 +877,15 @@
       "E1.17"
     ]
   },
-  "use-position-vectors": {
+  "use-set-language-and-notation": {
     "topicIds": [
-      "transformations-and-vectors"
+      "number"
     ],
     "syllabusPointIds": [
-      "E7.4"
+      "C1.2"
     ]
   },
-  "use-tangents-from-an-external-point-are-equal-in": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "E4.8"
-    ]
-  },
-  "use-the-derivatives-of-functions-of": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.12"
-    ]
-  },
-  "use-the-following-symmetry-properties-of-circles": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "E4.8"
-    ]
-  },
-  "use-the-formula-area-of-triangle-2": {
+  "use-sine-rule": {
     "topicIds": [
       "trigonometry"
     ],
@@ -1797,7 +893,7 @@
       "E6.5"
     ]
   },
-  "use-the-four-operations-for-calculations-with": {
+  "use-the-four-operations": {
     "topicIds": [
       "number"
     ],
@@ -1806,149 +902,13 @@
       "E1.6"
     ]
   },
-  "use-the-language-and-notation-of": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.4",
-      "E1.4"
-    ]
-  },
-  "use-the-perpendicular-bisector-of-a-chord-passes": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "E4.8"
-    ]
-  },
-  "use-the-relationships-between-lengths-and": {
-    "topicIds": [
-      "geometry"
-    ],
-    "syllabusPointIds": [
-      "E4.4"
-    ]
-  },
-  "use-the-sine-and-cosine-rules": {
-    "topicIds": [
-      "trigonometry"
-    ],
-    "syllabusPointIds": [
-      "E6.5"
-    ]
-  },
-  "use-the-standard-form-a-10n": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.8",
-      "E1.8"
-    ]
-  },
-  "use-the-sum-and-difference-of": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "E7.4"
-    ]
-  },
-  "use-vectors-to-reason-and-to-solve-geometric-problems": {
-    "topicIds": [
-      "transformations-and-vectors"
-    ],
-    "syllabusPointIds": [
-      "E7.4"
-    ]
-  },
-  "venn-diagrams": {
-    "topicIds": [
-      "probability"
-    ],
-    "syllabusPointIds": [
-      "C8.3",
-      "E8.3"
-    ]
-  },
-  "volume-of-a-cone": {
+  "use-units-of-measure": {
     "topicIds": [
       "mensuration"
     ],
     "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "volume-of-a-cylinder": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "volume-of-a-prism": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "volume-of-a-pyramid": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "volume-of-a-sphere": {
-    "topicIds": [
-      "mensuration"
-    ],
-    "syllabusPointIds": [
-      "C5.4",
-      "E5.4"
-    ]
-  },
-  "y-ax2-bx-c": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.11"
-    ]
-  },
-  "y-ax3-b": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.11"
-    ]
-  },
-  "y-ax3-bx2-cx": {
-    "topicIds": [
-      "algebra-and-graphs"
-    ],
-    "syllabusPointIds": [
-      "E2.11"
-    ]
-  },
-  "year-365-days-in-the-24": {
-    "topicIds": [
-      "number"
-    ],
-    "syllabusPointIds": [
-      "C1.15",
-      "E1.15"
+      "C5.1",
+      "E5.1"
     ]
   }
 }

@@ -56,7 +56,7 @@
             "type": "object",
             "required": ["status", "notes"],
             "properties": {
-              "status": { "type": "string" },
+              "status": { "enum": ["pending-review", "approved", "rejected", "needs-revision"] },
               "notes": { "type": "string" }
             }
           }

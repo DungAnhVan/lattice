@@ -1,5 +1,9 @@
 {
-  "atomicSkillAliases": {},
+  "atomicSkillAliases": {
+    "angles-in-a-triangle": "apply-angle-sum-of-triangle",
+    "triangle-angle-sum": "apply-angle-sum-of-triangle",
+    "solve-first-degree-equation": "solve-equations"
+  },
   "topicAliases": {
     "algebra": "algebra-and-graphs",
     "graphs": "algebra-and-graphs"

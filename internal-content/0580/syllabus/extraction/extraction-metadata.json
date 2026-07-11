@@ -1,0 +1,7 @@
+{
+  "source": "../sources/2025-2027-syllabus.pdf",
+  "method": "PyMuPDF coordinate blocks",
+  "pageNumbering": "one-based",
+  "extractedAt": "2026-07-11T02:48:32.309521+00:00",
+  "pageCount": 71
+}

@@ -2,132 +2,107 @@
   "C1.1": {
     "topicId": "number",
     "atomicSkillIds": [
-      "identify-and-use",
-      "identify-common-factors",
-      "identify-common-multiples",
+      "classify-rational-and-irrational-numbers",
+      "find-common-factors",
+      "find-common-multiples",
+      "find-reciprocals",
       "identify-cube-numbers",
-      "identify-integers-positive-zero-and-negative",
+      "identify-integers",
       "identify-natural-numbers",
       "identify-prime-numbers",
-      "identify-rational-and-irrational-numbers",
-      "identify-reciprocals",
       "identify-square-numbers"
     ]
   },
   "C1.2": {
     "topicId": "number",
     "atomicSkillIds": [
-      "understand-and-use-set-language-notation-and"
+      "represent-sets-with-venn-diagrams",
+      "use-set-language-and-notation"
     ]
   },
   "C1.3": {
     "topicId": "number",
     "atomicSkillIds": [
-      "calculate-cube-roots",
-      "calculate-cubes",
-      "calculate-other-powers-and-roots-of-numbers",
-      "calculate-square-roots",
-      "calculate-squares",
-      "calculate-with-the-following"
+      "calculate-powers-and-roots"
     ]
   },
   "C1.4": {
     "topicId": "number",
     "atomicSkillIds": [
-      "recognise-equivalence-and-convert-between-these-forms",
-      "use-the-language-and-notation-of"
+      "convert-between-fractions-decimals-and-percentages"
     ]
   },
   "C1.5": {
     "topicId": "number",
     "atomicSkillIds": [
-      "order-quantities-by-magnitude-and-demonstrate"
+      "compare-quantities-using-inequality-symbols",
+      "order-quantities-by-magnitude"
     ]
   },
   "C1.6": {
     "topicId": "number",
     "atomicSkillIds": [
-      "use-the-four-operations-for-calculations-with"
+      "use-the-four-operations"
     ]
   },
   "C1.7": {
     "topicId": "number",
     "atomicSkillIds": [
-      "understand-and-use-indices-positive-zero",
-      "understand-and-use-the-rules-of"
+      "apply-integer-index-laws"
     ]
   },
   "C1.8": {
     "topicId": "number",
     "atomicSkillIds": [
-      "calculate-with-values-in-standard-form",
-      "convert-numbers-into-and-out-of-standard-form",
-      "use-the-standard-form-a-10n"
+      "apply-standard-form"
     ]
   },
   "C1.9": {
     "topicId": "number",
     "atomicSkillIds": [
-      "make-estimates-for-calculations-involving-numbers",
-      "round-answers-to-a-reasonable-degree",
-      "round-values-to-a-specified-degree-of-accuracy"
+      "apply-estimation"
     ]
   },
   "C1.10": {
     "topicId": "number",
     "atomicSkillIds": [
-      "give-upper-and-lower-bounds-for-data-rounded-to-a"
+      "apply-limits-of-accuracy"
     ]
   },
   "C1.11": {
     "topicId": "number",
     "atomicSkillIds": [
-      "understand-and-use-ratio-and-proportion-to",
-      "understand-divide-a-quantity-in-a-given-ratio",
-      "understand-give-ratios-in-their-simplest-form",
-      "understand-use-proportional-reasoning-and-ratios-in"
+      "apply-ratio-and-proportion"
     ]
   },
   "C1.12": {
     "topicId": "number",
     "atomicSkillIds": [
-      "apply-other-measures-of-rate",
-      "solve-problems-involving-average-speed-eg",
-      "use-common-measures-of-rate"
+      "apply-rates-concepts"
     ]
   },
   "C1.13": {
     "topicId": "number",
     "atomicSkillIds": [
-      "calculate-a-given-percentage-of-a-quantity",
-      "calculate-percentage-increase-or-decrease",
-      "calculate-with-simple-and-compound-interest",
-      "express-one-quantity-as-a-percentage-of-another"
+      "apply-percentages-concepts"
     ]
   },
   "C1.14": {
     "topicId": "number",
     "atomicSkillIds": [
-      "enter-values-appropriately-on-a-calculator",
-      "hours-15-minutes",
-      "interpret-the-calculator-display-appropriately-eg",
-      "use-a-calculator-efficiently"
+      "apply-using-a-calculator"
     ]
   },
   "C1.15": {
     "topicId": "number",
     "atomicSkillIds": [
-      "calculate-times-in-terms-of-the-24-hour-and-12-hour-clock",
-      "calculate-with-time-seconds-s-minutes",
-      "read-clocks-and-timetables",
-      "year-365-days-in-the-24"
+      "apply-time-concepts"
     ]
   },
   "C1.16": {
     "topicId": "number",
     "atomicSkillIds": [
-      "calculate-with-money",
-      "convert-from-one-currency-to-another"
+      "apply-money-concepts"
     ]
   },
   "C1.17": {
@@ -141,16 +116,13 @@
   "C2.1": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "know-that-letters-can-be-used",
-      "substitute-numbers-into-expressions-and-formulas"
+      "apply-introduction-to-algebra"
     ]
   },
   "C2.2": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "expand-products-of-algebraic-expressions",
-      "factorise-by-extracting-common-factors",
-      "simplify-expressions-by-collecting-like-terms"
+      "apply-algebraic-manipulation"
     ]
   },
   "C2.3": {
@@ -160,31 +132,25 @@
   "C2.4": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "understand-and-use-indices-positive-zero-and-negative",
-      "understand-and-use-the-rules-of"
+      "apply-indices"
     ]
   },
   "C2.5": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "change-the-subject-of-simple-formulas",
-      "construct-simple-expressions-equations-and-formulas",
-      "solve-linear-equations-in-one-unknown",
-      "solve-simultaneous-linear-equations-in-two-unknowns"
+      "apply-equations"
     ]
   },
   "C2.6": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "represent-and-interpret-inequalities-including-on-a"
+      "represent-inequalities"
     ]
   },
   "C2.7": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "continue-a-given-number-sequence-or-pattern",
-      "find-and-use-the-nth-term",
-      "recognise-patterns-in-sequences-including-the"
+      "apply-sequences"
     ]
   },
   "C2.8": {
@@ -194,21 +160,19 @@
   "C2.9": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "draw-graphs-from-given-data-eg",
-      "use-and-interpret-graphs-in-practical"
+      "apply-graphs-in-practical-situations"
     ]
   },
   "C2.10": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "construct-tables-of-values-and-draw",
-      "solve-associated-equations-graphically-including-finding"
+      "apply-graphs-of-functions"
     ]
   },
   "C2.11": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "recognise-sketch-and-interpret-graphs-of-the"
+      "recognise-sketching-curves"
     ]
   },
   "C2.12": {
@@ -222,19 +186,19 @@
   "C3.1": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "use-and-interpret-cartesian-coordinates-in"
+      "use-coordinates"
     ]
   },
   "C3.2": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "draw-straight-line-graphs-for-linear-equations"
+      "draw-drawing-linear-graphs"
     ]
   },
   "C3.3": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "find-the-gradient-of-a-straight-line"
+      "find-gradient-of-linear-graphs"
     ]
   },
   "C3.4": {
@@ -244,15 +208,13 @@
   "C3.5": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "ask-for-the-gradient-or-y-intercept-of-a-graph",
-      "involve-finding-the-equation-when-the-graph-is",
-      "use-and-request-lines-in-the-forms"
+      "interpret-equations-of-linear-graphs"
     ]
   },
   "C3.6": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "find-the-gradient-and-equation-of-a-straight-line"
+      "find-parallel-lines"
     ]
   },
   "C3.7": {
@@ -262,51 +224,49 @@
   "C4.1": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "use-and-interpret-the-following-geometrical",
-      "use-and-interpret-the-vocabulary-of",
-      "use-and-interpret-the-vocabulary-of-2"
+      "apply-geometrical-terms"
     ]
   },
   "C4.2": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "construct-a-triangle-given-the-lengths",
-      "draw-use-and-interpret-nets-a",
-      "measure-and-draw-lines-and-angles"
+      "apply-geometrical-constructions"
     ]
   },
   "C4.3": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "draw-and-interpret-scale-drawings",
-      "use-and-interpret-three-figure-bearings"
+      "apply-scale-drawings"
     ]
   },
   "C4.4": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "calculate-lengths-of-similar-shapes"
+      "calculate-similarity-concepts"
     ]
   },
   "C4.5": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "recognise-line-symmetry-and-order-of-rotational"
+      "recognise-symmetry-concepts"
     ]
   },
   "C4.6": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "calculate-unknown-angles-and-give-geometric",
-      "calculate-unknown-angles-and-give-simple",
-      "know-and-use-angle-properties-of-regular-polygons"
+      "apply-angle-properties-of-regular-polygons",
+      "apply-angle-sum-of-quadrilateral",
+      "apply-angle-sum-of-triangle",
+      "apply-angles-around-a-point",
+      "apply-angles-on-a-straight-line",
+      "apply-parallel-line-angle-properties"
     ]
   },
   "C4.7": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "angle-between-tangent-and-radius-90",
-      "angle-in-a-semicircle-90"
+      "apply-angle-in-semicircle-theorem",
+      "apply-tangent-radius-angle-property"
     ]
   },
   "C4.8": {
@@ -316,61 +276,43 @@
   "C5.1": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "between-different-units-of-area-eg-cm2-m2",
-      "between-units-of-volume-and-capacity",
-      "mm-cm-m-km",
-      "mm2-cm2-m2-km2",
-      "mm3-cm3-m3"
+      "use-units-of-measure"
     ]
   },
   "C5.2": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "carry-out-calculations-involving-the-perimeter-and"
+      "apply-area-and-perimeter"
     ]
   },
   "C5.3": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "carry-out-calculations-involving-arc-length",
-      "carry-out-calculations-involving-the-circumference"
+      "apply-circles-arcs-and-sectors"
     ]
   },
   "C5.4": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "cuboid",
-      "curved-surface-area-of-a-cone",
-      "curved-surface-area-of-a-cylinder",
-      "cylinder",
-      "pyramid",
-      "sphere",
-      "surface-area-of-a-sphere",
-      "volume-of-a-cone",
-      "volume-of-a-cylinder",
-      "volume-of-a-prism",
-      "volume-of-a-pyramid",
-      "volume-of-a-sphere"
+      "apply-surface-area-and-volume"
     ]
   },
   "C5.5": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "carry-out-calculations-and-solve-problems",
-      "carry-out-calculations-and-solve-problems-2"
+      "apply-compound-shapes-and-parts-of-shapes"
     ]
   },
   "C6.1": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
-      "know-and-use-pythagoras-theorem"
+      "apply-pythagoras-theorem"
     ]
   },
   "C6.2": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
-      "know-and-use-the-sine-cosine",
-      "solve-problems-in-two-dimensions-using"
+      "apply-right-angled-triangles"
     ]
   },
   "C6.3": {
@@ -392,10 +334,7 @@
   "C7.1": {
     "topicId": "transformations-and-vectors",
     "atomicSkillIds": [
-      "enlargement-of-a-shape-from-a-centre-by-a-scale-factor",
-      "reflection-of-a-shape-in-a-vertical-or-horizontal-line",
-      "rotation-of-a-shape-about-the",
-      "translation-of-a-shape-by-a-vector-x-y-j-l-kk-n-p-oo"
+      "recognise-transformations"
     ]
   },
   "C7.2": {
@@ -413,24 +352,19 @@
   "C8.1": {
     "topicId": "probability",
     "atomicSkillIds": [
-      "calculate-the-probability-of-a-single-event",
-      "understand-and-use-the-probability-scale-from",
-      "understand-that-the-probability-of-an"
+      "apply-introduction-to-probability"
     ]
   },
   "C8.2": {
     "topicId": "probability",
     "atomicSkillIds": [
-      "calculate-expected-frequencies-eg-use-results",
-      "understand-relative-frequency-as-an-estimate-of-probability"
+      "apply-relative-and-expected-frequencies"
     ]
   },
   "C8.3": {
     "topicId": "probability",
     "atomicSkillIds": [
-      "sample-space-diagrams",
-      "tree-diagrams",
-      "venn-diagrams"
+      "calculate-probability-of-combined-events"
     ]
   },
   "C8.4": {
@@ -440,35 +374,31 @@
   "C9.1": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "classify-and-tabulate-statistical-data"
+      "classify-classifying-statistical-data"
     ]
   },
   "C9.2": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "appreciate-restrictions-on-drawing-conclusions-from",
-      "compare-sets-of-data-using-tables",
-      "read-interpret-and-draw-inferences-from"
+      "apply-interpreting-statistical-data"
     ]
   },
   "C9.3": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "calculate-the-mean-median-mode-and-range"
+      "calculate-averages-and-range"
     ]
   },
   "C9.4": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "draw-and-interpret"
+      "draw-statistical-charts-and-diagrams"
     ]
   },
   "C9.5": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "draw-and-interpret-scatter-diagrams",
-      "draw-by-eye-interpret-and-use-a-straight-line-of-best-fit",
-      "understand-what-is-meant-by-positive"
+      "apply-scatter-diagrams"
     ]
   },
   "C9.6": {
@@ -482,134 +412,97 @@
   "E1.1": {
     "topicId": "number",
     "atomicSkillIds": [
-      "identify-and-use",
-      "identify-common-factors",
-      "identify-common-multiples",
-      "identify-cube-numbers",
-      "identify-integers-positive-zero-and-negative",
-      "identify-natural-numbers",
-      "identify-prime-numbers",
-      "identify-rational-and-irrational-numbers",
-      "identify-reciprocals",
-      "identify-square-numbers"
+      "identify-types-of-number"
     ]
   },
   "E1.2": {
     "topicId": "number",
     "atomicSkillIds": [
-      "understand-and-use-set-language-notation-and"
+      "apply-sets"
     ]
   },
   "E1.3": {
     "topicId": "number",
     "atomicSkillIds": [
-      "calculate-cube-roots",
-      "calculate-cubes",
-      "calculate-other-powers-and-roots-of-numbers",
-      "calculate-square-roots",
-      "calculate-squares",
-      "calculate-with-the-following"
+      "calculate-powers-and-roots"
     ]
   },
   "E1.4": {
     "topicId": "number",
     "atomicSkillIds": [
-      "recognise-equivalence-and-convert-between-these-forms",
-      "use-the-language-and-notation-of"
+      "apply-fractions-decimals-and-percentages"
     ]
   },
   "E1.5": {
     "topicId": "number",
     "atomicSkillIds": [
-      "order-quantities-by-magnitude-and-demonstrate"
+      "order-ordering"
     ]
   },
   "E1.6": {
     "topicId": "number",
     "atomicSkillIds": [
-      "use-the-four-operations-for-calculations-with"
+      "use-the-four-operations"
     ]
   },
   "E1.7": {
     "topicId": "number",
     "atomicSkillIds": [
-      "understand-and-use-indices-positive-zero",
-      "understand-and-use-the-rules-of-indices"
+      "apply-indices"
     ]
   },
   "E1.8": {
     "topicId": "number",
     "atomicSkillIds": [
-      "calculate-with-values-in-standard-form",
-      "convert-numbers-into-and-out-of-standard-form",
-      "use-the-standard-form-a-10n"
+      "apply-standard-form"
     ]
   },
   "E1.9": {
     "topicId": "number",
     "atomicSkillIds": [
-      "make-estimates-for-calculations-involving-numbers",
-      "round-answers-to-a-reasonable-degree",
-      "round-values-to-a-specified-degree-of-accuracy"
+      "apply-estimation"
     ]
   },
   "E1.10": {
     "topicId": "number",
     "atomicSkillIds": [
-      "find-upper-and-lower-bounds-of",
-      "give-upper-and-lower-bounds-for"
+      "apply-limits-of-accuracy"
     ]
   },
   "E1.11": {
     "topicId": "number",
     "atomicSkillIds": [
-      "understand-and-use-ratio-and-proportion-to",
-      "understand-divide-a-quantity-in-a-given-ratio",
-      "understand-give-ratios-in-their-simplest-form",
-      "understand-use-proportional-reasoning-and-ratios-in"
+      "apply-ratio-and-proportion"
     ]
   },
   "E1.12": {
     "topicId": "number",
     "atomicSkillIds": [
-      "apply-other-measures-of-rate",
-      "solve-problems-involving-average-speed-eg",
-      "use-common-measures-of-rate"
+      "apply-rates-concepts"
     ]
   },
   "E1.13": {
     "topicId": "number",
     "atomicSkillIds": [
-      "calculate-a-given-percentage-of-a-quantity",
-      "calculate-percentage-increase-or-decrease",
-      "calculate-using-reverse-percentages",
-      "calculate-with-simple-and-compound-interest",
-      "express-one-quantity-as-a-percentage-of-another"
+      "apply-percentages-concepts"
     ]
   },
   "E1.14": {
     "topicId": "number",
     "atomicSkillIds": [
-      "enter-values-appropriately-on-a-calculator",
-      "hours-15-minutes",
-      "interpret-the-calculator-display-appropriately-eg",
-      "use-a-calculator-efficiently"
+      "apply-using-a-calculator"
     ]
   },
   "E1.15": {
     "topicId": "number",
     "atomicSkillIds": [
-      "calculate-times-in-terms-of-the-24-hour-and-12-hour-clock",
-      "calculate-with-time-seconds-s-minutes",
-      "read-clocks-and-timetables",
-      "year-365-days-in-the-24"
+      "apply-time-concepts"
     ]
   },
   "E1.16": {
     "topicId": "number",
     "atomicSkillIds": [
-      "calculate-with-money",
-      "convert-from-one-currency-to-another"
+      "apply-money-concepts"
     ]
   },
   "E1.17": {
@@ -621,437 +514,345 @@
   "E1.18": {
     "topicId": "number",
     "atomicSkillIds": [
-      "rationalise-the-denominator",
-      "understand-and-use-surds-including-simplifying-expressions"
+      "apply-surds"
     ]
   },
   "E2.1": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "know-that-letters-can-be-used",
-      "substitute-numbers-into-expressions-and-formulas"
+      "apply-introduction-to-algebra"
     ]
   },
   "E2.2": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "complete-the-square-for-expressions-in-the-form-ax2-bx-c",
-      "expand-products-of-algebraic-expressions",
-      "factorise-by-extracting-common-factors",
-      "factorise-expressions-of-the-form-ax",
-      "simplify-expressions-by-collecting-like-terms"
+      "apply-algebraic-manipulation"
     ]
   },
   "E2.3": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "factorise-and-simplify-rational-expressions",
-      "manipulate-algebraic-fractions"
+      "apply-algebraic-fractions"
     ]
   },
   "E2.4": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "5-3-j-l-kk-n-p-oo",
-      "indices-ii-3",
-      "indices-ii-4",
-      "understand-and-use-indices-positive-zero",
-      "understand-and-use-the-rules-of"
+      "apply-fractional-index-laws"
     ]
   },
   "E2.5": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "change-the-subject-of-formulas-eg",
-      "construct-expressions-equations-and-formulas",
-      "solve-fractional-equations-with-numerical-and",
-      "solve-linear-equations-in-one-unknown",
-      "solve-quadratic-equations-by-factorisation-completing",
-      "solve-simultaneous-equations-involving-one-linear",
-      "solve-simultaneous-linear-equations-in-two-unknowns"
+      "apply-equations"
     ]
   },
   "E2.6": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "construct-solve-and-interpret-linear-inequalities",
-      "list-inequalities-that-define-a-given-region",
-      "represent-and-interpret-inequalities-including-on",
-      "represent-and-interpret-linear-inequalities-in"
+      "apply-inequalities"
     ]
   },
   "E2.7": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "continue-a-given-number-sequence-or-pattern",
-      "find-and-use-the-nth-term",
-      "recognise-patterns-in-sequences-including-the"
+      "apply-sequences"
     ]
   },
   "E2.8": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "express-direct-and-inverse-proportion-in-algebraic"
+      "apply-proportion"
     ]
   },
   "E2.9": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "apply-the-idea-of-rate-of",
-      "calculate-distance-travelled-as-area-under-a-speedtime-graph",
-      "draw-graphs-from-given-data",
-      "use-and-interpret-graphs-in-practical"
+      "apply-graphs-in-practical-situations"
     ]
   },
   "E2.10": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "2-3-a-and-c-are-rational-numbers-and-b-is-a-positive-integer",
-      "construct-tables-of-values-and-draw",
-      "draw-and-interpret-graphs-representing-exponential",
-      "graphs-of-functions-2",
-      "solve-associated-equations-graphically-including-finding"
+      "interpret-exponential-growth-and-decay",
+      "plot-graphs-of-functions",
+      "solve-equations-graphically"
     ]
   },
   "E2.11": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "ax-by-c",
-      "y-ax2-bx-c",
-      "y-ax3-b",
-      "y-ax3-bx2-cx"
+      "recognise-sketching-curves"
     ]
   },
   "E2.12": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "apply-differentiation-to-gradients-and-stationary",
-      "discriminate-between-maxima-and-minima-by",
-      "estimate-gradients-of-curves-by-drawing-tangents",
-      "use-the-derivatives-of-functions-of"
+      "apply-differentiation"
     ]
   },
   "E2.13": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "form-composite-functions-as-defined-by-gfx-gfx",
-      "understand-and-find-inverse-functions-f-1x",
-      "understand-functions-domain-and-range-and"
+      "apply-functions-concepts"
     ]
   },
   "E3.1": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "use-and-interpret-cartesian-coordinates-in-two"
+      "use-coordinates"
     ]
   },
   "E3.2": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "draw-straight-line-graphs-for-linear-equations"
+      "draw-drawing-linear-graphs"
     ]
   },
   "E3.3": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "calculate-the-gradient-of-a-straight",
-      "find-the-gradient-of-a-straight-line"
+      "apply-gradient-of-linear-graphs"
     ]
   },
   "E3.4": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "calculate-the-length-of-a-line-segment",
-      "find-the-coordinates-of-the-midpoint-of-a-line-segment"
+      "apply-length-and-midpoint"
     ]
   },
   "E3.5": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "ask-for-the-gradient-or-y-intercept-of-a-graph",
-      "involve-finding-the-equation-when-the-graph-is",
-      "use-and-request-lines-in-different-forms-eg"
+      "interpret-equations-of-linear-graphs"
     ]
   },
   "E3.6": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "find-the-gradient-and-equation-of-a-straight-line"
+      "find-parallel-lines"
     ]
   },
   "E3.7": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
-      "find-the-gradient-and-equation-of-a-straight-line"
+      "find-perpendicular-lines"
     ]
   },
   "E4.1": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "use-and-interpret-the-following-geometrical",
-      "use-and-interpret-the-vocabulary-of",
-      "use-and-interpret-the-vocabulary-of-2"
+      "apply-geometrical-terms"
     ]
   },
   "E4.2": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "construct-a-triangle-given-the-lengths",
-      "draw-use-and-interpret-nets-a",
-      "measure-and-draw-lines-and-angles"
+      "apply-geometrical-constructions"
     ]
   },
   "E4.3": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "draw-and-interpret-scale-drawings",
-      "use-and-interpret-three-figure-bearings"
+      "apply-scale-drawings"
     ]
   },
   "E4.4": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "calculate-lengths-of-similar-shapes",
-      "solve-problems-and-give-simple-explanations",
-      "use-the-relationships-between-lengths-and"
+      "apply-similarity-concepts"
     ]
   },
   "E4.5": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "recognise-line-symmetry-and-order-of",
-      "recognise-symmetry-properties-of-prisms-cylinders"
+      "apply-symmetry-concepts"
     ]
   },
   "E4.6": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "calculate-unknown-angles-and-give-geometric",
-      "calculate-unknown-angles-and-give-simple",
-      "know-and-use-angle-properties-of"
+      "apply-angle-properties-of-polygons",
+      "apply-angle-sum-of-quadrilateral",
+      "apply-angle-sum-of-triangle",
+      "apply-angles-around-a-point",
+      "apply-angles-on-a-straight-line",
+      "apply-parallel-line-angle-properties"
     ]
   },
   "E4.7": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "alternate-segment-theorem",
-      "angle-at-the-centre-is-twice-the-angle-at-the",
-      "angle-between-tangent-and-radius-90",
-      "angle-in-a-semicircle-90",
-      "angles-in-the-same-segment-are-equal",
-      "opposite-angles-of-a-cyclic-quadrilateral-sum-to"
+      "apply-alternate-segment-theorem",
+      "apply-angle-in-semicircle-theorem",
+      "apply-centre-circumference-angle-theorem",
+      "apply-cyclic-quadrilateral-angle-property",
+      "apply-same-segment-angle-theorem",
+      "apply-tangent-radius-angle-property"
     ]
   },
   "E4.8": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "use-equal-chords-are-equidistant-from-the-centre",
-      "use-tangents-from-an-external-point-are-equal-in",
-      "use-the-following-symmetry-properties-of-circles",
-      "use-the-perpendicular-bisector-of-a-chord-passes"
+      "use-circle-theorems"
     ]
   },
   "E5.1": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "between-different-units-of-area-eg-cm2-m2",
-      "between-units-of-volume-and-capacity",
-      "mm-cm-m-km",
-      "mm2-cm2-m2-km2",
-      "mm3-cm3-m3"
+      "use-units-of-measure"
     ]
   },
   "E5.2": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "carry-out-calculations-involving-the-perimeter-and"
+      "apply-area-and-perimeter"
     ]
   },
   "E5.3": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "carry-out-calculations-involving-arc-length",
-      "carry-out-calculations-involving-the-circumference"
+      "apply-circles-arcs-and-sectors"
     ]
   },
   "E5.4": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "cuboid",
-      "curved-surface-area-of-a-cone",
-      "curved-surface-area-of-a-cylinder",
-      "cylinder",
-      "pyramid",
-      "sphere",
-      "surface-area-of-a-sphere",
-      "volume-of-a-cone",
-      "volume-of-a-cylinder",
-      "volume-of-a-prism",
-      "volume-of-a-pyramid",
-      "volume-of-a-sphere"
+      "apply-surface-area-and-volume"
     ]
   },
   "E5.5": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "carry-out-calculations-and-solve-problems",
-      "carry-out-calculations-and-solve-problems-2"
+      "apply-compound-shapes-and-parts-of-shapes"
     ]
   },
   "E6.1": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
-      "know-and-use-pythagoras-theorem"
+      "apply-pythagoras-theorem"
     ]
   },
   "E6.2": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
-      "carry-out-calculations-involving-angles-of",
-      "know-and-use-the-sine-cosine",
-      "know-that-the-perpendicular-distance-from",
-      "solve-problems-in-two-dimensions-using"
+      "apply-right-angled-triangles"
     ]
   },
   "E6.3": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
-      "sin-x-and-cos-x-for-x-0-30-45-60-and-90",
-      "tan-x-for-x-0-30-45-and-60"
+      "apply-exact-trigonometric-values"
     ]
   },
   "E6.4": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
-      "for-0-x-360-2-cos-x-1-0-for-0-x-360",
-      "recognise-sketch-and-interpret-the-following",
-      "solve-trigonometric-equations-involving-sin-x"
+      "apply-trigonometric-functions"
     ]
   },
   "E6.5": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
-      "ab-sin-c",
-      "use-the-formula-area-of-triangle-2",
-      "use-the-sine-and-cosine-rules"
+      "calculate-triangle-area-using-sine",
+      "use-cosine-rule",
+      "use-sine-rule"
     ]
   },
   "E6.6": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
-      "pythagoras-theorem-and-trigonometry"
+      "apply-pythagoras-theorem-and-trigonometry"
     ]
   },
   "E7.1": {
     "topicId": "transformations-and-vectors",
     "atomicSkillIds": [
-      "enlargement-of-a-shape-from-a-centre-by-a-scale-factor",
-      "reflection-of-a-shape-in-a-straight-line",
-      "rotation-of-a-shape-about-a-centre-through-multiples-of-90",
-      "translation-of-a-shape-by-a"
+      "recognise-transformations"
     ]
   },
   "E7.2": {
     "topicId": "transformations-and-vectors",
     "atomicSkillIds": [
-      "add-and-subtract-vectors",
-      "describe-a-translation-using-a-vector",
-      "multiply-a-vector-by-a-scalar"
+      "apply-vectors-in-two-dimensions"
     ]
   },
   "E7.3": {
     "topicId": "transformations-and-vectors",
     "atomicSkillIds": [
-      "the-magnitudes-of-vectors-will-be"
+      "calculate-magnitude-of-a-vector"
     ]
   },
   "E7.4": {
     "topicId": "transformations-and-vectors",
     "atomicSkillIds": [
-      "represent-vectors-by-directed-line-segments",
-      "use-position-vectors",
-      "use-the-sum-and-difference-of",
-      "use-vectors-to-reason-and-to-solve-geometric-problems"
+      "apply-vector-geometry"
     ]
   },
   "E8.1": {
     "topicId": "probability",
     "atomicSkillIds": [
-      "calculate-the-probability-of-a-single-event",
-      "understand-and-use-probability-notation",
-      "understand-and-use-the-probability-scale-from",
-      "understand-that-the-probability-of-an"
+      "apply-introduction-to-probability"
     ]
   },
   "E8.2": {
     "topicId": "probability",
     "atomicSkillIds": [
-      "calculate-expected-frequencies-eg-use-results",
-      "understand-relative-frequency-as-an-estimate-of-probability"
+      "apply-relative-and-expected-frequencies"
     ]
   },
   "E8.3": {
     "topicId": "probability",
     "atomicSkillIds": [
-      "sample-space-diagrams",
-      "tree-diagrams",
-      "venn-diagrams"
+      "calculate-probability-of-combined-events"
     ]
   },
   "E8.4": {
     "topicId": "probability",
     "atomicSkillIds": [
-      "calculate-conditional-probability-using-venn"
+      "calculate-conditional-probability"
     ]
   },
   "E9.1": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "classify-and-tabulate-statistical-data"
+      "classify-classifying-statistical-data"
     ]
   },
   "E9.2": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "appreciate-restrictions-on-drawing-conclusions-from",
-      "compare-sets-of-data-using-tables",
-      "read-interpret-and-draw-inferences-from"
+      "apply-interpreting-statistical-data"
     ]
   },
   "E9.3": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "calculate-an-estimate-of-the-mean",
-      "calculate-the-mean-median-mode-quartiles",
-      "identify-the-modal-class-from-a"
+      "apply-averages-and-measures-of-spread"
     ]
   },
   "E9.4": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "draw-and-interpret"
+      "draw-statistical-charts-and-diagrams"
     ]
   },
   "E9.5": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "draw-and-interpret-scatter-diagrams",
-      "draw-by-eye-interpret-and-use-a-straight-line-of-best-fit",
-      "understand-what-is-meant-by-positive"
+      "apply-scatter-diagrams"
     ]
   },
   "E9.6": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "draw-and-interpret-cumulative-frequency-tables-and-diagrams",
-      "estimate-and-interpret-the-median-percentiles"
+      "apply-cumulative-frequency-diagrams"
     ]
   },
   "E9.7": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "calculate-with-frequency-density-on-histograms",
-      "draw-and-interpret-histograms"
+      "apply-histograms"
     ]
   }
 }

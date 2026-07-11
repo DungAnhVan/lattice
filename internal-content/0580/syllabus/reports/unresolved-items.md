@@ -2,6 +2,10 @@
 
 Items below require teacher judgment before the taxonomy is used for high-stakes classification or mastery tracking.
 
+## Gate 1B teacher-review queue
+
+All 144 syllabus points, 108 atomic skills, and 72 explicit Core/Extended mappings are currently `pending-review` (324 review items total). Automated structural and semantic checks pass, but approval coverage remains 0% until a subject teacher reviews the official transcription, pedagogical decomposition, and mapping basis.
+
 ## Core / Extended equivalence uncertainty
 
 The following Core/Extended pairs have related but non-identical official wording. They are recorded in `indexes/core-extended-map.json` under `uncertainEquivalence` and must not be treated as automatically equivalent.

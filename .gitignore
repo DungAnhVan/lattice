@@ -2,3 +2,5 @@
 /internal-content/**/past-papers/questions/
 /data/past-papers/
 /private-assets/
+__pycache__/
+*.py[cod]

@@ -25,6 +25,7 @@
           "relatedSyllabusPointIds",
           "origin",
           "sourceReferences",
+          "extraction",
           "review"
         ],
         "properties": {
@@ -55,11 +56,21 @@
               }
             }
           },
+          "extraction": {
+            "type": "object",
+            "required": ["status", "confidence", "rawSourceId", "issues"],
+            "properties": {
+              "status": { "enum": ["clean", "needs-review", "failed"] },
+              "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+              "rawSourceId": { "type": "string" },
+              "issues": { "type": "array", "items": { "type": "string" } }
+            }
+          },
           "review": {
             "type": "object",
             "required": ["status", "notes"],
             "properties": {
-              "status": { "type": "string" },
+              "status": { "enum": ["pending-review", "approved", "rejected", "needs-revision"] },
               "notes": { "type": "string" }
             }
           }

@@ -4,9 +4,12 @@
   "private": true,
   "description": "Internal curriculum and past-paper corpus system",
   "scripts": {
-    "build:0580-taxonomy": "python scripts/build_0580_taxonomy.py",
+    "extract:0580-syllabus": "python scripts/extract_0580_syllabus.py",
+    "build:0580-drafts": "python scripts/build_0580_drafts.py",
+    "promote:0580-taxonomy": "python scripts/promote_0580_taxonomy.py",
     "generate:0580-indexes": "python scripts/generate_0580_indexes.py",
     "validate:0580-taxonomy": "python scripts/validate_0580_taxonomy.py",
-    "gate1:0580": "python scripts/build_0580_taxonomy.py && python scripts/validate_0580_taxonomy.py"
+    "test:0580-taxonomy": "python -m unittest discover -s tests -p test_0580_taxonomy.py",
+    "gate1b:0580": "python scripts/generate_0580_indexes.py && python scripts/validate_0580_taxonomy.py"
   }
 }

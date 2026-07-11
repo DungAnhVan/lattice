@@ -1,5 +1,7 @@
 # Lattice
 
+> **Private/internal use only.** Do not add Cambridge past-paper PDFs or question images while the repository is public.
+
 Internal curriculum and past-paper corpus system.
 
 ## Gate 1 — Cambridge IGCSE Mathematics 0580 syllabus taxonomy
