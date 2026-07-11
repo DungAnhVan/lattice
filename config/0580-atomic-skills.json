@@ -1,0 +1,1728 @@
+{
+  "schemaVersion": "1.0",
+  "syllabusCode": "0580",
+  "taxonomyVersion": "0580-2025-2027-v1",
+  "points": {
+    "C1.1": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "identify-natural-numbers",
+        "identify-integers",
+        "identify-prime-numbers",
+        "identify-square-numbers",
+        "identify-cube-numbers",
+        "find-common-factors",
+        "find-common-multiples",
+        "classify-rational-and-irrational-numbers",
+        "find-reciprocals"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.2": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "use-set-language-and-notation",
+        "represent-sets-with-venn-diagrams",
+        "calculate-number-of-set-elements",
+        "apply-set-union",
+        "apply-set-intersection",
+        "apply-set-complement"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.3": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "calculate-squares",
+        "calculate-square-roots",
+        "calculate-cubes",
+        "calculate-cube-roots",
+        "calculate-integer-powers",
+        "calculate-roots-of-numbers"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.4": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "recognise-proper-fractions",
+        "recognise-improper-fractions",
+        "recognise-mixed-numbers",
+        "simplify-fractions",
+        "convert-between-improper-fractions-and-mixed-numbers",
+        "convert-fractions-to-decimals",
+        "convert-decimals-to-fractions",
+        "convert-between-fractions-and-percentages",
+        "convert-between-decimals-and-percentages"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.5": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "order-quantities-by-magnitude",
+        "compare-quantities-using-equality-symbols",
+        "compare-quantities-using-inequality-symbols"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.6": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "calculate-with-integers",
+        "calculate-with-fractions",
+        "calculate-with-decimals",
+        "apply-order-of-operations",
+        "apply-brackets-in-calculations",
+        "calculate-with-negative-numbers"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.7": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "interpret-positive-integer-indices",
+        "interpret-zero-indices",
+        "interpret-negative-integer-indices",
+        "apply-product-rule-for-indices",
+        "apply-quotient-rule-for-indices",
+        "apply-power-of-power-rule"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.8": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "represent-numbers-in-standard-form",
+        "convert-numbers-to-standard-form",
+        "convert-numbers-from-standard-form",
+        "calculate-with-standard-form"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.9": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "round-to-decimal-places",
+        "round-to-significant-figures",
+        "estimate-calculation-results",
+        "choose-appropriate-answer-accuracy"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.10": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "find-lower-bound-of-rounded-value",
+        "find-upper-bound-of-rounded-value"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.11": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "simplify-ratios",
+        "divide-quantity-in-given-ratio",
+        "apply-ratio-in-context",
+        "apply-direct-proportion"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.12": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "calculate-rate-of-pay",
+        "calculate-currency-exchange",
+        "calculate-flow-rate",
+        "calculate-density",
+        "calculate-pressure",
+        "calculate-population-density",
+        "calculate-average-speed",
+        "convert-compound-units"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.13": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "calculate-percentage-of-quantity",
+        "express-quantity-as-percentage",
+        "calculate-percentage-increase",
+        "calculate-percentage-decrease",
+        "calculate-simple-interest",
+        "calculate-compound-interest",
+        "calculate-profit-and-loss",
+        "calculate-discount"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.14": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "use-calculator-efficiently",
+        "enter-values-into-calculator",
+        "interpret-calculator-display",
+        "preserve-calculation-precision"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.15": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "convert-units-of-time",
+        "calculate-time-intervals",
+        "use-twelve-hour-clock",
+        "use-twenty-four-hour-clock",
+        "read-timetables",
+        "solve-time-zone-problems"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C1.16": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "calculate-with-money",
+        "convert-between-currencies"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C2.1": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "represent-generalised-numbers-with-letters",
+        "substitute-values-into-expressions",
+        "substitute-values-into-formulas"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C2.2": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "collect-like-terms",
+        "expand-single-bracket",
+        "expand-product-of-two-brackets",
+        "factorise-by-common-factor"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C2.4": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "interpret-algebraic-indices",
+        "apply-algebraic-index-laws",
+        "solve-simple-exponential-equations"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C2.5": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "construct-algebraic-expressions",
+        "construct-equations",
+        "construct-formulas",
+        "solve-linear-equation",
+        "solve-simultaneous-linear-equations",
+        "change-subject-of-formula"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C2.6": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "represent-inequality-on-number-line",
+        "interpret-inequality-on-number-line",
+        "solve-linear-inequality"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C2.7": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "continue-number-sequence",
+        "recognise-sequence-pattern",
+        "find-nth-term-of-linear-sequence",
+        "find-nth-term-of-quadratic-sequence",
+        "find-nth-term-of-cubic-sequence"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C2.9": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "interpret-practical-graphs",
+        "interpret-gradient-as-rate-of-change",
+        "draw-graph-from-data",
+        "interpret-distance-time-graph",
+        "draw-distance-time-graph"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C2.10": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "construct-table-of-values",
+        "plot-graph-of-function",
+        "interpret-graph-of-function",
+        "solve-equations-graphically",
+        "interpret-roots-from-graph",
+        "draw-exponential-growth-graph",
+        "draw-exponential-decay-graph"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C2.11": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "sketch-linear-function",
+        "sketch-quadratic-function",
+        "sketch-cubic-function",
+        "sketch-reciprocal-function"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C3.1": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "read-cartesian-coordinates",
+        "plot-cartesian-coordinates"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C3.2": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "draw-linear-graph-from-equation"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C3.3": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "calculate-gradient-from-graph"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C3.5": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "interpret-gradient-intercept-form",
+        "find-equation-of-line-from-graph"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C3.6": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "identify-parallel-lines",
+        "use-equal-gradients-for-parallel-lines"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C4.1": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "use-geometric-vocabulary",
+        "classify-triangles",
+        "classify-quadrilaterals",
+        "identify-lines-of-symmetry",
+        "identify-rotational-symmetry"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C4.2": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "construct-triangle-with-ruler-and-compasses",
+        "construct-perpendicular-bisector",
+        "construct-angle-bisector",
+        "construct-perpendicular-line",
+        "construct-locus"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C4.3": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "interpret-scale-drawing",
+        "construct-scale-drawing",
+        "calculate-actual-length-from-scale"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C4.4": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "identify-similar-shapes",
+        "calculate-missing-lengths-in-similar-shapes"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C4.5": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "identify-line-symmetry",
+        "identify-order-of-rotational-symmetry"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C4.6": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "interpret-three-letter-angle-notation",
+        "apply-angles-around-a-point",
+        "apply-angles-on-a-straight-line",
+        "apply-vertically-opposite-angles",
+        "apply-angle-sum-of-triangle",
+        "apply-angle-sum-of-quadrilateral",
+        "apply-corresponding-angles",
+        "apply-alternate-angles",
+        "apply-cointerior-angles",
+        "calculate-interior-angle-of-regular-polygon",
+        "calculate-exterior-angle-of-regular-polygon"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C4.7": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "apply-angle-in-semicircle-theorem",
+        "apply-tangent-radius-angle-property"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C5.1": {
+      "skillGroupIds": [
+        "mensuration-skills"
+      ],
+      "atomicSkills": [
+        "convert-metric-units-of-length",
+        "convert-metric-units-of-area",
+        "convert-metric-units-of-volume"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C5.2": {
+      "skillGroupIds": [
+        "mensuration-skills"
+      ],
+      "atomicSkills": [
+        "calculate-perimeter-of-polygon",
+        "calculate-area-of-rectangle",
+        "calculate-area-of-triangle",
+        "calculate-area-of-parallelogram",
+        "calculate-area-of-trapezium"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C5.3": {
+      "skillGroupIds": [
+        "mensuration-skills"
+      ],
+      "atomicSkills": [
+        "calculate-circumference-of-circle",
+        "calculate-area-of-circle",
+        "calculate-arc-length",
+        "calculate-sector-area"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C5.4": {
+      "skillGroupIds": [
+        "mensuration-skills"
+      ],
+      "atomicSkills": [
+        "calculate-surface-area-of-prism",
+        "calculate-volume-of-prism",
+        "calculate-surface-area-of-cylinder",
+        "calculate-volume-of-cylinder"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C5.5": {
+      "skillGroupIds": [
+        "mensuration-skills"
+      ],
+      "atomicSkills": [
+        "calculate-area-of-compound-shape",
+        "calculate-perimeter-of-compound-shape",
+        "calculate-volume-of-compound-solid",
+        "calculate-surface-area-of-compound-solid"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C6.1": {
+      "skillGroupIds": [
+        "trigonometry-skills"
+      ],
+      "atomicSkills": [
+        "apply-pythagoras-theorem",
+        "find-missing-side-using-pythagoras"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C6.2": {
+      "skillGroupIds": [
+        "trigonometry-skills"
+      ],
+      "atomicSkills": [
+        "use-sine-ratio",
+        "use-cosine-ratio",
+        "use-tangent-ratio",
+        "find-side-in-right-triangle",
+        "find-angle-in-right-triangle",
+        "solve-angle-of-elevation",
+        "solve-angle-of-depression",
+        "solve-bearing-with-trigonometry"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C7.1": {
+      "skillGroupIds": [
+        "transformations-and-vectors-skills"
+      ],
+      "atomicSkills": [
+        "reflect-shape",
+        "rotate-shape",
+        "translate-shape",
+        "enlarge-shape",
+        "describe-reflection",
+        "describe-rotation",
+        "describe-translation",
+        "describe-enlargement"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C8.1": {
+      "skillGroupIds": [
+        "probability-skills"
+      ],
+      "atomicSkills": [
+        "calculate-single-event-probability",
+        "use-probability-scale",
+        "identify-impossible-event",
+        "identify-certain-event",
+        "calculate-complementary-probability"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C8.2": {
+      "skillGroupIds": [
+        "probability-skills"
+      ],
+      "atomicSkills": [
+        "calculate-relative-frequency",
+        "calculate-expected-frequency",
+        "compare-relative-frequency-with-theoretical-probability"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C8.3": {
+      "skillGroupIds": [
+        "probability-skills"
+      ],
+      "atomicSkills": [
+        "calculate-probability-of-combined-events",
+        "construct-sample-space-diagram",
+        "calculate-probability-of-mutually-exclusive-events",
+        "calculate-probability-of-independent-events",
+        "construct-probability-tree-diagram"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C9.1": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "classify-categorical-data",
+        "classify-discrete-data",
+        "classify-continuous-data"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C9.2": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "interpret-frequency-table",
+        "construct-frequency-table",
+        "identify-biased-data-collection",
+        "evaluate-sampling-method"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C9.3": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "calculate-mean",
+        "calculate-median",
+        "calculate-mode",
+        "calculate-range",
+        "choose-appropriate-average"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C9.4": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "draw-bar-chart",
+        "interpret-bar-chart",
+        "draw-pie-chart",
+        "interpret-pie-chart",
+        "draw-pictogram",
+        "interpret-pictogram"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "C9.5": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "draw-scatter-diagram",
+        "identify-correlation",
+        "draw-line-of-best-fit",
+        "use-line-of-best-fit",
+        "identify-unreliable-extrapolation"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.1": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "identify-natural-numbers",
+        "identify-integers",
+        "identify-prime-numbers",
+        "identify-square-numbers",
+        "identify-cube-numbers",
+        "find-common-factors",
+        "find-common-multiples",
+        "classify-rational-and-irrational-numbers",
+        "find-reciprocals"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.2": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "use-set-language-and-notation",
+        "represent-sets-with-venn-diagrams",
+        "calculate-number-of-set-elements",
+        "apply-set-union",
+        "apply-set-intersection",
+        "apply-set-complement"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.3": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "calculate-squares",
+        "calculate-square-roots",
+        "calculate-cubes",
+        "calculate-cube-roots",
+        "calculate-integer-powers",
+        "calculate-roots-of-numbers"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.4": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "recognise-proper-fractions",
+        "recognise-improper-fractions",
+        "recognise-mixed-numbers",
+        "simplify-fractions",
+        "convert-between-improper-fractions-and-mixed-numbers",
+        "convert-fractions-to-decimals",
+        "convert-decimals-to-fractions",
+        "convert-between-fractions-and-percentages",
+        "convert-between-decimals-and-percentages"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.5": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "order-quantities-by-magnitude",
+        "compare-quantities-using-equality-symbols",
+        "compare-quantities-using-inequality-symbols"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.6": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "calculate-with-integers",
+        "calculate-with-fractions",
+        "calculate-with-decimals",
+        "apply-order-of-operations",
+        "apply-brackets-in-calculations",
+        "calculate-with-negative-numbers"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.7": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "interpret-positive-integer-indices",
+        "interpret-zero-indices",
+        "interpret-negative-integer-indices",
+        "apply-product-rule-for-indices",
+        "apply-quotient-rule-for-indices",
+        "apply-power-of-power-rule"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.8": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "represent-numbers-in-standard-form",
+        "convert-numbers-to-standard-form",
+        "convert-numbers-from-standard-form",
+        "calculate-with-standard-form"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.9": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "round-to-decimal-places",
+        "round-to-significant-figures",
+        "estimate-calculation-results",
+        "choose-appropriate-answer-accuracy"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.10": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "find-lower-bound-of-rounded-value",
+        "find-upper-bound-of-rounded-value",
+        "find-bounds-of-calculation-result"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.11": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "simplify-ratios",
+        "divide-quantity-in-given-ratio",
+        "apply-ratio-in-context",
+        "apply-direct-proportion",
+        "apply-inverse-proportion"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.12": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "calculate-rate-of-pay",
+        "calculate-currency-exchange",
+        "calculate-flow-rate",
+        "calculate-density",
+        "calculate-pressure",
+        "calculate-population-density",
+        "calculate-average-speed",
+        "convert-compound-units"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.13": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "calculate-percentage-of-quantity",
+        "express-quantity-as-percentage",
+        "calculate-percentage-increase",
+        "calculate-percentage-decrease",
+        "calculate-simple-interest",
+        "calculate-compound-interest",
+        "calculate-profit-and-loss",
+        "calculate-discount",
+        "calculate-reverse-percentage"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.14": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "use-calculator-efficiently",
+        "enter-values-into-calculator",
+        "interpret-calculator-display",
+        "preserve-calculation-precision"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.15": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "convert-units-of-time",
+        "calculate-time-intervals",
+        "use-twelve-hour-clock",
+        "use-twenty-four-hour-clock",
+        "read-timetables",
+        "solve-time-zone-problems"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.16": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "calculate-with-money",
+        "convert-between-currencies"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.17": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "model-exponential-growth",
+        "model-exponential-decay",
+        "calculate-compound-growth",
+        "calculate-compound-decay"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E1.18": {
+      "skillGroupIds": [
+        "number-skills"
+      ],
+      "atomicSkills": [
+        "simplify-surds",
+        "rationalise-denominator",
+        "calculate-with-surds"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.1": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "represent-generalised-numbers-with-letters",
+        "substitute-values-into-expressions",
+        "substitute-values-into-formulas"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.2": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "collect-like-terms",
+        "expand-single-bracket",
+        "expand-product-of-two-brackets",
+        "factorise-by-common-factor",
+        "factorise-quadratic-expression",
+        "factorise-difference-of-two-squares",
+        "complete-square",
+        "expand-multiple-algebraic-factors"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.3": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "simplify-algebraic-fractions",
+        "calculate-with-algebraic-fractions"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.4": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "interpret-algebraic-indices",
+        "apply-algebraic-index-laws",
+        "solve-simple-exponential-equations"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.5": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "construct-algebraic-expressions",
+        "construct-equations",
+        "construct-formulas",
+        "solve-linear-equation",
+        "solve-simultaneous-linear-equations",
+        "change-subject-of-formula",
+        "solve-equation-with-algebraic-fractions",
+        "solve-quadratic-equation-by-factorisation",
+        "solve-quadratic-equation-using-formula",
+        "complete-square-to-solve-quadratic",
+        "solve-simultaneous-linear-and-quadratic-equations",
+        "change-subject-in-complex-formula"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.6": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "represent-inequality-on-number-line",
+        "interpret-inequality-on-number-line",
+        "solve-linear-inequality",
+        "solve-quadratic-inequality"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.7": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "continue-number-sequence",
+        "recognise-sequence-pattern",
+        "find-nth-term-of-linear-sequence",
+        "find-nth-term-of-quadratic-sequence",
+        "find-nth-term-of-cubic-sequence",
+        "find-nth-term-of-exponential-sequence"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.8": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "form-direct-proportion-equation",
+        "form-inverse-proportion-equation",
+        "solve-direct-proportion-problem",
+        "solve-inverse-proportion-problem"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.9": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "interpret-practical-graphs",
+        "interpret-gradient-as-rate-of-change",
+        "draw-graph-from-data",
+        "interpret-distance-time-graph",
+        "draw-distance-time-graph",
+        "interpret-speed-time-graph",
+        "draw-speed-time-graph",
+        "calculate-distance-from-speed-time-graph",
+        "calculate-acceleration-from-speed-time-graph"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.10": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "construct-table-of-values",
+        "plot-graph-of-function",
+        "interpret-graph-of-function",
+        "solve-equations-graphically",
+        "interpret-roots-from-graph",
+        "draw-exponential-growth-graph",
+        "draw-exponential-decay-graph"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.11": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "sketch-linear-function",
+        "sketch-quadratic-function",
+        "sketch-cubic-function",
+        "sketch-reciprocal-function"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.12": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "differentiate-power-function",
+        "find-gradient-using-derivative",
+        "find-stationary-point",
+        "classify-stationary-point"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E2.13": {
+      "skillGroupIds": [
+        "algebra-and-graphs-skills"
+      ],
+      "atomicSkills": [
+        "use-function-notation",
+        "evaluate-function",
+        "find-inverse-function",
+        "form-composite-function",
+        "evaluate-composite-function"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E3.1": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "read-cartesian-coordinates",
+        "plot-cartesian-coordinates"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E3.2": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "draw-linear-graph-from-equation"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E3.3": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "calculate-gradient-from-graph",
+        "calculate-gradient-from-two-points"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E3.4": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "calculate-distance-between-two-points",
+        "calculate-midpoint-of-line-segment"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E3.5": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "interpret-gradient-intercept-form",
+        "find-equation-of-line-from-graph",
+        "find-equation-of-line-from-two-points",
+        "find-equation-of-line-from-point-and-gradient"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E3.6": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "identify-parallel-lines",
+        "use-equal-gradients-for-parallel-lines"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E3.7": {
+      "skillGroupIds": [
+        "coordinate-geometry-skills"
+      ],
+      "atomicSkills": [
+        "identify-perpendicular-lines",
+        "use-negative-reciprocal-gradients"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E4.1": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "use-geometric-vocabulary",
+        "classify-triangles",
+        "classify-quadrilaterals",
+        "identify-lines-of-symmetry",
+        "identify-rotational-symmetry"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E4.2": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "construct-triangle-with-ruler-and-compasses",
+        "construct-perpendicular-bisector",
+        "construct-angle-bisector",
+        "construct-perpendicular-line",
+        "construct-locus"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E4.3": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "interpret-scale-drawing",
+        "construct-scale-drawing",
+        "calculate-actual-length-from-scale"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E4.4": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "identify-similar-shapes",
+        "calculate-missing-lengths-in-similar-shapes",
+        "prove-shapes-similar",
+        "identify-congruent-shapes",
+        "prove-triangles-congruent",
+        "calculate-area-scale-factor",
+        "calculate-volume-scale-factor"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E4.5": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "identify-line-symmetry",
+        "identify-order-of-rotational-symmetry",
+        "use-symmetry-properties-of-circle"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E4.6": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "interpret-three-letter-angle-notation",
+        "apply-angles-around-a-point",
+        "apply-angles-on-a-straight-line",
+        "apply-vertically-opposite-angles",
+        "apply-angle-sum-of-triangle",
+        "apply-angle-sum-of-quadrilateral",
+        "apply-corresponding-angles",
+        "apply-alternate-angles",
+        "apply-cointerior-angles",
+        "calculate-interior-angle-of-regular-polygon",
+        "calculate-exterior-angle-of-regular-polygon",
+        "calculate-angle-sum-of-polygon",
+        "calculate-interior-angle-of-irregular-polygon"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E4.7": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "apply-angle-in-semicircle-theorem",
+        "apply-tangent-radius-angle-property",
+        "apply-centre-circumference-angle-theorem",
+        "apply-same-segment-angle-theorem",
+        "apply-cyclic-quadrilateral-angle-property",
+        "apply-alternate-segment-theorem"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E4.8": {
+      "skillGroupIds": [
+        "geometry-skills"
+      ],
+      "atomicSkills": [
+        "apply-tangent-chord-theorem",
+        "apply-intersecting-chords-theorem",
+        "apply-secant-tangent-theorem"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E5.1": {
+      "skillGroupIds": [
+        "mensuration-skills"
+      ],
+      "atomicSkills": [
+        "convert-metric-units-of-length",
+        "convert-metric-units-of-area",
+        "convert-metric-units-of-volume"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E5.2": {
+      "skillGroupIds": [
+        "mensuration-skills"
+      ],
+      "atomicSkills": [
+        "calculate-perimeter-of-polygon",
+        "calculate-area-of-rectangle",
+        "calculate-area-of-triangle",
+        "calculate-area-of-parallelogram",
+        "calculate-area-of-trapezium",
+        "calculate-area-of-kite",
+        "calculate-area-of-rhombus"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E5.3": {
+      "skillGroupIds": [
+        "mensuration-skills"
+      ],
+      "atomicSkills": [
+        "calculate-circumference-of-circle",
+        "calculate-area-of-circle",
+        "calculate-arc-length",
+        "calculate-sector-area"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E5.4": {
+      "skillGroupIds": [
+        "mensuration-skills"
+      ],
+      "atomicSkills": [
+        "calculate-surface-area-of-prism",
+        "calculate-volume-of-prism",
+        "calculate-surface-area-of-cylinder",
+        "calculate-volume-of-cylinder",
+        "calculate-volume-of-pyramid",
+        "calculate-surface-area-of-pyramid",
+        "calculate-volume-of-cone",
+        "calculate-surface-area-of-cone",
+        "calculate-volume-of-sphere",
+        "calculate-surface-area-of-sphere"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E5.5": {
+      "skillGroupIds": [
+        "mensuration-skills"
+      ],
+      "atomicSkills": [
+        "calculate-area-of-compound-shape",
+        "calculate-perimeter-of-compound-shape",
+        "calculate-volume-of-compound-solid",
+        "calculate-surface-area-of-compound-solid",
+        "calculate-similar-area-ratio",
+        "calculate-similar-volume-ratio"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E6.1": {
+      "skillGroupIds": [
+        "trigonometry-skills"
+      ],
+      "atomicSkills": [
+        "apply-pythagoras-theorem",
+        "find-missing-side-using-pythagoras"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E6.2": {
+      "skillGroupIds": [
+        "trigonometry-skills"
+      ],
+      "atomicSkills": [
+        "use-sine-ratio",
+        "use-cosine-ratio",
+        "use-tangent-ratio",
+        "find-side-in-right-triangle",
+        "find-angle-in-right-triangle",
+        "solve-angle-of-elevation",
+        "solve-angle-of-depression",
+        "solve-bearing-with-trigonometry"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E6.3": {
+      "skillGroupIds": [
+        "trigonometry-skills"
+      ],
+      "atomicSkills": [
+        "recall-exact-sine-values",
+        "recall-exact-cosine-values",
+        "recall-exact-tangent-values"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E6.4": {
+      "skillGroupIds": [
+        "trigonometry-skills"
+      ],
+      "atomicSkills": [
+        "interpret-trigonometric-function-graph",
+        "solve-trigonometric-equation-from-graph"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E6.5": {
+      "skillGroupIds": [
+        "trigonometry-skills"
+      ],
+      "atomicSkills": [
+        "use-sine-rule",
+        "use-cosine-rule",
+        "calculate-triangle-area-using-sine",
+        "solve-ambiguous-sine-rule-case"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E6.6": {
+      "skillGroupIds": [
+        "trigonometry-skills"
+      ],
+      "atomicSkills": [
+        "solve-three-dimensional-pythagoras-problem",
+        "solve-three-dimensional-trigonometry-problem"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E7.1": {
+      "skillGroupIds": [
+        "transformations-and-vectors-skills"
+      ],
+      "atomicSkills": [
+        "reflect-shape",
+        "rotate-shape",
+        "translate-shape",
+        "enlarge-shape",
+        "describe-reflection",
+        "describe-rotation",
+        "describe-translation",
+        "describe-enlargement",
+        "enlarge-shape-with-negative-scale-factor",
+        "enlarge-shape-with-fractional-scale-factor"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E7.2": {
+      "skillGroupIds": [
+        "transformations-and-vectors-skills"
+      ],
+      "atomicSkills": [
+        "represent-vector-in-column-form",
+        "add-vectors",
+        "subtract-vectors",
+        "multiply-vector-by-scalar",
+        "use-position-vectors"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E7.3": {
+      "skillGroupIds": [
+        "transformations-and-vectors-skills"
+      ],
+      "atomicSkills": [
+        "calculate-vector-magnitude"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E7.4": {
+      "skillGroupIds": [
+        "transformations-and-vectors-skills"
+      ],
+      "atomicSkills": [
+        "solve-vector-geometry-problem",
+        "prove-collinearity-using-vectors",
+        "prove-parallel-lines-using-vectors"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E8.1": {
+      "skillGroupIds": [
+        "probability-skills"
+      ],
+      "atomicSkills": [
+        "calculate-single-event-probability",
+        "use-probability-scale",
+        "identify-impossible-event",
+        "identify-certain-event",
+        "calculate-complementary-probability"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E8.2": {
+      "skillGroupIds": [
+        "probability-skills"
+      ],
+      "atomicSkills": [
+        "calculate-relative-frequency",
+        "calculate-expected-frequency",
+        "compare-relative-frequency-with-theoretical-probability"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E8.3": {
+      "skillGroupIds": [
+        "probability-skills"
+      ],
+      "atomicSkills": [
+        "calculate-probability-of-combined-events",
+        "construct-sample-space-diagram",
+        "calculate-probability-of-mutually-exclusive-events",
+        "calculate-probability-of-independent-events",
+        "construct-probability-tree-diagram",
+        "calculate-probability-using-venn-diagram",
+        "use-set-notation-in-probability"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E8.4": {
+      "skillGroupIds": [
+        "probability-skills"
+      ],
+      "atomicSkills": [
+        "calculate-conditional-probability",
+        "apply-conditional-probability-to-tree-diagram"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E9.1": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "classify-categorical-data",
+        "classify-discrete-data",
+        "classify-continuous-data"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E9.2": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "interpret-frequency-table",
+        "construct-frequency-table",
+        "identify-biased-data-collection",
+        "evaluate-sampling-method",
+        "design-questionnaire",
+        "identify-sampling-bias"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E9.3": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "calculate-mean",
+        "calculate-median",
+        "calculate-mode",
+        "calculate-range",
+        "choose-appropriate-average",
+        "calculate-quartiles",
+        "calculate-interquartile-range",
+        "calculate-estimated-mean-from-grouped-data",
+        "compare-distributions-using-averages",
+        "compare-distributions-using-spread"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E9.4": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "draw-bar-chart",
+        "interpret-bar-chart",
+        "draw-pie-chart",
+        "interpret-pie-chart",
+        "draw-pictogram",
+        "interpret-pictogram",
+        "draw-frequency-polygon",
+        "interpret-frequency-polygon"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E9.5": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "draw-scatter-diagram",
+        "identify-correlation",
+        "draw-line-of-best-fit",
+        "use-line-of-best-fit",
+        "identify-unreliable-extrapolation"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E9.6": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "draw-cumulative-frequency-graph",
+        "interpret-cumulative-frequency-graph",
+        "estimate-median-from-cumulative-frequency-graph",
+        "estimate-quartiles-from-cumulative-frequency-graph",
+        "draw-box-plot",
+        "interpret-box-plot",
+        "compare-distributions-using-box-plots"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    },
+    "E9.7": {
+      "skillGroupIds": [
+        "statistics-skills"
+      ],
+      "atomicSkills": [
+        "calculate-frequency-density",
+        "draw-histogram",
+        "interpret-histogram"
+      ],
+      "unmappedClauses": [],
+      "reviewNotes": "Explicit Gate 1C pedagogical decomposition."
+    }
+  }
+}

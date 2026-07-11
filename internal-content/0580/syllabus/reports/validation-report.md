@@ -1,9 +1,13 @@
-# Validation Report — Gate 1B
+# Validation Report — Gate 1C
 
-- Validation date: 2026-07-11T02:49:59.647149+00:00
-- Structural status: PASS
-- Semantic status: PASS
-- Gate status: PASS
+- Validation date: 2026-07-11T03:16:26.442587+00:00
+- Structural: PASS
+- Extraction: PASS
+- Atomic coverage: PASS
+- Semantic quality: PASS
+- Core/Extended mapping: PASS
+- Prerequisite graph: PASS
+- Final Gate 1C: PASS
 
 ## Errors
 
@@ -11,4 +15,4 @@
 
 ## Warnings
 
-- 324 records or mappings await teacher review
+- 582 records or mappings await teacher review

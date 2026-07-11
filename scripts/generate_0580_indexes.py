@@ -29,6 +29,7 @@ def main() -> int:
     topics = load_json(TAXONOMY_DIR / "topics.json")["topics"]
     points = load_json(TAXONOMY_DIR / "syllabus-points.json")["syllabusPoints"]
     skills = load_json(TAXONOMY_DIR / "atomic-skills.json")["atomicSkills"]
+    groups = load_json(TAXONOMY_DIR / "skill-groups.json")["skillGroups"]
     core_ext = load_json(INDEX_DIR / "core-extended-map.json")
 
     by_topic = {}
@@ -50,10 +51,14 @@ def main() -> int:
         s["id"]: {"topicIds": sorted(s["topicIds"]), "syllabusPointIds": sorted(s["syllabusPointIds"])}
         for s in skills
     }
+    by_group = {g["id"]: {"topicIds": sorted(g["topicIds"]), "syllabusPointIds": sorted(g["syllabusPointIds"]), "atomicSkillIds": sorted(g["atomicSkillIds"])} for g in groups}
+    prerequisite_graph = {s["id"]: {"prerequisiteSkillIds": sorted(s.get("prerequisiteSkillIds", []))} for s in skills}
 
     write_json(INDEX_DIR / "by-topic.json", by_topic)
     write_json(INDEX_DIR / "by-syllabus-point.json", by_point)
     write_json(INDEX_DIR / "by-atomic-skill.json", by_skill)
+    write_json(INDEX_DIR / "by-skill-group.json", by_group)
+    write_json(INDEX_DIR / "prerequisite-graph.json", prerequisite_graph)
     write_json(INDEX_DIR / "core-extended-map.json", core_ext)
 
     print(f"Regenerated indexes: {len(by_topic)} topics, {len(by_point)} points, {len(by_skill)} skills")

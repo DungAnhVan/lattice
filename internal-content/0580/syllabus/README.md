@@ -16,6 +16,18 @@ npm run gate1b:0580
 
 Promotion writes `reports/promotion-diff.md`, requires `--confirm`, creates a timestamped backup, and refuses conflicts with approved records.
 
+## Gate 1C atomic decomposition
+
+Gate 1C adds an explicit curated mapping for every assessable point in `config/0580-atomic-skills.json`, complete definitions in `config/0580-skill-definitions.json`, and semantic Core/Extended skill differences in `config/0580-core-extended-map.json`. Broad topic-sized concepts are organizational skill groups; they are not atomic mastery records.
+
+Run the complete read-only gate with:
+
+```text
+npm run gate1c:0580
+npm run test:0580-taxonomy
+npm run test:0580-gate1c
+```
+
 ## What is Lattice?
 
 Lattice is an internal curriculum and past-paper corpus system. Its core principle is **one canonical record per syllabus point and per question**; topics, skills, papers, and syllabus points are **views** generated through indexes, never duplicate content folders.

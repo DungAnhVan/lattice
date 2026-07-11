@@ -21,15 +21,15 @@
         }
       ],
       "atomicSkillIds": [
-        "classify-rational-and-irrational-numbers",
+        "identify-natural-numbers",
+        "identify-integers",
+        "identify-prime-numbers",
+        "identify-square-numbers",
+        "identify-cube-numbers",
         "find-common-factors",
         "find-common-multiples",
-        "find-reciprocals",
-        "identify-cube-numbers",
-        "identify-integers",
-        "identify-natural-numbers",
-        "identify-prime-numbers",
-        "identify-square-numbers"
+        "classify-rational-and-irrational-numbers",
+        "find-reciprocals"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -41,9 +41,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -66,8 +69,12 @@
         }
       ],
       "atomicSkillIds": [
+        "use-set-language-and-notation",
         "represent-sets-with-venn-diagrams",
-        "use-set-language-and-notation"
+        "calculate-number-of-set-elements",
+        "apply-set-union",
+        "apply-set-intersection",
+        "apply-set-complement"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -79,9 +86,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -104,7 +114,12 @@
         }
       ],
       "atomicSkillIds": [
-        "calculate-powers-and-roots"
+        "calculate-squares",
+        "calculate-square-roots",
+        "calculate-cubes",
+        "calculate-cube-roots",
+        "calculate-integer-powers",
+        "calculate-roots-of-numbers"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -116,9 +131,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -141,7 +159,15 @@
         }
       ],
       "atomicSkillIds": [
-        "convert-between-fractions-decimals-and-percentages"
+        "recognise-proper-fractions",
+        "recognise-improper-fractions",
+        "recognise-mixed-numbers",
+        "simplify-fractions",
+        "convert-between-improper-fractions-and-mixed-numbers",
+        "convert-fractions-to-decimals",
+        "convert-decimals-to-fractions",
+        "convert-between-fractions-and-percentages",
+        "convert-between-decimals-and-percentages"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -153,9 +179,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -176,8 +205,9 @@
         }
       ],
       "atomicSkillIds": [
-        "compare-quantities-using-inequality-symbols",
-        "order-quantities-by-magnitude"
+        "order-quantities-by-magnitude",
+        "compare-quantities-using-equality-symbols",
+        "compare-quantities-using-inequality-symbols"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -189,9 +219,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -214,7 +247,12 @@
         }
       ],
       "atomicSkillIds": [
-        "use-the-four-operations"
+        "calculate-with-integers",
+        "calculate-with-fractions",
+        "calculate-with-decimals",
+        "apply-order-of-operations",
+        "apply-brackets-in-calculations",
+        "calculate-with-negative-numbers"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -226,9 +264,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -251,7 +292,12 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-integer-index-laws"
+        "interpret-positive-integer-indices",
+        "interpret-zero-indices",
+        "interpret-negative-integer-indices",
+        "apply-product-rule-for-indices",
+        "apply-quotient-rule-for-indices",
+        "apply-power-of-power-rule"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -263,9 +309,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.7",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -288,7 +337,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-standard-form"
+        "represent-numbers-in-standard-form",
+        "convert-numbers-to-standard-form",
+        "convert-numbers-from-standard-form",
+        "calculate-with-standard-form"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -300,9 +352,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.8",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -325,7 +380,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-estimation"
+        "round-to-decimal-places",
+        "round-to-significant-figures",
+        "estimate-calculation-results",
+        "choose-appropriate-answer-accuracy"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -337,9 +395,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.9",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -362,7 +423,8 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-limits-of-accuracy"
+        "find-lower-bound-of-rounded-value",
+        "find-upper-bound-of-rounded-value"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -374,9 +436,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.10",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -397,7 +462,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-ratio-and-proportion"
+        "simplify-ratios",
+        "divide-quantity-in-given-ratio",
+        "apply-ratio-in-context",
+        "apply-direct-proportion"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -409,9 +477,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.11",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -434,7 +505,14 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-rates-concepts"
+        "calculate-rate-of-pay",
+        "calculate-currency-exchange",
+        "calculate-flow-rate",
+        "calculate-density",
+        "calculate-pressure",
+        "calculate-population-density",
+        "calculate-average-speed",
+        "convert-compound-units"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -446,9 +524,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.12",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -469,7 +550,14 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-percentages-concepts"
+        "calculate-percentage-of-quantity",
+        "express-quantity-as-percentage",
+        "calculate-percentage-increase",
+        "calculate-percentage-decrease",
+        "calculate-simple-interest",
+        "calculate-compound-interest",
+        "calculate-profit-and-loss",
+        "calculate-discount"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -481,9 +569,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.13",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -504,7 +595,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-using-a-calculator"
+        "use-calculator-efficiently",
+        "enter-values-into-calculator",
+        "interpret-calculator-display",
+        "preserve-calculation-precision"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -516,9 +610,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.14",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -541,7 +638,12 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-time-concepts"
+        "convert-units-of-time",
+        "calculate-time-intervals",
+        "use-twelve-hour-clock",
+        "use-twenty-four-hour-clock",
+        "read-timetables",
+        "solve-time-zone-problems"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -553,9 +655,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.15",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -576,7 +681,8 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-money-concepts"
+        "calculate-with-money",
+        "convert-between-currencies"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -588,9 +694,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.16",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -620,9 +729,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.17",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -652,9 +764,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C1.18",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -675,7 +790,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-introduction-to-algebra"
+        "represent-generalised-numbers-with-letters",
+        "substitute-values-into-expressions",
+        "substitute-values-into-formulas"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -687,9 +804,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -712,7 +832,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-algebraic-manipulation"
+        "collect-like-terms",
+        "expand-single-bracket",
+        "expand-product-of-two-brackets",
+        "factorise-by-common-factor"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -724,9 +847,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -756,9 +882,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -781,7 +910,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-indices"
+        "interpret-algebraic-indices",
+        "apply-algebraic-index-laws",
+        "solve-simple-exponential-equations"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -793,9 +924,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -818,7 +952,12 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-equations"
+        "construct-algebraic-expressions",
+        "construct-equations",
+        "construct-formulas",
+        "solve-linear-equation",
+        "solve-simultaneous-linear-equations",
+        "change-subject-of-formula"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -830,9 +969,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -855,7 +997,9 @@
         }
       ],
       "atomicSkillIds": [
-        "represent-inequalities"
+        "represent-inequality-on-number-line",
+        "interpret-inequality-on-number-line",
+        "solve-linear-inequality"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -867,9 +1011,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -890,7 +1037,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-sequences"
+        "continue-number-sequence",
+        "recognise-sequence-pattern",
+        "find-nth-term-of-linear-sequence",
+        "find-nth-term-of-quadratic-sequence",
+        "find-nth-term-of-cubic-sequence"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -902,9 +1053,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.7",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -934,9 +1088,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.8",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -957,7 +1114,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-graphs-in-practical-situations"
+        "interpret-practical-graphs",
+        "interpret-gradient-as-rate-of-change",
+        "draw-graph-from-data",
+        "interpret-distance-time-graph",
+        "draw-distance-time-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -969,9 +1130,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.9",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -992,7 +1156,13 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-graphs-of-functions"
+        "construct-table-of-values",
+        "plot-graph-of-function",
+        "interpret-graph-of-function",
+        "solve-equations-graphically",
+        "interpret-roots-from-graph",
+        "draw-exponential-growth-graph",
+        "draw-exponential-decay-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1004,9 +1174,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.10",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1029,7 +1202,10 @@
         }
       ],
       "atomicSkillIds": [
-        "recognise-sketching-curves"
+        "sketch-linear-function",
+        "sketch-quadratic-function",
+        "sketch-cubic-function",
+        "sketch-reciprocal-function"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1041,9 +1217,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.11",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1073,9 +1252,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.12",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1105,9 +1287,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C2.13",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1128,7 +1313,8 @@
         }
       ],
       "atomicSkillIds": [
-        "use-coordinates"
+        "read-cartesian-coordinates",
+        "plot-cartesian-coordinates"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1140,9 +1326,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C3.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1163,7 +1352,7 @@
         }
       ],
       "atomicSkillIds": [
-        "draw-drawing-linear-graphs"
+        "draw-linear-graph-from-equation"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1175,9 +1364,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C3.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1198,7 +1390,7 @@
         }
       ],
       "atomicSkillIds": [
-        "find-gradient-of-linear-graphs"
+        "calculate-gradient-from-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1210,9 +1402,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C3.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1242,9 +1437,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C3.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1267,7 +1465,8 @@
         }
       ],
       "atomicSkillIds": [
-        "interpret-equations-of-linear-graphs"
+        "interpret-gradient-intercept-form",
+        "find-equation-of-line-from-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1279,9 +1478,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C3.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1302,7 +1504,8 @@
         }
       ],
       "atomicSkillIds": [
-        "find-parallel-lines"
+        "identify-parallel-lines",
+        "use-equal-gradients-for-parallel-lines"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1314,9 +1517,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C3.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1346,9 +1552,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C3.7",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1380,7 +1589,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-geometrical-terms"
+        "use-geometric-vocabulary",
+        "classify-triangles",
+        "classify-quadrilaterals",
+        "identify-lines-of-symmetry",
+        "identify-rotational-symmetry"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1392,9 +1605,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C4.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1417,7 +1633,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-geometrical-constructions"
+        "construct-triangle-with-ruler-and-compasses",
+        "construct-perpendicular-bisector",
+        "construct-angle-bisector",
+        "construct-perpendicular-line",
+        "construct-locus"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1429,9 +1649,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C4.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1454,7 +1677,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-scale-drawings"
+        "interpret-scale-drawing",
+        "construct-scale-drawing",
+        "calculate-actual-length-from-scale"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1466,9 +1691,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C4.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1489,7 +1717,8 @@
         }
       ],
       "atomicSkillIds": [
-        "calculate-similarity-concepts"
+        "identify-similar-shapes",
+        "calculate-missing-lengths-in-similar-shapes"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1501,9 +1730,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C4.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1526,7 +1758,8 @@
         }
       ],
       "atomicSkillIds": [
-        "recognise-symmetry-concepts"
+        "identify-line-symmetry",
+        "identify-order-of-rotational-symmetry"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1538,9 +1771,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C4.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1563,12 +1799,17 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-angle-properties-of-regular-polygons",
-        "apply-angle-sum-of-quadrilateral",
-        "apply-angle-sum-of-triangle",
+        "interpret-three-letter-angle-notation",
         "apply-angles-around-a-point",
         "apply-angles-on-a-straight-line",
-        "apply-parallel-line-angle-properties"
+        "apply-vertically-opposite-angles",
+        "apply-angle-sum-of-triangle",
+        "apply-angle-sum-of-quadrilateral",
+        "apply-corresponding-angles",
+        "apply-alternate-angles",
+        "apply-cointerior-angles",
+        "calculate-interior-angle-of-regular-polygon",
+        "calculate-exterior-angle-of-regular-polygon"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1580,9 +1821,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C4.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1616,9 +1860,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C4.7",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1648,9 +1895,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C4.8",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1671,7 +1921,9 @@
         }
       ],
       "atomicSkillIds": [
-        "use-units-of-measure"
+        "convert-metric-units-of-length",
+        "convert-metric-units-of-area",
+        "convert-metric-units-of-volume"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1683,9 +1935,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C5.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1706,7 +1961,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-area-and-perimeter"
+        "calculate-perimeter-of-polygon",
+        "calculate-area-of-rectangle",
+        "calculate-area-of-triangle",
+        "calculate-area-of-parallelogram",
+        "calculate-area-of-trapezium"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1718,9 +1977,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C5.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1741,7 +2003,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-circles-arcs-and-sectors"
+        "calculate-circumference-of-circle",
+        "calculate-area-of-circle",
+        "calculate-arc-length",
+        "calculate-sector-area"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1753,9 +2018,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C5.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1776,7 +2044,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-surface-area-and-volume"
+        "calculate-surface-area-of-prism",
+        "calculate-volume-of-prism",
+        "calculate-surface-area-of-cylinder",
+        "calculate-volume-of-cylinder"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1788,9 +2059,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C5.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1811,7 +2085,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-compound-shapes-and-parts-of-shapes"
+        "calculate-area-of-compound-shape",
+        "calculate-perimeter-of-compound-shape",
+        "calculate-volume-of-compound-solid",
+        "calculate-surface-area-of-compound-solid"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1823,9 +2100,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C5.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1846,7 +2126,8 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-pythagoras-theorem"
+        "apply-pythagoras-theorem",
+        "find-missing-side-using-pythagoras"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1858,9 +2139,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C6.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1883,7 +2167,14 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-right-angled-triangles"
+        "use-sine-ratio",
+        "use-cosine-ratio",
+        "use-tangent-ratio",
+        "find-side-in-right-triangle",
+        "find-angle-in-right-triangle",
+        "solve-angle-of-elevation",
+        "solve-angle-of-depression",
+        "solve-bearing-with-trigonometry"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1895,9 +2186,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C6.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1927,9 +2221,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C6.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1959,9 +2256,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C6.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -1991,9 +2291,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C6.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2023,9 +2326,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C6.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2048,7 +2354,14 @@
         }
       ],
       "atomicSkillIds": [
-        "recognise-transformations"
+        "reflect-shape",
+        "rotate-shape",
+        "translate-shape",
+        "enlarge-shape",
+        "describe-reflection",
+        "describe-rotation",
+        "describe-translation",
+        "describe-enlargement"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2060,9 +2373,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C7.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2092,9 +2408,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C7.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2124,9 +2443,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C7.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2156,9 +2478,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C7.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2181,7 +2506,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-introduction-to-probability"
+        "calculate-single-event-probability",
+        "use-probability-scale",
+        "identify-impossible-event",
+        "identify-certain-event",
+        "calculate-complementary-probability"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2193,9 +2522,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C8.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2218,7 +2550,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-relative-and-expected-frequencies"
+        "calculate-relative-frequency",
+        "calculate-expected-frequency",
+        "compare-relative-frequency-with-theoretical-probability"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2230,9 +2564,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C8.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2255,7 +2592,11 @@
         }
       ],
       "atomicSkillIds": [
-        "calculate-probability-of-combined-events"
+        "calculate-probability-of-combined-events",
+        "construct-sample-space-diagram",
+        "calculate-probability-of-mutually-exclusive-events",
+        "calculate-probability-of-independent-events",
+        "construct-probability-tree-diagram"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2267,9 +2608,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C8.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2299,9 +2643,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C8.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2322,7 +2669,9 @@
         }
       ],
       "atomicSkillIds": [
-        "classify-classifying-statistical-data"
+        "classify-categorical-data",
+        "classify-discrete-data",
+        "classify-continuous-data"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2334,9 +2683,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C9.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2357,7 +2709,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-interpreting-statistical-data"
+        "interpret-frequency-table",
+        "construct-frequency-table",
+        "identify-biased-data-collection",
+        "evaluate-sampling-method"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2369,9 +2724,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C9.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2394,7 +2752,11 @@
         }
       ],
       "atomicSkillIds": [
-        "calculate-averages-and-range"
+        "calculate-mean",
+        "calculate-median",
+        "calculate-mode",
+        "calculate-range",
+        "choose-appropriate-average"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2406,9 +2768,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C9.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2431,7 +2796,12 @@
         }
       ],
       "atomicSkillIds": [
-        "draw-statistical-charts-and-diagrams"
+        "draw-bar-chart",
+        "interpret-bar-chart",
+        "draw-pie-chart",
+        "interpret-pie-chart",
+        "draw-pictogram",
+        "interpret-pictogram"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2443,9 +2813,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C9.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2468,7 +2841,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-scatter-diagrams"
+        "draw-scatter-diagram",
+        "identify-correlation",
+        "draw-line-of-best-fit",
+        "use-line-of-best-fit",
+        "identify-unreliable-extrapolation"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2480,9 +2857,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C9.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2512,9 +2892,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C9.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2544,9 +2927,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "C9.7",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2569,7 +2955,15 @@
         }
       ],
       "atomicSkillIds": [
-        "identify-types-of-number"
+        "identify-natural-numbers",
+        "identify-integers",
+        "identify-prime-numbers",
+        "identify-square-numbers",
+        "identify-cube-numbers",
+        "find-common-factors",
+        "find-common-multiples",
+        "classify-rational-and-irrational-numbers",
+        "find-reciprocals"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2581,9 +2975,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2606,7 +3003,12 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-sets"
+        "use-set-language-and-notation",
+        "represent-sets-with-venn-diagrams",
+        "calculate-number-of-set-elements",
+        "apply-set-union",
+        "apply-set-intersection",
+        "apply-set-complement"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2618,9 +3020,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2643,7 +3048,12 @@
         }
       ],
       "atomicSkillIds": [
-        "calculate-powers-and-roots"
+        "calculate-squares",
+        "calculate-square-roots",
+        "calculate-cubes",
+        "calculate-cube-roots",
+        "calculate-integer-powers",
+        "calculate-roots-of-numbers"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2655,9 +3065,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2680,7 +3093,15 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-fractions-decimals-and-percentages"
+        "recognise-proper-fractions",
+        "recognise-improper-fractions",
+        "recognise-mixed-numbers",
+        "simplify-fractions",
+        "convert-between-improper-fractions-and-mixed-numbers",
+        "convert-fractions-to-decimals",
+        "convert-decimals-to-fractions",
+        "convert-between-fractions-and-percentages",
+        "convert-between-decimals-and-percentages"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2692,9 +3113,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2715,7 +3139,9 @@
         }
       ],
       "atomicSkillIds": [
-        "order-ordering"
+        "order-quantities-by-magnitude",
+        "compare-quantities-using-equality-symbols",
+        "compare-quantities-using-inequality-symbols"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2727,9 +3153,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2752,7 +3181,12 @@
         }
       ],
       "atomicSkillIds": [
-        "use-the-four-operations"
+        "calculate-with-integers",
+        "calculate-with-fractions",
+        "calculate-with-decimals",
+        "apply-order-of-operations",
+        "apply-brackets-in-calculations",
+        "calculate-with-negative-numbers"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2764,9 +3198,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2789,7 +3226,12 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-indices"
+        "interpret-positive-integer-indices",
+        "interpret-zero-indices",
+        "interpret-negative-integer-indices",
+        "apply-product-rule-for-indices",
+        "apply-quotient-rule-for-indices",
+        "apply-power-of-power-rule"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2801,9 +3243,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.7",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2824,7 +3269,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-standard-form"
+        "represent-numbers-in-standard-form",
+        "convert-numbers-to-standard-form",
+        "convert-numbers-from-standard-form",
+        "calculate-with-standard-form"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2836,9 +3284,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.8",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2861,7 +3312,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-estimation"
+        "round-to-decimal-places",
+        "round-to-significant-figures",
+        "estimate-calculation-results",
+        "choose-appropriate-answer-accuracy"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2873,9 +3327,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.9",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2898,7 +3355,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-limits-of-accuracy"
+        "find-lower-bound-of-rounded-value",
+        "find-upper-bound-of-rounded-value",
+        "find-bounds-of-calculation-result"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2910,9 +3369,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.10",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2933,7 +3395,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-ratio-and-proportion"
+        "simplify-ratios",
+        "divide-quantity-in-given-ratio",
+        "apply-ratio-in-context",
+        "apply-direct-proportion",
+        "apply-inverse-proportion"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2945,9 +3411,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.11",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -2970,7 +3439,14 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-rates-concepts"
+        "calculate-rate-of-pay",
+        "calculate-currency-exchange",
+        "calculate-flow-rate",
+        "calculate-density",
+        "calculate-pressure",
+        "calculate-population-density",
+        "calculate-average-speed",
+        "convert-compound-units"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2982,9 +3458,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.12",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3007,7 +3486,15 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-percentages-concepts"
+        "calculate-percentage-of-quantity",
+        "express-quantity-as-percentage",
+        "calculate-percentage-increase",
+        "calculate-percentage-decrease",
+        "calculate-simple-interest",
+        "calculate-compound-interest",
+        "calculate-profit-and-loss",
+        "calculate-discount",
+        "calculate-reverse-percentage"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3019,9 +3506,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.13",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3042,7 +3532,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-using-a-calculator"
+        "use-calculator-efficiently",
+        "enter-values-into-calculator",
+        "interpret-calculator-display",
+        "preserve-calculation-precision"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3054,9 +3547,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.14",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3079,7 +3575,12 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-time-concepts"
+        "convert-units-of-time",
+        "calculate-time-intervals",
+        "use-twelve-hour-clock",
+        "use-twenty-four-hour-clock",
+        "read-timetables",
+        "solve-time-zone-problems"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3091,9 +3592,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.15",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3114,7 +3618,8 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-money-concepts"
+        "calculate-with-money",
+        "convert-between-currencies"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3126,9 +3631,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.16",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3151,7 +3659,10 @@
         }
       ],
       "atomicSkillIds": [
-        "use-exponential-growth-and-decay"
+        "model-exponential-growth",
+        "model-exponential-decay",
+        "calculate-compound-growth",
+        "calculate-compound-decay"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3163,9 +3674,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.17",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3188,7 +3702,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-surds"
+        "simplify-surds",
+        "rationalise-denominator",
+        "calculate-with-surds"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3200,9 +3716,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E1.18",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3223,7 +3742,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-introduction-to-algebra"
+        "represent-generalised-numbers-with-letters",
+        "substitute-values-into-expressions",
+        "substitute-values-into-formulas"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3235,9 +3756,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3260,7 +3784,14 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-algebraic-manipulation"
+        "collect-like-terms",
+        "expand-single-bracket",
+        "expand-product-of-two-brackets",
+        "factorise-by-common-factor",
+        "factorise-quadratic-expression",
+        "factorise-difference-of-two-squares",
+        "complete-square",
+        "expand-multiple-algebraic-factors"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3272,9 +3803,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3297,7 +3831,8 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-algebraic-fractions"
+        "simplify-algebraic-fractions",
+        "calculate-with-algebraic-fractions"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3309,9 +3844,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3334,7 +3872,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-fractional-index-laws"
+        "interpret-algebraic-indices",
+        "apply-algebraic-index-laws",
+        "solve-simple-exponential-equations"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3345,10 +3885,15 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 1.0,
+        "status": "needs-review",
+        "confidence": 0.9,
         "rawSourceId": "E2.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [
+          "Mathematical formula layout requires teacher comparison with source PDF."
+        ],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3371,7 +3916,18 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-equations"
+        "construct-algebraic-expressions",
+        "construct-equations",
+        "construct-formulas",
+        "solve-linear-equation",
+        "solve-simultaneous-linear-equations",
+        "change-subject-of-formula",
+        "solve-equation-with-algebraic-fractions",
+        "solve-quadratic-equation-by-factorisation",
+        "solve-quadratic-equation-using-formula",
+        "complete-square-to-solve-quadratic",
+        "solve-simultaneous-linear-and-quadratic-equations",
+        "change-subject-in-complex-formula"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3383,9 +3939,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3408,7 +3967,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-inequalities"
+        "represent-inequality-on-number-line",
+        "interpret-inequality-on-number-line",
+        "solve-linear-inequality",
+        "solve-quadratic-inequality"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3420,9 +3982,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3445,7 +4010,12 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-sequences"
+        "continue-number-sequence",
+        "recognise-sequence-pattern",
+        "find-nth-term-of-linear-sequence",
+        "find-nth-term-of-quadratic-sequence",
+        "find-nth-term-of-cubic-sequence",
+        "find-nth-term-of-exponential-sequence"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3457,9 +4027,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.7",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3482,7 +4055,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-proportion"
+        "form-direct-proportion-equation",
+        "form-inverse-proportion-equation",
+        "solve-direct-proportion-problem",
+        "solve-inverse-proportion-problem"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3494,9 +4070,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.8",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3519,7 +4098,15 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-graphs-in-practical-situations"
+        "interpret-practical-graphs",
+        "interpret-gradient-as-rate-of-change",
+        "draw-graph-from-data",
+        "interpret-distance-time-graph",
+        "draw-distance-time-graph",
+        "interpret-speed-time-graph",
+        "draw-speed-time-graph",
+        "calculate-distance-from-speed-time-graph",
+        "calculate-acceleration-from-speed-time-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3531,9 +4118,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.9",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3556,9 +4146,13 @@
         }
       ],
       "atomicSkillIds": [
-        "interpret-exponential-growth-and-decay",
-        "plot-graphs-of-functions",
-        "solve-equations-graphically"
+        "construct-table-of-values",
+        "plot-graph-of-function",
+        "interpret-graph-of-function",
+        "solve-equations-graphically",
+        "interpret-roots-from-graph",
+        "draw-exponential-growth-graph",
+        "draw-exponential-decay-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3569,10 +4163,15 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 1.0,
+        "status": "needs-review",
+        "confidence": 0.9,
         "rawSourceId": "E2.10",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [
+          "Mathematical formula layout requires teacher comparison with source PDF."
+        ],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3595,7 +4194,10 @@
         }
       ],
       "atomicSkillIds": [
-        "recognise-sketching-curves"
+        "sketch-linear-function",
+        "sketch-quadratic-function",
+        "sketch-cubic-function",
+        "sketch-reciprocal-function"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3607,9 +4209,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.11",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3632,7 +4237,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-differentiation"
+        "differentiate-power-function",
+        "find-gradient-using-derivative",
+        "find-stationary-point",
+        "classify-stationary-point"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3644,9 +4252,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.12",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3669,7 +4280,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-functions-concepts"
+        "use-function-notation",
+        "evaluate-function",
+        "find-inverse-function",
+        "form-composite-function",
+        "evaluate-composite-function"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3681,9 +4296,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E2.13",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3704,7 +4322,8 @@
         }
       ],
       "atomicSkillIds": [
-        "use-coordinates"
+        "read-cartesian-coordinates",
+        "plot-cartesian-coordinates"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3716,9 +4335,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E3.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3741,7 +4363,7 @@
         }
       ],
       "atomicSkillIds": [
-        "draw-drawing-linear-graphs"
+        "draw-linear-graph-from-equation"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3753,9 +4375,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E3.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3776,7 +4401,8 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-gradient-of-linear-graphs"
+        "calculate-gradient-from-graph",
+        "calculate-gradient-from-two-points"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3788,9 +4414,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E3.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3811,7 +4440,8 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-length-and-midpoint"
+        "calculate-distance-between-two-points",
+        "calculate-midpoint-of-line-segment"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3823,9 +4453,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E3.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3848,7 +4481,10 @@
         }
       ],
       "atomicSkillIds": [
-        "interpret-equations-of-linear-graphs"
+        "interpret-gradient-intercept-form",
+        "find-equation-of-line-from-graph",
+        "find-equation-of-line-from-two-points",
+        "find-equation-of-line-from-point-and-gradient"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3860,9 +4496,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E3.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3883,7 +4522,8 @@
         }
       ],
       "atomicSkillIds": [
-        "find-parallel-lines"
+        "identify-parallel-lines",
+        "use-equal-gradients-for-parallel-lines"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3895,9 +4535,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E3.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3920,7 +4563,8 @@
         }
       ],
       "atomicSkillIds": [
-        "find-perpendicular-lines"
+        "identify-perpendicular-lines",
+        "use-negative-reciprocal-gradients"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3932,9 +4576,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E3.7",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -3966,7 +4613,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-geometrical-terms"
+        "use-geometric-vocabulary",
+        "classify-triangles",
+        "classify-quadrilaterals",
+        "identify-lines-of-symmetry",
+        "identify-rotational-symmetry"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3978,9 +4629,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E4.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4003,7 +4657,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-geometrical-constructions"
+        "construct-triangle-with-ruler-and-compasses",
+        "construct-perpendicular-bisector",
+        "construct-angle-bisector",
+        "construct-perpendicular-line",
+        "construct-locus"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4015,9 +4673,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E4.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4040,7 +4701,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-scale-drawings"
+        "interpret-scale-drawing",
+        "construct-scale-drawing",
+        "calculate-actual-length-from-scale"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4052,9 +4715,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E4.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4077,7 +4743,13 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-similarity-concepts"
+        "identify-similar-shapes",
+        "calculate-missing-lengths-in-similar-shapes",
+        "prove-shapes-similar",
+        "identify-congruent-shapes",
+        "prove-triangles-congruent",
+        "calculate-area-scale-factor",
+        "calculate-volume-scale-factor"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4089,9 +4761,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E4.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4114,7 +4789,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-symmetry-concepts"
+        "identify-line-symmetry",
+        "identify-order-of-rotational-symmetry",
+        "use-symmetry-properties-of-circle"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4126,9 +4803,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E4.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4151,12 +4831,19 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-angle-properties-of-polygons",
-        "apply-angle-sum-of-quadrilateral",
-        "apply-angle-sum-of-triangle",
+        "interpret-three-letter-angle-notation",
         "apply-angles-around-a-point",
         "apply-angles-on-a-straight-line",
-        "apply-parallel-line-angle-properties"
+        "apply-vertically-opposite-angles",
+        "apply-angle-sum-of-triangle",
+        "apply-angle-sum-of-quadrilateral",
+        "apply-corresponding-angles",
+        "apply-alternate-angles",
+        "apply-cointerior-angles",
+        "calculate-interior-angle-of-regular-polygon",
+        "calculate-exterior-angle-of-regular-polygon",
+        "calculate-angle-sum-of-polygon",
+        "calculate-interior-angle-of-irregular-polygon"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4168,9 +4855,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E4.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4193,12 +4883,12 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-alternate-segment-theorem",
         "apply-angle-in-semicircle-theorem",
+        "apply-tangent-radius-angle-property",
         "apply-centre-circumference-angle-theorem",
-        "apply-cyclic-quadrilateral-angle-property",
         "apply-same-segment-angle-theorem",
-        "apply-tangent-radius-angle-property"
+        "apply-cyclic-quadrilateral-angle-property",
+        "apply-alternate-segment-theorem"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4210,9 +4900,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E4.7",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4235,7 +4928,9 @@
         }
       ],
       "atomicSkillIds": [
-        "use-circle-theorems"
+        "apply-tangent-chord-theorem",
+        "apply-intersecting-chords-theorem",
+        "apply-secant-tangent-theorem"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4247,9 +4942,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E4.8",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4270,7 +4968,9 @@
         }
       ],
       "atomicSkillIds": [
-        "use-units-of-measure"
+        "convert-metric-units-of-length",
+        "convert-metric-units-of-area",
+        "convert-metric-units-of-volume"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4282,9 +4982,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E5.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4305,7 +5008,13 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-area-and-perimeter"
+        "calculate-perimeter-of-polygon",
+        "calculate-area-of-rectangle",
+        "calculate-area-of-triangle",
+        "calculate-area-of-parallelogram",
+        "calculate-area-of-trapezium",
+        "calculate-area-of-kite",
+        "calculate-area-of-rhombus"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4317,9 +5026,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E5.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4342,7 +5054,10 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-circles-arcs-and-sectors"
+        "calculate-circumference-of-circle",
+        "calculate-area-of-circle",
+        "calculate-arc-length",
+        "calculate-sector-area"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4354,9 +5069,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E5.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4377,7 +5095,16 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-surface-area-and-volume"
+        "calculate-surface-area-of-prism",
+        "calculate-volume-of-prism",
+        "calculate-surface-area-of-cylinder",
+        "calculate-volume-of-cylinder",
+        "calculate-volume-of-pyramid",
+        "calculate-surface-area-of-pyramid",
+        "calculate-volume-of-cone",
+        "calculate-surface-area-of-cone",
+        "calculate-volume-of-sphere",
+        "calculate-surface-area-of-sphere"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4389,9 +5116,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E5.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4412,7 +5142,12 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-compound-shapes-and-parts-of-shapes"
+        "calculate-area-of-compound-shape",
+        "calculate-perimeter-of-compound-shape",
+        "calculate-volume-of-compound-solid",
+        "calculate-surface-area-of-compound-solid",
+        "calculate-similar-area-ratio",
+        "calculate-similar-volume-ratio"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4424,9 +5159,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E5.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4447,7 +5185,8 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-pythagoras-theorem"
+        "apply-pythagoras-theorem",
+        "find-missing-side-using-pythagoras"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4459,9 +5198,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E6.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4484,7 +5226,14 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-right-angled-triangles"
+        "use-sine-ratio",
+        "use-cosine-ratio",
+        "use-tangent-ratio",
+        "find-side-in-right-triangle",
+        "find-angle-in-right-triangle",
+        "solve-angle-of-elevation",
+        "solve-angle-of-depression",
+        "solve-bearing-with-trigonometry"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4496,9 +5245,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E6.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4519,7 +5271,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-exact-trigonometric-values"
+        "recall-exact-sine-values",
+        "recall-exact-cosine-values",
+        "recall-exact-tangent-values"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4531,9 +5285,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E6.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4554,7 +5311,8 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-trigonometric-functions"
+        "interpret-trigonometric-function-graph",
+        "solve-trigonometric-equation-from-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4566,9 +5324,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E6.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4591,9 +5352,10 @@
         }
       ],
       "atomicSkillIds": [
-        "calculate-triangle-area-using-sine",
+        "use-sine-rule",
         "use-cosine-rule",
-        "use-sine-rule"
+        "calculate-triangle-area-using-sine",
+        "solve-ambiguous-sine-rule-case"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4604,10 +5366,15 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 1.0,
+        "status": "needs-review",
+        "confidence": 0.9,
         "rawSourceId": "E6.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [
+          "Mathematical formula layout requires teacher comparison with source PDF."
+        ],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4628,7 +5395,8 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-pythagoras-theorem-and-trigonometry"
+        "solve-three-dimensional-pythagoras-problem",
+        "solve-three-dimensional-trigonometry-problem"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4640,9 +5408,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E6.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4663,7 +5434,16 @@
         }
       ],
       "atomicSkillIds": [
-        "recognise-transformations"
+        "reflect-shape",
+        "rotate-shape",
+        "translate-shape",
+        "enlarge-shape",
+        "describe-reflection",
+        "describe-rotation",
+        "describe-translation",
+        "describe-enlargement",
+        "enlarge-shape-with-negative-scale-factor",
+        "enlarge-shape-with-fractional-scale-factor"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4675,9 +5455,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E7.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4698,7 +5481,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-vectors-in-two-dimensions"
+        "represent-vector-in-column-form",
+        "add-vectors",
+        "subtract-vectors",
+        "multiply-vector-by-scalar",
+        "use-position-vectors"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4710,9 +5497,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E7.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4733,7 +5523,7 @@
         }
       ],
       "atomicSkillIds": [
-        "calculate-magnitude-of-a-vector"
+        "calculate-vector-magnitude"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4745,9 +5535,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E7.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4770,7 +5563,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-vector-geometry"
+        "solve-vector-geometry-problem",
+        "prove-collinearity-using-vectors",
+        "prove-parallel-lines-using-vectors"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4782,9 +5577,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E7.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4807,7 +5605,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-introduction-to-probability"
+        "calculate-single-event-probability",
+        "use-probability-scale",
+        "identify-impossible-event",
+        "identify-certain-event",
+        "calculate-complementary-probability"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4819,9 +5621,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E8.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4844,7 +5649,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-relative-and-expected-frequencies"
+        "calculate-relative-frequency",
+        "calculate-expected-frequency",
+        "compare-relative-frequency-with-theoretical-probability"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4856,9 +5663,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E8.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4881,7 +5691,13 @@
         }
       ],
       "atomicSkillIds": [
-        "calculate-probability-of-combined-events"
+        "calculate-probability-of-combined-events",
+        "construct-sample-space-diagram",
+        "calculate-probability-of-mutually-exclusive-events",
+        "calculate-probability-of-independent-events",
+        "construct-probability-tree-diagram",
+        "calculate-probability-using-venn-diagram",
+        "use-set-notation-in-probability"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4893,9 +5709,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E8.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4918,7 +5737,8 @@
         }
       ],
       "atomicSkillIds": [
-        "calculate-conditional-probability"
+        "calculate-conditional-probability",
+        "apply-conditional-probability-to-tree-diagram"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4930,9 +5750,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E8.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4953,7 +5776,9 @@
         }
       ],
       "atomicSkillIds": [
-        "classify-classifying-statistical-data"
+        "classify-categorical-data",
+        "classify-discrete-data",
+        "classify-continuous-data"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4965,9 +5790,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E9.1",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -4988,7 +5816,12 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-interpreting-statistical-data"
+        "interpret-frequency-table",
+        "construct-frequency-table",
+        "identify-biased-data-collection",
+        "evaluate-sampling-method",
+        "design-questionnaire",
+        "identify-sampling-bias"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5000,9 +5833,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E9.2",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -5023,7 +5859,16 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-averages-and-measures-of-spread"
+        "calculate-mean",
+        "calculate-median",
+        "calculate-mode",
+        "calculate-range",
+        "choose-appropriate-average",
+        "calculate-quartiles",
+        "calculate-interquartile-range",
+        "calculate-estimated-mean-from-grouped-data",
+        "compare-distributions-using-averages",
+        "compare-distributions-using-spread"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5035,9 +5880,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E9.3",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -5060,7 +5908,14 @@
         }
       ],
       "atomicSkillIds": [
-        "draw-statistical-charts-and-diagrams"
+        "draw-bar-chart",
+        "interpret-bar-chart",
+        "draw-pie-chart",
+        "interpret-pie-chart",
+        "draw-pictogram",
+        "interpret-pictogram",
+        "draw-frequency-polygon",
+        "interpret-frequency-polygon"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5072,9 +5927,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E9.4",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -5097,7 +5955,11 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-scatter-diagrams"
+        "draw-scatter-diagram",
+        "identify-correlation",
+        "draw-line-of-best-fit",
+        "use-line-of-best-fit",
+        "identify-unreliable-extrapolation"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5109,9 +5971,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E9.5",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -5134,7 +5999,13 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-cumulative-frequency-diagrams"
+        "draw-cumulative-frequency-graph",
+        "interpret-cumulative-frequency-graph",
+        "estimate-median-from-cumulative-frequency-graph",
+        "estimate-quartiles-from-cumulative-frequency-graph",
+        "draw-box-plot",
+        "interpret-box-plot",
+        "compare-distributions-using-box-plots"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5146,9 +6017,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E9.6",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     },
     {
@@ -5169,7 +6043,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-histograms"
+        "calculate-frequency-density",
+        "draw-histogram",
+        "interpret-histogram"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5181,9 +6057,12 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 1.0,
+        "confidence": 0.97,
         "rawSourceId": "E9.7",
-        "issues": []
+        "method": "coordinate-table-reconstruction",
+        "issues": [],
+        "verifiedBy": null,
+        "verifiedAt": null
       }
     }
   ]

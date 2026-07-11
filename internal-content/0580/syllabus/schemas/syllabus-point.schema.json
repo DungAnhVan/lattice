@@ -64,6 +64,9 @@
               "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
               "rawSourceId": { "type": "string" },
               "issues": { "type": "array", "items": { "type": "string" } }
+              ,"method": { "type": "string" },
+              "verifiedBy": { "type": ["string", "null"] },
+              "verifiedAt": { "type": ["string", "null"] }
             }
           },
           "review": {

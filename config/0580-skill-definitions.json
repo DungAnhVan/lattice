@@ -1,16 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "atomicSkills": [
-    {
-      "id": "add-vectors",
-      "syllabusPointIds": [
-        "E7.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+  "skills": {
+    "add-vectors": {
       "label": "Add vectors",
       "description": "Combine vectors component-wise or arithmetically to obtain the required result.",
       "action": "add",
@@ -24,17 +15,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-algebraic-index-laws",
-      "syllabusPointIds": [
-        "C2.4",
-        "E2.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-algebraic-index-laws": {
       "label": "Apply algebraic index laws",
       "description": "Use algebraic index laws to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -50,17 +31,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-alternate-angles",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-alternate-angles": {
       "label": "Apply alternate angles",
       "description": "Use alternate angles to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -75,16 +46,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-alternate-segment-theorem",
-      "syllabusPointIds": [
-        "E4.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-alternate-segment-theorem": {
       "label": "Apply alternate segment theorem",
       "description": "Use alternate segment theorem to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -100,17 +62,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-angle-in-semicircle-theorem",
-      "syllabusPointIds": [
-        "C4.7",
-        "E4.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-angle-in-semicircle-theorem": {
       "label": "Apply angle in semicircle theorem",
       "description": "Use angle in semicircle theorem to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -126,17 +78,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-angle-sum-of-quadrilateral",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-angle-sum-of-quadrilateral": {
       "label": "Apply angle sum of quadrilateral",
       "description": "Use angle sum of quadrilateral to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -152,17 +94,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-angle-sum-of-triangle",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-angle-sum-of-triangle": {
       "label": "Apply angle sum of triangle",
       "description": "Use angle sum of triangle to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -178,17 +110,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-angles-around-a-point",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-angles-around-a-point": {
       "label": "Apply angles around a point",
       "description": "Use angles around a point to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -204,17 +126,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-angles-on-a-straight-line",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-angles-on-a-straight-line": {
       "label": "Apply angles on a straight line",
       "description": "Use angles on a straight line to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -230,17 +142,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-brackets-in-calculations",
-      "syllabusPointIds": [
-        "C1.6",
-        "E1.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-brackets-in-calculations": {
       "label": "Apply brackets in calculations",
       "description": "Use brackets in calculations to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -255,16 +157,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-centre-circumference-angle-theorem",
-      "syllabusPointIds": [
-        "E4.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-centre-circumference-angle-theorem": {
       "label": "Apply centre circumference angle theorem",
       "description": "Use centre circumference angle theorem to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -283,17 +176,7 @@
       ],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-cointerior-angles",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-cointerior-angles": {
       "label": "Apply cointerior angles",
       "description": "Use cointerior angles to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -308,16 +191,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-conditional-probability-to-tree-diagram",
-      "syllabusPointIds": [
-        "E8.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-conditional-probability-to-tree-diagram": {
       "label": "Apply conditional probability to tree diagram",
       "description": "Use conditional probability to tree diagram to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -334,17 +208,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-corresponding-angles",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-corresponding-angles": {
       "label": "Apply corresponding angles",
       "description": "Use corresponding angles to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -359,16 +223,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-cyclic-quadrilateral-angle-property",
-      "syllabusPointIds": [
-        "E4.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-cyclic-quadrilateral-angle-property": {
       "label": "Apply cyclic quadrilateral angle property",
       "description": "Use cyclic quadrilateral angle property to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -385,17 +240,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-direct-proportion",
-      "syllabusPointIds": [
-        "C1.11",
-        "E1.11"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-direct-proportion": {
       "label": "Apply direct proportion",
       "description": "Use direct proportion to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -410,16 +255,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-intersecting-chords-theorem",
-      "syllabusPointIds": [
-        "E4.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-intersecting-chords-theorem": {
       "label": "Apply intersecting chords theorem",
       "description": "Use intersecting chords theorem to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -435,16 +271,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-inverse-proportion",
-      "syllabusPointIds": [
-        "E1.11"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-inverse-proportion": {
       "label": "Apply inverse proportion",
       "description": "Use inverse proportion to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -459,17 +286,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-order-of-operations",
-      "syllabusPointIds": [
-        "C1.6",
-        "E1.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-order-of-operations": {
       "label": "Apply order of operations",
       "description": "Use order of operations to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -484,17 +301,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-power-of-power-rule",
-      "syllabusPointIds": [
-        "C1.7",
-        "E1.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-power-of-power-rule": {
       "label": "Apply power of power rule",
       "description": "Use power of power rule to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -510,17 +317,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-product-rule-for-indices",
-      "syllabusPointIds": [
-        "C1.7",
-        "E1.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-product-rule-for-indices": {
       "label": "Apply product rule for indices",
       "description": "Use product rule for indices to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -537,17 +334,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-pythagoras-theorem",
-      "syllabusPointIds": [
-        "C6.1",
-        "E6.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-pythagoras-theorem": {
       "label": "Apply pythagoras theorem",
       "description": "Use pythagoras theorem to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -562,17 +349,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-quotient-rule-for-indices",
-      "syllabusPointIds": [
-        "C1.7",
-        "E1.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-quotient-rule-for-indices": {
       "label": "Apply quotient rule for indices",
       "description": "Use quotient rule for indices to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -589,17 +366,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-ratio-in-context",
-      "syllabusPointIds": [
-        "C1.11",
-        "E1.11"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-ratio-in-context": {
       "label": "Apply ratio in context",
       "description": "Use ratio in context to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -614,16 +381,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-same-segment-angle-theorem",
-      "syllabusPointIds": [
-        "E4.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-same-segment-angle-theorem": {
       "label": "Apply same segment angle theorem",
       "description": "Use same segment angle theorem to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -640,16 +398,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-secant-tangent-theorem",
-      "syllabusPointIds": [
-        "E4.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-secant-tangent-theorem": {
       "label": "Apply secant tangent theorem",
       "description": "Use secant tangent theorem to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -665,17 +414,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-set-complement",
-      "syllabusPointIds": [
-        "C1.2",
-        "E1.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-set-complement": {
       "label": "Apply set complement",
       "description": "Use set complement to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -690,17 +429,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-set-intersection",
-      "syllabusPointIds": [
-        "C1.2",
-        "E1.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-set-intersection": {
       "label": "Apply set intersection",
       "description": "Use set intersection to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -715,17 +444,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-set-union",
-      "syllabusPointIds": [
-        "C1.2",
-        "E1.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-set-union": {
       "label": "Apply set union",
       "description": "Use set union to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -740,16 +459,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-tangent-chord-theorem",
-      "syllabusPointIds": [
-        "E4.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-tangent-chord-theorem": {
       "label": "Apply tangent chord theorem",
       "description": "Use tangent chord theorem to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -765,17 +475,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-tangent-radius-angle-property",
-      "syllabusPointIds": [
-        "C4.7",
-        "E4.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-tangent-radius-angle-property": {
       "label": "Apply tangent radius angle property",
       "description": "Use tangent radius angle property to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -792,17 +492,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "apply-vertically-opposite-angles",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "apply-vertically-opposite-angles": {
       "label": "Apply vertically opposite angles",
       "description": "Use vertically opposite angles to obtain or justify a required mathematical result.",
       "action": "apply",
@@ -818,16 +508,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-acceleration-from-speed-time-graph",
-      "syllabusPointIds": [
-        "E2.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-acceleration-from-speed-time-graph": {
       "label": "Calculate acceleration from speed time graph",
       "description": "Determine acceleration from speed time graph accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -844,17 +525,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-actual-length-from-scale",
-      "syllabusPointIds": [
-        "C4.3",
-        "E4.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-actual-length-from-scale": {
       "label": "Calculate actual length from scale",
       "description": "Determine actual length from scale accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -870,16 +541,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-angle-sum-of-polygon",
-      "syllabusPointIds": [
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-angle-sum-of-polygon": {
       "label": "Calculate angle sum of polygon",
       "description": "Determine angle sum of polygon accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -895,17 +557,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-arc-length",
-      "syllabusPointIds": [
-        "C5.3",
-        "E5.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-arc-length": {
       "label": "Calculate arc length",
       "description": "Determine arc length accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -920,17 +572,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-area-of-circle",
-      "syllabusPointIds": [
-        "C5.3",
-        "E5.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-area-of-circle": {
       "label": "Calculate area of circle",
       "description": "Determine area of circle accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -945,17 +587,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-area-of-compound-shape",
-      "syllabusPointIds": [
-        "C5.5",
-        "E5.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-area-of-compound-shape": {
       "label": "Calculate area of compound shape",
       "description": "Determine area of compound shape accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -971,16 +603,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-area-of-kite",
-      "syllabusPointIds": [
-        "E5.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-area-of-kite": {
       "label": "Calculate area of kite",
       "description": "Determine area of kite accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -995,17 +618,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-area-of-parallelogram",
-      "syllabusPointIds": [
-        "C5.2",
-        "E5.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-area-of-parallelogram": {
       "label": "Calculate area of parallelogram",
       "description": "Determine area of parallelogram accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1020,17 +633,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-area-of-rectangle",
-      "syllabusPointIds": [
-        "C5.2",
-        "E5.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-area-of-rectangle": {
       "label": "Calculate area of rectangle",
       "description": "Determine area of rectangle accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1045,16 +648,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-area-of-rhombus",
-      "syllabusPointIds": [
-        "E5.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-area-of-rhombus": {
       "label": "Calculate area of rhombus",
       "description": "Determine area of rhombus accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1069,17 +663,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-area-of-trapezium",
-      "syllabusPointIds": [
-        "C5.2",
-        "E5.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-area-of-trapezium": {
       "label": "Calculate area of trapezium",
       "description": "Determine area of trapezium accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1094,17 +678,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-area-of-triangle",
-      "syllabusPointIds": [
-        "C5.2",
-        "E5.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-area-of-triangle": {
       "label": "Calculate area of triangle",
       "description": "Determine area of triangle accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1119,16 +693,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-area-scale-factor",
-      "syllabusPointIds": [
-        "E4.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-area-scale-factor": {
       "label": "Calculate area scale factor",
       "description": "Determine area scale factor accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1144,17 +709,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-average-speed",
-      "syllabusPointIds": [
-        "C1.12",
-        "E1.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-average-speed": {
       "label": "Calculate average speed",
       "description": "Determine average speed accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1169,17 +724,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-circumference-of-circle",
-      "syllabusPointIds": [
-        "C5.3",
-        "E5.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-circumference-of-circle": {
       "label": "Calculate circumference of circle",
       "description": "Determine circumference of circle accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1194,17 +739,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-complementary-probability",
-      "syllabusPointIds": [
-        "C8.1",
-        "E8.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-complementary-probability": {
       "label": "Calculate complementary probability",
       "description": "Determine complementary probability accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1219,16 +754,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-compound-decay",
-      "syllabusPointIds": [
-        "E1.17"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-compound-decay": {
       "label": "Calculate compound decay",
       "description": "Determine compound decay accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1243,16 +769,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-compound-growth",
-      "syllabusPointIds": [
-        "E1.17"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-compound-growth": {
       "label": "Calculate compound growth",
       "description": "Determine compound growth accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1267,17 +784,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-compound-interest",
-      "syllabusPointIds": [
-        "C1.13",
-        "E1.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-compound-interest": {
       "label": "Calculate compound interest",
       "description": "Determine compound interest accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1292,16 +799,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-conditional-probability",
-      "syllabusPointIds": [
-        "E8.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-conditional-probability": {
       "label": "Calculate conditional probability",
       "description": "Determine conditional probability accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1316,17 +814,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-cube-roots",
-      "syllabusPointIds": [
-        "C1.3",
-        "E1.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-cube-roots": {
       "label": "Calculate cube roots",
       "description": "Determine cube roots accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1341,17 +829,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-cubes",
-      "syllabusPointIds": [
-        "C1.3",
-        "E1.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-cubes": {
       "label": "Calculate cubes",
       "description": "Determine cubes accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1365,17 +843,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-currency-exchange",
-      "syllabusPointIds": [
-        "C1.12",
-        "E1.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-currency-exchange": {
       "label": "Calculate currency exchange",
       "description": "Determine currency exchange accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1390,17 +858,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-density",
-      "syllabusPointIds": [
-        "C1.12",
-        "E1.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-density": {
       "label": "Calculate density",
       "description": "Determine density accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1414,17 +872,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-discount",
-      "syllabusPointIds": [
-        "C1.13",
-        "E1.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-discount": {
       "label": "Calculate discount",
       "description": "Determine discount accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1438,16 +886,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-distance-between-two-points",
-      "syllabusPointIds": [
-        "E3.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-distance-between-two-points": {
       "label": "Calculate distance between two points",
       "description": "Determine distance between two points accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1464,16 +903,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-distance-from-speed-time-graph",
-      "syllabusPointIds": [
-        "E2.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-distance-from-speed-time-graph": {
       "label": "Calculate distance from speed time graph",
       "description": "Determine distance from speed time graph accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1490,16 +920,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-estimated-mean-from-grouped-data",
-      "syllabusPointIds": [
-        "E9.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-estimated-mean-from-grouped-data": {
       "label": "Calculate estimated mean from grouped data",
       "description": "Determine estimated mean from grouped data accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1518,17 +939,7 @@
       ],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-expected-frequency",
-      "syllabusPointIds": [
-        "C8.2",
-        "E8.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-expected-frequency": {
       "label": "Calculate expected frequency",
       "description": "Determine expected frequency accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1543,17 +954,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-exterior-angle-of-regular-polygon",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-exterior-angle-of-regular-polygon": {
       "label": "Calculate exterior angle of regular polygon",
       "description": "Determine exterior angle of regular polygon accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1570,17 +971,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-flow-rate",
-      "syllabusPointIds": [
-        "C1.12",
-        "E1.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-flow-rate": {
       "label": "Calculate flow rate",
       "description": "Determine flow rate accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1595,16 +986,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-frequency-density",
-      "syllabusPointIds": [
-        "E9.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-frequency-density": {
       "label": "Calculate frequency density",
       "description": "Determine frequency density accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1621,17 +1003,7 @@
       ],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-gradient-from-graph",
-      "syllabusPointIds": [
-        "C3.3",
-        "E3.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-gradient-from-graph": {
       "label": "Calculate gradient from graph",
       "description": "Determine gradient from graph accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1646,16 +1018,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-gradient-from-two-points",
-      "syllabusPointIds": [
-        "E3.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-gradient-from-two-points": {
       "label": "Calculate gradient from two points",
       "description": "Determine gradient from two points accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1671,17 +1034,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-integer-powers",
-      "syllabusPointIds": [
-        "C1.3",
-        "E1.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-integer-powers": {
       "label": "Calculate integer powers",
       "description": "Determine integer powers accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1696,16 +1049,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-interior-angle-of-irregular-polygon",
-      "syllabusPointIds": [
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-interior-angle-of-irregular-polygon": {
       "label": "Calculate interior angle of irregular polygon",
       "description": "Determine interior angle of irregular polygon accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1722,17 +1066,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-interior-angle-of-regular-polygon",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-interior-angle-of-regular-polygon": {
       "label": "Calculate interior angle of regular polygon",
       "description": "Determine interior angle of regular polygon accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1749,16 +1083,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-interquartile-range",
-      "syllabusPointIds": [
-        "E9.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-interquartile-range": {
       "label": "Calculate interquartile range",
       "description": "Determine interquartile range accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1773,17 +1098,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-mean",
-      "syllabusPointIds": [
-        "C9.3",
-        "E9.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-mean": {
       "label": "Calculate mean",
       "description": "Determine mean accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1797,17 +1112,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-median",
-      "syllabusPointIds": [
-        "C9.3",
-        "E9.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-median": {
       "label": "Calculate median",
       "description": "Determine median accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1821,16 +1126,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-midpoint-of-line-segment",
-      "syllabusPointIds": [
-        "E3.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-midpoint-of-line-segment": {
       "label": "Calculate midpoint of line segment",
       "description": "Determine midpoint of line segment accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1846,17 +1142,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-missing-lengths-in-similar-shapes",
-      "syllabusPointIds": [
-        "C4.4",
-        "E4.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-missing-lengths-in-similar-shapes": {
       "label": "Calculate missing lengths in similar shapes",
       "description": "Determine missing lengths in similar shapes accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1873,17 +1159,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-mode",
-      "syllabusPointIds": [
-        "C9.3",
-        "E9.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-mode": {
       "label": "Calculate mode",
       "description": "Determine mode accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1897,17 +1173,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-number-of-set-elements",
-      "syllabusPointIds": [
-        "C1.2",
-        "E1.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-number-of-set-elements": {
       "label": "Calculate number of set elements",
       "description": "Determine number of set elements accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1923,17 +1189,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-percentage-decrease",
-      "syllabusPointIds": [
-        "C1.13",
-        "E1.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-percentage-decrease": {
       "label": "Calculate percentage decrease",
       "description": "Determine percentage decrease accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1948,17 +1204,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-percentage-increase",
-      "syllabusPointIds": [
-        "C1.13",
-        "E1.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-percentage-increase": {
       "label": "Calculate percentage increase",
       "description": "Determine percentage increase accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1973,17 +1219,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-percentage-of-quantity",
-      "syllabusPointIds": [
-        "C1.13",
-        "E1.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-percentage-of-quantity": {
       "label": "Calculate percentage of quantity",
       "description": "Determine percentage of quantity accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -1998,17 +1234,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-perimeter-of-compound-shape",
-      "syllabusPointIds": [
-        "C5.5",
-        "E5.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-perimeter-of-compound-shape": {
       "label": "Calculate perimeter of compound shape",
       "description": "Determine perimeter of compound shape accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2024,17 +1250,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-perimeter-of-polygon",
-      "syllabusPointIds": [
-        "C5.2",
-        "E5.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-perimeter-of-polygon": {
       "label": "Calculate perimeter of polygon",
       "description": "Determine perimeter of polygon accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2049,17 +1265,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-population-density",
-      "syllabusPointIds": [
-        "C1.12",
-        "E1.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-population-density": {
       "label": "Calculate population density",
       "description": "Determine population density accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2074,17 +1280,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-pressure",
-      "syllabusPointIds": [
-        "C1.12",
-        "E1.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-pressure": {
       "label": "Calculate pressure",
       "description": "Determine pressure accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2098,17 +1294,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-probability-of-combined-events",
-      "syllabusPointIds": [
-        "C8.3",
-        "E8.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-probability-of-combined-events": {
       "label": "Calculate probability of combined events",
       "description": "Determine probability of combined events accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2124,17 +1310,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-probability-of-independent-events",
-      "syllabusPointIds": [
-        "C8.3",
-        "E8.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-probability-of-independent-events": {
       "label": "Calculate probability of independent events",
       "description": "Determine probability of independent events accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2150,17 +1326,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-probability-of-mutually-exclusive-events",
-      "syllabusPointIds": [
-        "C8.3",
-        "E8.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-probability-of-mutually-exclusive-events": {
       "label": "Calculate probability of mutually exclusive events",
       "description": "Determine probability of mutually exclusive events accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2177,16 +1343,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-probability-using-venn-diagram",
-      "syllabusPointIds": [
-        "E8.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-probability-using-venn-diagram": {
       "label": "Calculate probability using venn diagram",
       "description": "Determine probability using venn diagram accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2202,17 +1359,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-profit-and-loss",
-      "syllabusPointIds": [
-        "C1.13",
-        "E1.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-profit-and-loss": {
       "label": "Calculate profit and loss",
       "description": "Determine profit and loss accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2227,16 +1374,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-quartiles",
-      "syllabusPointIds": [
-        "E9.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-quartiles": {
       "label": "Calculate quartiles",
       "description": "Determine quartiles accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2250,17 +1388,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-range",
-      "syllabusPointIds": [
-        "C9.3",
-        "E9.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-range": {
       "label": "Calculate range",
       "description": "Determine range accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2274,17 +1402,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-rate-of-pay",
-      "syllabusPointIds": [
-        "C1.12",
-        "E1.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-rate-of-pay": {
       "label": "Calculate rate of pay",
       "description": "Determine rate of pay accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2299,17 +1417,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-relative-frequency",
-      "syllabusPointIds": [
-        "C8.2",
-        "E8.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-relative-frequency": {
       "label": "Calculate relative frequency",
       "description": "Determine relative frequency accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2324,16 +1432,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-reverse-percentage",
-      "syllabusPointIds": [
-        "E1.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-reverse-percentage": {
       "label": "Calculate reverse percentage",
       "description": "Determine reverse percentage accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2348,17 +1447,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-roots-of-numbers",
-      "syllabusPointIds": [
-        "C1.3",
-        "E1.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-roots-of-numbers": {
       "label": "Calculate roots of numbers",
       "description": "Determine roots of numbers accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2373,17 +1462,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-sector-area",
-      "syllabusPointIds": [
-        "C5.3",
-        "E5.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-sector-area": {
       "label": "Calculate sector area",
       "description": "Determine sector area accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2398,16 +1477,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-similar-area-ratio",
-      "syllabusPointIds": [
-        "E5.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-similar-area-ratio": {
       "label": "Calculate similar area ratio",
       "description": "Determine similar area ratio accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2423,16 +1493,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-similar-volume-ratio",
-      "syllabusPointIds": [
-        "E5.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-similar-volume-ratio": {
       "label": "Calculate similar volume ratio",
       "description": "Determine similar volume ratio accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2448,17 +1509,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-simple-interest",
-      "syllabusPointIds": [
-        "C1.13",
-        "E1.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-simple-interest": {
       "label": "Calculate simple interest",
       "description": "Determine simple interest accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2473,17 +1524,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-single-event-probability",
-      "syllabusPointIds": [
-        "C8.1",
-        "E8.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-single-event-probability": {
       "label": "Calculate single event probability",
       "description": "Determine single event probability accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2499,17 +1540,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-square-roots",
-      "syllabusPointIds": [
-        "C1.3",
-        "E1.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-square-roots": {
       "label": "Calculate square roots",
       "description": "Determine square roots accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2524,17 +1555,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-squares",
-      "syllabusPointIds": [
-        "C1.3",
-        "E1.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-squares": {
       "label": "Calculate squares",
       "description": "Determine squares accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2548,17 +1569,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-surface-area-of-compound-solid",
-      "syllabusPointIds": [
-        "C5.5",
-        "E5.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-surface-area-of-compound-solid": {
       "label": "Calculate surface area of compound solid",
       "description": "Determine surface area of compound solid accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2575,16 +1586,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-surface-area-of-cone",
-      "syllabusPointIds": [
-        "E5.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-surface-area-of-cone": {
       "label": "Calculate surface area of cone",
       "description": "Determine surface area of cone accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2600,17 +1602,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-surface-area-of-cylinder",
-      "syllabusPointIds": [
-        "C5.4",
-        "E5.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-surface-area-of-cylinder": {
       "label": "Calculate surface area of cylinder",
       "description": "Determine surface area of cylinder accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2626,17 +1618,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-surface-area-of-prism",
-      "syllabusPointIds": [
-        "C5.4",
-        "E5.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-surface-area-of-prism": {
       "label": "Calculate surface area of prism",
       "description": "Determine surface area of prism accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2652,16 +1634,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-surface-area-of-pyramid",
-      "syllabusPointIds": [
-        "E5.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-surface-area-of-pyramid": {
       "label": "Calculate surface area of pyramid",
       "description": "Determine surface area of pyramid accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2677,16 +1650,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-surface-area-of-sphere",
-      "syllabusPointIds": [
-        "E5.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-surface-area-of-sphere": {
       "label": "Calculate surface area of sphere",
       "description": "Determine surface area of sphere accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2702,17 +1666,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-time-intervals",
-      "syllabusPointIds": [
-        "C1.15",
-        "E1.15"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-time-intervals": {
       "label": "Calculate time intervals",
       "description": "Determine time intervals accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2727,16 +1681,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-triangle-area-using-sine",
-      "syllabusPointIds": [
-        "E6.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-triangle-area-using-sine": {
       "label": "Calculate triangle area using sine",
       "description": "Determine triangle area using sine accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2752,16 +1697,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-vector-magnitude",
-      "syllabusPointIds": [
-        "E7.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-vector-magnitude": {
       "label": "Calculate vector magnitude",
       "description": "Determine vector magnitude accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2776,17 +1712,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-volume-of-compound-solid",
-      "syllabusPointIds": [
-        "C5.5",
-        "E5.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-volume-of-compound-solid": {
       "label": "Calculate volume of compound solid",
       "description": "Determine volume of compound solid accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2802,16 +1728,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-volume-of-cone",
-      "syllabusPointIds": [
-        "E5.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-volume-of-cone": {
       "label": "Calculate volume of cone",
       "description": "Determine volume of cone accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2826,17 +1743,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-volume-of-cylinder",
-      "syllabusPointIds": [
-        "C5.4",
-        "E5.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-volume-of-cylinder": {
       "label": "Calculate volume of cylinder",
       "description": "Determine volume of cylinder accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2851,17 +1758,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-volume-of-prism",
-      "syllabusPointIds": [
-        "C5.4",
-        "E5.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-volume-of-prism": {
       "label": "Calculate volume of prism",
       "description": "Determine volume of prism accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2876,16 +1773,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-volume-of-pyramid",
-      "syllabusPointIds": [
-        "E5.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-volume-of-pyramid": {
       "label": "Calculate volume of pyramid",
       "description": "Determine volume of pyramid accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2900,16 +1788,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-volume-of-sphere",
-      "syllabusPointIds": [
-        "E5.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-volume-of-sphere": {
       "label": "Calculate volume of sphere",
       "description": "Determine volume of sphere accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2924,16 +1803,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-volume-scale-factor",
-      "syllabusPointIds": [
-        "E4.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-volume-scale-factor": {
       "label": "Calculate volume scale factor",
       "description": "Determine volume scale factor accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2949,16 +1819,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-with-algebraic-fractions",
-      "syllabusPointIds": [
-        "E2.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-with-algebraic-fractions": {
       "label": "Calculate with algebraic fractions",
       "description": "Determine with algebraic fractions accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2973,17 +1834,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-with-decimals",
-      "syllabusPointIds": [
-        "C1.6",
-        "E1.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-with-decimals": {
       "label": "Calculate with decimals",
       "description": "Determine with decimals accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -2997,17 +1848,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-with-fractions",
-      "syllabusPointIds": [
-        "C1.6",
-        "E1.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-with-fractions": {
       "label": "Calculate with fractions",
       "description": "Determine with fractions accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -3021,17 +1862,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-with-integers",
-      "syllabusPointIds": [
-        "C1.6",
-        "E1.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-with-integers": {
       "label": "Calculate with integers",
       "description": "Determine with integers accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -3045,17 +1876,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-with-money",
-      "syllabusPointIds": [
-        "C1.16",
-        "E1.16"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-with-money": {
       "label": "Calculate with money",
       "description": "Determine with money accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -3069,17 +1890,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-with-negative-numbers",
-      "syllabusPointIds": [
-        "C1.6",
-        "E1.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-with-negative-numbers": {
       "label": "Calculate with negative numbers",
       "description": "Determine with negative numbers accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -3094,17 +1905,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-with-standard-form",
-      "syllabusPointIds": [
-        "C1.8",
-        "E1.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-with-standard-form": {
       "label": "Calculate with standard form",
       "description": "Determine with standard form accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -3119,16 +1920,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "calculate-with-surds",
-      "syllabusPointIds": [
-        "E1.18"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "calculate-with-surds": {
       "label": "Calculate with surds",
       "description": "Determine with surds accurately from the supplied values and relationships.",
       "action": "calculate",
@@ -3142,16 +1934,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "change-subject-in-complex-formula",
-      "syllabusPointIds": [
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "change-subject-in-complex-formula": {
       "label": "Change subject in complex formula",
       "description": "Rearrange subject in complex formula while preserving the equality represented by the formula.",
       "action": "change",
@@ -3167,17 +1950,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "change-subject-of-formula",
-      "syllabusPointIds": [
-        "C2.5",
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "change-subject-of-formula": {
       "label": "Change subject of formula",
       "description": "Rearrange subject of formula while preserving the equality represented by the formula.",
       "action": "change",
@@ -3192,17 +1965,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "choose-appropriate-answer-accuracy",
-      "syllabusPointIds": [
-        "C1.9",
-        "E1.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "choose-appropriate-answer-accuracy": {
       "label": "Choose appropriate answer accuracy",
       "description": "Choose appropriate answer accuracy by matching the measure to the data and purpose.",
       "action": "choose",
@@ -3218,17 +1981,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "choose-appropriate-average",
-      "syllabusPointIds": [
-        "C9.3",
-        "E9.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "choose-appropriate-average": {
       "label": "Choose appropriate average",
       "description": "Choose appropriate average by matching the measure to the data and purpose.",
       "action": "choose",
@@ -3243,17 +1996,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "classify-categorical-data",
-      "syllabusPointIds": [
-        "C9.1",
-        "E9.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "classify-categorical-data": {
       "label": "Classify categorical data",
       "description": "Classify categorical data using its defining mathematical properties.",
       "action": "classify",
@@ -3268,17 +2011,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "classify-continuous-data",
-      "syllabusPointIds": [
-        "C9.1",
-        "E9.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "classify-continuous-data": {
       "label": "Classify continuous data",
       "description": "Classify continuous data using its defining mathematical properties.",
       "action": "classify",
@@ -3293,17 +2026,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "classify-discrete-data",
-      "syllabusPointIds": [
-        "C9.1",
-        "E9.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "classify-discrete-data": {
       "label": "Classify discrete data",
       "description": "Classify discrete data using its defining mathematical properties.",
       "action": "classify",
@@ -3318,17 +2041,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "classify-quadrilaterals",
-      "syllabusPointIds": [
-        "C4.1",
-        "E4.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "classify-quadrilaterals": {
       "label": "Classify quadrilaterals",
       "description": "Classify quadrilaterals using its defining mathematical properties.",
       "action": "classify",
@@ -3342,17 +2055,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "classify-rational-and-irrational-numbers",
-      "syllabusPointIds": [
-        "C1.1",
-        "E1.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "classify-rational-and-irrational-numbers": {
       "label": "Classify rational and irrational numbers",
       "description": "Classify rational and irrational numbers using its defining mathematical properties.",
       "action": "classify",
@@ -3368,16 +2071,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "classify-stationary-point",
-      "syllabusPointIds": [
-        "E2.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "classify-stationary-point": {
       "label": "Classify stationary point",
       "description": "Classify stationary point using its defining mathematical properties.",
       "action": "classify",
@@ -3392,17 +2086,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "classify-triangles",
-      "syllabusPointIds": [
-        "C4.1",
-        "E4.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "classify-triangles": {
       "label": "Classify triangles",
       "description": "Classify triangles using its defining mathematical properties.",
       "action": "classify",
@@ -3416,17 +2100,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "collect-like-terms",
-      "syllabusPointIds": [
-        "C2.2",
-        "E2.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "collect-like-terms": {
       "label": "Collect like terms",
       "description": "Combine like terms by adding or subtracting their coefficients.",
       "action": "collect",
@@ -3441,16 +2115,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "compare-distributions-using-averages",
-      "syllabusPointIds": [
-        "E9.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "compare-distributions-using-averages": {
       "label": "Compare distributions using averages",
       "description": "Compare distributions using averages using the relevant values, symbols, or measures.",
       "action": "compare",
@@ -3465,16 +2130,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "compare-distributions-using-box-plots",
-      "syllabusPointIds": [
-        "E9.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "compare-distributions-using-box-plots": {
       "label": "Compare distributions using box plots",
       "description": "Compare distributions using box plots using the relevant values, symbols, or measures.",
       "action": "compare",
@@ -3490,16 +2146,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "compare-distributions-using-spread",
-      "syllabusPointIds": [
-        "E9.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "compare-distributions-using-spread": {
       "label": "Compare distributions using spread",
       "description": "Compare distributions using spread using the relevant values, symbols, or measures.",
       "action": "compare",
@@ -3514,17 +2161,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "compare-quantities-using-equality-symbols",
-      "syllabusPointIds": [
-        "C1.5",
-        "E1.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "compare-quantities-using-equality-symbols": {
       "label": "Compare quantities using equality symbols",
       "description": "Compare quantities using equality symbols using the relevant values, symbols, or measures.",
       "action": "compare",
@@ -3540,17 +2177,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "compare-quantities-using-inequality-symbols",
-      "syllabusPointIds": [
-        "C1.5",
-        "E1.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "compare-quantities-using-inequality-symbols": {
       "label": "Compare quantities using inequality symbols",
       "description": "Compare quantities using inequality symbols using the relevant values, symbols, or measures.",
       "action": "compare",
@@ -3566,17 +2193,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "compare-relative-frequency-with-theoretical-probability",
-      "syllabusPointIds": [
-        "C8.2",
-        "E8.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "compare-relative-frequency-with-theoretical-probability": {
       "label": "Compare relative frequency with theoretical probability",
       "description": "Compare relative frequency with theoretical probability using the relevant values, symbols, or measures.",
       "action": "compare",
@@ -3593,16 +2210,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "complete-square",
-      "syllabusPointIds": [
-        "E2.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "complete-square": {
       "label": "Complete square",
       "description": "Rewrite square in completed-square form by balancing the constant term.",
       "action": "complete",
@@ -3616,16 +2224,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "complete-square-to-solve-quadratic",
-      "syllabusPointIds": [
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "complete-square-to-solve-quadratic": {
       "label": "Complete square to solve quadratic",
       "description": "Rewrite square to solve quadratic in completed-square form by balancing the constant term.",
       "action": "complete",
@@ -3641,17 +2240,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-algebraic-expressions",
-      "syllabusPointIds": [
-        "C2.5",
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-algebraic-expressions": {
       "label": "Construct algebraic expressions",
       "description": "Construct algebraic expressions accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3666,17 +2255,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-angle-bisector",
-      "syllabusPointIds": [
-        "C4.2",
-        "E4.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-angle-bisector": {
       "label": "Construct angle bisector",
       "description": "Construct angle bisector accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3691,17 +2270,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-equations",
-      "syllabusPointIds": [
-        "C2.5",
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-equations": {
       "label": "Construct equations",
       "description": "Construct equations accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3715,17 +2284,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-formulas",
-      "syllabusPointIds": [
-        "C2.5",
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-formulas": {
       "label": "Construct formulas",
       "description": "Construct formulas accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3739,17 +2298,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-frequency-table",
-      "syllabusPointIds": [
-        "C9.2",
-        "E9.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-frequency-table": {
       "label": "Construct frequency table",
       "description": "Construct frequency table accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3764,17 +2313,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-locus",
-      "syllabusPointIds": [
-        "C4.2",
-        "E4.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-locus": {
       "label": "Construct locus",
       "description": "Construct locus accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3788,17 +2327,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-perpendicular-bisector",
-      "syllabusPointIds": [
-        "C4.2",
-        "E4.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-perpendicular-bisector": {
       "label": "Construct perpendicular bisector",
       "description": "Construct perpendicular bisector accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3813,17 +2342,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-perpendicular-line",
-      "syllabusPointIds": [
-        "C4.2",
-        "E4.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-perpendicular-line": {
       "label": "Construct perpendicular line",
       "description": "Construct perpendicular line accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3838,17 +2357,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-probability-tree-diagram",
-      "syllabusPointIds": [
-        "C8.3",
-        "E8.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-probability-tree-diagram": {
       "label": "Construct probability tree diagram",
       "description": "Construct probability tree diagram accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3864,17 +2373,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-sample-space-diagram",
-      "syllabusPointIds": [
-        "C8.3",
-        "E8.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-sample-space-diagram": {
       "label": "Construct sample space diagram",
       "description": "Construct sample space diagram accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3890,17 +2389,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-scale-drawing",
-      "syllabusPointIds": [
-        "C4.3",
-        "E4.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-scale-drawing": {
       "label": "Construct scale drawing",
       "description": "Construct scale drawing accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3915,17 +2404,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-table-of-values",
-      "syllabusPointIds": [
-        "C2.10",
-        "E2.10"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-table-of-values": {
       "label": "Construct table of values",
       "description": "Construct table of values accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3940,17 +2419,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "construct-triangle-with-ruler-and-compasses",
-      "syllabusPointIds": [
-        "C4.2",
-        "E4.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "construct-triangle-with-ruler-and-compasses": {
       "label": "Construct triangle with ruler and compasses",
       "description": "Construct triangle with ruler and compasses accurately using the specified mathematical instruments or data.",
       "action": "construct",
@@ -3966,17 +2435,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "continue-number-sequence",
-      "syllabusPointIds": [
-        "C2.7",
-        "E2.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "continue-number-sequence": {
       "label": "Continue number sequence",
       "description": "Extend number sequence by applying its established term-to-term pattern.",
       "action": "continue",
@@ -3991,17 +2450,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-between-currencies",
-      "syllabusPointIds": [
-        "C1.16",
-        "E1.16"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-between-currencies": {
       "label": "Convert between currencies",
       "description": "Change between between currencies while preserving the represented quantity.",
       "action": "convert",
@@ -4016,17 +2465,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-between-decimals-and-percentages",
-      "syllabusPointIds": [
-        "C1.4",
-        "E1.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-between-decimals-and-percentages": {
       "label": "Convert between decimals and percentages",
       "description": "Change between between decimals and percentages while preserving the represented quantity.",
       "action": "convert",
@@ -4042,17 +2481,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-between-fractions-and-percentages",
-      "syllabusPointIds": [
-        "C1.4",
-        "E1.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-between-fractions-and-percentages": {
       "label": "Convert between fractions and percentages",
       "description": "Change between between fractions and percentages while preserving the represented quantity.",
       "action": "convert",
@@ -4068,17 +2497,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-between-improper-fractions-and-mixed-numbers",
-      "syllabusPointIds": [
-        "C1.4",
-        "E1.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-between-improper-fractions-and-mixed-numbers": {
       "label": "Convert between improper fractions and mixed numbers",
       "description": "Change between between improper fractions and mixed numbers while preserving the represented quantity.",
       "action": "convert",
@@ -4096,17 +2515,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-compound-units",
-      "syllabusPointIds": [
-        "C1.12",
-        "E1.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-compound-units": {
       "label": "Convert compound units",
       "description": "Change between compound units while preserving the represented quantity.",
       "action": "convert",
@@ -4121,17 +2530,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-decimals-to-fractions",
-      "syllabusPointIds": [
-        "C1.4",
-        "E1.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-decimals-to-fractions": {
       "label": "Convert decimals to fractions",
       "description": "Change between decimals to fractions while preserving the represented quantity.",
       "action": "convert",
@@ -4146,17 +2545,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-fractions-to-decimals",
-      "syllabusPointIds": [
-        "C1.4",
-        "E1.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-fractions-to-decimals": {
       "label": "Convert fractions to decimals",
       "description": "Change between fractions to decimals while preserving the represented quantity.",
       "action": "convert",
@@ -4171,17 +2560,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-metric-units-of-area",
-      "syllabusPointIds": [
-        "C5.1",
-        "E5.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-metric-units-of-area": {
       "label": "Convert metric units of area",
       "description": "Change between metric units of area while preserving the represented quantity.",
       "action": "convert",
@@ -4197,17 +2576,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-metric-units-of-length",
-      "syllabusPointIds": [
-        "C5.1",
-        "E5.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-metric-units-of-length": {
       "label": "Convert metric units of length",
       "description": "Change between metric units of length while preserving the represented quantity.",
       "action": "convert",
@@ -4223,17 +2592,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-metric-units-of-volume",
-      "syllabusPointIds": [
-        "C5.1",
-        "E5.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-metric-units-of-volume": {
       "label": "Convert metric units of volume",
       "description": "Change between metric units of volume while preserving the represented quantity.",
       "action": "convert",
@@ -4249,17 +2608,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-numbers-from-standard-form",
-      "syllabusPointIds": [
-        "C1.8",
-        "E1.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-numbers-from-standard-form": {
       "label": "Convert numbers from standard form",
       "description": "Change between numbers from standard form while preserving the represented quantity.",
       "action": "convert",
@@ -4275,17 +2624,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-numbers-to-standard-form",
-      "syllabusPointIds": [
-        "C1.8",
-        "E1.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-numbers-to-standard-form": {
       "label": "Convert numbers to standard form",
       "description": "Change between numbers to standard form while preserving the represented quantity.",
       "action": "convert",
@@ -4301,17 +2640,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "convert-units-of-time",
-      "syllabusPointIds": [
-        "C1.15",
-        "E1.15"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "convert-units-of-time": {
       "label": "Convert units of time",
       "description": "Change between units of time while preserving the represented quantity.",
       "action": "convert",
@@ -4326,17 +2655,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "describe-enlargement",
-      "syllabusPointIds": [
-        "C7.1",
-        "E7.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "describe-enlargement": {
       "label": "Describe enlargement",
       "description": "State enlargement completely using the required parameters and mathematical vocabulary.",
       "action": "describe",
@@ -4350,17 +2669,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "describe-reflection",
-      "syllabusPointIds": [
-        "C7.1",
-        "E7.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "describe-reflection": {
       "label": "Describe reflection",
       "description": "State reflection completely using the required parameters and mathematical vocabulary.",
       "action": "describe",
@@ -4374,17 +2683,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "describe-rotation",
-      "syllabusPointIds": [
-        "C7.1",
-        "E7.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "describe-rotation": {
       "label": "Describe rotation",
       "description": "State rotation completely using the required parameters and mathematical vocabulary.",
       "action": "describe",
@@ -4398,17 +2697,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "describe-translation",
-      "syllabusPointIds": [
-        "C7.1",
-        "E7.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "describe-translation": {
       "label": "Describe translation",
       "description": "State translation completely using the required parameters and mathematical vocabulary.",
       "action": "describe",
@@ -4422,16 +2711,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "design-questionnaire",
-      "syllabusPointIds": [
-        "E9.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "design-questionnaire": {
       "label": "Design questionnaire",
       "description": "Construct questionnaire so its questions and response options collect usable unbiased data.",
       "action": "design",
@@ -4445,16 +2725,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "differentiate-power-function",
-      "syllabusPointIds": [
-        "E2.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "differentiate-power-function": {
       "label": "Differentiate power function",
       "description": "Find the derivative of power function using the applicable differentiation rule.",
       "action": "differentiate",
@@ -4469,17 +2740,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "divide-quantity-in-given-ratio",
-      "syllabusPointIds": [
-        "C1.11",
-        "E1.11"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "divide-quantity-in-given-ratio": {
       "label": "Divide quantity in given ratio",
       "description": "Partition quantity in given ratio according to the stated ratio while preserving the total.",
       "action": "divide",
@@ -4495,17 +2756,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-bar-chart",
-      "syllabusPointIds": [
-        "C9.4",
-        "E9.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-bar-chart": {
       "label": "Draw bar chart",
       "description": "Construct an accurate bar chart from the supplied mathematical information.",
       "action": "draw",
@@ -4520,16 +2771,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-box-plot",
-      "syllabusPointIds": [
-        "E9.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-box-plot": {
       "label": "Draw box plot",
       "description": "Construct an accurate box plot from the supplied mathematical information.",
       "action": "draw",
@@ -4544,16 +2786,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-cumulative-frequency-graph",
-      "syllabusPointIds": [
-        "E9.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-cumulative-frequency-graph": {
       "label": "Draw cumulative frequency graph",
       "description": "Construct an accurate cumulative frequency graph from the supplied mathematical information.",
       "action": "draw",
@@ -4569,17 +2802,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-distance-time-graph",
-      "syllabusPointIds": [
-        "C2.9",
-        "E2.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-distance-time-graph": {
       "label": "Draw distance time graph",
       "description": "Construct an accurate distance time graph from the supplied mathematical information.",
       "action": "draw",
@@ -4595,17 +2818,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-exponential-decay-graph",
-      "syllabusPointIds": [
-        "C2.10",
-        "E2.10"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-exponential-decay-graph": {
       "label": "Draw exponential decay graph",
       "description": "Construct an accurate exponential decay graph from the supplied mathematical information.",
       "action": "draw",
@@ -4621,17 +2834,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-exponential-growth-graph",
-      "syllabusPointIds": [
-        "C2.10",
-        "E2.10"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-exponential-growth-graph": {
       "label": "Draw exponential growth graph",
       "description": "Construct an accurate exponential growth graph from the supplied mathematical information.",
       "action": "draw",
@@ -4647,16 +2850,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-frequency-polygon",
-      "syllabusPointIds": [
-        "E9.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-frequency-polygon": {
       "label": "Draw frequency polygon",
       "description": "Construct an accurate frequency polygon from the supplied mathematical information.",
       "action": "draw",
@@ -4671,17 +2865,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-graph-from-data",
-      "syllabusPointIds": [
-        "C2.9",
-        "E2.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-graph-from-data": {
       "label": "Draw graph from data",
       "description": "Construct an accurate graph from data from the supplied mathematical information.",
       "action": "draw",
@@ -4696,16 +2880,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-histogram",
-      "syllabusPointIds": [
-        "E9.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-histogram": {
       "label": "Draw histogram",
       "description": "Construct an accurate histogram from the supplied mathematical information.",
       "action": "draw",
@@ -4719,17 +2894,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-line-of-best-fit",
-      "syllabusPointIds": [
-        "C9.5",
-        "E9.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-line-of-best-fit": {
       "label": "Draw line of best fit",
       "description": "Construct an accurate line of best fit from the supplied mathematical information.",
       "action": "draw",
@@ -4745,17 +2910,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-linear-graph-from-equation",
-      "syllabusPointIds": [
-        "C3.2",
-        "E3.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-linear-graph-from-equation": {
       "label": "Draw linear graph from equation",
       "description": "Construct an accurate linear graph from equation from the supplied mathematical information.",
       "action": "draw",
@@ -4771,17 +2926,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-pictogram",
-      "syllabusPointIds": [
-        "C9.4",
-        "E9.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-pictogram": {
       "label": "Draw pictogram",
       "description": "Construct an accurate pictogram from the supplied mathematical information.",
       "action": "draw",
@@ -4795,17 +2940,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-pie-chart",
-      "syllabusPointIds": [
-        "C9.4",
-        "E9.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-pie-chart": {
       "label": "Draw pie chart",
       "description": "Construct an accurate pie chart from the supplied mathematical information.",
       "action": "draw",
@@ -4820,17 +2955,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-scatter-diagram",
-      "syllabusPointIds": [
-        "C9.5",
-        "E9.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-scatter-diagram": {
       "label": "Draw scatter diagram",
       "description": "Construct an accurate scatter diagram from the supplied mathematical information.",
       "action": "draw",
@@ -4845,16 +2970,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "draw-speed-time-graph",
-      "syllabusPointIds": [
-        "E2.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "draw-speed-time-graph": {
       "label": "Draw speed time graph",
       "description": "Construct an accurate speed time graph from the supplied mathematical information.",
       "action": "draw",
@@ -4870,17 +2986,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "enlarge-shape",
-      "syllabusPointIds": [
-        "C7.1",
-        "E7.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "enlarge-shape": {
       "label": "Enlarge shape",
       "description": "Map every point of shape from the centre using the stated scale factor.",
       "action": "enlarge",
@@ -4894,16 +3000,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "enlarge-shape-with-fractional-scale-factor",
-      "syllabusPointIds": [
-        "E7.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "enlarge-shape-with-fractional-scale-factor": {
       "label": "Enlarge shape with fractional scale factor",
       "description": "Map every point of shape with fractional scale factor from the centre using the stated scale factor.",
       "action": "enlarge",
@@ -4920,16 +3017,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "enlarge-shape-with-negative-scale-factor",
-      "syllabusPointIds": [
-        "E7.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "enlarge-shape-with-negative-scale-factor": {
       "label": "Enlarge shape with negative scale factor",
       "description": "Map every point of shape with negative scale factor from the centre using the stated scale factor.",
       "action": "enlarge",
@@ -4946,17 +3034,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "enter-values-into-calculator",
-      "syllabusPointIds": [
-        "C1.14",
-        "E1.14"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "enter-values-into-calculator": {
       "label": "Enter values into calculator",
       "description": "Enter values into calculator in a calculator using a form that preserves its numerical value.",
       "action": "enter",
@@ -4972,17 +3050,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "estimate-calculation-results",
-      "syllabusPointIds": [
-        "C1.9",
-        "E1.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "estimate-calculation-results": {
       "label": "Estimate calculation results",
       "description": "Obtain a justified approximate value for calculation results.",
       "action": "estimate",
@@ -4997,16 +3065,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "estimate-median-from-cumulative-frequency-graph",
-      "syllabusPointIds": [
-        "E9.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "estimate-median-from-cumulative-frequency-graph": {
       "label": "Estimate median from cumulative frequency graph",
       "description": "Obtain a justified approximate value for median from cumulative frequency graph.",
       "action": "estimate",
@@ -5023,16 +3082,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "estimate-quartiles-from-cumulative-frequency-graph",
-      "syllabusPointIds": [
-        "E9.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "estimate-quartiles-from-cumulative-frequency-graph": {
       "label": "Estimate quartiles from cumulative frequency graph",
       "description": "Obtain a justified approximate value for quartiles from cumulative frequency graph.",
       "action": "estimate",
@@ -5049,16 +3099,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "evaluate-composite-function",
-      "syllabusPointIds": [
-        "E2.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "evaluate-composite-function": {
       "label": "Evaluate composite function",
       "description": "Evaluate composite function by substituting and calculating correctly.",
       "action": "evaluate",
@@ -5073,16 +3114,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "evaluate-function",
-      "syllabusPointIds": [
-        "E2.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "evaluate-function": {
       "label": "Evaluate function",
       "description": "Evaluate function by substituting and calculating correctly.",
       "action": "evaluate",
@@ -5096,17 +3128,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "evaluate-sampling-method",
-      "syllabusPointIds": [
-        "C9.2",
-        "E9.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "evaluate-sampling-method": {
       "label": "Evaluate sampling method",
       "description": "Evaluate sampling method by substituting and calculating correctly.",
       "action": "evaluate",
@@ -5121,16 +3143,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "expand-multiple-algebraic-factors",
-      "syllabusPointIds": [
-        "E2.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "expand-multiple-algebraic-factors": {
       "label": "Expand multiple algebraic factors",
       "description": "Remove brackets from multiple algebraic factors while preserving algebraic equivalence.",
       "action": "expand",
@@ -5146,17 +3159,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "expand-product-of-two-brackets",
-      "syllabusPointIds": [
-        "C2.2",
-        "E2.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "expand-product-of-two-brackets": {
       "label": "Expand product of two brackets",
       "description": "Remove brackets from product of two brackets while preserving algebraic equivalence.",
       "action": "expand",
@@ -5172,17 +3175,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "expand-single-bracket",
-      "syllabusPointIds": [
-        "C2.2",
-        "E2.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "expand-single-bracket": {
       "label": "Expand single bracket",
       "description": "Remove brackets from single bracket while preserving algebraic equivalence.",
       "action": "expand",
@@ -5197,17 +3190,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "express-quantity-as-percentage",
-      "syllabusPointIds": [
-        "C1.13",
-        "E1.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "express-quantity-as-percentage": {
       "label": "Express quantity as percentage",
       "description": "Rewrite quantity as percentage in the requested percentage or mathematical form.",
       "action": "express",
@@ -5223,17 +3206,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "factorise-by-common-factor",
-      "syllabusPointIds": [
-        "C2.2",
-        "E2.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "factorise-by-common-factor": {
       "label": "Factorise by common factor",
       "description": "Rewrite by common factor as a product of appropriate factors.",
       "action": "factorise",
@@ -5249,16 +3222,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "factorise-difference-of-two-squares",
-      "syllabusPointIds": [
-        "E2.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "factorise-difference-of-two-squares": {
       "label": "Factorise difference of two squares",
       "description": "Rewrite difference of two squares as a product of appropriate factors.",
       "action": "factorise",
@@ -5274,16 +3238,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "factorise-quadratic-expression",
-      "syllabusPointIds": [
-        "E2.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "factorise-quadratic-expression": {
       "label": "Factorise quadratic expression",
       "description": "Rewrite quadratic expression as a product of appropriate factors.",
       "action": "factorise",
@@ -5298,17 +3253,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-angle-in-right-triangle",
-      "syllabusPointIds": [
-        "C6.2",
-        "E6.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-angle-in-right-triangle": {
       "label": "Find angle in right triangle",
       "description": "Determine angle in right triangle by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5324,16 +3269,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-bounds-of-calculation-result",
-      "syllabusPointIds": [
-        "E1.10"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-bounds-of-calculation-result": {
       "label": "Find bounds of calculation result",
       "description": "Determine bounds of calculation result by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5349,17 +3285,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-common-factors",
-      "syllabusPointIds": [
-        "C1.1",
-        "E1.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-common-factors": {
       "label": "Find common factors",
       "description": "Determine common factors by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5374,17 +3300,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-common-multiples",
-      "syllabusPointIds": [
-        "C1.1",
-        "E1.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-common-multiples": {
       "label": "Find common multiples",
       "description": "Determine common multiples by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5399,17 +3315,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-equation-of-line-from-graph",
-      "syllabusPointIds": [
-        "C3.5",
-        "E3.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-equation-of-line-from-graph": {
       "label": "Find equation of line from graph",
       "description": "Determine equation of line from graph by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5425,16 +3331,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-equation-of-line-from-point-and-gradient",
-      "syllabusPointIds": [
-        "E3.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-equation-of-line-from-point-and-gradient": {
       "label": "Find equation of line from point and gradient",
       "description": "Determine equation of line from point and gradient by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5451,16 +3348,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-equation-of-line-from-two-points",
-      "syllabusPointIds": [
-        "E3.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-equation-of-line-from-two-points": {
       "label": "Find equation of line from two points",
       "description": "Determine equation of line from two points by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5477,16 +3365,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-gradient-using-derivative",
-      "syllabusPointIds": [
-        "E2.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-gradient-using-derivative": {
       "label": "Find gradient using derivative",
       "description": "Determine gradient using derivative by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5501,16 +3380,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-inverse-function",
-      "syllabusPointIds": [
-        "E2.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-inverse-function": {
       "label": "Find inverse function",
       "description": "Determine inverse function by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5525,17 +3395,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-lower-bound-of-rounded-value",
-      "syllabusPointIds": [
-        "C1.10",
-        "E1.10"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-lower-bound-of-rounded-value": {
       "label": "Find lower bound of rounded value",
       "description": "Determine lower bound of rounded value by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5552,17 +3412,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-missing-side-using-pythagoras",
-      "syllabusPointIds": [
-        "C6.1",
-        "E6.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-missing-side-using-pythagoras": {
       "label": "Find missing side using pythagoras",
       "description": "Determine missing side using pythagoras by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5578,17 +3428,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-nth-term-of-cubic-sequence",
-      "syllabusPointIds": [
-        "C2.7",
-        "E2.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-nth-term-of-cubic-sequence": {
       "label": "Find nth term of cubic sequence",
       "description": "Determine nth term of cubic sequence by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5605,16 +3445,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-nth-term-of-exponential-sequence",
-      "syllabusPointIds": [
-        "E2.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-nth-term-of-exponential-sequence": {
       "label": "Find nth term of exponential sequence",
       "description": "Determine nth term of exponential sequence by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5631,17 +3462,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-nth-term-of-linear-sequence",
-      "syllabusPointIds": [
-        "C2.7",
-        "E2.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-nth-term-of-linear-sequence": {
       "label": "Find nth term of linear sequence",
       "description": "Determine nth term of linear sequence by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5658,17 +3479,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-nth-term-of-quadratic-sequence",
-      "syllabusPointIds": [
-        "C2.7",
-        "E2.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-nth-term-of-quadratic-sequence": {
       "label": "Find nth term of quadratic sequence",
       "description": "Determine nth term of quadratic sequence by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5685,17 +3496,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-reciprocals",
-      "syllabusPointIds": [
-        "C1.1",
-        "E1.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-reciprocals": {
       "label": "Find reciprocals",
       "description": "Determine reciprocals by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5709,17 +3510,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-side-in-right-triangle",
-      "syllabusPointIds": [
-        "C6.2",
-        "E6.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-side-in-right-triangle": {
       "label": "Find side in right triangle",
       "description": "Determine side in right triangle by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5735,16 +3526,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-stationary-point",
-      "syllabusPointIds": [
-        "E2.12"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-stationary-point": {
       "label": "Find stationary point",
       "description": "Determine stationary point by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5759,17 +3541,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "find-upper-bound-of-rounded-value",
-      "syllabusPointIds": [
-        "C1.10",
-        "E1.10"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "find-upper-bound-of-rounded-value": {
       "label": "Find upper bound of rounded value",
       "description": "Determine upper bound of rounded value by applying the appropriate mathematical procedure.",
       "action": "find",
@@ -5786,16 +3558,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "form-composite-function",
-      "syllabusPointIds": [
-        "E2.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "form-composite-function": {
       "label": "Form composite function",
       "description": "Form composite function from the stated proportional relationship.",
       "action": "form",
@@ -5810,16 +3573,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "form-direct-proportion-equation",
-      "syllabusPointIds": [
-        "E2.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "form-direct-proportion-equation": {
       "label": "Form direct proportion equation",
       "description": "Form direct proportion equation from the stated proportional relationship.",
       "action": "form",
@@ -5835,16 +3589,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "form-inverse-proportion-equation",
-      "syllabusPointIds": [
-        "E2.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "form-inverse-proportion-equation": {
       "label": "Form inverse proportion equation",
       "description": "Form inverse proportion equation from the stated proportional relationship.",
       "action": "form",
@@ -5860,17 +3605,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-biased-data-collection",
-      "syllabusPointIds": [
-        "C9.2",
-        "E9.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-biased-data-collection": {
       "label": "Identify biased data collection",
       "description": "Recognise and name biased data collection from its defining mathematical properties.",
       "action": "identify",
@@ -5886,17 +3621,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-certain-event",
-      "syllabusPointIds": [
-        "C8.1",
-        "E8.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-certain-event": {
       "label": "Identify certain event",
       "description": "Recognise and name certain event from its defining mathematical properties.",
       "action": "identify",
@@ -5911,16 +3636,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-congruent-shapes",
-      "syllabusPointIds": [
-        "E4.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-congruent-shapes": {
       "label": "Identify congruent shapes",
       "description": "Recognise and name congruent shapes from its defining mathematical properties.",
       "action": "identify",
@@ -5935,17 +3651,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-correlation",
-      "syllabusPointIds": [
-        "C9.5",
-        "E9.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-correlation": {
       "label": "Identify correlation",
       "description": "Recognise and name correlation from its defining mathematical properties.",
       "action": "identify",
@@ -5959,17 +3665,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-cube-numbers",
-      "syllabusPointIds": [
-        "C1.1",
-        "E1.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-cube-numbers": {
       "label": "Identify cube numbers",
       "description": "Recognise and name cube numbers from its defining mathematical properties.",
       "action": "identify",
@@ -5984,17 +3680,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-impossible-event",
-      "syllabusPointIds": [
-        "C8.1",
-        "E8.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-impossible-event": {
       "label": "Identify impossible event",
       "description": "Recognise and name impossible event from its defining mathematical properties.",
       "action": "identify",
@@ -6009,17 +3695,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-integers",
-      "syllabusPointIds": [
-        "C1.1",
-        "E1.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-integers": {
       "label": "Identify integers",
       "description": "Recognise and name integers from its defining mathematical properties.",
       "action": "identify",
@@ -6033,17 +3709,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-line-symmetry",
-      "syllabusPointIds": [
-        "C4.5",
-        "E4.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-line-symmetry": {
       "label": "Identify line symmetry",
       "description": "Recognise and name line symmetry from its defining mathematical properties.",
       "action": "identify",
@@ -6058,17 +3724,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-lines-of-symmetry",
-      "syllabusPointIds": [
-        "C4.1",
-        "E4.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-lines-of-symmetry": {
       "label": "Identify lines of symmetry",
       "description": "Recognise and name lines of symmetry from its defining mathematical properties.",
       "action": "identify",
@@ -6083,17 +3739,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-natural-numbers",
-      "syllabusPointIds": [
-        "C1.1",
-        "E1.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-natural-numbers": {
       "label": "Identify natural numbers",
       "description": "Recognise and name natural numbers from its defining mathematical properties.",
       "action": "identify",
@@ -6108,17 +3754,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-order-of-rotational-symmetry",
-      "syllabusPointIds": [
-        "C4.5",
-        "E4.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-order-of-rotational-symmetry": {
       "label": "Identify order of rotational symmetry",
       "description": "Recognise and name order of rotational symmetry from its defining mathematical properties.",
       "action": "identify",
@@ -6134,17 +3770,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-parallel-lines",
-      "syllabusPointIds": [
-        "C3.6",
-        "E3.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-parallel-lines": {
       "label": "Identify parallel lines",
       "description": "Recognise and name parallel lines from its defining mathematical properties.",
       "action": "identify",
@@ -6159,16 +3785,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-perpendicular-lines",
-      "syllabusPointIds": [
-        "E3.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-perpendicular-lines": {
       "label": "Identify perpendicular lines",
       "description": "Recognise and name perpendicular lines from its defining mathematical properties.",
       "action": "identify",
@@ -6183,17 +3800,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-prime-numbers",
-      "syllabusPointIds": [
-        "C1.1",
-        "E1.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-prime-numbers": {
       "label": "Identify prime numbers",
       "description": "Recognise and name prime numbers from its defining mathematical properties.",
       "action": "identify",
@@ -6208,17 +3815,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-rotational-symmetry",
-      "syllabusPointIds": [
-        "C4.1",
-        "E4.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-rotational-symmetry": {
       "label": "Identify rotational symmetry",
       "description": "Recognise and name rotational symmetry from its defining mathematical properties.",
       "action": "identify",
@@ -6233,16 +3830,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-sampling-bias",
-      "syllabusPointIds": [
-        "E9.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-sampling-bias": {
       "label": "Identify sampling bias",
       "description": "Recognise and name sampling bias from its defining mathematical properties.",
       "action": "identify",
@@ -6257,17 +3845,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-similar-shapes",
-      "syllabusPointIds": [
-        "C4.4",
-        "E4.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-similar-shapes": {
       "label": "Identify similar shapes",
       "description": "Recognise and name similar shapes from its defining mathematical properties.",
       "action": "identify",
@@ -6282,17 +3860,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-square-numbers",
-      "syllabusPointIds": [
-        "C1.1",
-        "E1.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-square-numbers": {
       "label": "Identify square numbers",
       "description": "Recognise and name square numbers from its defining mathematical properties.",
       "action": "identify",
@@ -6307,17 +3875,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "identify-unreliable-extrapolation",
-      "syllabusPointIds": [
-        "C9.5",
-        "E9.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "identify-unreliable-extrapolation": {
       "label": "Identify unreliable extrapolation",
       "description": "Recognise and name unreliable extrapolation from its defining mathematical properties.",
       "action": "identify",
@@ -6332,17 +3890,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-algebraic-indices",
-      "syllabusPointIds": [
-        "C2.4",
-        "E2.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-algebraic-indices": {
       "label": "Interpret algebraic indices",
       "description": "Extract and explain mathematical information represented by algebraic indices.",
       "action": "interpret",
@@ -6357,17 +3905,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-bar-chart",
-      "syllabusPointIds": [
-        "C9.4",
-        "E9.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-bar-chart": {
       "label": "Interpret bar chart",
       "description": "Extract and explain mathematical information represented by bar chart.",
       "action": "interpret",
@@ -6382,16 +3920,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-box-plot",
-      "syllabusPointIds": [
-        "E9.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-box-plot": {
       "label": "Interpret box plot",
       "description": "Extract and explain mathematical information represented by box plot.",
       "action": "interpret",
@@ -6406,17 +3935,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-calculator-display",
-      "syllabusPointIds": [
-        "C1.14",
-        "E1.14"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-calculator-display": {
       "label": "Interpret calculator display",
       "description": "Extract and explain mathematical information represented by calculator display.",
       "action": "interpret",
@@ -6431,16 +3950,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-cumulative-frequency-graph",
-      "syllabusPointIds": [
-        "E9.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-cumulative-frequency-graph": {
       "label": "Interpret cumulative frequency graph",
       "description": "Extract and explain mathematical information represented by cumulative frequency graph.",
       "action": "interpret",
@@ -6456,17 +3966,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-distance-time-graph",
-      "syllabusPointIds": [
-        "C2.9",
-        "E2.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-distance-time-graph": {
       "label": "Interpret distance time graph",
       "description": "Extract and explain mathematical information represented by distance time graph.",
       "action": "interpret",
@@ -6482,16 +3982,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-frequency-polygon",
-      "syllabusPointIds": [
-        "E9.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-frequency-polygon": {
       "label": "Interpret frequency polygon",
       "description": "Extract and explain mathematical information represented by frequency polygon.",
       "action": "interpret",
@@ -6506,17 +3997,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-frequency-table",
-      "syllabusPointIds": [
-        "C9.2",
-        "E9.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-frequency-table": {
       "label": "Interpret frequency table",
       "description": "Extract and explain mathematical information represented by frequency table.",
       "action": "interpret",
@@ -6531,17 +4012,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-gradient-as-rate-of-change",
-      "syllabusPointIds": [
-        "C2.9",
-        "E2.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-gradient-as-rate-of-change": {
       "label": "Interpret gradient as rate of change",
       "description": "Extract and explain mathematical information represented by gradient as rate of change.",
       "action": "interpret",
@@ -6558,17 +4029,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-gradient-intercept-form",
-      "syllabusPointIds": [
-        "C3.5",
-        "E3.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-gradient-intercept-form": {
       "label": "Interpret gradient intercept form",
       "description": "Extract and explain mathematical information represented by gradient intercept form.",
       "action": "interpret",
@@ -6584,17 +4045,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-graph-of-function",
-      "syllabusPointIds": [
-        "C2.10",
-        "E2.10"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-graph-of-function": {
       "label": "Interpret graph of function",
       "description": "Extract and explain mathematical information represented by graph of function.",
       "action": "interpret",
@@ -6609,16 +4060,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-histogram",
-      "syllabusPointIds": [
-        "E9.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-histogram": {
       "label": "Interpret histogram",
       "description": "Extract and explain mathematical information represented by histogram.",
       "action": "interpret",
@@ -6632,17 +4074,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-inequality-on-number-line",
-      "syllabusPointIds": [
-        "C2.6",
-        "E2.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-inequality-on-number-line": {
       "label": "Interpret inequality on number line",
       "description": "Extract and explain mathematical information represented by inequality on number line.",
       "action": "interpret",
@@ -6658,17 +4090,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-negative-integer-indices",
-      "syllabusPointIds": [
-        "C1.7",
-        "E1.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-negative-integer-indices": {
       "label": "Interpret negative integer indices",
       "description": "Extract and explain mathematical information represented by negative integer indices.",
       "action": "interpret",
@@ -6684,17 +4106,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-pictogram",
-      "syllabusPointIds": [
-        "C9.4",
-        "E9.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-pictogram": {
       "label": "Interpret pictogram",
       "description": "Extract and explain mathematical information represented by pictogram.",
       "action": "interpret",
@@ -6708,17 +4120,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-pie-chart",
-      "syllabusPointIds": [
-        "C9.4",
-        "E9.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-pie-chart": {
       "label": "Interpret pie chart",
       "description": "Extract and explain mathematical information represented by pie chart.",
       "action": "interpret",
@@ -6733,17 +4135,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-positive-integer-indices",
-      "syllabusPointIds": [
-        "C1.7",
-        "E1.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-positive-integer-indices": {
       "label": "Interpret positive integer indices",
       "description": "Extract and explain mathematical information represented by positive integer indices.",
       "action": "interpret",
@@ -6759,17 +4151,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-practical-graphs",
-      "syllabusPointIds": [
-        "C2.9",
-        "E2.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-practical-graphs": {
       "label": "Interpret practical graphs",
       "description": "Extract and explain mathematical information represented by practical graphs.",
       "action": "interpret",
@@ -6784,17 +4166,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-roots-from-graph",
-      "syllabusPointIds": [
-        "C2.10",
-        "E2.10"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-roots-from-graph": {
       "label": "Interpret roots from graph",
       "description": "Extract and explain mathematical information represented by roots from graph.",
       "action": "interpret",
@@ -6809,17 +4181,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-scale-drawing",
-      "syllabusPointIds": [
-        "C4.3",
-        "E4.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-scale-drawing": {
       "label": "Interpret scale drawing",
       "description": "Extract and explain mathematical information represented by scale drawing.",
       "action": "interpret",
@@ -6834,16 +4196,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-speed-time-graph",
-      "syllabusPointIds": [
-        "E2.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-speed-time-graph": {
       "label": "Interpret speed time graph",
       "description": "Extract and explain mathematical information represented by speed time graph.",
       "action": "interpret",
@@ -6859,17 +4212,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-three-letter-angle-notation",
-      "syllabusPointIds": [
-        "C4.6",
-        "E4.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-three-letter-angle-notation": {
       "label": "Interpret three letter angle notation",
       "description": "Extract and explain mathematical information represented by three letter angle notation.",
       "action": "interpret",
@@ -6886,16 +4229,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-trigonometric-function-graph",
-      "syllabusPointIds": [
-        "E6.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-trigonometric-function-graph": {
       "label": "Interpret trigonometric function graph",
       "description": "Extract and explain mathematical information represented by trigonometric function graph.",
       "action": "interpret",
@@ -6911,17 +4245,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "interpret-zero-indices",
-      "syllabusPointIds": [
-        "C1.7",
-        "E1.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "interpret-zero-indices": {
       "label": "Interpret zero indices",
       "description": "Extract and explain mathematical information represented by zero indices.",
       "action": "interpret",
@@ -6936,16 +4260,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "model-exponential-decay",
-      "syllabusPointIds": [
-        "E1.17"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "model-exponential-decay": {
       "label": "Model exponential decay",
       "description": "Represent exponential decay with a repeated multiplicative relationship over time.",
       "action": "model",
@@ -6960,16 +4275,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "model-exponential-growth",
-      "syllabusPointIds": [
-        "E1.17"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "model-exponential-growth": {
       "label": "Model exponential growth",
       "description": "Represent exponential growth with a repeated multiplicative relationship over time.",
       "action": "model",
@@ -6984,16 +4290,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "multiply-vector-by-scalar",
-      "syllabusPointIds": [
-        "E7.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "multiply-vector-by-scalar": {
       "label": "Multiply vector by scalar",
       "description": "Scale vector by scalar by multiplying each component by the stated scalar.",
       "action": "multiply",
@@ -7009,17 +4306,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "order-quantities-by-magnitude",
-      "syllabusPointIds": [
-        "C1.5",
-        "E1.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "order-quantities-by-magnitude": {
       "label": "Order quantities by magnitude",
       "description": "Arrange quantities by magnitude from least to greatest or greatest to least using their values.",
       "action": "order",
@@ -7035,17 +4322,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "plot-cartesian-coordinates",
-      "syllabusPointIds": [
-        "C3.1",
-        "E3.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "plot-cartesian-coordinates": {
       "label": "Plot cartesian coordinates",
       "description": "Plot cartesian coordinates accurately using suitable coordinates and scales.",
       "action": "plot",
@@ -7060,17 +4337,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "plot-graph-of-function",
-      "syllabusPointIds": [
-        "C2.10",
-        "E2.10"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "plot-graph-of-function": {
       "label": "Plot graph of function",
       "description": "Plot graph of function accurately using suitable coordinates and scales.",
       "action": "plot",
@@ -7085,17 +4352,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "preserve-calculation-precision",
-      "syllabusPointIds": [
-        "C1.14",
-        "E1.14"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "preserve-calculation-precision": {
       "label": "Preserve calculation precision",
       "description": "Preserve calculation precision so premature rounding does not alter the final result.",
       "action": "preserve",
@@ -7110,16 +4367,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "prove-collinearity-using-vectors",
-      "syllabusPointIds": [
-        "E7.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "prove-collinearity-using-vectors": {
       "label": "Prove collinearity using vectors",
       "description": "Establish collinearity using vectors through a valid sequence of mathematical deductions.",
       "action": "prove",
@@ -7134,16 +4382,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "prove-parallel-lines-using-vectors",
-      "syllabusPointIds": [
-        "E7.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "prove-parallel-lines-using-vectors": {
       "label": "Prove parallel lines using vectors",
       "description": "Establish parallel lines using vectors through a valid sequence of mathematical deductions.",
       "action": "prove",
@@ -7159,16 +4398,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "prove-shapes-similar",
-      "syllabusPointIds": [
-        "E4.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "prove-shapes-similar": {
       "label": "Prove shapes similar",
       "description": "Establish shapes similar through a valid sequence of mathematical deductions.",
       "action": "prove",
@@ -7183,16 +4413,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "prove-triangles-congruent",
-      "syllabusPointIds": [
-        "E4.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "prove-triangles-congruent": {
       "label": "Prove triangles congruent",
       "description": "Establish triangles congruent through a valid sequence of mathematical deductions.",
       "action": "prove",
@@ -7207,16 +4428,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "rationalise-denominator",
-      "syllabusPointIds": [
-        "E1.18"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "rationalise-denominator": {
       "label": "Rationalise denominator",
       "description": "Remove surds from denominator by multiplying by a suitable equivalent expression.",
       "action": "rationalise",
@@ -7230,17 +4442,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "read-cartesian-coordinates",
-      "syllabusPointIds": [
-        "C3.1",
-        "E3.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "read-cartesian-coordinates": {
       "label": "Read cartesian coordinates",
       "description": "Read cartesian coordinates accurately from the given representation.",
       "action": "read",
@@ -7255,17 +4457,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "read-timetables",
-      "syllabusPointIds": [
-        "C1.15",
-        "E1.15"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "read-timetables": {
       "label": "Read timetables",
       "description": "Read timetables accurately from the given representation.",
       "action": "read",
@@ -7279,16 +4471,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "recall-exact-cosine-values",
-      "syllabusPointIds": [
-        "E6.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "recall-exact-cosine-values": {
       "label": "Recall exact cosine values",
       "description": "Recall exact cosine values exactly for use without calculator derivation.",
       "action": "recall",
@@ -7304,16 +4487,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "recall-exact-sine-values",
-      "syllabusPointIds": [
-        "E6.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "recall-exact-sine-values": {
       "label": "Recall exact sine values",
       "description": "Recall exact sine values exactly for use without calculator derivation.",
       "action": "recall",
@@ -7329,16 +4503,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "recall-exact-tangent-values",
-      "syllabusPointIds": [
-        "E6.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "recall-exact-tangent-values": {
       "label": "Recall exact tangent values",
       "description": "Recall exact tangent values exactly for use without calculator derivation.",
       "action": "recall",
@@ -7354,17 +4519,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "recognise-improper-fractions",
-      "syllabusPointIds": [
-        "C1.4",
-        "E1.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "recognise-improper-fractions": {
       "label": "Recognise improper fractions",
       "description": "Recognise improper fractions from its mathematical form or defining properties.",
       "action": "recognise",
@@ -7379,17 +4534,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "recognise-mixed-numbers",
-      "syllabusPointIds": [
-        "C1.4",
-        "E1.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "recognise-mixed-numbers": {
       "label": "Recognise mixed numbers",
       "description": "Recognise mixed numbers from its mathematical form or defining properties.",
       "action": "recognise",
@@ -7404,17 +4549,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "recognise-proper-fractions",
-      "syllabusPointIds": [
-        "C1.4",
-        "E1.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "recognise-proper-fractions": {
       "label": "Recognise proper fractions",
       "description": "Recognise proper fractions from its mathematical form or defining properties.",
       "action": "recognise",
@@ -7429,17 +4564,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "recognise-sequence-pattern",
-      "syllabusPointIds": [
-        "C2.7",
-        "E2.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "recognise-sequence-pattern": {
       "label": "Recognise sequence pattern",
       "description": "Recognise sequence pattern from its mathematical form or defining properties.",
       "action": "recognise",
@@ -7454,17 +4579,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "reflect-shape",
-      "syllabusPointIds": [
-        "C7.1",
-        "E7.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "reflect-shape": {
       "label": "Reflect shape",
       "description": "Map shape across the stated mirror line at equal perpendicular distances.",
       "action": "reflect",
@@ -7478,17 +4593,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "represent-generalised-numbers-with-letters",
-      "syllabusPointIds": [
-        "C2.1",
-        "E2.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "represent-generalised-numbers-with-letters": {
       "label": "Represent generalised numbers with letters",
       "description": "Represent generalised numbers with letters using the required mathematical notation or diagram.",
       "action": "represent",
@@ -7504,17 +4609,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "represent-inequality-on-number-line",
-      "syllabusPointIds": [
-        "C2.6",
-        "E2.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "represent-inequality-on-number-line": {
       "label": "Represent inequality on number line",
       "description": "Represent inequality on number line using the required mathematical notation or diagram.",
       "action": "represent",
@@ -7530,17 +4625,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "represent-numbers-in-standard-form",
-      "syllabusPointIds": [
-        "C1.8",
-        "E1.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "represent-numbers-in-standard-form": {
       "label": "Represent numbers in standard form",
       "description": "Represent numbers in standard form using the required mathematical notation or diagram.",
       "action": "represent",
@@ -7556,17 +4641,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "represent-sets-with-venn-diagrams",
-      "syllabusPointIds": [
-        "C1.2",
-        "E1.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "represent-sets-with-venn-diagrams": {
       "label": "Represent sets with venn diagrams",
       "description": "Represent sets with venn diagrams using the required mathematical notation or diagram.",
       "action": "represent",
@@ -7582,16 +4657,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "represent-vector-in-column-form",
-      "syllabusPointIds": [
-        "E7.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "represent-vector-in-column-form": {
       "label": "Represent vector in column form",
       "description": "Represent vector in column form using the required mathematical notation or diagram.",
       "action": "represent",
@@ -7607,17 +4673,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "rotate-shape",
-      "syllabusPointIds": [
-        "C7.1",
-        "E7.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "rotate-shape": {
       "label": "Rotate shape",
       "description": "Map shape about the stated centre through the given angle and direction.",
       "action": "rotate",
@@ -7631,17 +4687,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "round-to-decimal-places",
-      "syllabusPointIds": [
-        "C1.9",
-        "E1.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "round-to-decimal-places": {
       "label": "Round to decimal places",
       "description": "Round to decimal places to the stated degree of accuracy.",
       "action": "round",
@@ -7656,17 +4702,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "round-to-significant-figures",
-      "syllabusPointIds": [
-        "C1.9",
-        "E1.9"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "round-to-significant-figures": {
       "label": "Round to significant figures",
       "description": "Round to significant figures to the stated degree of accuracy.",
       "action": "round",
@@ -7681,16 +4717,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "simplify-algebraic-fractions",
-      "syllabusPointIds": [
-        "E2.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "simplify-algebraic-fractions": {
       "label": "Simplify algebraic fractions",
       "description": "Rewrite algebraic fractions in an equivalent simplest form.",
       "action": "simplify",
@@ -7705,17 +4732,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "simplify-fractions",
-      "syllabusPointIds": [
-        "C1.4",
-        "E1.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "simplify-fractions": {
       "label": "Simplify fractions",
       "description": "Rewrite fractions in an equivalent simplest form.",
       "action": "simplify",
@@ -7729,17 +4746,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "simplify-ratios",
-      "syllabusPointIds": [
-        "C1.11",
-        "E1.11"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "simplify-ratios": {
       "label": "Simplify ratios",
       "description": "Rewrite ratios in an equivalent simplest form.",
       "action": "simplify",
@@ -7753,16 +4760,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "simplify-surds",
-      "syllabusPointIds": [
-        "E1.18"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "simplify-surds": {
       "label": "Simplify surds",
       "description": "Rewrite surds in an equivalent simplest form.",
       "action": "simplify",
@@ -7776,17 +4774,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "sketch-cubic-function",
-      "syllabusPointIds": [
-        "C2.11",
-        "E2.11"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "sketch-cubic-function": {
       "label": "Sketch cubic function",
       "description": "Sketch cubic function showing its essential mathematical features.",
       "action": "sketch",
@@ -7801,17 +4789,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "sketch-linear-function",
-      "syllabusPointIds": [
-        "C2.11",
-        "E2.11"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "sketch-linear-function": {
       "label": "Sketch linear function",
       "description": "Sketch linear function showing its essential mathematical features.",
       "action": "sketch",
@@ -7826,17 +4804,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "sketch-quadratic-function",
-      "syllabusPointIds": [
-        "C2.11",
-        "E2.11"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "sketch-quadratic-function": {
       "label": "Sketch quadratic function",
       "description": "Sketch quadratic function showing its essential mathematical features.",
       "action": "sketch",
@@ -7851,17 +4819,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "sketch-reciprocal-function",
-      "syllabusPointIds": [
-        "C2.11",
-        "E2.11"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "sketch-reciprocal-function": {
       "label": "Sketch reciprocal function",
       "description": "Sketch reciprocal function showing its essential mathematical features.",
       "action": "sketch",
@@ -7876,16 +4834,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-ambiguous-sine-rule-case",
-      "syllabusPointIds": [
-        "E6.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-ambiguous-sine-rule-case": {
       "label": "Solve ambiguous sine rule case",
       "description": "Determine all values satisfying ambiguous sine rule case and check the applicable conditions.",
       "action": "solve",
@@ -7902,17 +4851,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-angle-of-depression",
-      "syllabusPointIds": [
-        "C6.2",
-        "E6.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-angle-of-depression": {
       "label": "Solve angle of depression",
       "description": "Determine all values satisfying angle of depression and check the applicable conditions.",
       "action": "solve",
@@ -7927,17 +4866,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-angle-of-elevation",
-      "syllabusPointIds": [
-        "C6.2",
-        "E6.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-angle-of-elevation": {
       "label": "Solve angle of elevation",
       "description": "Determine all values satisfying angle of elevation and check the applicable conditions.",
       "action": "solve",
@@ -7952,17 +4881,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-bearing-with-trigonometry",
-      "syllabusPointIds": [
-        "C6.2",
-        "E6.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-bearing-with-trigonometry": {
       "label": "Solve bearing with trigonometry",
       "description": "Determine all values satisfying bearing with trigonometry and check the applicable conditions.",
       "action": "solve",
@@ -7977,16 +4896,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-direct-proportion-problem",
-      "syllabusPointIds": [
-        "E2.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-direct-proportion-problem": {
       "label": "Solve direct proportion problem",
       "description": "Determine all values satisfying direct proportion problem and check the applicable conditions.",
       "action": "solve",
@@ -8002,16 +4912,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-equation-with-algebraic-fractions",
-      "syllabusPointIds": [
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-equation-with-algebraic-fractions": {
       "label": "Solve equation with algebraic fractions",
       "description": "Determine all values satisfying equation with algebraic fractions and check the applicable conditions.",
       "action": "solve",
@@ -8027,17 +4928,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-equations-graphically",
-      "syllabusPointIds": [
-        "C2.10",
-        "E2.10"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-equations-graphically": {
       "label": "Solve equations graphically",
       "description": "Determine all values satisfying equations graphically and check the applicable conditions.",
       "action": "solve",
@@ -8052,16 +4943,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-inverse-proportion-problem",
-      "syllabusPointIds": [
-        "E2.8"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-inverse-proportion-problem": {
       "label": "Solve inverse proportion problem",
       "description": "Determine all values satisfying inverse proportion problem and check the applicable conditions.",
       "action": "solve",
@@ -8077,17 +4959,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-linear-equation",
-      "syllabusPointIds": [
-        "C2.5",
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-linear-equation": {
       "label": "Solve linear equation",
       "description": "Determine all values satisfying linear equation and check the applicable conditions.",
       "action": "solve",
@@ -8102,17 +4974,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-linear-inequality",
-      "syllabusPointIds": [
-        "C2.6",
-        "E2.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-linear-inequality": {
       "label": "Solve linear inequality",
       "description": "Determine all values satisfying linear inequality and check the applicable conditions.",
       "action": "solve",
@@ -8127,16 +4989,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-quadratic-equation-by-factorisation",
-      "syllabusPointIds": [
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-quadratic-equation-by-factorisation": {
       "label": "Solve quadratic equation by factorisation",
       "description": "Determine all values satisfying quadratic equation by factorisation and check the applicable conditions.",
       "action": "solve",
@@ -8155,16 +5008,7 @@
       ],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-quadratic-equation-using-formula",
-      "syllabusPointIds": [
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-quadratic-equation-using-formula": {
       "label": "Solve quadratic equation using formula",
       "description": "Determine all values satisfying quadratic equation using formula and check the applicable conditions.",
       "action": "solve",
@@ -8180,16 +5024,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-quadratic-inequality",
-      "syllabusPointIds": [
-        "E2.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-quadratic-inequality": {
       "label": "Solve quadratic inequality",
       "description": "Determine all values satisfying quadratic inequality and check the applicable conditions.",
       "action": "solve",
@@ -8204,17 +5039,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-simple-exponential-equations",
-      "syllabusPointIds": [
-        "C2.4",
-        "E2.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-simple-exponential-equations": {
       "label": "Solve simple exponential equations",
       "description": "Determine all values satisfying simple exponential equations and check the applicable conditions.",
       "action": "solve",
@@ -8230,16 +5055,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-simultaneous-linear-and-quadratic-equations",
-      "syllabusPointIds": [
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-simultaneous-linear-and-quadratic-equations": {
       "label": "Solve simultaneous linear and quadratic equations",
       "description": "Determine all values satisfying simultaneous linear and quadratic equations and check the applicable conditions.",
       "action": "solve",
@@ -8256,17 +5072,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-simultaneous-linear-equations",
-      "syllabusPointIds": [
-        "C2.5",
-        "E2.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-simultaneous-linear-equations": {
       "label": "Solve simultaneous linear equations",
       "description": "Determine all values satisfying simultaneous linear equations and check the applicable conditions.",
       "action": "solve",
@@ -8284,16 +5090,7 @@
       ],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-three-dimensional-pythagoras-problem",
-      "syllabusPointIds": [
-        "E6.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-three-dimensional-pythagoras-problem": {
       "label": "Solve three dimensional pythagoras problem",
       "description": "Determine all values satisfying three dimensional pythagoras problem and check the applicable conditions.",
       "action": "solve",
@@ -8310,16 +5107,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-three-dimensional-trigonometry-problem",
-      "syllabusPointIds": [
-        "E6.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-three-dimensional-trigonometry-problem": {
       "label": "Solve three dimensional trigonometry problem",
       "description": "Determine all values satisfying three dimensional trigonometry problem and check the applicable conditions.",
       "action": "solve",
@@ -8338,17 +5126,7 @@
       ],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-time-zone-problems",
-      "syllabusPointIds": [
-        "C1.15",
-        "E1.15"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-time-zone-problems": {
       "label": "Solve time zone problems",
       "description": "Determine all values satisfying time zone problems and check the applicable conditions.",
       "action": "solve",
@@ -8364,16 +5142,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-trigonometric-equation-from-graph",
-      "syllabusPointIds": [
-        "E6.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-trigonometric-equation-from-graph": {
       "label": "Solve trigonometric equation from graph",
       "description": "Determine all values satisfying trigonometric equation from graph and check the applicable conditions.",
       "action": "solve",
@@ -8389,16 +5158,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "solve-vector-geometry-problem",
-      "syllabusPointIds": [
-        "E7.4"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "solve-vector-geometry-problem": {
       "label": "Solve vector geometry problem",
       "description": "Determine all values satisfying vector geometry problem and check the applicable conditions.",
       "action": "solve",
@@ -8414,17 +5174,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "substitute-values-into-expressions",
-      "syllabusPointIds": [
-        "C2.1",
-        "E2.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "substitute-values-into-expressions": {
       "label": "Substitute values into expressions",
       "description": "Replace variables in values into expressions with supplied values and evaluate correctly.",
       "action": "substitute",
@@ -8440,17 +5190,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "substitute-values-into-formulas",
-      "syllabusPointIds": [
-        "C2.1",
-        "E2.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "substitute-values-into-formulas": {
       "label": "Substitute values into formulas",
       "description": "Replace variables in values into formulas with supplied values and evaluate correctly.",
       "action": "substitute",
@@ -8466,16 +5206,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "subtract-vectors",
-      "syllabusPointIds": [
-        "E7.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "subtract-vectors": {
       "label": "Subtract vectors",
       "description": "Find the vector or numerical difference for vectors using the applicable subtraction rule.",
       "action": "subtract",
@@ -8489,17 +5220,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "translate-shape",
-      "syllabusPointIds": [
-        "C7.1",
-        "E7.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "translate-shape": {
       "label": "Translate shape",
       "description": "Map every point of shape by the stated translation vector.",
       "action": "translate",
@@ -8513,17 +5234,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-calculator-efficiently",
-      "syllabusPointIds": [
-        "C1.14",
-        "E1.14"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-calculator-efficiently": {
       "label": "Use calculator efficiently",
       "description": "Use calculator efficiently correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8538,17 +5249,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-cosine-ratio",
-      "syllabusPointIds": [
-        "C6.2",
-        "E6.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-cosine-ratio": {
       "label": "Use cosine ratio",
       "description": "Use cosine ratio correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8563,16 +5264,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-cosine-rule",
-      "syllabusPointIds": [
-        "E6.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-cosine-rule": {
       "label": "Use cosine rule",
       "description": "Use cosine rule correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8587,17 +5279,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-equal-gradients-for-parallel-lines",
-      "syllabusPointIds": [
-        "C3.6",
-        "E3.6"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-equal-gradients-for-parallel-lines": {
       "label": "Use equal gradients for parallel lines",
       "description": "Use equal gradients for parallel lines correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8615,16 +5297,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-function-notation",
-      "syllabusPointIds": [
-        "E2.13"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-function-notation": {
       "label": "Use function notation",
       "description": "Use function notation correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8639,17 +5312,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-geometric-vocabulary",
-      "syllabusPointIds": [
-        "C4.1",
-        "E4.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-geometric-vocabulary": {
       "label": "Use geometric vocabulary",
       "description": "Use geometric vocabulary correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8664,17 +5327,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-line-of-best-fit",
-      "syllabusPointIds": [
-        "C9.5",
-        "E9.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-line-of-best-fit": {
       "label": "Use line of best fit",
       "description": "Use line of best fit correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8690,16 +5343,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-negative-reciprocal-gradients",
-      "syllabusPointIds": [
-        "E3.7"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-negative-reciprocal-gradients": {
       "label": "Use negative reciprocal gradients",
       "description": "Use negative reciprocal gradients correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8715,16 +5359,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-position-vectors",
-      "syllabusPointIds": [
-        "E7.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-position-vectors": {
       "label": "Use position vectors",
       "description": "Use position vectors correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8739,17 +5374,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-probability-scale",
-      "syllabusPointIds": [
-        "C8.1",
-        "E8.1"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-probability-scale": {
       "label": "Use probability scale",
       "description": "Use probability scale correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8764,17 +5389,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-set-language-and-notation",
-      "syllabusPointIds": [
-        "C1.2",
-        "E1.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-set-language-and-notation": {
       "label": "Use set language and notation",
       "description": "Use set language and notation correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8790,16 +5405,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-set-notation-in-probability",
-      "syllabusPointIds": [
-        "E8.3"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-set-notation-in-probability": {
       "label": "Use set notation in probability",
       "description": "Use set notation in probability correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8815,17 +5421,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-sine-ratio",
-      "syllabusPointIds": [
-        "C6.2",
-        "E6.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-sine-ratio": {
       "label": "Use sine ratio",
       "description": "Use sine ratio correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8840,16 +5436,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-sine-rule",
-      "syllabusPointIds": [
-        "E6.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-sine-rule": {
       "label": "Use sine rule",
       "description": "Use sine rule correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8864,16 +5451,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-symmetry-properties-of-circle",
-      "syllabusPointIds": [
-        "E4.5"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-symmetry-properties-of-circle": {
       "label": "Use symmetry properties of circle",
       "description": "Use symmetry properties of circle correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8889,17 +5467,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-tangent-ratio",
-      "syllabusPointIds": [
-        "C6.2",
-        "E6.2"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-tangent-ratio": {
       "label": "Use tangent ratio",
       "description": "Use tangent ratio correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8914,17 +5482,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-twelve-hour-clock",
-      "syllabusPointIds": [
-        "C1.15",
-        "E1.15"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-twelve-hour-clock": {
       "label": "Use twelve hour clock",
       "description": "Use twelve hour clock correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8940,17 +5498,7 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     },
-    {
-      "id": "use-twenty-four-hour-clock",
-      "syllabusPointIds": [
-        "C1.15",
-        "E1.15"
-      ],
-      "origin": "lattice-derived",
-      "review": {
-        "status": "pending-review",
-        "notes": ""
-      },
+    "use-twenty-four-hour-clock": {
       "label": "Use twenty four hour clock",
       "description": "Use twenty four hour clock correctly to perform the stated mathematical task.",
       "action": "use",
@@ -8967,5 +5515,5 @@
       "prerequisiteSkillIds": [],
       "relatedSkillIds": []
     }
-  ]
+  }
 }

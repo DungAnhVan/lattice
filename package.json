@@ -10,6 +10,8 @@
     "generate:0580-indexes": "python scripts/generate_0580_indexes.py",
     "validate:0580-taxonomy": "python scripts/validate_0580_taxonomy.py",
     "test:0580-taxonomy": "python -m unittest discover -s tests -p test_0580_taxonomy.py",
-    "gate1b:0580": "python scripts/generate_0580_indexes.py && python scripts/validate_0580_taxonomy.py"
+    "test:0580-gate1c": "python -m unittest discover -s tests -p test_0580_gate1c.py",
+    "gate1b:0580": "python scripts/generate_0580_indexes.py && python scripts/validate_0580_taxonomy.py",
+    "gate1c:0580": "python scripts/generate_0580_indexes.py && python scripts/validate_0580_taxonomy.py && python scripts/generate_0580_gate1c_reports.py"
   }
 }

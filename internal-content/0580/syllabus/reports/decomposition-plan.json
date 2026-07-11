@@ -1,0 +1,2586 @@
+{
+  "schemaVersion": "1.0",
+  "generatedFrom": "taxonomy/syllabus-points.json",
+  "points": [
+    {
+      "pointId": "C1.1",
+      "title": "Types of number",
+      "placeholder": false,
+      "currentSkillIds": [
+        "classify-rational-and-irrational-numbers",
+        "find-common-factors",
+        "find-common-multiples",
+        "find-reciprocals",
+        "identify-cube-numbers",
+        "identify-integers",
+        "identify-natural-numbers",
+        "identify-prime-numbers",
+        "identify-square-numbers"
+      ],
+      "currentClauseCount": 10,
+      "clauses": [
+        "Identify and use:",
+        "natural numbers",
+        "integers (positive, zero and negative)",
+        "prime numbers",
+        "square numbers",
+        "cube numbers",
+        "common factors",
+        "common multiples",
+        "rational and irrational numbers",
+        "reciprocals."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C1.2",
+      "title": "Sets",
+      "placeholder": false,
+      "currentSkillIds": [
+        "represent-sets-with-venn-diagrams",
+        "use-set-language-and-notation"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Understand and use set language, notation and Venn diagrams to describe sets."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C1.3",
+      "title": "Powers and roots",
+      "placeholder": false,
+      "currentSkillIds": [
+        "calculate-powers-and-roots"
+      ],
+      "currentClauseCount": 6,
+      "clauses": [
+        "Calculate with the following:",
+        "squares",
+        "square roots",
+        "cubes",
+        "cube roots",
+        "other powers and roots of numbers."
+      ],
+      "broadSkillIds": [
+        "calculate-powers-and-roots"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.4",
+      "title": "Fractions, decimals and percentages",
+      "placeholder": false,
+      "currentSkillIds": [
+        "convert-between-fractions-decimals-and-percentages"
+      ],
+      "currentClauseCount": 7,
+      "clauses": [
+        "Use the language and notation of the following in \nappropriate contexts:",
+        "proper fractions",
+        "improper fractions",
+        "mixed numbers",
+        "decimals",
+        "percentages.",
+        "Recognise equivalence and convert between \nthese forms."
+      ],
+      "broadSkillIds": [
+        "convert-between-fractions-decimals-and-percentages"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.5",
+      "title": "Ordering",
+      "placeholder": false,
+      "currentSkillIds": [
+        "compare-quantities-using-inequality-symbols",
+        "order-quantities-by-magnitude"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Order quantities by magnitude and demonstrate \nfamiliarity with the symbols =, ≠, >, < , ⩾ and ⩽ ."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C1.6",
+      "title": "The four operations",
+      "placeholder": false,
+      "currentSkillIds": [
+        "use-the-four-operations"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Use the four operations for calculations with \nintegers, fractions and decimals, including correct \nordering of operations and use of brackets."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.7",
+      "title": "Indices I",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-integer-index-laws"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Understand and use indices (positive, zero and negative integers).",
+        "Understand and use the rules of indices."
+      ],
+      "broadSkillIds": [
+        "apply-integer-index-laws"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.8",
+      "title": "Standard form",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-standard-form"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Use the standard form A × 10n where n is a \npositive or negative integer and 1 ⩽ A < 10.",
+        "Convert numbers into and out of standard form.",
+        "Calculate with values in standard form."
+      ],
+      "broadSkillIds": [
+        "apply-standard-form"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.9",
+      "title": "Estimation",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-estimation"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Round values to a specified degree of accuracy.",
+        "Make estimates for calculations involving \nnumbers, quantities and measurements.",
+        "Round answers to a reasonable degree of \naccuracy in the context of a given problem."
+      ],
+      "broadSkillIds": [
+        "apply-estimation"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.10",
+      "title": "Limits of accuracy",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-limits-of-accuracy"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Give upper and lower bounds for data rounded to a \nspecified accuracy.\ne.g. write down the upper bound of a length \nmeasured correct to the nearest metre."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.11",
+      "title": "Ratio and proportion",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-ratio-and-proportion"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Understand and use ratio and proportion to:",
+        "give ratios in their simplest form",
+        "divide a quantity in a given ratio",
+        "use proportional reasoning and ratios in \ncontext.\ne.g. 20 : 30 : 40 in its simplest form is 2 : 3 : 4.\ne.g. adapt recipes; use map scales; determine best \nvalue."
+      ],
+      "broadSkillIds": [
+        "apply-ratio-and-proportion"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.12",
+      "title": "Rates",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-rates-concepts"
+      ],
+      "currentClauseCount": 10,
+      "clauses": [
+        "Use common measures of rate.",
+        "Apply other measures of rate.",
+        "Solve problems involving average speed.\ne.g. calculate with:",
+        "hourly rates of pay",
+        "exchange rates between currencies",
+        "flow rates",
+        "fuel consumption.\ne.g. calculate with:",
+        "pressure",
+        "density",
+        "population density."
+      ],
+      "broadSkillIds": [
+        "apply-rates-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.13",
+      "title": "Percentages",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-percentages-concepts"
+      ],
+      "currentClauseCount": 9,
+      "clauses": [
+        "Calculate a given percentage of a quantity.",
+        "Express one quantity as a percentage of another.",
+        "Calculate percentage increase or decrease.",
+        "Calculate with simple and compound interest.\nFormulas are not given. \nPercentage calculations may include:",
+        "deposit",
+        "discount",
+        "profit and loss (as an amount or a percentage)",
+        "earnings",
+        "percentages over 100%."
+      ],
+      "broadSkillIds": [
+        "apply-percentages-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.14",
+      "title": "Using a calculator",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-using-a-calculator"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Use a calculator efficiently.",
+        "Enter values appropriately on a calculator.",
+        "Interpret the calculator display appropriately.\ne.g. know not to round values within a calculation \nand to only round the final answer.\ne.g. enter 2 hours 30 minutes as 2.5 hours or \n2° 30’ 0’’.\ne.g. in money 4.8 means $4.80; in time 3.25 means",
+        "hours 15 minutes."
+      ],
+      "broadSkillIds": [
+        "apply-using-a-calculator"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.15",
+      "title": "Time",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-time-concepts"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Calculate with time: seconds (s), minutes (min), \nhours (h), days, weeks, months, years, including \nthe relationship between units.",
+        "Calculate times in terms of the 24-hour and \n12-hour clock.",
+        "Read clocks and timetables.",
+        "year = 365 days.\nIn the 24-hour clock, for example, 3.15 a.m. will be \ndenoted by 03 15 and 3.15 p.m. by 15 15."
+      ],
+      "broadSkillIds": [
+        "apply-time-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.16",
+      "title": "Money",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-money-concepts"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Calculate with money.",
+        "Convert from one currency to another."
+      ],
+      "broadSkillIds": [
+        "apply-money-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C1.17",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C1.18",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C2.1",
+      "title": "Introduction to algebra",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-introduction-to-algebra"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Know that letters can be used to represent \ngeneralised numbers.",
+        "Substitute numbers into expressions and \nformulas."
+      ],
+      "broadSkillIds": [
+        "apply-introduction-to-algebra"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C2.2",
+      "title": "Algebraic manipulation",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-algebraic-manipulation"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Simplify expressions by collecting like terms.",
+        "Expand products of algebraic expressions.",
+        "Factorise by extracting common factors."
+      ],
+      "broadSkillIds": [
+        "apply-algebraic-manipulation"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C2.3",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C2.4",
+      "title": "Indices II",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-indices"
+      ],
+      "currentClauseCount": 5,
+      "clauses": [
+        "Understand and use indices (positive, zero and \nnegative).",
+        "Understand and use the rules of indices.\ne.g. 2x = 32. Find the value of x.\ne.g. simplify:",
+        "(5x 3) 2",
+        "12a 5 ÷ 3a –2",
+        "6x 7y 4 × 5x –5y."
+      ],
+      "broadSkillIds": [
+        "apply-indices"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C2.5",
+      "title": "Equations",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-equations"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Construct simple expressions, equations and \nformulas.",
+        "Solve linear equations in one unknown.",
+        "Solve simultaneous linear equations in two \nunknowns.",
+        "Change the subject of simple formulas.\ne.g. write an expression for a number that is 2 more \nthan n."
+      ],
+      "broadSkillIds": [
+        "apply-equations"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C2.6",
+      "title": "Inequalities",
+      "placeholder": false,
+      "currentSkillIds": [
+        "represent-inequalities"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Represent and interpret inequalities, including on a \nnumber line."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C2.7",
+      "title": "Sequences",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-sequences"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Continue a given number sequence or pattern.",
+        "Recognise patterns in sequences, including the \nterm-to-term rule, and relationships between \ndifferent sequences.",
+        "Find and use the nth term of the following \nsequences:\n(a) linear\n(b) simple quadratic\n(c) simple cubic.\ne.g. write the next two terms in this sequence: \n1, 3, 6, 10, 15, … , …\ne.g. find the nth term of 2, 5, 10, 17"
+      ],
+      "broadSkillIds": [
+        "apply-sequences"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C2.8",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C2.9",
+      "title": "Graphs in practical situations",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-graphs-in-practical-situations"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Use and interpret graphs in practical situations \nincluding travel graphs and conversion graphs.",
+        "Draw graphs from given data.\ne.g. interpret the gradient of a straight-line graph as \na rate of change.\ne.g. draw a distance–time graph to represent a \njourney."
+      ],
+      "broadSkillIds": [
+        "apply-graphs-in-practical-situations"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C2.10",
+      "title": "Graphs of functions",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-graphs-of-functions"
+      ],
+      "currentClauseCount": 5,
+      "clauses": [
+        "Construct tables of values, and draw, recognise \nand interpret graphs for functions of the following \nforms:",
+        "ax + b",
+        "± x2 + ax + b",
+        "x\na (x ≠ 0)\n where a and b are integer constants.",
+        "Solve associated equations graphically, including \nfinding and interpreting roots by graphical \nmethods.\ne.g. find the intersection of a line and a curve."
+      ],
+      "broadSkillIds": [
+        "apply-graphs-of-functions"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C2.11",
+      "title": "Sketching curves",
+      "placeholder": false,
+      "currentSkillIds": [
+        "recognise-sketching-curves"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Recognise, sketch and interpret graphs of the \nfollowing functions:\n(a) linear \n(b) quadratic."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C2.12",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C2.13",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C3.1",
+      "title": "Coordinates",
+      "placeholder": false,
+      "currentSkillIds": [
+        "use-coordinates"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Use and interpret Cartesian coordinates in \ntwo dimensions."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C3.2",
+      "title": "Drawing linear graphs",
+      "placeholder": false,
+      "currentSkillIds": [
+        "draw-drawing-linear-graphs"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Draw straight-line graphs for linear equations.\nEquations will be given in the form y = mx + c \n(e.g. y = –2x + 5), unless a table of values is given."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C3.3",
+      "title": "Gradient of linear graphs",
+      "placeholder": false,
+      "currentSkillIds": [
+        "find-gradient-of-linear-graphs"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Find the gradient of a straight line.\nFrom a grid only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C3.4",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C3.5",
+      "title": "Equations of linear graphs",
+      "placeholder": false,
+      "currentSkillIds": [
+        "interpret-equations-of-linear-graphs"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Interpret and obtain the equation of a straight-line \ngraph in the form y = mx + c.\nQuestions may:",
+        "use and request lines in the forms\ny = mx + c \nx = k",
+        "involve finding the equation when the graph is \ngiven",
+        "ask for the gradient or y-intercept of a graph \nfrom an equation, e.g. find the gradient and \ny-intercept of the graph with the equation \ny = 6x + 3."
+      ],
+      "broadSkillIds": [
+        "interpret-equations-of-linear-graphs"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C3.6",
+      "title": "Parallel lines",
+      "placeholder": false,
+      "currentSkillIds": [
+        "find-parallel-lines"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Find the gradient and equation of a straight line \nparallel to a given line.\ne.g. find the equation of the line parallel to \ny = 4x – 1 that passes through (1, –3)."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C3.7",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C4.1",
+      "title": "Geometrical terms",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-geometrical-terms"
+      ],
+      "currentClauseCount": 30,
+      "clauses": [
+        "Use and interpret the following geometrical \nterms:",
+        "point",
+        "vertex",
+        "line",
+        "parallel",
+        "perpendicular",
+        "bearing",
+        "right angle",
+        "acute, obtuse and reflex angles",
+        "interior and exterior angles",
+        "similar",
+        "congruent",
+        "scale factor.",
+        "Use and interpret the vocabulary of:",
+        "triangles",
+        "special quadrilaterals",
+        "polygons",
+        "nets",
+        "simple solids.",
+        "Use and interpret the vocabulary of a circle.\nSimple solids:",
+        "cube",
+        "cuboid",
+        "prism",
+        "cylinder",
+        "pyramid",
+        "cone",
+        "sphere (term ‘hemisphere’ not required)",
+        "face",
+        "surface",
+        "edge."
+      ],
+      "broadSkillIds": [
+        "apply-geometrical-terms"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C4.2",
+      "title": "Geometrical constructions",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-geometrical-constructions"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Measure and draw lines and angles.",
+        "Construct a triangle, given the lengths of all \nsides, using a ruler and pair of compasses only.",
+        "Draw, use and interpret nets.\nA ruler should be used for all straight edges.\nConstructions of perpendicular bisectors and angle \nbisectors are not required. \ne.g. construct a rhombus by drawing two triangles. \nConstruction arcs must be shown."
+      ],
+      "broadSkillIds": [
+        "apply-geometrical-constructions"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C4.3",
+      "title": "Scale drawings",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-scale-drawings"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Draw and interpret scale drawings.",
+        "Use and interpret three-figure bearings."
+      ],
+      "broadSkillIds": [
+        "apply-scale-drawings"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C4.4",
+      "title": "Similarity",
+      "placeholder": false,
+      "currentSkillIds": [
+        "calculate-similarity-concepts"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Calculate lengths of similar shapes."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C4.5",
+      "title": "Symmetry",
+      "placeholder": false,
+      "currentSkillIds": [
+        "recognise-symmetry-concepts"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Recognise line symmetry and order of rotational \nsymmetry in two dimensions."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C4.6",
+      "title": "Angles",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-angle-properties-of-regular-polygons",
+        "apply-angle-sum-of-quadrilateral",
+        "apply-angle-sum-of-triangle",
+        "apply-angles-around-a-point",
+        "apply-angles-on-a-straight-line",
+        "apply-parallel-line-angle-properties"
+      ],
+      "currentClauseCount": 10,
+      "clauses": [
+        "Calculate unknown angles and give simple \nexplanations using the following geometrical \nproperties:",
+        "sum of angles at a point = 360°",
+        "sum of angles at a point on a straight line = 180°",
+        "vertically opposite angles are equal",
+        "angle sum of a triangle = 180° and angle sum \nof a quadrilateral = 360°.",
+        "Calculate unknown angles and give geometric \nexplanations for angles formed within parallel lines:",
+        "corresponding angles are equal",
+        "alternate angles are equal",
+        "co-interior angles sum to 180° (supplementary).",
+        "Know and use angle properties of regular \npolygons."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C4.7",
+      "title": "Circle theorems",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-angle-in-semicircle-theorem",
+        "apply-tangent-radius-angle-property"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Calculate unknown angles and give explanations \nusing the following geometrical properties of circles:",
+        "angle in a semicircle = 90°",
+        "angle between tangent and radius = 90°.\nCandidates will be expected to use the geometrical \nproperties listed in the syllabus when giving \nreasons for answers."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C4.8",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C5.1",
+      "title": "Units of measure",
+      "placeholder": false,
+      "currentSkillIds": [
+        "use-units-of-measure"
+      ],
+      "currentClauseCount": 8,
+      "clauses": [
+        "Use metric units of mass, length, area, volume \nand capacity in practical situations and convert \nquantities into larger or smaller units.\nUnits include:",
+        "mm, cm, m, km",
+        "mm2, cm2, m2, km2",
+        "mm3, cm3, m3",
+        "ml, l",
+        "g, kg. \nConversion between units includes:",
+        "between different units of area, e.g. cm2 ↔ m2",
+        "between units of volume and capacity, \ne.g. m3 ↔ litres."
+      ],
+      "broadSkillIds": [
+        "use-units-of-measure"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C5.2",
+      "title": "Area and perimeter",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-area-and-perimeter"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Carry out calculations involving the perimeter and \narea of a rectangle, triangle, parallelogram and \ntrapezium. \nExcept for area of a triangle, formulas are not \ngiven."
+      ],
+      "broadSkillIds": [
+        "apply-area-and-perimeter"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C5.3",
+      "title": "Circles, arcs and sectors",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-circles-arcs-and-sectors"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Carry out calculations involving the \ncircumference and area of a circle.",
+        "Carry out calculations involving arc length and \nsector area as fractions of the circumference and \narea of a circle, where the sector angle is a factor \nof 360°.\nAnswers may be asked for in terms of π.\nFormulas are given in the List of formulas."
+      ],
+      "broadSkillIds": [
+        "apply-circles-arcs-and-sectors"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C5.4",
+      "title": "Surface area and volume",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-surface-area-and-volume"
+      ],
+      "currentClauseCount": 15,
+      "clauses": [
+        "Carry out calculations and solve problems involving \nthe surface area and volume of a:",
+        "cuboid",
+        "prism",
+        "cylinder",
+        "sphere",
+        "pyramid",
+        "cone.\nAnswers may be asked for in terms of π.\nThe following formulas are given in the List of \nformulas:",
+        "curved surface area of a cylinder",
+        "curved surface area of a cone",
+        "surface area of a sphere",
+        "volume of a prism",
+        "volume of a pyramid",
+        "volume of a cylinder",
+        "volume of a cone",
+        "volume of a sphere.\nThe term prism refers to any solid with a uniform \ncross-section, e.g. a cylindrical sector."
+      ],
+      "broadSkillIds": [
+        "apply-surface-area-and-volume"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C5.5",
+      "title": "Compound shapes and parts of shapes",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-compound-shapes-and-parts-of-shapes"
+      ],
+      "currentClauseCount": 6,
+      "clauses": [
+        "Carry out calculations and solve problems \ninvolving perimeters and areas of:",
+        "compound shapes",
+        "parts of shapes.",
+        "Carry out calculations and solve problems \ninvolving surface areas and volumes of:",
+        "compound solids",
+        "parts of solids.\nAnswers may be asked for in terms of π. \ne.g. find the volume of half of a sphere."
+      ],
+      "broadSkillIds": [
+        "apply-compound-shapes-and-parts-of-shapes"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C6.1",
+      "title": "Pythagoras’ theorem",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-pythagoras-theorem"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Know and use Pythagoras’ theorem."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C6.2",
+      "title": "Right-angled triangles",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-right-angled-triangles"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Know and use the sine, cosine and tangent \nratios for acute angles in calculations involving \nsides and angles of a right-angled triangle.",
+        "Solve problems in two dimensions using \nPythagoras’ theorem and trigonometry."
+      ],
+      "broadSkillIds": [
+        "apply-right-angled-triangles"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C6.3",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C6.4",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C6.5",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C6.6",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C7.1",
+      "title": "Transformations",
+      "placeholder": false,
+      "currentSkillIds": [
+        "recognise-transformations"
+      ],
+      "currentClauseCount": 5,
+      "clauses": [
+        "Recognise, describe and draw the following \ntransformations:",
+        "Reflection of a shape in a vertical or horizontal \nline.",
+        "Rotation of a shape about the origin, vertices \nor midpoints of edges of the shape, through \nmultiples of 90°.",
+        "Enlargement of a shape from a centre by a scale \nfactor.",
+        "Translation of a shape by a vector x\ny\nJ\nL\nKK\nN\nP\nOO."
+      ],
+      "broadSkillIds": [
+        "recognise-transformations"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C7.2",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C7.3",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C7.4",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C8.1",
+      "title": "Introduction to probability",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-introduction-to-probability"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Understand and use the probability scale from",
+        "to 1.",
+        "Calculate the probability of a single event.",
+        "Understand that the probability of an event \nnot occurring = 1 – the probability of the event \noccurring.\nProbability notation is not required."
+      ],
+      "broadSkillIds": [
+        "apply-introduction-to-probability"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C8.2",
+      "title": "Relative and expected frequencies",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-relative-and-expected-frequencies"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Understand relative frequency as an estimate of \nprobability.",
+        "Calculate expected frequencies.\ne.g. use results of experiments with a spinner to \nestimate the probability of a given outcome.\ne.g. use probability to estimate an expected value \nfrom a population."
+      ],
+      "broadSkillIds": [
+        "apply-relative-and-expected-frequencies"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C8.3",
+      "title": "Probability of combined events",
+      "placeholder": false,
+      "currentSkillIds": [
+        "calculate-probability-of-combined-events"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Calculate the probability of combined events using, \nwhere appropriate:",
+        "sample space diagrams",
+        "Venn diagrams",
+        "tree diagrams."
+      ],
+      "broadSkillIds": [
+        "calculate-probability-of-combined-events"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C8.4",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C9.1",
+      "title": "Classifying statistical data",
+      "placeholder": false,
+      "currentSkillIds": [
+        "classify-classifying-statistical-data"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Classify and tabulate statistical data.\ne.g. tally tables, two-way tables."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C9.2",
+      "title": "Interpreting statistical data",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-interpreting-statistical-data"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Read, interpret and draw inferences from tables \nand statistical diagrams.",
+        "Compare sets of data using tables, graphs and \nstatistical measures.",
+        "Appreciate restrictions on drawing conclusions \nfrom given data.\ne.g. compare averages and ranges between two \ndata sets."
+      ],
+      "broadSkillIds": [
+        "apply-interpreting-statistical-data"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C9.3",
+      "title": "Averages and range",
+      "placeholder": false,
+      "currentSkillIds": [
+        "calculate-averages-and-range"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Calculate the mean, median, mode and range \nfor individual data and distinguish between the \npurposes for which these are used."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C9.4",
+      "title": "Statistical charts and diagrams",
+      "placeholder": false,
+      "currentSkillIds": [
+        "draw-statistical-charts-and-diagrams"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Draw and interpret:\n(a) bar charts\n(b) pie charts\n(c) pictograms\n(d) stem-and-leaf diagrams\n(e) simple frequency distributions."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C9.5",
+      "title": "Scatter diagrams",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-scatter-diagrams"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Draw and interpret scatter diagrams.",
+        "Understand what is meant by positive, negative \nand zero correlation.",
+        "Draw by eye, interpret and use a straight line of \nbest fit."
+      ],
+      "broadSkillIds": [
+        "apply-scatter-diagrams"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "C9.6",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "C9.7",
+      "title": "Extended content only",
+      "placeholder": true,
+      "currentSkillIds": [],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Extended content only."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "E1.1",
+      "title": "Types of number",
+      "placeholder": false,
+      "currentSkillIds": [
+        "identify-types-of-number"
+      ],
+      "currentClauseCount": 10,
+      "clauses": [
+        "Identify and use:",
+        "natural numbers",
+        "integers (positive, zero and negative)",
+        "prime numbers",
+        "square numbers",
+        "cube numbers",
+        "common factors",
+        "common multiples",
+        "rational and irrational numbers",
+        "reciprocals."
+      ],
+      "broadSkillIds": [
+        "identify-types-of-number"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.2",
+      "title": "Sets",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-sets"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Understand and use set language, notation and Venn diagrams to describe sets."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.3",
+      "title": "Powers and roots",
+      "placeholder": false,
+      "currentSkillIds": [
+        "calculate-powers-and-roots"
+      ],
+      "currentClauseCount": 6,
+      "clauses": [
+        "Calculate with the following:",
+        "squares",
+        "square roots",
+        "cubes",
+        "cube roots",
+        "other powers and roots of numbers."
+      ],
+      "broadSkillIds": [
+        "calculate-powers-and-roots"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.4",
+      "title": "Fractions, decimals and percentages",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-fractions-decimals-and-percentages"
+      ],
+      "currentClauseCount": 7,
+      "clauses": [
+        "Use the language and notation of the following in \nappropriate contexts:",
+        "proper fractions",
+        "improper fractions",
+        "mixed numbers",
+        "decimals",
+        "percentages.",
+        "Recognise equivalence and convert between \nthese forms."
+      ],
+      "broadSkillIds": [
+        "apply-fractions-decimals-and-percentages"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.5",
+      "title": "Ordering",
+      "placeholder": false,
+      "currentSkillIds": [
+        "order-ordering"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Order quantities by magnitude and demonstrate \nfamiliarity with the symbols =, ≠, >, < , ⩾ and ⩽."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.6",
+      "title": "The four operations",
+      "placeholder": false,
+      "currentSkillIds": [
+        "use-the-four-operations"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Use the four operations for calculations with \nintegers, fractions and decimals, including correct \nordering of operations and use of brackets."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.7",
+      "title": "Indices I",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-indices"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Understand and use indices (positive, zero, \nnegative, and fractional).",
+        "Understand and use the rules of indices."
+      ],
+      "broadSkillIds": [
+        "apply-indices"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.8",
+      "title": "Standard form",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-standard-form"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Use the standard form A × 10n where n is a \npositive or negative integer and 1 ⩽ A < 10.",
+        "Convert numbers into and out of standard form.",
+        "Calculate with values in standard form."
+      ],
+      "broadSkillIds": [
+        "apply-standard-form"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.9",
+      "title": "Estimation",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-estimation"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Round values to a specified degree of accuracy.",
+        "Make estimates for calculations involving \nnumbers, quantities and measurements.",
+        "Round answers to a reasonable degree of \naccuracy in the context of a given problem."
+      ],
+      "broadSkillIds": [
+        "apply-estimation"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.10",
+      "title": "Limits of accuracy",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-limits-of-accuracy"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Give upper and lower bounds for data rounded \nto a specified accuracy.",
+        "Find upper and lower bounds of the results of \ncalculations which have used data rounded to a \nspecified accuracy.\ne.g. write down the upper bound of a length \nmeasured correct to the nearest metre."
+      ],
+      "broadSkillIds": [
+        "apply-limits-of-accuracy"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.11",
+      "title": "Ratio and proportion",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-ratio-and-proportion"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Understand and use ratio and proportion to:",
+        "give ratios in their simplest form",
+        "divide a quantity in a given ratio",
+        "use proportional reasoning and ratios in \ncontext.\ne.g. 20 : 30 : 40 in its simplest form is 2 : 3 : 4.\ne.g. adapt recipes; use map scales; determine best \nvalue."
+      ],
+      "broadSkillIds": [
+        "apply-ratio-and-proportion"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.12",
+      "title": "Rates",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-rates-concepts"
+      ],
+      "currentClauseCount": 10,
+      "clauses": [
+        "Use common measures of rate.",
+        "Apply other measures of rate.",
+        "Solve problems involving average speed.\ne.g. calculate with:",
+        "hourly rates of pay",
+        "exchange rates between currencies",
+        "flow rates",
+        "fuel consumption.\ne.g. calculate with:",
+        "pressure",
+        "density",
+        "population density."
+      ],
+      "broadSkillIds": [
+        "apply-rates-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.13",
+      "title": "Percentages",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-percentages-concepts"
+      ],
+      "currentClauseCount": 5,
+      "clauses": [
+        "Calculate a given percentage of a quantity.",
+        "Express one quantity as a percentage of another.",
+        "Calculate percentage increase or decrease.",
+        "Calculate with simple and compound interest.",
+        "Calculate using reverse percentages."
+      ],
+      "broadSkillIds": [
+        "apply-percentages-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.14",
+      "title": "Using a calculator",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-using-a-calculator"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Use a calculator efficiently.",
+        "Enter values appropriately on a calculator.",
+        "Interpret the calculator display appropriately.\ne.g. know not to round values within a calculation \nand to only round the final answer.\ne.g. enter 2 hours 30 minutes as 2.5 hours or \n2° 30’ 0’’.\ne.g. in money 4.8 means $4.80; in time 3.25 means",
+        "hours 15 minutes."
+      ],
+      "broadSkillIds": [
+        "apply-using-a-calculator"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.15",
+      "title": "Time",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-time-concepts"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Calculate with time: seconds (s), minutes (min), \nhours (h), days, weeks, months, years, including \nthe relationship between units.",
+        "Calculate times in terms of the 24-hour and \n12-hour clock.",
+        "Read clocks and timetables.",
+        "year = 365 days.\nIn the 24-hour clock, for example, 3.15 a.m. will be \ndenoted by 03 15 and 3.15 p.m. by 15 15."
+      ],
+      "broadSkillIds": [
+        "apply-time-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.16",
+      "title": "Money",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-money-concepts"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Calculate with money.",
+        "Convert from one currency to another."
+      ],
+      "broadSkillIds": [
+        "apply-money-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.17",
+      "title": "Exponential growth and decay",
+      "placeholder": false,
+      "currentSkillIds": [
+        "use-exponential-growth-and-decay"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Use exponential growth and decay.\ne.g. depreciation, population change."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E1.18",
+      "title": "Surds",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-surds"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Understand and use surds, including simplifying \nexpressions.",
+        "Rationalise the denominator."
+      ],
+      "broadSkillIds": [
+        "apply-surds"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.1",
+      "title": "Introduction to algebra",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-introduction-to-algebra"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Know that letters can be used to represent \ngeneralised numbers.",
+        "Substitute numbers into expressions and \nformulas."
+      ],
+      "broadSkillIds": [
+        "apply-introduction-to-algebra"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.2",
+      "title": "Algebraic manipulation",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-algebraic-manipulation"
+      ],
+      "currentClauseCount": 10,
+      "clauses": [
+        "Simplify expressions by collecting like terms.",
+        "Expand products of algebraic expressions.",
+        "Factorise by extracting common factors.",
+        "Factorise expressions of the form:",
+        "ax + bx + kay + kby",
+        "a2x2 − b2y2",
+        "a2 + 2ab + b2",
+        "ax2 + bx + c",
+        "ax3 + bx2 + cx.",
+        "Complete the square for expressions in the form \nax2 + bx + c."
+      ],
+      "broadSkillIds": [
+        "apply-algebraic-manipulation"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.3",
+      "title": "Algebraic fractions",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-algebraic-fractions"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Manipulate algebraic fractions.",
+        "Factorise and simplify rational expressions."
+      ],
+      "broadSkillIds": [
+        "apply-algebraic-fractions"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.4",
+      "title": "Indices II",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-fractional-index-laws"
+      ],
+      "currentClauseCount": 9,
+      "clauses": [
+        "Understand and use indices (positive, zero, \nnegative and fractional).",
+        "Understand and use the rules of indices.\ne.g. solve:",
+        "32x = 2",
+        "5x + 1 = 25x.\ne.g. simplify:",
+        "x\nx",
+        "#\n−\n \nx\nx",
+        "'\n−",
+        "x",
+        "5 3\nJ\nL\nKK\nN\nP\nOO ."
+      ],
+      "broadSkillIds": [
+        "apply-fractional-index-laws"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.5",
+      "title": "Equations",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-equations"
+      ],
+      "currentClauseCount": 7,
+      "clauses": [
+        "Construct expressions, equations and formulas.",
+        "Solve linear equations in one unknown.",
+        "Solve fractional equations with numerical and \nlinear algebraic denominators.",
+        "Solve simultaneous linear equations in two \nunknowns.",
+        "Solve simultaneous equations, involving one \nlinear and one non-linear.",
+        "Solve quadratic equations by factorisation, \ncompleting the square and by use of the \nquadratic formula.",
+        "Change the subject of formulas.\ne.g. write an expression for the product of two \nconsecutive even numbers."
+      ],
+      "broadSkillIds": [
+        "apply-equations"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.6",
+      "title": "Inequalities",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-inequalities"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Represent and interpret inequalities, including on \na number line.",
+        "Construct, solve and interpret linear inequalities.",
+        "Represent and interpret linear inequalities in two \nvariables graphically.",
+        "List inequalities that define a given region."
+      ],
+      "broadSkillIds": [
+        "apply-inequalities"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.7",
+      "title": "Sequences",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-sequences"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Continue a given number sequence or pattern.",
+        "Recognise patterns in sequences, including the \nterm-to-term rule, and relationships between \ndifferent sequences.",
+        "Find and use the nth term of sequences. \nSubscript notation may be used, e.g. Tn is the nth \nterm of sequence T."
+      ],
+      "broadSkillIds": [
+        "apply-sequences"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.8",
+      "title": "Proportion",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-proportion"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Express direct and inverse proportion in algebraic \nterms and use this form of expression to find \nunknown quantities."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.9",
+      "title": "Graphs in practical situations",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-graphs-in-practical-situations"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Use and interpret graphs in practical situations \nincluding travel graphs and conversion graphs.",
+        "Draw graphs from given data.",
+        "Apply the idea of rate of change to simple \nkinematics involving distance–time and \nspeed–time graphs, acceleration and \ndeceleration.",
+        "Calculate distance travelled as area under a \nspeed–time graph."
+      ],
+      "broadSkillIds": [
+        "apply-graphs-in-practical-situations"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.10",
+      "title": "Graphs of functions",
+      "placeholder": false,
+      "currentSkillIds": [
+        "interpret-exponential-growth-and-decay",
+        "plot-graphs-of-functions",
+        "solve-equations-graphically"
+      ],
+      "currentClauseCount": 7,
+      "clauses": [
+        "Construct tables of values, and draw, recognise \nand interpret graphs for functions of the following \nforms:",
+        "axn (includes sums of no more than three of \nthese)",
+        "abx + c\n where n = –2, –1,",
+        "−, 0, 2",
+        ", 1, 2, 3; a and c are \n rational numbers; and b is a positive integer.",
+        "Solve associated equations graphically, including \nfinding and interpreting roots by graphical \nmethods.",
+        "Draw and interpret graphs representing \nexponential growth and decay problems."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "E2.11",
+      "title": "Sketching curves",
+      "placeholder": false,
+      "currentSkillIds": [
+        "recognise-sketching-curves"
+      ],
+      "currentClauseCount": 6,
+      "clauses": [
+        "Recognise, sketch and interpret graphs of the \nfollowing functions:\n(a) linear\n(b) quadratic\n(c) cubic\n(d) reciprocal\n(e) exponential.\nFunctions will be equivalent to:",
+        "ax + by = c",
+        "y = ax2 + bx + c",
+        "y = ax3 + b",
+        "y = ax3 + bx2 + cx",
+        "y\nx\na\nb\n=\n+\n \ny = arx + b\nwhere a, b and c are rational numbers and r is a \nrational, positive number."
+      ],
+      "broadSkillIds": [
+        "recognise-sketching-curves"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.12",
+      "title": "Differentiation",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-differentiation"
+      ],
+      "currentClauseCount": 7,
+      "clauses": [
+        "Estimate gradients of curves by drawing \ntangents.",
+        "Use the derivatives of functions of the form axn, \nwhere a is a rational constant and n is a positive \ninteger or zero, and simple sums of not more \nthan three of these.",
+        "Apply differentiation to gradients and stationary \npoints (turning points).",
+        "Discriminate between maxima and minima by \nany method.\nd\nd\nx\ny notation will be expected.\nMaximum and minimum points may be identified by:",
+        "an accurate sketch",
+        "use of the second differential",
+        "inspecting the gradient either side of a turning \npoint."
+      ],
+      "broadSkillIds": [
+        "apply-differentiation"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E2.13",
+      "title": "Functions",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-functions-concepts"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Understand functions, domain and range and \nuse function notation.",
+        "Understand and find inverse functions f –1(x).",
+        "Form composite functions as defined by \ngf(x) = g(f(x))."
+      ],
+      "broadSkillIds": [
+        "apply-functions-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E3.1",
+      "title": "Coordinates",
+      "placeholder": false,
+      "currentSkillIds": [
+        "use-coordinates"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Use and interpret Cartesian coordinates in two \ndimensions."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E3.2",
+      "title": "Drawing linear graphs",
+      "placeholder": false,
+      "currentSkillIds": [
+        "draw-drawing-linear-graphs"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Draw straight-line graphs for linear equations."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E3.3",
+      "title": "Gradient of linear graphs",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-gradient-of-linear-graphs"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Find the gradient of a straight line.",
+        "Calculate the gradient of a straight line from the \ncoordinates of two points on it."
+      ],
+      "broadSkillIds": [
+        "apply-gradient-of-linear-graphs"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E3.4",
+      "title": "Length and midpoint",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-length-and-midpoint"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Calculate the length of a line segment.",
+        "Find the coordinates of the midpoint of a line \nsegment."
+      ],
+      "broadSkillIds": [
+        "apply-length-and-midpoint"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E3.5",
+      "title": "Equations of linear graphs",
+      "placeholder": false,
+      "currentSkillIds": [
+        "interpret-equations-of-linear-graphs"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Interpret and obtain the equation of a straight-line \ngraph.\nQuestions may:",
+        "use and request lines in different forms, e.g.\nax + by = c\ny = mx + c\nx = k",
+        "involve finding the equation when the graph is \ngiven",
+        "ask for the gradient or y-intercept of a graph \nfrom an equation, e.g. find the gradient and \ny-intercept of the graph with equation \n5x + 4y = 8."
+      ],
+      "broadSkillIds": [
+        "interpret-equations-of-linear-graphs"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E3.6",
+      "title": "Parallel lines",
+      "placeholder": false,
+      "currentSkillIds": [
+        "find-parallel-lines"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Find the gradient and equation of a straight line \nparallel to a given line.\ne.g. find the equation of the line parallel to \ny = 4x – 1 that passes through (1, –3)."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E3.7",
+      "title": "Perpendicular lines",
+      "placeholder": false,
+      "currentSkillIds": [
+        "find-perpendicular-lines"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Find the gradient and equation of a straight line \nperpendicular to a given line."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E4.1",
+      "title": "Geometrical terms",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-geometrical-terms"
+      ],
+      "currentClauseCount": 39,
+      "clauses": [
+        "Use and interpret the following geometrical \nterms:",
+        "point",
+        "vertex",
+        "line",
+        "plane",
+        "parallel",
+        "perpendicular",
+        "perpendicular bisector",
+        "bearing",
+        "right angle",
+        "acute, obtuse and reflex angles",
+        "interior and exterior angles",
+        "similar",
+        "congruent",
+        "scale factor.",
+        "Use and interpret the vocabulary of:",
+        "triangles",
+        "special quadrilaterals",
+        "polygons",
+        "nets",
+        "solids.",
+        "Use and interpret the vocabulary of a circle.\nPolygons:",
+        "regular and irregular polygons",
+        "pentagon",
+        "hexagon",
+        "octagon",
+        "decagon. \nSolids:",
+        "cube",
+        "cuboid",
+        "prism",
+        "cylinder",
+        "pyramid",
+        "cone",
+        "sphere",
+        "hemisphere",
+        "frustum",
+        "face",
+        "surface",
+        "edge."
+      ],
+      "broadSkillIds": [
+        "apply-geometrical-terms"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E4.2",
+      "title": "Geometrical constructions",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-geometrical-constructions"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Measure and draw lines and angles.",
+        "Construct a triangle, given the lengths of all \nsides, using a ruler and pair of compasses only.",
+        "Draw, use and interpret nets.\nA ruler should be used for all straight edges.\nConstructions of perpendicular bisectors and angle \nbisectors are not required. \ne.g. construct a rhombus by drawing two triangles. \nConstruction arcs must be shown."
+      ],
+      "broadSkillIds": [
+        "apply-geometrical-constructions"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E4.3",
+      "title": "Scale drawings",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-scale-drawings"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Draw and interpret scale drawings.",
+        "Use and interpret three-figure bearings."
+      ],
+      "broadSkillIds": [
+        "apply-scale-drawings"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E4.4",
+      "title": "Similarity",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-similarity-concepts"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Calculate lengths of similar shapes.",
+        "Use the relationships between lengths and areas \nof similar shapes and lengths, surface areas and \nvolumes of similar solids.",
+        "Solve problems and give simple explanations \ninvolving similarity."
+      ],
+      "broadSkillIds": [
+        "apply-similarity-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E4.5",
+      "title": "Symmetry",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-symmetry-concepts"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Recognise line symmetry and order of rotational \nsymmetry in two dimensions.",
+        "Recognise symmetry properties of prisms, \ncylinders, pyramids and cones."
+      ],
+      "broadSkillIds": [
+        "apply-symmetry-concepts"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E4.6",
+      "title": "Angles",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-angle-properties-of-polygons",
+        "apply-angle-sum-of-quadrilateral",
+        "apply-angle-sum-of-triangle",
+        "apply-angles-around-a-point",
+        "apply-angles-on-a-straight-line",
+        "apply-parallel-line-angle-properties"
+      ],
+      "currentClauseCount": 10,
+      "clauses": [
+        "Calculate unknown angles and give simple \nexplanations using the following geometrical \nproperties:",
+        "sum of angles at a point = 360°",
+        "sum of angles at a point on a straight line = 180°",
+        "vertically opposite angles are equal",
+        "angle sum of a triangle = 180° and angle sum \nof a quadrilateral = 360°.",
+        "Calculate unknown angles and give geometric \nexplanations for angles formed within parallel lines:",
+        "corresponding angles are equal",
+        "alternate angles are equal",
+        "co-interior angles sum to 180° (supplementary).",
+        "Know and use angle properties of regular and \nirregular polygons."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "E4.7",
+      "title": "Circle theorems I",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-alternate-segment-theorem",
+        "apply-angle-in-semicircle-theorem",
+        "apply-centre-circumference-angle-theorem",
+        "apply-cyclic-quadrilateral-angle-property",
+        "apply-same-segment-angle-theorem",
+        "apply-tangent-radius-angle-property"
+      ],
+      "currentClauseCount": 7,
+      "clauses": [
+        "Calculate unknown angles and give explanations \nusing the following geometrical properties of circles:",
+        "angle in a semicircle = 90°",
+        "angle between tangent and radius = 90°",
+        "angle at the centre is twice the angle at the \ncircumference",
+        "angles in the same segment are equal",
+        "opposite angles of a cyclic quadrilateral sum to \n180° (supplementary)",
+        "alternate segment theorem."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "E4.8",
+      "title": "Circle theorems II",
+      "placeholder": false,
+      "currentSkillIds": [
+        "use-circle-theorems"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Use the following symmetry properties of circles:",
+        "equal chords are equidistant from the centre",
+        "the perpendicular bisector of a chord passes \nthrough the centre",
+        "tangents from an external point are equal in \nlength."
+      ],
+      "broadSkillIds": [
+        "use-circle-theorems"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E5.1",
+      "title": "Units of measure",
+      "placeholder": false,
+      "currentSkillIds": [
+        "use-units-of-measure"
+      ],
+      "currentClauseCount": 8,
+      "clauses": [
+        "Use metric units of mass, length, area, volume \nand capacity in practical situations and convert \nquantities into larger or smaller units.\nUnits include:",
+        "mm, cm, m, km",
+        "mm2, cm2, m2, km2",
+        "mm3, cm3, m3",
+        "ml, l",
+        "g, kg.\nConversion between units includes:",
+        "between different units of area, e.g. cm2 ↔ m2",
+        "between units of volume and capacity, \ne.g. m3 ↔ litres."
+      ],
+      "broadSkillIds": [
+        "use-units-of-measure"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E5.2",
+      "title": "Area and perimeter",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-area-and-perimeter"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Carry out calculations involving the perimeter and \narea of a rectangle, triangle, parallelogram and \ntrapezium. \nExcept for the area of a triangle, formulas are not \ngiven."
+      ],
+      "broadSkillIds": [
+        "apply-area-and-perimeter"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E5.3",
+      "title": "Circles, arcs and sectors",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-circles-arcs-and-sectors"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Carry out calculations involving the \ncircumference and area of a circle.",
+        "Carry out calculations involving arc length and \nsector area as fractions of the circumference and \narea of a circle.\nAnswers may be asked for in terms of π.\nFormulas are given in the List of formulas."
+      ],
+      "broadSkillIds": [
+        "apply-circles-arcs-and-sectors"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E5.4",
+      "title": "Surface area and volume",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-surface-area-and-volume"
+      ],
+      "currentClauseCount": 15,
+      "clauses": [
+        "Carry out calculations and solve problems involving \nthe surface area and volume of a:",
+        "cuboid",
+        "prism",
+        "cylinder",
+        "sphere",
+        "pyramid",
+        "cone.\nAnswers may be asked for in terms of π.\nThe following formulas are given in the List of \nformulas:",
+        "curved surface area of a cylinder",
+        "curved surface area of a cone",
+        "surface area of a sphere",
+        "volume of a prism",
+        "volume of a pyramid",
+        "volume of a cylinder",
+        "volume of a cone",
+        "volume of a sphere.\nThe term prism refers to any solid with a uniform \ncross-section, e.g. a cylindrical sector."
+      ],
+      "broadSkillIds": [
+        "apply-surface-area-and-volume"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E5.5",
+      "title": "Compound shapes and parts of shapes",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-compound-shapes-and-parts-of-shapes"
+      ],
+      "currentClauseCount": 6,
+      "clauses": [
+        "Carry out calculations and solve problems \ninvolving perimeters and areas of:",
+        "compound shapes",
+        "parts of shapes.",
+        "Carry out calculations and solve problems \ninvolving surface areas and volumes of:",
+        "compound solids",
+        "parts of solids.\nAnswers may be asked for in terms of π. \ne.g. find the surface area and volume of a frustum."
+      ],
+      "broadSkillIds": [
+        "apply-compound-shapes-and-parts-of-shapes"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E6.1",
+      "title": "Pythagoras’ theorem",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-pythagoras-theorem"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Know and use Pythagoras’ theorem."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E6.2",
+      "title": "Right-angled triangles",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-right-angled-triangles"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Know and use the sine, cosine and tangent \nratios for acute angles in calculations involving \nsides and angles of a right-angled triangle.",
+        "Solve problems in two dimensions using \nPythagoras’ theorem and trigonometry.",
+        "Know that the perpendicular distance from a \npoint to a line is the shortest distance to the line.",
+        "Carry out calculations involving angles of \nelevation and depression."
+      ],
+      "broadSkillIds": [
+        "apply-right-angled-triangles"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E6.3",
+      "title": "Exact trigonometric values",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-exact-trigonometric-values"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Know the exact values of:",
+        "sin x and cos x for x = 0°, 30°, 45°, 60° and 90°.",
+        "tan x for x = 0°, 30°, 45° and 60°."
+      ],
+      "broadSkillIds": [
+        "apply-exact-trigonometric-values"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E6.4",
+      "title": "Trigonometric functions",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-trigonometric-functions"
+      ],
+      "currentClauseCount": 8,
+      "clauses": [
+        "Recognise, sketch and interpret the following \ngraphs for 0° ⩽ x ⩽ 360°:",
+        "y = sin x",
+        "y = cos x",
+        "y = tan x.",
+        "Solve trigonometric equations involving sin x, \ncos x or tan x, for 0° ⩽ x ⩽ 360°.\ne.g. solve:",
+        "sin x = 2",
+        "for 0° ⩽ x ⩽ 360°",
+        "2 cos x + 1 = 0 for 0° ⩽ x ⩽ 360°."
+      ],
+      "broadSkillIds": [
+        "apply-trigonometric-functions"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E6.5",
+      "title": "Non-right-angled triangles",
+      "placeholder": false,
+      "currentSkillIds": [
+        "calculate-triangle-area-using-sine",
+        "use-cosine-rule",
+        "use-sine-rule"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Use the sine and cosine rules in calculations \ninvolving lengths and angles for any triangle.",
+        "Use the formula \narea of triangle = 2",
+        "ab sin C."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": false
+    },
+    {
+      "pointId": "E6.6",
+      "title": "\u0007Pythagoras’ theorem and trigonometry",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-pythagoras-theorem-and-trigonometry"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "in 3D\nCarry out calculations and solve problems in \nthree dimensions using Pythagoras’ theorem \nand trigonometry, including calculating the angle \nbetween a line and a plane."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E7.1",
+      "title": "Transformations",
+      "placeholder": false,
+      "currentSkillIds": [
+        "recognise-transformations"
+      ],
+      "currentClauseCount": 5,
+      "clauses": [
+        "Recognise, describe and draw the following \ntransformations:",
+        "Reflection of a shape in a straight line.",
+        "Rotation of a shape about a centre through \nmultiples of 90°.",
+        "Enlargement of a shape from a centre by a scale \nfactor.",
+        "Translation of a shape by a vector x\ny\nJ\nL\nKK\nN\nP\nOO. \nQuestions may involve combinations of \ntransformations. A ruler must be used for all straight \nedges.\nPositive, fractional and negative scale factors may \nbe used."
+      ],
+      "broadSkillIds": [
+        "recognise-transformations"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E7.2",
+      "title": "Vectors in two dimensions",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-vectors-in-two-dimensions"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Describe a translation using a vector represented \n by x\ny\nJ\nL\nKK\nN\nP\nOO, AB or a.",
+        "Add and subtract vectors.",
+        "Multiply a vector by a scalar.\nVectors will be printed as AB or a."
+      ],
+      "broadSkillIds": [
+        "apply-vectors-in-two-dimensions"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E7.3",
+      "title": "Magnitude of a vector",
+      "placeholder": false,
+      "currentSkillIds": [
+        "calculate-magnitude-of-a-vector"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Calculate the magnitude of a vector x\ny\nJ\nL\nKK\nN\nP\nOO as \nx\ny",
+        "+\n .\nThe magnitudes of vectors will be denoted by \nmodulus signs, e.g.",
+        "a is the magnitude of a",
+        "AB is the magnitude of AB."
+      ],
+      "broadSkillIds": [
+        "calculate-magnitude-of-a-vector"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E7.4",
+      "title": "Vector geometry",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-vector-geometry"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Represent vectors by directed line segments.",
+        "Use position vectors.",
+        "Use the sum and difference of two or more \nvectors to express given vectors in terms of two \ncoplanar vectors.",
+        "Use vectors to reason and to solve geometric \nproblems."
+      ],
+      "broadSkillIds": [
+        "apply-vector-geometry"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E8.1",
+      "title": "Introduction to probability",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-introduction-to-probability"
+      ],
+      "currentClauseCount": 5,
+      "clauses": [
+        "Understand and use the probability scale from",
+        "to 1.",
+        "Understand and use probability notation.",
+        "Calculate the probability of a single event.",
+        "Understand that the probability of an event \nnot occurring = 1 – the probability of the event \noccurring.\nP(A) is the probability of A\nP(A′) is the probability of not A"
+      ],
+      "broadSkillIds": [
+        "apply-introduction-to-probability"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E8.2",
+      "title": "Relative and expected frequencies",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-relative-and-expected-frequencies"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Understand relative frequency as an estimate of \nprobability.",
+        "Calculate expected frequencies.\ne.g. use results of experiments with a spinner to \nestimate the probability of a given outcome.\ne.g. use probability to estimate an expected value \nfrom a population."
+      ],
+      "broadSkillIds": [
+        "apply-relative-and-expected-frequencies"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E8.3",
+      "title": "Probability of combined events",
+      "placeholder": false,
+      "currentSkillIds": [
+        "calculate-probability-of-combined-events"
+      ],
+      "currentClauseCount": 4,
+      "clauses": [
+        "Calculate the probability of combined events using, \nwhere appropriate:",
+        "sample space diagrams",
+        "Venn diagrams",
+        "tree diagrams."
+      ],
+      "broadSkillIds": [
+        "calculate-probability-of-combined-events"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E8.4",
+      "title": "Conditional probability",
+      "placeholder": false,
+      "currentSkillIds": [
+        "calculate-conditional-probability"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Calculate conditional probability using Venn \ndiagrams, tree diagrams and tables."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E9.1",
+      "title": "Classifying statistical data",
+      "placeholder": false,
+      "currentSkillIds": [
+        "classify-classifying-statistical-data"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Classify and tabulate statistical data.\ne.g. tally tables, two-way tables."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E9.2",
+      "title": "Interpreting statistical data",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-interpreting-statistical-data"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Read, interpret and draw inferences from tables \nand statistical diagrams.",
+        "Compare sets of data using tables, graphs and \nstatistical measures.",
+        "Appreciate restrictions on drawing conclusions \nfrom given data.\ne.g. compare averages and measures of spread \nbetween two data sets."
+      ],
+      "broadSkillIds": [
+        "apply-interpreting-statistical-data"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E9.3",
+      "title": "Averages and measures of spread",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-averages-and-measures-of-spread"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Calculate the mean, median, mode, quartiles, \nrange and interquartile range for individual data \nand distinguish between the purposes for which \nthese are used.",
+        "Calculate an estimate of the mean for grouped \ndiscrete or grouped continuous data.",
+        "Identify the modal class from a grouped \nfrequency distribution."
+      ],
+      "broadSkillIds": [
+        "apply-averages-and-measures-of-spread"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E9.4",
+      "title": "Statistical charts and diagrams",
+      "placeholder": false,
+      "currentSkillIds": [
+        "draw-statistical-charts-and-diagrams"
+      ],
+      "currentClauseCount": 1,
+      "clauses": [
+        "Draw and interpret:\n(a) bar charts\n(b) pie charts\n(c) pictograms\n(d) stem-and-leaf diagrams\n(e) simple frequency distributions."
+      ],
+      "broadSkillIds": [],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E9.5",
+      "title": "Scatter diagrams",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-scatter-diagrams"
+      ],
+      "currentClauseCount": 3,
+      "clauses": [
+        "Draw and interpret scatter diagrams.",
+        "Understand what is meant by positive, negative \nand zero correlation.",
+        "Draw by eye, interpret and use a straight line of \nbest fit."
+      ],
+      "broadSkillIds": [
+        "apply-scatter-diagrams"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E9.6",
+      "title": "Cumulative frequency diagrams",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-cumulative-frequency-diagrams"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Draw and interpret cumulative frequency tables \nand diagrams.",
+        "Estimate and interpret the median, percentiles, \nquartiles and interquartile range from cumulative \nfrequency diagrams."
+      ],
+      "broadSkillIds": [
+        "apply-cumulative-frequency-diagrams"
+      ],
+      "requiresDecomposition": true
+    },
+    {
+      "pointId": "E9.7",
+      "title": "Histograms",
+      "placeholder": false,
+      "currentSkillIds": [
+        "apply-histograms"
+      ],
+      "currentClauseCount": 2,
+      "clauses": [
+        "Draw and interpret histograms.",
+        "Calculate with frequency density.\nOn histograms, the vertical axis is labelled \n‘Frequency density’. \nFrequency density is defined as \nfrequency density = frequency ÷ class width."
+      ],
+      "broadSkillIds": [
+        "apply-histograms"
+      ],
+      "requiresDecomposition": true
+    }
+  ]
+}

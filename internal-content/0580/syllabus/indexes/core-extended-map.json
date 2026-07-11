@@ -1,13 +1,26 @@
 {
-  "schemaVersion": "2.0",
+  "schemaVersion": "3.0",
   "mappings": [
     {
       "corePointId": "C1.1",
       "extendedPointId": "E1.1",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "classify-rational-and-irrational-numbers",
+        "find-common-factors",
+        "find-common-multiples",
+        "find-reciprocals",
+        "identify-cube-numbers",
+        "identify-integers",
+        "identify-natural-numbers",
+        "identify-prime-numbers",
+        "identify-square-numbers"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Types of number",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -18,9 +31,19 @@
       "corePointId": "C1.2",
       "extendedPointId": "E1.2",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "apply-set-complement",
+        "apply-set-intersection",
+        "apply-set-union",
+        "calculate-number-of-set-elements",
+        "represent-sets-with-venn-diagrams",
+        "use-set-language-and-notation"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Sets",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -31,9 +54,19 @@
       "corePointId": "C1.3",
       "extendedPointId": "E1.3",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "calculate-cube-roots",
+        "calculate-cubes",
+        "calculate-integer-powers",
+        "calculate-roots-of-numbers",
+        "calculate-square-roots",
+        "calculate-squares"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Powers and roots",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -44,9 +77,22 @@
       "corePointId": "C1.4",
       "extendedPointId": "E1.4",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "convert-between-decimals-and-percentages",
+        "convert-between-fractions-and-percentages",
+        "convert-between-improper-fractions-and-mixed-numbers",
+        "convert-decimals-to-fractions",
+        "convert-fractions-to-decimals",
+        "recognise-improper-fractions",
+        "recognise-mixed-numbers",
+        "recognise-proper-fractions",
+        "simplify-fractions"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Fractions, decimals and percentages",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -57,9 +103,16 @@
       "corePointId": "C1.5",
       "extendedPointId": "E1.5",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "compare-quantities-using-equality-symbols",
+        "compare-quantities-using-inequality-symbols",
+        "order-quantities-by-magnitude"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Ordering",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -70,9 +123,19 @@
       "corePointId": "C1.6",
       "extendedPointId": "E1.6",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "apply-brackets-in-calculations",
+        "apply-order-of-operations",
+        "calculate-with-decimals",
+        "calculate-with-fractions",
+        "calculate-with-integers",
+        "calculate-with-negative-numbers"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "The four operations",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -83,9 +146,19 @@
       "corePointId": "C1.7",
       "extendedPointId": "E1.7",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "apply-power-of-power-rule",
+        "apply-product-rule-for-indices",
+        "apply-quotient-rule-for-indices",
+        "interpret-negative-integer-indices",
+        "interpret-positive-integer-indices",
+        "interpret-zero-indices"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Indices I",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -96,9 +169,17 @@
       "corePointId": "C1.8",
       "extendedPointId": "E1.8",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "calculate-with-standard-form",
+        "convert-numbers-from-standard-form",
+        "convert-numbers-to-standard-form",
+        "represent-numbers-in-standard-form"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Standard form",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -109,9 +190,17 @@
       "corePointId": "C1.9",
       "extendedPointId": "E1.9",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "choose-appropriate-answer-accuracy",
+        "estimate-calculation-results",
+        "round-to-decimal-places",
+        "round-to-significant-figures"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Estimation",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -122,9 +211,17 @@
       "corePointId": "C1.10",
       "extendedPointId": "E1.10",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "find-lower-bound-of-rounded-value",
+        "find-upper-bound-of-rounded-value"
+      ],
+      "extendedOnlySkillIds": [
+        "find-bounds-of-calculation-result"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Limits of accuracy",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -135,9 +232,19 @@
       "corePointId": "C1.11",
       "extendedPointId": "E1.11",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "apply-direct-proportion",
+        "apply-ratio-in-context",
+        "divide-quantity-in-given-ratio",
+        "simplify-ratios"
+      ],
+      "extendedOnlySkillIds": [
+        "apply-inverse-proportion"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Ratio and proportion",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -148,9 +255,21 @@
       "corePointId": "C1.12",
       "extendedPointId": "E1.12",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "calculate-average-speed",
+        "calculate-currency-exchange",
+        "calculate-density",
+        "calculate-flow-rate",
+        "calculate-population-density",
+        "calculate-pressure",
+        "calculate-rate-of-pay",
+        "convert-compound-units"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Rates",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -161,9 +280,23 @@
       "corePointId": "C1.13",
       "extendedPointId": "E1.13",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "calculate-compound-interest",
+        "calculate-discount",
+        "calculate-percentage-decrease",
+        "calculate-percentage-increase",
+        "calculate-percentage-of-quantity",
+        "calculate-profit-and-loss",
+        "calculate-simple-interest",
+        "express-quantity-as-percentage"
+      ],
+      "extendedOnlySkillIds": [
+        "calculate-reverse-percentage"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Percentages",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -174,9 +307,17 @@
       "corePointId": "C1.14",
       "extendedPointId": "E1.14",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "enter-values-into-calculator",
+        "interpret-calculator-display",
+        "preserve-calculation-precision",
+        "use-calculator-efficiently"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Using a calculator",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -187,9 +328,19 @@
       "corePointId": "C1.15",
       "extendedPointId": "E1.15",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "calculate-time-intervals",
+        "convert-units-of-time",
+        "read-timetables",
+        "solve-time-zone-problems",
+        "use-twelve-hour-clock",
+        "use-twenty-four-hour-clock"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Time",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -200,9 +351,15 @@
       "corePointId": "C1.16",
       "extendedPointId": "E1.16",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "calculate-with-money",
+        "convert-between-currencies"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Money",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -213,9 +370,17 @@
       "corePointId": "C1.17",
       "extendedPointId": "E1.17",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "calculate-compound-decay",
+        "calculate-compound-growth",
+        "model-exponential-decay",
+        "model-exponential-growth"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -226,9 +391,16 @@
       "corePointId": "C1.18",
       "extendedPointId": "E1.18",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "calculate-with-surds",
+        "rationalise-denominator",
+        "simplify-surds"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -239,9 +411,16 @@
       "corePointId": "C2.1",
       "extendedPointId": "E2.1",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "represent-generalised-numbers-with-letters",
+        "substitute-values-into-expressions",
+        "substitute-values-into-formulas"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Introduction to algebra",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -252,9 +431,22 @@
       "corePointId": "C2.2",
       "extendedPointId": "E2.2",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "collect-like-terms",
+        "expand-product-of-two-brackets",
+        "expand-single-bracket",
+        "factorise-by-common-factor"
+      ],
+      "extendedOnlySkillIds": [
+        "complete-square",
+        "expand-multiple-algebraic-factors",
+        "factorise-difference-of-two-squares",
+        "factorise-quadratic-expression"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Algebraic manipulation",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -265,9 +457,15 @@
       "corePointId": "C2.3",
       "extendedPointId": "E2.3",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "calculate-with-algebraic-fractions",
+        "simplify-algebraic-fractions"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -278,9 +476,16 @@
       "corePointId": "C2.4",
       "extendedPointId": "E2.4",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "apply-algebraic-index-laws",
+        "interpret-algebraic-indices",
+        "solve-simple-exponential-equations"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Indices II",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -291,9 +496,26 @@
       "corePointId": "C2.5",
       "extendedPointId": "E2.5",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "change-subject-of-formula",
+        "construct-algebraic-expressions",
+        "construct-equations",
+        "construct-formulas",
+        "solve-linear-equation",
+        "solve-simultaneous-linear-equations"
+      ],
+      "extendedOnlySkillIds": [
+        "change-subject-in-complex-formula",
+        "complete-square-to-solve-quadratic",
+        "solve-equation-with-algebraic-fractions",
+        "solve-quadratic-equation-by-factorisation",
+        "solve-quadratic-equation-using-formula",
+        "solve-simultaneous-linear-and-quadratic-equations"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Equations",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -304,9 +526,18 @@
       "corePointId": "C2.6",
       "extendedPointId": "E2.6",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "interpret-inequality-on-number-line",
+        "represent-inequality-on-number-line",
+        "solve-linear-inequality"
+      ],
+      "extendedOnlySkillIds": [
+        "solve-quadratic-inequality"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Inequalities",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -317,9 +548,20 @@
       "corePointId": "C2.7",
       "extendedPointId": "E2.7",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "continue-number-sequence",
+        "find-nth-term-of-cubic-sequence",
+        "find-nth-term-of-linear-sequence",
+        "find-nth-term-of-quadratic-sequence",
+        "recognise-sequence-pattern"
+      ],
+      "extendedOnlySkillIds": [
+        "find-nth-term-of-exponential-sequence"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Sequences",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -330,9 +572,17 @@
       "corePointId": "C2.8",
       "extendedPointId": "E2.8",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "form-direct-proportion-equation",
+        "form-inverse-proportion-equation",
+        "solve-direct-proportion-problem",
+        "solve-inverse-proportion-problem"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -343,9 +593,23 @@
       "corePointId": "C2.9",
       "extendedPointId": "E2.9",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "draw-distance-time-graph",
+        "draw-graph-from-data",
+        "interpret-distance-time-graph",
+        "interpret-gradient-as-rate-of-change",
+        "interpret-practical-graphs"
+      ],
+      "extendedOnlySkillIds": [
+        "calculate-acceleration-from-speed-time-graph",
+        "calculate-distance-from-speed-time-graph",
+        "draw-speed-time-graph",
+        "interpret-speed-time-graph"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Graphs in practical situations",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -356,9 +620,20 @@
       "corePointId": "C2.10",
       "extendedPointId": "E2.10",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "construct-table-of-values",
+        "draw-exponential-decay-graph",
+        "draw-exponential-growth-graph",
+        "interpret-graph-of-function",
+        "interpret-roots-from-graph",
+        "plot-graph-of-function",
+        "solve-equations-graphically"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Graphs of functions",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -369,9 +644,17 @@
       "corePointId": "C2.11",
       "extendedPointId": "E2.11",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "sketch-cubic-function",
+        "sketch-linear-function",
+        "sketch-quadratic-function",
+        "sketch-reciprocal-function"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Sketching curves",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -382,9 +665,17 @@
       "corePointId": "C2.12",
       "extendedPointId": "E2.12",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "classify-stationary-point",
+        "differentiate-power-function",
+        "find-gradient-using-derivative",
+        "find-stationary-point"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -395,9 +686,18 @@
       "corePointId": "C2.13",
       "extendedPointId": "E2.13",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "evaluate-composite-function",
+        "evaluate-function",
+        "find-inverse-function",
+        "form-composite-function",
+        "use-function-notation"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -408,9 +708,15 @@
       "corePointId": "C3.1",
       "extendedPointId": "E3.1",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "plot-cartesian-coordinates",
+        "read-cartesian-coordinates"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Coordinates",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -421,9 +727,14 @@
       "corePointId": "C3.2",
       "extendedPointId": "E3.2",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "draw-linear-graph-from-equation"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Drawing linear graphs",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -434,9 +745,16 @@
       "corePointId": "C3.3",
       "extendedPointId": "E3.3",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "calculate-gradient-from-graph"
+      ],
+      "extendedOnlySkillIds": [
+        "calculate-gradient-from-two-points"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Gradient of linear graphs",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -447,9 +765,15 @@
       "corePointId": "C3.4",
       "extendedPointId": "E3.4",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "calculate-distance-between-two-points",
+        "calculate-midpoint-of-line-segment"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -460,9 +784,18 @@
       "corePointId": "C3.5",
       "extendedPointId": "E3.5",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "find-equation-of-line-from-graph",
+        "interpret-gradient-intercept-form"
+      ],
+      "extendedOnlySkillIds": [
+        "find-equation-of-line-from-point-and-gradient",
+        "find-equation-of-line-from-two-points"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Equations of linear graphs",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -473,9 +806,15 @@
       "corePointId": "C3.6",
       "extendedPointId": "E3.6",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "identify-parallel-lines",
+        "use-equal-gradients-for-parallel-lines"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Parallel lines",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -486,9 +825,15 @@
       "corePointId": "C3.7",
       "extendedPointId": "E3.7",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "identify-perpendicular-lines",
+        "use-negative-reciprocal-gradients"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -499,9 +844,18 @@
       "corePointId": "C4.1",
       "extendedPointId": "E4.1",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "classify-quadrilaterals",
+        "classify-triangles",
+        "identify-lines-of-symmetry",
+        "identify-rotational-symmetry",
+        "use-geometric-vocabulary"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Geometrical terms",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -512,9 +866,18 @@
       "corePointId": "C4.2",
       "extendedPointId": "E4.2",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "construct-angle-bisector",
+        "construct-locus",
+        "construct-perpendicular-bisector",
+        "construct-perpendicular-line",
+        "construct-triangle-with-ruler-and-compasses"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Geometrical constructions",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -525,9 +888,16 @@
       "corePointId": "C4.3",
       "extendedPointId": "E4.3",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "calculate-actual-length-from-scale",
+        "construct-scale-drawing",
+        "interpret-scale-drawing"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Scale drawings",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -538,9 +908,21 @@
       "corePointId": "C4.4",
       "extendedPointId": "E4.4",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "calculate-missing-lengths-in-similar-shapes",
+        "identify-similar-shapes"
+      ],
+      "extendedOnlySkillIds": [
+        "calculate-area-scale-factor",
+        "calculate-volume-scale-factor",
+        "identify-congruent-shapes",
+        "prove-shapes-similar",
+        "prove-triangles-congruent"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Similarity",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -551,9 +933,17 @@
       "corePointId": "C4.5",
       "extendedPointId": "E4.5",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "identify-line-symmetry",
+        "identify-order-of-rotational-symmetry"
+      ],
+      "extendedOnlySkillIds": [
+        "use-symmetry-properties-of-circle"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Symmetry",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -564,9 +954,27 @@
       "corePointId": "C4.6",
       "extendedPointId": "E4.6",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "apply-alternate-angles",
+        "apply-angle-sum-of-quadrilateral",
+        "apply-angle-sum-of-triangle",
+        "apply-angles-around-a-point",
+        "apply-angles-on-a-straight-line",
+        "apply-cointerior-angles",
+        "apply-corresponding-angles",
+        "apply-vertically-opposite-angles",
+        "calculate-exterior-angle-of-regular-polygon",
+        "calculate-interior-angle-of-regular-polygon",
+        "interpret-three-letter-angle-notation"
+      ],
+      "extendedOnlySkillIds": [
+        "calculate-angle-sum-of-polygon",
+        "calculate-interior-angle-of-irregular-polygon"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Angles",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -577,9 +985,20 @@
       "corePointId": "C4.7",
       "extendedPointId": "E4.7",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "apply-angle-in-semicircle-theorem",
+        "apply-tangent-radius-angle-property"
+      ],
+      "extendedOnlySkillIds": [
+        "apply-alternate-segment-theorem",
+        "apply-centre-circumference-angle-theorem",
+        "apply-cyclic-quadrilateral-angle-property",
+        "apply-same-segment-angle-theorem"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Circle theorems",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -590,9 +1009,16 @@
       "corePointId": "C4.8",
       "extendedPointId": "E4.8",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "apply-intersecting-chords-theorem",
+        "apply-secant-tangent-theorem",
+        "apply-tangent-chord-theorem"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -603,9 +1029,16 @@
       "corePointId": "C5.1",
       "extendedPointId": "E5.1",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "convert-metric-units-of-area",
+        "convert-metric-units-of-length",
+        "convert-metric-units-of-volume"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Units of measure",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -616,9 +1049,21 @@
       "corePointId": "C5.2",
       "extendedPointId": "E5.2",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "calculate-area-of-parallelogram",
+        "calculate-area-of-rectangle",
+        "calculate-area-of-trapezium",
+        "calculate-area-of-triangle",
+        "calculate-perimeter-of-polygon"
+      ],
+      "extendedOnlySkillIds": [
+        "calculate-area-of-kite",
+        "calculate-area-of-rhombus"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Area and perimeter",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -629,9 +1074,17 @@
       "corePointId": "C5.3",
       "extendedPointId": "E5.3",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "calculate-arc-length",
+        "calculate-area-of-circle",
+        "calculate-circumference-of-circle",
+        "calculate-sector-area"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Circles, arcs and sectors",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -642,9 +1095,24 @@
       "corePointId": "C5.4",
       "extendedPointId": "E5.4",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "calculate-surface-area-of-cylinder",
+        "calculate-surface-area-of-prism",
+        "calculate-volume-of-cylinder",
+        "calculate-volume-of-prism"
+      ],
+      "extendedOnlySkillIds": [
+        "calculate-surface-area-of-cone",
+        "calculate-surface-area-of-pyramid",
+        "calculate-surface-area-of-sphere",
+        "calculate-volume-of-cone",
+        "calculate-volume-of-pyramid",
+        "calculate-volume-of-sphere"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Surface area and volume",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -655,9 +1123,20 @@
       "corePointId": "C5.5",
       "extendedPointId": "E5.5",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "calculate-area-of-compound-shape",
+        "calculate-perimeter-of-compound-shape",
+        "calculate-surface-area-of-compound-solid",
+        "calculate-volume-of-compound-solid"
+      ],
+      "extendedOnlySkillIds": [
+        "calculate-similar-area-ratio",
+        "calculate-similar-volume-ratio"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Compound shapes and parts of shapes",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -668,9 +1147,15 @@
       "corePointId": "C6.1",
       "extendedPointId": "E6.1",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "apply-pythagoras-theorem",
+        "find-missing-side-using-pythagoras"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Pythagoras’ theorem",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -681,9 +1166,21 @@
       "corePointId": "C6.2",
       "extendedPointId": "E6.2",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "find-angle-in-right-triangle",
+        "find-side-in-right-triangle",
+        "solve-angle-of-depression",
+        "solve-angle-of-elevation",
+        "solve-bearing-with-trigonometry",
+        "use-cosine-ratio",
+        "use-sine-ratio",
+        "use-tangent-ratio"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Right-angled triangles",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -694,9 +1191,16 @@
       "corePointId": "C6.3",
       "extendedPointId": "E6.3",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "recall-exact-cosine-values",
+        "recall-exact-sine-values",
+        "recall-exact-tangent-values"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -707,9 +1211,15 @@
       "corePointId": "C6.4",
       "extendedPointId": "E6.4",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "interpret-trigonometric-function-graph",
+        "solve-trigonometric-equation-from-graph"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -720,9 +1230,17 @@
       "corePointId": "C6.5",
       "extendedPointId": "E6.5",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "calculate-triangle-area-using-sine",
+        "solve-ambiguous-sine-rule-case",
+        "use-cosine-rule",
+        "use-sine-rule"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -733,9 +1251,15 @@
       "corePointId": "C6.6",
       "extendedPointId": "E6.6",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "solve-three-dimensional-pythagoras-problem",
+        "solve-three-dimensional-trigonometry-problem"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -746,9 +1270,24 @@
       "corePointId": "C7.1",
       "extendedPointId": "E7.1",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "describe-enlargement",
+        "describe-reflection",
+        "describe-rotation",
+        "describe-translation",
+        "enlarge-shape",
+        "reflect-shape",
+        "rotate-shape",
+        "translate-shape"
+      ],
+      "extendedOnlySkillIds": [
+        "enlarge-shape-with-fractional-scale-factor",
+        "enlarge-shape-with-negative-scale-factor"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Transformations",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -759,9 +1298,18 @@
       "corePointId": "C7.2",
       "extendedPointId": "E7.2",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "add-vectors",
+        "multiply-vector-by-scalar",
+        "represent-vector-in-column-form",
+        "subtract-vectors",
+        "use-position-vectors"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -772,9 +1320,14 @@
       "corePointId": "C7.3",
       "extendedPointId": "E7.3",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "calculate-vector-magnitude"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -785,9 +1338,16 @@
       "corePointId": "C7.4",
       "extendedPointId": "E7.4",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "prove-collinearity-using-vectors",
+        "prove-parallel-lines-using-vectors",
+        "solve-vector-geometry-problem"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -798,9 +1358,18 @@
       "corePointId": "C8.1",
       "extendedPointId": "E8.1",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "calculate-complementary-probability",
+        "calculate-single-event-probability",
+        "identify-certain-event",
+        "identify-impossible-event",
+        "use-probability-scale"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Introduction to probability",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -811,9 +1380,16 @@
       "corePointId": "C8.2",
       "extendedPointId": "E8.2",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "calculate-expected-frequency",
+        "calculate-relative-frequency",
+        "compare-relative-frequency-with-theoretical-probability"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Relative and expected frequencies",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -824,9 +1400,21 @@
       "corePointId": "C8.3",
       "extendedPointId": "E8.3",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "calculate-probability-of-combined-events",
+        "calculate-probability-of-independent-events",
+        "calculate-probability-of-mutually-exclusive-events",
+        "construct-probability-tree-diagram",
+        "construct-sample-space-diagram"
+      ],
+      "extendedOnlySkillIds": [
+        "calculate-probability-using-venn-diagram",
+        "use-set-notation-in-probability"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Probability of combined events",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -837,9 +1425,15 @@
       "corePointId": "C8.4",
       "extendedPointId": "E8.4",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "apply-conditional-probability-to-tree-diagram",
+        "calculate-conditional-probability"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -850,9 +1444,16 @@
       "corePointId": "C9.1",
       "extendedPointId": "E9.1",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "classify-categorical-data",
+        "classify-continuous-data",
+        "classify-discrete-data"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Classifying statistical data",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -863,9 +1464,20 @@
       "corePointId": "C9.2",
       "extendedPointId": "E9.2",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "construct-frequency-table",
+        "evaluate-sampling-method",
+        "identify-biased-data-collection",
+        "interpret-frequency-table"
+      ],
+      "extendedOnlySkillIds": [
+        "design-questionnaire",
+        "identify-sampling-bias"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Interpreting statistical data",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -876,9 +1488,24 @@
       "corePointId": "C9.3",
       "extendedPointId": "E9.3",
       "relationship": "extended-adds-scope",
+      "sharedSkillIds": [
+        "calculate-mean",
+        "calculate-median",
+        "calculate-mode",
+        "calculate-range",
+        "choose-appropriate-average"
+      ],
+      "extendedOnlySkillIds": [
+        "calculate-estimated-mean-from-grouped-data",
+        "calculate-interquartile-range",
+        "calculate-quartiles",
+        "compare-distributions-using-averages",
+        "compare-distributions-using-spread"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Averages and range",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -889,9 +1516,22 @@
       "corePointId": "C9.4",
       "extendedPointId": "E9.4",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "draw-bar-chart",
+        "draw-pictogram",
+        "draw-pie-chart",
+        "interpret-bar-chart",
+        "interpret-pictogram",
+        "interpret-pie-chart"
+      ],
+      "extendedOnlySkillIds": [
+        "draw-frequency-polygon",
+        "interpret-frequency-polygon"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Statistical charts and diagrams",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -902,9 +1542,18 @@
       "corePointId": "C9.5",
       "extendedPointId": "E9.5",
       "relationship": "equivalent-requirement",
+      "sharedSkillIds": [
+        "draw-line-of-best-fit",
+        "draw-scatter-diagram",
+        "identify-correlation",
+        "identify-unreliable-extrapolation",
+        "use-line-of-best-fit"
+      ],
+      "extendedOnlySkillIds": [],
+      "coreOnlySkillIds": [],
       "basis": {
         "coreSummary": "Scatter diagrams",
-        "extendedAddition": "No additional wording detected."
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -915,9 +1564,20 @@
       "corePointId": "C9.6",
       "extendedPointId": "E9.6",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "compare-distributions-using-box-plots",
+        "draw-box-plot",
+        "draw-cumulative-frequency-graph",
+        "estimate-median-from-cumulative-frequency-graph",
+        "estimate-quartiles-from-cumulative-frequency-graph",
+        "interpret-box-plot",
+        "interpret-cumulative-frequency-graph"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
@@ -928,9 +1588,16 @@
       "corePointId": "C9.7",
       "extendedPointId": "E9.7",
       "relationship": "extended-only",
+      "sharedSkillIds": [],
+      "extendedOnlySkillIds": [
+        "calculate-frequency-density",
+        "draw-histogram",
+        "interpret-histogram"
+      ],
+      "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Core contains an Extended-only placeholder.",
-        "extendedAddition": "See the complete Extended official statement; teacher confirmation remains required."
+        "coreSummary": "Extended content only",
+        "extendedAddition": "Explicit difference of curated atomic-skill sets."
       },
       "review": {
         "status": "pending-review",
