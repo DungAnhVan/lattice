@@ -14,7 +14,8 @@ class Gate1CTests(unittest.TestCase):
  def test_curated_map_covers_nonplaceholders(self): self.assertEqual({p['id'] for p in self.points if not p.get('extendedOnlyPlaceholder')},set(self.cfg))
  def test_every_configured_skill_defined(self): self.assertEqual({s for x in self.cfg.values() for s in x['atomicSkills']},set(self.defs))
  def test_no_title_fallback_or_broad_skill(self): self.assertFalse({'apply-algebraic-manipulation','apply-area-and-perimeter','apply-functions-concepts','solve-equations'} & {s['id'] for s in self.skills})
- def test_no_unmapped_clauses(self): self.assertFalse(any(x['unmappedClauses'] for x in self.cfg.values()))
+ def test_no_unmapped_clauses(self):
+  clauses=load('config/0580-syllabus-clauses.json')['points']; self.assertFalse(any(c['coverageStatus'] in {'unmapped','partially-covered'} for x in clauses.values() for c in x['clauses']))
  def test_descriptions_have_no_filler(self): self.assertFalse(any('in mathematical problems' in s['description'].lower() or 'perform the specified operation' in s['description'].lower() for s in self.skills))
  def test_groups_do_not_replace_atomic_links(self): self.assertTrue(all(p['atomicSkillIds'] for p in self.points if not p.get('extendedOnlyPlaceholder')))
  def test_all_72_pairs_mapped(self): self.assertEqual(72,len(self.maps))

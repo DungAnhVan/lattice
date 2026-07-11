@@ -65,6 +65,8 @@
               "rawSourceId": { "type": "string" },
               "issues": { "type": "array", "items": { "type": "string" } }
               ,"method": { "type": "string" },
+              "confidenceBasis": { "type": "array", "items": { "type": "string" } },
+              "signals": { "type": "object" },
               "verifiedBy": { "type": ["string", "null"] },
               "verifiedAt": { "type": ["string", "null"] }
             }

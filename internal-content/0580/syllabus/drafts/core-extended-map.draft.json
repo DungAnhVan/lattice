@@ -1,14 +1,24 @@
 {
-  "schemaVersion": "1.0",
+  "schemaVersion": "2.0",
   "mappings": [
     {
       "corePointId": "C1.1",
       "extendedPointId": "E1.1",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.1-c1",
+        "E1.1-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "classify-rational-and-irrational-numbers",
+        "convert-number-words-to-numerals",
+        "convert-numerals-to-number-words",
+        "express-number-as-product-of-prime-factors",
         "find-common-factors",
         "find-common-multiples",
+        "find-highest-common-factor",
+        "find-lowest-common-multiple",
         "find-reciprocals",
         "identify-cube-numbers",
         "identify-integers",
@@ -19,18 +29,24 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Types of number",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.2",
       "extendedPointId": "E1.2",
-      "relationship": "equivalent-requirement",
+      "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C1.2-c1"
+      ],
+      "extendedOnlyClauseIds": [
+        "E1.2-c1"
+      ],
       "sharedSkillIds": [
         "apply-set-complement",
         "apply-set-intersection",
@@ -39,21 +55,31 @@
         "represent-sets-with-venn-diagrams",
         "use-set-language-and-notation"
       ],
-      "extendedOnlySkillIds": [],
+      "extendedOnlySkillIds": [
+        "identify-subset",
+        "represent-three-sets-with-venn-diagram",
+        "use-empty-set-notation",
+        "use-set-membership-notation"
+      ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Sets",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.3",
       "extendedPointId": "E1.3",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.3-c1",
+        "E1.3-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "calculate-cube-roots",
         "calculate-cubes",
@@ -65,18 +91,26 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Powers and roots",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.4",
       "extendedPointId": "E1.4",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C1.4-c1",
+        "C1.4-c2"
+      ],
+      "extendedOnlyClauseIds": [
+        "E1.4-c1",
+        "E1.4-c2"
+      ],
       "sharedSkillIds": [
         "convert-between-decimals-and-percentages",
         "convert-between-fractions-and-percentages",
@@ -86,23 +120,34 @@
         "recognise-improper-fractions",
         "recognise-mixed-numbers",
         "recognise-proper-fractions",
-        "simplify-fractions"
+        "simplify-fractions",
+        "use-decimal-notation",
+        "use-percentage-notation"
       ],
-      "extendedOnlySkillIds": [],
+      "extendedOnlySkillIds": [
+        "convert-fraction-to-recurring-decimal",
+        "convert-recurring-decimal-to-fraction",
+        "use-recurring-decimal-notation"
+      ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Fractions, decimals and percentages",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.5",
       "extendedPointId": "E1.5",
-      "relationship": "extended-adds-scope",
+      "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.5-c1",
+        "E1.5-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "compare-quantities-using-equality-symbols",
         "compare-quantities-using-inequality-symbols",
@@ -111,18 +156,23 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Ordering",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.6",
       "extendedPointId": "E1.6",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.6-c1",
+        "E1.6-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "apply-brackets-in-calculations",
         "apply-order-of-operations",
@@ -134,18 +184,26 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "The four operations",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.7",
       "extendedPointId": "E1.7",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C1.7-c1",
+        "C1.7-c2",
+        "E1.7-c2"
+      ],
+      "extendedOnlyClauseIds": [
+        "E1.7-c1"
+      ],
       "sharedSkillIds": [
         "apply-power-of-power-rule",
         "apply-product-rule-for-indices",
@@ -154,21 +212,33 @@
         "interpret-positive-integer-indices",
         "interpret-zero-indices"
       ],
-      "extendedOnlySkillIds": [],
+      "extendedOnlySkillIds": [
+        "apply-fractional-index-laws",
+        "interpret-fractional-indices"
+      ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Indices I",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.8",
       "extendedPointId": "E1.8",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.8-c1",
+        "C1.8-c2",
+        "C1.8-c3",
+        "E1.8-c1",
+        "E1.8-c2",
+        "E1.8-c3"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "calculate-with-standard-form",
         "convert-numbers-from-standard-form",
@@ -178,39 +248,56 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Standard form",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.9",
       "extendedPointId": "E1.9",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.9-c1",
+        "C1.9-c2",
+        "C1.9-c3",
+        "E1.9-c1",
+        "E1.9-c2",
+        "E1.9-c3"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "choose-appropriate-answer-accuracy",
         "estimate-calculation-results",
         "round-to-decimal-places",
+        "round-to-nearest-unit-or-multiple",
         "round-to-significant-figures"
       ],
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Estimation",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.10",
       "extendedPointId": "E1.10",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C1.10-c1",
+        "E1.10-c1"
+      ],
+      "extendedOnlyClauseIds": [
+        "E1.10-c2"
+      ],
       "sharedSkillIds": [
         "find-lower-bound-of-rounded-value",
         "find-upper-bound-of-rounded-value"
@@ -220,46 +307,59 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Limits of accuracy",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.11",
       "extendedPointId": "E1.11",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.11-c1",
+        "E1.11-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "apply-direct-proportion",
         "apply-ratio-in-context",
         "divide-quantity-in-given-ratio",
         "simplify-ratios"
       ],
-      "extendedOnlySkillIds": [
-        "apply-inverse-proportion"
-      ],
+      "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Ratio and proportion",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.12",
       "extendedPointId": "E1.12",
-      "relationship": "extended-adds-scope",
+      "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.12-c1",
+        "C1.12-c2",
+        "C1.12-c3",
+        "E1.12-c1",
+        "E1.12-c2",
+        "E1.12-c3"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "calculate-average-speed",
         "calculate-currency-exchange",
         "calculate-density",
         "calculate-flow-rate",
+        "calculate-fuel-consumption",
         "calculate-population-density",
         "calculate-pressure",
         "calculate-rate-of-pay",
@@ -268,18 +368,31 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Rates",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.13",
       "extendedPointId": "E1.13",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C1.13-c1",
+        "C1.13-c2",
+        "C1.13-c3",
+        "C1.13-c4",
+        "E1.13-c2",
+        "E1.13-c3",
+        "E1.13-c4"
+      ],
+      "extendedOnlyClauseIds": [
+        "E1.13-c1",
+        "E1.13-c5"
+      ],
       "sharedSkillIds": [
         "calculate-compound-interest",
         "calculate-discount",
@@ -291,22 +404,34 @@
         "express-quantity-as-percentage"
       ],
       "extendedOnlySkillIds": [
+        "calculate-repeated-percentage-change",
         "calculate-reverse-percentage"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Percentages",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.14",
       "extendedPointId": "E1.14",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.14-c1",
+        "C1.14-c2",
+        "C1.14-c3",
+        "C1.14-c4",
+        "E1.14-c1",
+        "E1.14-c2",
+        "E1.14-c3",
+        "E1.14-c4"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "enter-values-into-calculator",
         "interpret-calculator-display",
@@ -316,21 +441,33 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Using a calculator",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.15",
       "extendedPointId": "E1.15",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.15-c1",
+        "C1.15-c2",
+        "C1.15-c3",
+        "C1.15-c4",
+        "E1.15-c1",
+        "E1.15-c2",
+        "E1.15-c3",
+        "E1.15-c4"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "calculate-time-intervals",
         "convert-units-of-time",
+        "read-clock",
         "read-timetables",
         "solve-time-zone-problems",
         "use-twelve-hour-clock",
@@ -339,18 +476,25 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Time",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.16",
       "extendedPointId": "E1.16",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C1.16-c1",
+        "C1.16-c2",
+        "E1.16-c1",
+        "E1.16-c2"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "calculate-with-money",
         "convert-between-currencies"
@@ -358,18 +502,22 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Money",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.17",
       "extendedPointId": "E1.17",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E1.17-c1"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "calculate-compound-decay",
@@ -379,18 +527,23 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C1.18",
       "extendedPointId": "E1.18",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E1.18-c1",
+        "E1.18-c2"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "calculate-with-surds",
@@ -399,18 +552,25 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.1",
       "extendedPointId": "E2.1",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C2.1-c1",
+        "C2.1-c2",
+        "E2.1-c1",
+        "E2.1-c2"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "represent-generalised-numbers-with-letters",
         "substitute-values-into-expressions",
@@ -419,18 +579,30 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Introduction to algebra",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.2",
       "extendedPointId": "E2.2",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C2.2-c1",
+        "C2.2-c2",
+        "C2.2-c3",
+        "E2.2-c1",
+        "E2.2-c4"
+      ],
+      "extendedOnlyClauseIds": [
+        "E2.2-c2",
+        "E2.2-c3",
+        "E2.2-c5"
+      ],
       "sharedSkillIds": [
         "collect-like-terms",
         "expand-product-of-two-brackets",
@@ -440,62 +612,110 @@
       "extendedOnlySkillIds": [
         "complete-square",
         "expand-multiple-algebraic-factors",
+        "factorise-by-grouping",
         "factorise-difference-of-two-squares",
-        "factorise-quadratic-expression"
+        "factorise-quadratic-expression",
+        "recognise-perfect-square-expression"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Algebraic manipulation",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.3",
       "extendedPointId": "E2.3",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E2.3-c1",
+        "E2.3-c2"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "calculate-with-algebraic-fractions",
+        "factorise-rational-expression",
         "simplify-algebraic-fractions"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.4",
       "extendedPointId": "E2.4",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C2.4-c1",
+        "C2.4-c2",
+        "E2.4-c2",
+        "E2.4-c3",
+        "E2.4-c4",
+        "E2.4-c5",
+        "E2.4-c6",
+        "E2.4-c7",
+        "E2.4-c8",
+        "E2.4-c9",
+        "E2.4-c10",
+        "E2.4-c11",
+        "E2.4-c12",
+        "E2.4-c13",
+        "E2.4-c14",
+        "E2.4-c15",
+        "E2.4-c16"
+      ],
+      "extendedOnlyClauseIds": [
+        "E2.4-c1"
+      ],
       "sharedSkillIds": [
         "apply-algebraic-index-laws",
         "interpret-algebraic-indices",
         "solve-simple-exponential-equations"
       ],
-      "extendedOnlySkillIds": [],
+      "extendedOnlySkillIds": [
+        "apply-fractional-algebraic-index-laws",
+        "interpret-fractional-algebraic-indices"
+      ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Indices II",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.5",
       "extendedPointId": "E2.5",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C2.5-c1",
+        "C2.5-c2",
+        "C2.5-c3",
+        "C2.5-c4",
+        "E2.5-c2",
+        "E2.5-c5"
+      ],
+      "extendedOnlyClauseIds": [
+        "E2.5-c1",
+        "E2.5-c3",
+        "E2.5-c4",
+        "E2.5-c6",
+        "E2.5-c7"
+      ],
       "sharedSkillIds": [
         "change-subject-of-formula",
         "construct-algebraic-expressions",
@@ -506,74 +726,108 @@
       ],
       "extendedOnlySkillIds": [
         "change-subject-in-complex-formula",
+        "change-subject-when-subject-is-powered-or-rooted",
+        "change-subject-when-subject-is-repeated",
         "complete-square-to-solve-quadratic",
+        "construct-simultaneous-equations",
         "solve-equation-with-algebraic-fractions",
         "solve-quadratic-equation-by-factorisation",
         "solve-quadratic-equation-using-formula",
+        "solve-simultaneous-linear-and-nonlinear-equations",
         "solve-simultaneous-linear-and-quadratic-equations"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Equations",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.6",
       "extendedPointId": "E2.6",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C2.6-c1",
+        "E2.6-c1"
+      ],
+      "extendedOnlyClauseIds": [
+        "E2.6-c2",
+        "E2.6-c3",
+        "E2.6-c4"
+      ],
       "sharedSkillIds": [
         "interpret-inequality-on-number-line",
-        "represent-inequality-on-number-line",
-        "solve-linear-inequality"
+        "represent-inequality-on-number-line"
       ],
       "extendedOnlySkillIds": [
-        "solve-quadratic-inequality"
+        "construct-linear-inequality",
+        "interpret-linear-inequality-region",
+        "interpret-linear-inequality-solution",
+        "list-inequalities-defining-region",
+        "represent-linear-inequality-region-graphically",
+        "solve-linear-inequality"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Inequalities",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.7",
       "extendedPointId": "E2.7",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C2.7-c1",
+        "C2.7-c2",
+        "C2.7-c3",
+        "E2.7-c1",
+        "E2.7-c2"
+      ],
+      "extendedOnlyClauseIds": [
+        "E2.7-c3"
+      ],
       "sharedSkillIds": [
         "continue-number-sequence",
         "find-nth-term-of-cubic-sequence",
         "find-nth-term-of-linear-sequence",
         "find-nth-term-of-quadratic-sequence",
-        "recognise-sequence-pattern"
+        "recognise-sequence-pattern",
+        "relate-different-sequences",
+        "use-nth-term-of-sequence"
       ],
       "extendedOnlySkillIds": [
         "find-nth-term-of-exponential-sequence"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Sequences",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.8",
       "extendedPointId": "E2.8",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E2.8-c1"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
+        "apply-inverse-proportion",
         "form-direct-proportion-equation",
         "form-inverse-proportion-equation",
         "solve-direct-proportion-problem",
@@ -581,21 +835,33 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.9",
       "extendedPointId": "E2.9",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C2.9-c1",
+        "C2.9-c2"
+      ],
+      "extendedOnlyClauseIds": [
+        "E2.9-c1",
+        "E2.9-c2",
+        "E2.9-c3",
+        "E2.9-c4"
+      ],
       "sharedSkillIds": [
+        "draw-conversion-graph",
         "draw-distance-time-graph",
         "draw-graph-from-data",
+        "interpret-conversion-graph",
         "interpret-distance-time-graph",
         "interpret-gradient-as-rate-of-change",
         "interpret-practical-graphs"
@@ -604,110 +870,168 @@
         "calculate-acceleration-from-speed-time-graph",
         "calculate-distance-from-speed-time-graph",
         "draw-speed-time-graph",
+        "estimate-curve-gradient-using-tangent",
+        "interpret-deceleration-from-speed-time-graph",
         "interpret-speed-time-graph"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Graphs in practical situations",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.10",
       "extendedPointId": "E2.10",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C2.10-c1",
+        "C2.10-c2",
+        "E2.10-c1",
+        "E2.10-c2"
+      ],
+      "extendedOnlyClauseIds": [
+        "E2.10-c3"
+      ],
       "sharedSkillIds": [
         "construct-table-of-values",
-        "draw-exponential-decay-graph",
-        "draw-exponential-growth-graph",
         "interpret-graph-of-function",
         "interpret-roots-from-graph",
         "plot-graph-of-function",
+        "recognise-graph-of-function",
         "solve-equations-graphically"
       ],
-      "extendedOnlySkillIds": [],
+      "extendedOnlySkillIds": [
+        "draw-exponential-decay-graph",
+        "draw-exponential-growth-graph",
+        "interpret-exponential-decay-graph",
+        "interpret-exponential-growth-graph"
+      ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Graphs of functions",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.11",
       "extendedPointId": "E2.11",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C2.11-c1"
+      ],
+      "extendedOnlyClauseIds": [
+        "E2.11-c1"
+      ],
       "sharedSkillIds": [
-        "sketch-cubic-function",
+        "interpret-linear-function-graph",
+        "interpret-quadratic-function-graph",
+        "recognise-linear-function-graph",
+        "recognise-quadratic-function-graph",
         "sketch-linear-function",
-        "sketch-quadratic-function",
+        "sketch-quadratic-function"
+      ],
+      "extendedOnlySkillIds": [
+        "identify-function-asymptotes",
+        "identify-function-roots",
+        "identify-function-symmetry",
+        "identify-function-turning-points",
+        "interpret-cubic-function-graph",
+        "interpret-exponential-function-graph",
+        "interpret-reciprocal-function-graph",
+        "recognise-cubic-function-graph",
+        "recognise-exponential-function-graph",
+        "recognise-reciprocal-function-graph",
+        "sketch-cubic-function",
+        "sketch-exponential-function",
         "sketch-reciprocal-function"
       ],
-      "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Sketching curves",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.12",
       "extendedPointId": "E2.12",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E2.12-c1",
+        "E2.12-c2",
+        "E2.12-c3",
+        "E2.12-c4"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "classify-stationary-point",
         "differentiate-power-function",
+        "estimate-gradient-using-drawn-tangent",
         "find-gradient-using-derivative",
         "find-stationary-point"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C2.13",
       "extendedPointId": "E2.13",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E2.13-c1",
+        "E2.13-c2",
+        "E2.13-c3"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "evaluate-composite-function",
         "evaluate-function",
         "find-inverse-function",
         "form-composite-function",
+        "identify-domain-of-function",
+        "identify-range-of-function",
         "use-function-notation"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C3.1",
       "extendedPointId": "E3.1",
-      "relationship": "extended-adds-scope",
+      "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C3.1-c1",
+        "E3.1-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "plot-cartesian-coordinates",
         "read-cartesian-coordinates"
@@ -715,36 +1039,48 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Coordinates",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C3.2",
       "extendedPointId": "E3.2",
-      "relationship": "extended-adds-scope",
+      "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C3.2-c1",
+        "E3.2-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "draw-linear-graph-from-equation"
       ],
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Drawing linear graphs",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C3.3",
       "extendedPointId": "E3.3",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C3.3-c1",
+        "E3.3-c1"
+      ],
+      "extendedOnlyClauseIds": [
+        "E3.3-c2"
+      ],
       "sharedSkillIds": [
         "calculate-gradient-from-graph"
       ],
@@ -753,18 +1089,23 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Gradient of linear graphs",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C3.4",
       "extendedPointId": "E3.4",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E3.4-c1",
+        "E3.4-c2"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "calculate-distance-between-two-points",
@@ -772,21 +1113,29 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C3.5",
       "extendedPointId": "E3.5",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C3.5-c1"
+      ],
+      "extendedOnlyClauseIds": [
+        "E3.5-c1"
+      ],
       "sharedSkillIds": [
+        "extract-gradient-and-intercept-from-line-equation",
         "find-equation-of-line-from-graph",
-        "interpret-gradient-intercept-form"
+        "interpret-gradient-intercept-form",
+        "interpret-vertical-line-equation"
       ],
       "extendedOnlySkillIds": [
         "find-equation-of-line-from-point-and-gradient",
@@ -794,166 +1143,237 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Equations of linear graphs",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C3.6",
       "extendedPointId": "E3.6",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C3.6-c1",
+        "E3.6-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
+        "find-equation-of-parallel-line",
         "identify-parallel-lines",
         "use-equal-gradients-for-parallel-lines"
       ],
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Parallel lines",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C3.7",
       "extendedPointId": "E3.7",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E3.7-c1"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
+        "find-equation-of-perpendicular-bisector",
+        "find-equation-of-perpendicular-line",
+        "find-gradient-of-perpendicular-line",
         "identify-perpendicular-lines",
         "use-negative-reciprocal-gradients"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C4.1",
       "extendedPointId": "E4.1",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C4.1-c1",
+        "C4.1-c2",
+        "C4.1-c3",
+        "E4.1-c2",
+        "E4.1-c3"
+      ],
+      "extendedOnlyClauseIds": [
+        "E4.1-c1"
+      ],
       "sharedSkillIds": [
         "classify-quadrilaterals",
         "classify-triangles",
-        "identify-lines-of-symmetry",
-        "identify-rotational-symmetry",
         "use-geometric-vocabulary"
       ],
-      "extendedOnlySkillIds": [],
+      "extendedOnlySkillIds": [
+        "classify-extended-solid-types",
+        "use-perpendicular-bisector-vocabulary",
+        "use-plane-vocabulary"
+      ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Geometrical terms",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C4.2",
       "extendedPointId": "E4.2",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C4.2-c1",
+        "C4.2-c2",
+        "C4.2-c3",
+        "E4.2-c1",
+        "E4.2-c2",
+        "E4.2-c3"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
-        "construct-angle-bisector",
-        "construct-locus",
-        "construct-perpendicular-bisector",
-        "construct-perpendicular-line",
-        "construct-triangle-with-ruler-and-compasses"
+        "construct-triangle-with-ruler-and-compasses",
+        "draw-angle-to-given-size",
+        "draw-line-to-given-length",
+        "draw-net-of-solid",
+        "interpret-net-of-solid",
+        "measure-angle",
+        "measure-line-length",
+        "use-net-of-solid"
       ],
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Geometrical constructions",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C4.3",
       "extendedPointId": "E4.3",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C4.3-c1",
+        "C4.3-c2",
+        "E4.3-c1",
+        "E4.3-c2"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "calculate-actual-length-from-scale",
         "construct-scale-drawing",
-        "interpret-scale-drawing"
+        "interpret-scale-drawing",
+        "interpret-three-figure-bearing",
+        "use-three-figure-bearing"
       ],
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Scale drawings",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C4.4",
       "extendedPointId": "E4.4",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C4.4-c1",
+        "E4.4-c2",
+        "E4.4-c3"
+      ],
+      "extendedOnlyClauseIds": [
+        "E4.4-c1"
+      ],
       "sharedSkillIds": [
         "calculate-missing-lengths-in-similar-shapes",
         "identify-similar-shapes"
       ],
       "extendedOnlySkillIds": [
         "calculate-area-scale-factor",
+        "calculate-surface-area-scale-factor",
         "calculate-volume-scale-factor",
-        "identify-congruent-shapes",
-        "prove-shapes-similar",
-        "prove-triangles-congruent"
+        "prove-shapes-similar"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Similarity",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C4.5",
       "extendedPointId": "E4.5",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C4.5-c1",
+        "E4.5-c2"
+      ],
+      "extendedOnlyClauseIds": [
+        "E4.5-c1"
+      ],
       "sharedSkillIds": [
         "identify-line-symmetry",
         "identify-order-of-rotational-symmetry"
       ],
       "extendedOnlySkillIds": [
-        "use-symmetry-properties-of-circle"
+        "identify-axis-of-rotational-symmetry",
+        "identify-plane-of-symmetry"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Symmetry",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C4.6",
       "extendedPointId": "E4.6",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C4.6-c1",
+        "C4.6-c2",
+        "C4.6-c3",
+        "E4.6-c2",
+        "E4.6-c3"
+      ],
+      "extendedOnlyClauseIds": [
+        "E4.6-c1"
+      ],
       "sharedSkillIds": [
         "apply-alternate-angles",
         "apply-angle-sum-of-quadrilateral",
@@ -973,18 +1393,24 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Angles",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C4.7",
       "extendedPointId": "E4.7",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C4.7-c1"
+      ],
+      "extendedOnlyClauseIds": [
+        "E4.7-c1"
+      ],
       "sharedSkillIds": [
         "apply-angle-in-semicircle-theorem",
         "apply-tangent-radius-angle-property"
@@ -997,58 +1423,75 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Circle theorems",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C4.8",
       "extendedPointId": "E4.8",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E4.8-c1"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
-        "apply-intersecting-chords-theorem",
-        "apply-secant-tangent-theorem",
-        "apply-tangent-chord-theorem"
+        "apply-equal-chords-equidistant-from-centre",
+        "apply-equal-tangents-from-external-point",
+        "apply-perpendicular-bisector-of-chord-through-centre"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C5.1",
       "extendedPointId": "E5.1",
-      "relationship": "extended-adds-scope",
+      "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C5.1-c1",
+        "E5.1-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
+        "convert-between-volume-and-capacity",
+        "convert-capacity-units",
         "convert-metric-units-of-area",
         "convert-metric-units-of-length",
+        "convert-metric-units-of-mass",
         "convert-metric-units-of-volume"
       ],
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Units of measure",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C5.2",
       "extendedPointId": "E5.2",
-      "relationship": "extended-adds-scope",
+      "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C5.2-c1",
+        "E5.2-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "calculate-area-of-parallelogram",
         "calculate-area-of-rectangle",
@@ -1056,24 +1499,28 @@
         "calculate-area-of-triangle",
         "calculate-perimeter-of-polygon"
       ],
-      "extendedOnlySkillIds": [
-        "calculate-area-of-kite",
-        "calculate-area-of-rhombus"
-      ],
+      "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Area and perimeter",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C5.3",
       "extendedPointId": "E5.3",
-      "relationship": "extended-adds-scope",
+      "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C5.3-c1",
+        "C5.3-c2",
+        "E5.3-c1",
+        "E5.3-c2"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "calculate-arc-length",
         "calculate-area-of-circle",
@@ -1083,70 +1530,85 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Circles, arcs and sectors",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C5.4",
       "extendedPointId": "E5.4",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C5.4-c1",
+        "E5.4-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
+        "calculate-surface-area-of-cone",
         "calculate-surface-area-of-cylinder",
         "calculate-surface-area-of-prism",
-        "calculate-volume-of-cylinder",
-        "calculate-volume-of-prism"
-      ],
-      "extendedOnlySkillIds": [
-        "calculate-surface-area-of-cone",
         "calculate-surface-area-of-pyramid",
         "calculate-surface-area-of-sphere",
         "calculate-volume-of-cone",
+        "calculate-volume-of-cylinder",
+        "calculate-volume-of-prism",
         "calculate-volume-of-pyramid",
         "calculate-volume-of-sphere"
       ],
+      "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Surface area and volume",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C5.5",
       "extendedPointId": "E5.5",
-      "relationship": "extended-adds-scope",
+      "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C5.5-c1",
+        "C5.5-c2",
+        "E5.5-c1",
+        "E5.5-c2"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "calculate-area-of-compound-shape",
+        "calculate-area-of-partial-shape",
         "calculate-perimeter-of-compound-shape",
         "calculate-surface-area-of-compound-solid",
-        "calculate-volume-of-compound-solid"
+        "calculate-volume-of-compound-solid",
+        "calculate-volume-of-partial-solid"
       ],
-      "extendedOnlySkillIds": [
-        "calculate-similar-area-ratio",
-        "calculate-similar-volume-ratio"
-      ],
+      "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Compound shapes and parts of shapes",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C6.1",
       "extendedPointId": "E6.1",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C6.1-c1",
+        "E6.1-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "apply-pythagoras-theorem",
         "find-missing-side-using-pythagoras"
@@ -1154,43 +1616,62 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Pythagoras’ theorem",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C6.2",
       "extendedPointId": "E6.2",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C6.2-c1",
+        "C6.2-c2",
+        "E6.2-c1"
+      ],
+      "extendedOnlyClauseIds": [
+        "E6.2-c2",
+        "E6.2-c3",
+        "E6.2-c4"
+      ],
       "sharedSkillIds": [
         "find-angle-in-right-triangle",
         "find-side-in-right-triangle",
-        "solve-angle-of-depression",
-        "solve-angle-of-elevation",
-        "solve-bearing-with-trigonometry",
         "use-cosine-ratio",
         "use-sine-ratio",
         "use-tangent-ratio"
       ],
-      "extendedOnlySkillIds": [],
+      "extendedOnlySkillIds": [
+        "apply-pythagoras-theorem",
+        "find-missing-side-using-pythagoras",
+        "identify-perpendicular-distance-as-shortest-distance",
+        "solve-angle-of-depression",
+        "solve-angle-of-elevation"
+      ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Right-angled triangles",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C6.3",
       "extendedPointId": "E6.3",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E6.3-c1",
+        "E6.3-c2",
+        "E6.3-c3"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "recall-exact-cosine-values",
@@ -1199,37 +1680,56 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C6.4",
       "extendedPointId": "E6.4",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E6.4-c1",
+        "E6.4-c2"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
-        "interpret-trigonometric-function-graph",
-        "solve-trigonometric-equation-from-graph"
+        "interpret-cosine-graph",
+        "interpret-sine-graph",
+        "interpret-tangent-graph",
+        "recognise-cosine-graph",
+        "recognise-sine-graph",
+        "recognise-tangent-graph",
+        "sketch-cosine-graph",
+        "sketch-sine-graph",
+        "sketch-tangent-graph",
+        "solve-trigonometric-equation-in-given-domain"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C6.5",
       "extendedPointId": "E6.5",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E6.5-c1",
+        "E6.5-c2",
+        "E6.5-c3"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "calculate-triangle-area-using-sine",
@@ -1239,37 +1739,56 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C6.6",
       "extendedPointId": "E6.6",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E6.6-c1"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
+        "calculate-angle-between-line-and-plane",
         "solve-three-dimensional-pythagoras-problem",
         "solve-three-dimensional-trigonometry-problem"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C7.1",
       "extendedPointId": "E7.1",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C7.1-c1",
+        "C7.1-c2",
+        "C7.1-c3",
+        "C7.1-c4",
+        "C7.1-c5",
+        "E7.1-c2",
+        "E7.1-c3"
+      ],
+      "extendedOnlyClauseIds": [
+        "E7.1-c1",
+        "E7.1-c4",
+        "E7.1-c5"
+      ],
       "sharedSkillIds": [
         "describe-enlargement",
         "describe-reflection",
@@ -1281,83 +1800,119 @@
         "translate-shape"
       ],
       "extendedOnlySkillIds": [
+        "apply-combined-transformations",
         "enlarge-shape-with-fractional-scale-factor",
-        "enlarge-shape-with-negative-scale-factor"
+        "enlarge-shape-with-negative-scale-factor",
+        "recognise-transformation"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Transformations",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C7.2",
       "extendedPointId": "E7.2",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E7.2-c1",
+        "E7.2-c2",
+        "E7.2-c3"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "add-vectors",
         "multiply-vector-by-scalar",
         "represent-vector-in-column-form",
-        "subtract-vectors",
-        "use-position-vectors"
+        "subtract-vectors"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C7.3",
       "extendedPointId": "E7.3",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E7.3-c1",
+        "E7.3-c2",
+        "E7.3-c3"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "calculate-vector-magnitude"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C7.4",
       "extendedPointId": "E7.4",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E7.4-c1",
+        "E7.4-c2",
+        "E7.4-c3",
+        "E7.4-c4"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
+        "express-vector-using-coplanar-basis",
         "prove-collinearity-using-vectors",
         "prove-parallel-lines-using-vectors",
-        "solve-vector-geometry-problem"
+        "represent-directed-line-segment-as-vector",
+        "solve-vector-geometry-problem",
+        "use-position-vectors"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C8.1",
       "extendedPointId": "E8.1",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C8.1-c1",
+        "C8.1-c2",
+        "C8.1-c3",
+        "C8.1-c4",
+        "E8.1-c1",
+        "E8.1-c2",
+        "E8.1-c4",
+        "E8.1-c5"
+      ],
+      "extendedOnlyClauseIds": [
+        "E8.1-c3"
+      ],
       "sharedSkillIds": [
         "calculate-complementary-probability",
         "calculate-single-event-probability",
@@ -1365,22 +1920,33 @@
         "identify-impossible-event",
         "use-probability-scale"
       ],
-      "extendedOnlySkillIds": [],
+      "extendedOnlySkillIds": [
+        "use-probability-notation"
+      ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Introduction to probability",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C8.2",
       "extendedPointId": "E8.2",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C8.2-c1",
+        "C8.2-c2",
+        "E8.2-c1",
+        "E8.2-c2"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
+        "assess-fairness-of-experiment",
+        "assess-randomness-of-outcomes",
         "calculate-expected-frequency",
         "calculate-relative-frequency",
         "compare-relative-frequency-with-theoretical-probability"
@@ -1388,19 +1954,27 @@
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Relative and expected frequencies",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C8.3",
       "extendedPointId": "E8.3",
-      "relationship": "equivalent-requirement",
+      "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C8.3-c1"
+      ],
+      "extendedOnlyClauseIds": [
+        "E8.3-c1"
+      ],
       "sharedSkillIds": [
+        "calculate-probability-from-sample-space",
+        "calculate-probability-from-tree-diagram",
         "calculate-probability-of-combined-events",
         "calculate-probability-of-independent-events",
         "calculate-probability-of-mutually-exclusive-events",
@@ -1409,85 +1983,120 @@
       ],
       "extendedOnlySkillIds": [
         "calculate-probability-using-venn-diagram",
+        "calculate-probability-with-replacement",
+        "calculate-probability-without-replacement",
         "use-set-notation-in-probability"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Probability of combined events",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C8.4",
       "extendedPointId": "E8.4",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E8.4-c1"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "apply-conditional-probability-to-tree-diagram",
-        "calculate-conditional-probability"
+        "calculate-conditional-probability",
+        "calculate-conditional-probability-from-table",
+        "calculate-conditional-probability-from-venn-diagram"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C9.1",
       "extendedPointId": "E9.1",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C9.1-c1",
+        "E9.1-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "classify-categorical-data",
         "classify-continuous-data",
-        "classify-discrete-data"
+        "classify-discrete-data",
+        "construct-tally-table",
+        "construct-two-way-table"
       ],
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Classifying statistical data",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C9.2",
       "extendedPointId": "E9.2",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C9.2-c1",
+        "C9.2-c2",
+        "C9.2-c3",
+        "E9.2-c1",
+        "E9.2-c2"
+      ],
+      "extendedOnlyClauseIds": [
+        "E9.2-c3"
+      ],
       "sharedSkillIds": [
-        "construct-frequency-table",
-        "evaluate-sampling-method",
-        "identify-biased-data-collection",
-        "interpret-frequency-table"
+        "compare-statistical-data-sets",
+        "draw-inference-from-statistical-data",
+        "evaluate-limitations-of-statistical-conclusion",
+        "interpret-frequency-table",
+        "interpret-statistical-diagram",
+        "read-statistical-table"
       ],
       "extendedOnlySkillIds": [
-        "design-questionnaire",
-        "identify-sampling-bias"
+        "compare-distributions-using-averages",
+        "compare-distributions-using-spread"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Interpreting statistical data",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C9.3",
       "extendedPointId": "E9.3",
       "relationship": "extended-adds-scope",
+      "sharedClauseIds": [
+        "C9.3-c1"
+      ],
+      "extendedOnlyClauseIds": [
+        "E9.3-c1",
+        "E9.3-c2",
+        "E9.3-c3"
+      ],
       "sharedSkillIds": [
         "calculate-mean",
         "calculate-median",
@@ -1499,95 +2108,119 @@
         "calculate-estimated-mean-from-grouped-data",
         "calculate-interquartile-range",
         "calculate-quartiles",
-        "compare-distributions-using-averages",
-        "compare-distributions-using-spread"
+        "identify-modal-class"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Averages and range",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C9.4",
       "extendedPointId": "E9.4",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C9.4-c1",
+        "E9.4-c1"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
+        "construct-simple-frequency-distribution",
         "draw-bar-chart",
         "draw-pictogram",
         "draw-pie-chart",
+        "draw-stem-and-leaf-diagram",
         "interpret-bar-chart",
         "interpret-pictogram",
-        "interpret-pie-chart"
+        "interpret-pie-chart",
+        "interpret-stem-and-leaf-diagram"
       ],
-      "extendedOnlySkillIds": [
-        "draw-frequency-polygon",
-        "interpret-frequency-polygon"
-      ],
+      "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Statistical charts and diagrams",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C9.5",
       "extendedPointId": "E9.5",
       "relationship": "equivalent-requirement",
+      "sharedClauseIds": [
+        "C9.5-c1",
+        "C9.5-c2",
+        "C9.5-c3",
+        "E9.5-c1",
+        "E9.5-c2",
+        "E9.5-c3"
+      ],
+      "extendedOnlyClauseIds": [],
       "sharedSkillIds": [
         "draw-line-of-best-fit",
         "draw-scatter-diagram",
         "identify-correlation",
-        "identify-unreliable-extrapolation",
+        "interpret-line-of-best-fit",
+        "interpret-scatter-diagram",
         "use-line-of-best-fit"
       ],
       "extendedOnlySkillIds": [],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Scatter diagrams",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "No additional assessable skill identified."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C9.6",
       "extendedPointId": "E9.6",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E9.6-c1",
+        "E9.6-c2"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
-        "compare-distributions-using-box-plots",
-        "draw-box-plot",
+        "construct-cumulative-frequency-table",
         "draw-cumulative-frequency-graph",
         "estimate-median-from-cumulative-frequency-graph",
+        "estimate-percentile-from-cumulative-frequency-graph",
         "estimate-quartiles-from-cumulative-frequency-graph",
-        "interpret-box-plot",
-        "interpret-cumulative-frequency-graph"
+        "interpret-cumulative-frequency-graph",
+        "interpret-median-quartiles-and-interquartile-range"
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     },
     {
       "corePointId": "C9.7",
       "extendedPointId": "E9.7",
       "relationship": "extended-only",
+      "sharedClauseIds": [],
+      "extendedOnlyClauseIds": [
+        "E9.7-c1",
+        "E9.7-c2"
+      ],
       "sharedSkillIds": [],
       "extendedOnlySkillIds": [
         "calculate-frequency-density",
@@ -1596,12 +2229,12 @@
       ],
       "coreOnlySkillIds": [],
       "basis": {
-        "coreSummary": "Extended content only",
-        "extendedAddition": "Explicit difference of curated atomic-skill sets."
+        "sharedRequirement": "Core and Extended clauses explicitly mapped to the shared skills listed in this record.",
+        "extendedAddition": "Extended clauses explicitly mapped to the Extended-only skills listed in this record."
       },
       "review": {
         "status": "pending-review",
-        "notes": ""
+        "notes": "Independently curated during Gate 1C Repair; no generated index or statement equality was used."
       }
     }
   ]

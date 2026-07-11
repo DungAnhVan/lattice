@@ -29,7 +29,12 @@
         "find-common-factors",
         "find-common-multiples",
         "classify-rational-and-irrational-numbers",
-        "find-reciprocals"
+        "find-reciprocals",
+        "convert-number-words-to-numerals",
+        "convert-numerals-to-number-words",
+        "express-number-as-product-of-prime-factors",
+        "find-highest-common-factor",
+        "find-lowest-common-multiple"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -41,7 +46,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.1",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -86,7 +110,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.2",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -131,7 +174,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -167,7 +229,9 @@
         "convert-fractions-to-decimals",
         "convert-decimals-to-fractions",
         "convert-between-fractions-and-percentages",
-        "convert-between-decimals-and-percentages"
+        "convert-between-decimals-and-percentages",
+        "use-decimal-notation",
+        "use-percentage-notation"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -178,11 +242,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.4",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -220,6 +306,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.5",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -264,7 +369,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.6",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -308,11 +432,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.7",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -351,11 +497,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.87,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.8",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -383,7 +551,8 @@
         "round-to-decimal-places",
         "round-to-significant-figures",
         "estimate-calculation-results",
-        "choose-appropriate-answer-accuracy"
+        "choose-appropriate-answer-accuracy",
+        "round-to-nearest-unit-or-multiple"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -394,11 +563,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.9",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -436,7 +627,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.10",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -477,7 +687,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.11",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -512,7 +741,8 @@
         "calculate-pressure",
         "calculate-population-density",
         "calculate-average-speed",
-        "convert-compound-units"
+        "convert-compound-units",
+        "calculate-fuel-consumption"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -524,7 +754,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.12",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -569,7 +818,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.13",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -610,7 +878,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.14",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -643,7 +930,8 @@
         "use-twelve-hour-clock",
         "use-twenty-four-hour-clock",
         "read-timetables",
-        "solve-time-zone-problems"
+        "solve-time-zone-problems",
+        "read-clock"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -654,11 +942,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.15",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -695,6 +1005,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.16",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -729,7 +1058,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.17",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -764,7 +1112,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C1.18",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -803,11 +1170,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.87,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.1",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -847,7 +1236,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.2",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -882,7 +1290,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -923,11 +1350,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.4",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -968,11 +1417,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.5",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -998,8 +1469,7 @@
       ],
       "atomicSkillIds": [
         "represent-inequality-on-number-line",
-        "interpret-inequality-on-number-line",
-        "solve-linear-inequality"
+        "interpret-inequality-on-number-line"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1011,7 +1481,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.6",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1041,7 +1530,9 @@
         "recognise-sequence-pattern",
         "find-nth-term-of-linear-sequence",
         "find-nth-term-of-quadratic-sequence",
-        "find-nth-term-of-cubic-sequence"
+        "find-nth-term-of-cubic-sequence",
+        "use-nth-term-of-sequence",
+        "relate-different-sequences"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1052,11 +1543,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.7",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -1088,7 +1601,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.8",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1118,7 +1650,9 @@
         "interpret-gradient-as-rate-of-change",
         "draw-graph-from-data",
         "interpret-distance-time-graph",
-        "draw-distance-time-graph"
+        "draw-distance-time-graph",
+        "interpret-conversion-graph",
+        "draw-conversion-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1129,11 +1663,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.9",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -1161,8 +1717,7 @@
         "interpret-graph-of-function",
         "solve-equations-graphically",
         "interpret-roots-from-graph",
-        "draw-exponential-growth-graph",
-        "draw-exponential-decay-graph"
+        "recognise-graph-of-function"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1173,11 +1728,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.10",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -1204,8 +1781,10 @@
       "atomicSkillIds": [
         "sketch-linear-function",
         "sketch-quadratic-function",
-        "sketch-cubic-function",
-        "sketch-reciprocal-function"
+        "recognise-linear-function-graph",
+        "interpret-linear-function-graph",
+        "recognise-quadratic-function-graph",
+        "interpret-quadratic-function-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1217,7 +1796,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.11",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1252,7 +1850,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.12",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1287,7 +1904,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C2.13",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1327,6 +1963,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C3.1",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1365,6 +2020,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C3.2",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1403,6 +2077,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C3.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1437,7 +2130,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C3.4",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1466,7 +2178,9 @@
       ],
       "atomicSkillIds": [
         "interpret-gradient-intercept-form",
-        "find-equation-of-line-from-graph"
+        "find-equation-of-line-from-graph",
+        "interpret-vertical-line-equation",
+        "extract-gradient-and-intercept-from-line-equation"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1478,7 +2192,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C3.5",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1505,7 +2238,8 @@
       ],
       "atomicSkillIds": [
         "identify-parallel-lines",
-        "use-equal-gradients-for-parallel-lines"
+        "use-equal-gradients-for-parallel-lines",
+        "find-equation-of-parallel-line"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1517,7 +2251,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C3.6",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1552,7 +2305,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C3.7",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1591,9 +2363,7 @@
       "atomicSkillIds": [
         "use-geometric-vocabulary",
         "classify-triangles",
-        "classify-quadrilaterals",
-        "identify-lines-of-symmetry",
-        "identify-rotational-symmetry"
+        "classify-quadrilaterals"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1604,11 +2374,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C4.1",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -1634,10 +2426,13 @@
       ],
       "atomicSkillIds": [
         "construct-triangle-with-ruler-and-compasses",
-        "construct-perpendicular-bisector",
-        "construct-angle-bisector",
-        "construct-perpendicular-line",
-        "construct-locus"
+        "measure-line-length",
+        "draw-line-to-given-length",
+        "measure-angle",
+        "draw-angle-to-given-size",
+        "draw-net-of-solid",
+        "use-net-of-solid",
+        "interpret-net-of-solid"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1648,11 +2443,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C4.2",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -1679,7 +2496,9 @@
       "atomicSkillIds": [
         "interpret-scale-drawing",
         "construct-scale-drawing",
-        "calculate-actual-length-from-scale"
+        "calculate-actual-length-from-scale",
+        "interpret-three-figure-bearing",
+        "use-three-figure-bearing"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1691,7 +2510,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C4.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1731,6 +2569,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C4.4",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1771,7 +2628,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C4.5",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1820,11 +2696,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C4.6",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -1860,7 +2758,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C4.7",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1895,7 +2812,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C4.8",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1923,7 +2859,10 @@
       "atomicSkillIds": [
         "convert-metric-units-of-length",
         "convert-metric-units-of-area",
-        "convert-metric-units-of-volume"
+        "convert-metric-units-of-volume",
+        "convert-metric-units-of-mass",
+        "convert-capacity-units",
+        "convert-between-volume-and-capacity"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -1935,7 +2874,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C5.1",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -1977,7 +2935,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C5.2",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2017,11 +2994,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C5.3",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -2047,7 +3046,13 @@
         "calculate-surface-area-of-prism",
         "calculate-volume-of-prism",
         "calculate-surface-area-of-cylinder",
-        "calculate-volume-of-cylinder"
+        "calculate-volume-of-cylinder",
+        "calculate-volume-of-pyramid",
+        "calculate-surface-area-of-pyramid",
+        "calculate-volume-of-cone",
+        "calculate-surface-area-of-cone",
+        "calculate-volume-of-sphere",
+        "calculate-surface-area-of-sphere"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2059,7 +3064,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C5.4",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2088,7 +3112,9 @@
         "calculate-area-of-compound-shape",
         "calculate-perimeter-of-compound-shape",
         "calculate-volume-of-compound-solid",
-        "calculate-surface-area-of-compound-solid"
+        "calculate-surface-area-of-compound-solid",
+        "calculate-area-of-partial-shape",
+        "calculate-volume-of-partial-solid"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2099,11 +3125,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C5.5",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -2140,6 +3188,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C6.1",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2171,10 +3238,7 @@
         "use-cosine-ratio",
         "use-tangent-ratio",
         "find-side-in-right-triangle",
-        "find-angle-in-right-triangle",
-        "solve-angle-of-elevation",
-        "solve-angle-of-depression",
-        "solve-bearing-with-trigonometry"
+        "find-angle-in-right-triangle"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2185,11 +3249,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C6.2",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -2221,7 +3307,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C6.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2256,7 +3361,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C6.4",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2291,7 +3415,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C6.5",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2326,7 +3469,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C6.6",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2372,11 +3534,35 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.83,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "formula layout ambiguity",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": true,
+          "codePageAligned": true
+        },
         "rawSourceId": "C7.1",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization.",
+          "Formula layout requires comparison with the source PDF."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -2408,7 +3594,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C7.2",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2443,7 +3648,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C7.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2478,7 +3702,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C7.4",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2521,11 +3764,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C8.1",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -2552,7 +3817,9 @@
       "atomicSkillIds": [
         "calculate-relative-frequency",
         "calculate-expected-frequency",
-        "compare-relative-frequency-with-theoretical-probability"
+        "compare-relative-frequency-with-theoretical-probability",
+        "assess-randomness-of-outcomes",
+        "assess-fairness-of-experiment"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2563,11 +3830,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C8.2",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -2596,7 +3885,9 @@
         "construct-sample-space-diagram",
         "calculate-probability-of-mutually-exclusive-events",
         "calculate-probability-of-independent-events",
-        "construct-probability-tree-diagram"
+        "construct-probability-tree-diagram",
+        "calculate-probability-from-sample-space",
+        "calculate-probability-from-tree-diagram"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2608,7 +3899,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C8.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2643,7 +3953,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C8.4",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2671,7 +4000,9 @@
       "atomicSkillIds": [
         "classify-categorical-data",
         "classify-discrete-data",
-        "classify-continuous-data"
+        "classify-continuous-data",
+        "construct-tally-table",
+        "construct-two-way-table"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2684,6 +4015,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C9.1",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2710,9 +4060,11 @@
       ],
       "atomicSkillIds": [
         "interpret-frequency-table",
-        "construct-frequency-table",
-        "identify-biased-data-collection",
-        "evaluate-sampling-method"
+        "read-statistical-table",
+        "interpret-statistical-diagram",
+        "draw-inference-from-statistical-data",
+        "compare-statistical-data-sets",
+        "evaluate-limitations-of-statistical-conclusion"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2723,11 +4075,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C9.2",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -2768,7 +4142,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C9.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2801,7 +4194,10 @@
         "draw-pie-chart",
         "interpret-pie-chart",
         "draw-pictogram",
-        "interpret-pictogram"
+        "interpret-pictogram",
+        "draw-stem-and-leaf-diagram",
+        "interpret-stem-and-leaf-diagram",
+        "construct-simple-frequency-distribution"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2813,7 +4209,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C9.4",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2845,7 +4260,8 @@
         "identify-correlation",
         "draw-line-of-best-fit",
         "use-line-of-best-fit",
-        "identify-unreliable-extrapolation"
+        "interpret-scatter-diagram",
+        "interpret-line-of-best-fit"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2856,11 +4272,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C9.5",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -2892,7 +4330,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C9.6",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2927,7 +4384,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "missing statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": false,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "C9.7",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -2963,7 +4439,12 @@
         "find-common-factors",
         "find-common-multiples",
         "classify-rational-and-irrational-numbers",
-        "find-reciprocals"
+        "find-reciprocals",
+        "convert-number-words-to-numerals",
+        "convert-numerals-to-number-words",
+        "express-number-as-product-of-prime-factors",
+        "find-highest-common-factor",
+        "find-lowest-common-multiple"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -2975,7 +4456,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.1",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3008,7 +4508,11 @@
         "calculate-number-of-set-elements",
         "apply-set-union",
         "apply-set-intersection",
-        "apply-set-complement"
+        "apply-set-complement",
+        "use-set-membership-notation",
+        "use-empty-set-notation",
+        "identify-subset",
+        "represent-three-sets-with-venn-diagram"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3020,7 +4524,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.2",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3065,7 +4588,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3101,7 +4643,12 @@
         "convert-fractions-to-decimals",
         "convert-decimals-to-fractions",
         "convert-between-fractions-and-percentages",
-        "convert-between-decimals-and-percentages"
+        "convert-between-decimals-and-percentages",
+        "use-decimal-notation",
+        "use-percentage-notation",
+        "use-recurring-decimal-notation",
+        "convert-recurring-decimal-to-fraction",
+        "convert-fraction-to-recurring-decimal"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3112,11 +4659,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.4",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -3154,6 +4723,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.5",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3198,7 +4786,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.6",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3231,7 +4838,9 @@
         "interpret-negative-integer-indices",
         "apply-product-rule-for-indices",
         "apply-quotient-rule-for-indices",
-        "apply-power-of-power-rule"
+        "apply-power-of-power-rule",
+        "interpret-fractional-indices",
+        "apply-fractional-index-laws"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3242,11 +4851,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.7",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -3283,11 +4914,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.87,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.8",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -3315,7 +4968,8 @@
         "round-to-decimal-places",
         "round-to-significant-figures",
         "estimate-calculation-results",
-        "choose-appropriate-answer-accuracy"
+        "choose-appropriate-answer-accuracy",
+        "round-to-nearest-unit-or-multiple"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3326,11 +4980,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.9",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -3368,11 +5044,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.10",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -3398,8 +5096,7 @@
         "simplify-ratios",
         "divide-quantity-in-given-ratio",
         "apply-ratio-in-context",
-        "apply-direct-proportion",
-        "apply-inverse-proportion"
+        "apply-direct-proportion"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3411,7 +5108,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.11",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3446,7 +5162,8 @@
         "calculate-pressure",
         "calculate-population-density",
         "calculate-average-speed",
-        "convert-compound-units"
+        "convert-compound-units",
+        "calculate-fuel-consumption"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3458,7 +5175,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.12",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3494,7 +5230,8 @@
         "calculate-compound-interest",
         "calculate-profit-and-loss",
         "calculate-discount",
-        "calculate-reverse-percentage"
+        "calculate-reverse-percentage",
+        "calculate-repeated-percentage-change"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3506,7 +5243,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.13",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3547,7 +5303,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.14",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3580,7 +5355,8 @@
         "use-twelve-hour-clock",
         "use-twenty-four-hour-clock",
         "read-timetables",
-        "solve-time-zone-problems"
+        "solve-time-zone-problems",
+        "read-clock"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3591,11 +5367,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.15",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -3632,6 +5430,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.16",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3674,7 +5491,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.17",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3715,11 +5551,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E1.18",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -3755,11 +5613,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.87,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.1",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -3791,7 +5671,9 @@
         "factorise-quadratic-expression",
         "factorise-difference-of-two-squares",
         "complete-square",
-        "expand-multiple-algebraic-factors"
+        "expand-multiple-algebraic-factors",
+        "factorise-by-grouping",
+        "recognise-perfect-square-expression"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3802,11 +5684,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.2",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -3832,7 +5736,8 @@
       ],
       "atomicSkillIds": [
         "simplify-algebraic-fractions",
-        "calculate-with-algebraic-fractions"
+        "calculate-with-algebraic-fractions",
+        "factorise-rational-expression"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3844,7 +5749,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -3874,7 +5798,9 @@
       "atomicSkillIds": [
         "interpret-algebraic-indices",
         "apply-algebraic-index-laws",
-        "solve-simple-exponential-equations"
+        "solve-simple-exponential-equations",
+        "interpret-fractional-algebraic-indices",
+        "apply-fractional-algebraic-index-laws"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3887,10 +5813,30 @@
       "extraction": {
         "status": "needs-review",
         "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.4",
         "method": "coordinate-table-reconstruction",
         "issues": [
-          "Mathematical formula layout requires teacher comparison with source PDF."
+          "Control character removed during normalization."
         ],
         "verifiedBy": null,
         "verifiedAt": null
@@ -3927,7 +5873,11 @@
         "solve-quadratic-equation-using-formula",
         "complete-square-to-solve-quadratic",
         "solve-simultaneous-linear-and-quadratic-equations",
-        "change-subject-in-complex-formula"
+        "change-subject-in-complex-formula",
+        "construct-simultaneous-equations",
+        "solve-simultaneous-linear-and-nonlinear-equations",
+        "change-subject-when-subject-is-repeated",
+        "change-subject-when-subject-is-powered-or-rooted"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3938,11 +5888,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.5",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -3970,7 +5942,11 @@
         "represent-inequality-on-number-line",
         "interpret-inequality-on-number-line",
         "solve-linear-inequality",
-        "solve-quadratic-inequality"
+        "construct-linear-inequality",
+        "interpret-linear-inequality-solution",
+        "represent-linear-inequality-region-graphically",
+        "interpret-linear-inequality-region",
+        "list-inequalities-defining-region"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -3981,11 +5957,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.6",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4015,7 +6013,9 @@
         "find-nth-term-of-linear-sequence",
         "find-nth-term-of-quadratic-sequence",
         "find-nth-term-of-cubic-sequence",
-        "find-nth-term-of-exponential-sequence"
+        "find-nth-term-of-exponential-sequence",
+        "use-nth-term-of-sequence",
+        "relate-different-sequences"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4026,11 +6026,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.7",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4058,7 +6080,8 @@
         "form-direct-proportion-equation",
         "form-inverse-proportion-equation",
         "solve-direct-proportion-problem",
-        "solve-inverse-proportion-problem"
+        "solve-inverse-proportion-problem",
+        "apply-inverse-proportion"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4070,7 +6093,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.8",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -4106,7 +6148,11 @@
         "interpret-speed-time-graph",
         "draw-speed-time-graph",
         "calculate-distance-from-speed-time-graph",
-        "calculate-acceleration-from-speed-time-graph"
+        "calculate-acceleration-from-speed-time-graph",
+        "interpret-conversion-graph",
+        "draw-conversion-graph",
+        "estimate-curve-gradient-using-tangent",
+        "interpret-deceleration-from-speed-time-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4117,11 +6163,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.9",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4152,7 +6220,10 @@
         "solve-equations-graphically",
         "interpret-roots-from-graph",
         "draw-exponential-growth-graph",
-        "draw-exponential-decay-graph"
+        "draw-exponential-decay-graph",
+        "recognise-graph-of-function",
+        "interpret-exponential-growth-graph",
+        "interpret-exponential-decay-graph"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4165,10 +6236,30 @@
       "extraction": {
         "status": "needs-review",
         "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.10",
         "method": "coordinate-table-reconstruction",
         "issues": [
-          "Mathematical formula layout requires teacher comparison with source PDF."
+          "Control character removed during normalization."
         ],
         "verifiedBy": null,
         "verifiedAt": null
@@ -4197,7 +6288,22 @@
         "sketch-linear-function",
         "sketch-quadratic-function",
         "sketch-cubic-function",
-        "sketch-reciprocal-function"
+        "sketch-reciprocal-function",
+        "recognise-linear-function-graph",
+        "interpret-linear-function-graph",
+        "recognise-quadratic-function-graph",
+        "interpret-quadratic-function-graph",
+        "recognise-cubic-function-graph",
+        "interpret-cubic-function-graph",
+        "recognise-reciprocal-function-graph",
+        "interpret-reciprocal-function-graph",
+        "recognise-exponential-function-graph",
+        "sketch-exponential-function",
+        "interpret-exponential-function-graph",
+        "identify-function-roots",
+        "identify-function-symmetry",
+        "identify-function-turning-points",
+        "identify-function-asymptotes"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4209,7 +6315,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.11",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -4240,7 +6365,8 @@
         "differentiate-power-function",
         "find-gradient-using-derivative",
         "find-stationary-point",
-        "classify-stationary-point"
+        "classify-stationary-point",
+        "estimate-gradient-using-drawn-tangent"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4251,11 +6377,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.12",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4284,7 +6432,9 @@
         "evaluate-function",
         "find-inverse-function",
         "form-composite-function",
-        "evaluate-composite-function"
+        "evaluate-composite-function",
+        "identify-domain-of-function",
+        "identify-range-of-function"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4295,11 +6445,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E2.13",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4336,6 +6508,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E3.1",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -4375,7 +6566,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E3.2",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -4413,11 +6623,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.87,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E3.3",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4452,11 +6684,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.87,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E3.4",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4484,7 +6738,9 @@
         "interpret-gradient-intercept-form",
         "find-equation-of-line-from-graph",
         "find-equation-of-line-from-two-points",
-        "find-equation-of-line-from-point-and-gradient"
+        "find-equation-of-line-from-point-and-gradient",
+        "interpret-vertical-line-equation",
+        "extract-gradient-and-intercept-from-line-equation"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4496,7 +6752,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E3.5",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -4523,7 +6798,8 @@
       ],
       "atomicSkillIds": [
         "identify-parallel-lines",
-        "use-equal-gradients-for-parallel-lines"
+        "use-equal-gradients-for-parallel-lines",
+        "find-equation-of-parallel-line"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4535,7 +6811,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E3.6",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -4564,7 +6859,10 @@
       ],
       "atomicSkillIds": [
         "identify-perpendicular-lines",
-        "use-negative-reciprocal-gradients"
+        "use-negative-reciprocal-gradients",
+        "find-gradient-of-perpendicular-line",
+        "find-equation-of-perpendicular-line",
+        "find-equation-of-perpendicular-bisector"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4576,7 +6874,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E3.7",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -4616,8 +6933,9 @@
         "use-geometric-vocabulary",
         "classify-triangles",
         "classify-quadrilaterals",
-        "identify-lines-of-symmetry",
-        "identify-rotational-symmetry"
+        "use-plane-vocabulary",
+        "use-perpendicular-bisector-vocabulary",
+        "classify-extended-solid-types"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4628,11 +6946,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E4.1",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4658,10 +6998,13 @@
       ],
       "atomicSkillIds": [
         "construct-triangle-with-ruler-and-compasses",
-        "construct-perpendicular-bisector",
-        "construct-angle-bisector",
-        "construct-perpendicular-line",
-        "construct-locus"
+        "measure-line-length",
+        "draw-line-to-given-length",
+        "measure-angle",
+        "draw-angle-to-given-size",
+        "draw-net-of-solid",
+        "use-net-of-solid",
+        "interpret-net-of-solid"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4672,11 +7015,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E4.2",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4703,7 +7068,9 @@
       "atomicSkillIds": [
         "interpret-scale-drawing",
         "construct-scale-drawing",
-        "calculate-actual-length-from-scale"
+        "calculate-actual-length-from-scale",
+        "interpret-three-figure-bearing",
+        "use-three-figure-bearing"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4715,7 +7082,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E4.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -4746,10 +7132,9 @@
         "identify-similar-shapes",
         "calculate-missing-lengths-in-similar-shapes",
         "prove-shapes-similar",
-        "identify-congruent-shapes",
-        "prove-triangles-congruent",
         "calculate-area-scale-factor",
-        "calculate-volume-scale-factor"
+        "calculate-volume-scale-factor",
+        "calculate-surface-area-scale-factor"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4760,11 +7145,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E4.4",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4791,7 +7198,8 @@
       "atomicSkillIds": [
         "identify-line-symmetry",
         "identify-order-of-rotational-symmetry",
-        "use-symmetry-properties-of-circle"
+        "identify-plane-of-symmetry",
+        "identify-axis-of-rotational-symmetry"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4802,11 +7210,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E4.5",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4854,11 +7284,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E4.6",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -4900,7 +7352,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E4.7",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -4928,9 +7399,9 @@
         }
       ],
       "atomicSkillIds": [
-        "apply-tangent-chord-theorem",
-        "apply-intersecting-chords-theorem",
-        "apply-secant-tangent-theorem"
+        "apply-equal-chords-equidistant-from-centre",
+        "apply-perpendicular-bisector-of-chord-through-centre",
+        "apply-equal-tangents-from-external-point"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4942,7 +7413,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E4.8",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -4970,7 +7460,10 @@
       "atomicSkillIds": [
         "convert-metric-units-of-length",
         "convert-metric-units-of-area",
-        "convert-metric-units-of-volume"
+        "convert-metric-units-of-volume",
+        "convert-metric-units-of-mass",
+        "convert-capacity-units",
+        "convert-between-volume-and-capacity"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -4982,7 +7475,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E5.1",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -5012,9 +7524,7 @@
         "calculate-area-of-rectangle",
         "calculate-area-of-triangle",
         "calculate-area-of-parallelogram",
-        "calculate-area-of-trapezium",
-        "calculate-area-of-kite",
-        "calculate-area-of-rhombus"
+        "calculate-area-of-trapezium"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5026,7 +7536,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E5.2",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -5068,11 +7597,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E5.3",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5116,7 +7667,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E5.4",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -5146,8 +7716,8 @@
         "calculate-perimeter-of-compound-shape",
         "calculate-volume-of-compound-solid",
         "calculate-surface-area-of-compound-solid",
-        "calculate-similar-area-ratio",
-        "calculate-similar-volume-ratio"
+        "calculate-area-of-partial-shape",
+        "calculate-volume-of-partial-solid"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5158,11 +7728,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E5.5",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5199,6 +7791,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E6.1",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -5233,7 +7844,9 @@
         "find-angle-in-right-triangle",
         "solve-angle-of-elevation",
         "solve-angle-of-depression",
-        "solve-bearing-with-trigonometry"
+        "identify-perpendicular-distance-as-shortest-distance",
+        "apply-pythagoras-theorem",
+        "find-missing-side-using-pythagoras"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5244,11 +7857,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E6.2",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5286,6 +7921,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E6.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -5311,8 +7965,16 @@
         }
       ],
       "atomicSkillIds": [
-        "interpret-trigonometric-function-graph",
-        "solve-trigonometric-equation-from-graph"
+        "recognise-sine-graph",
+        "recognise-cosine-graph",
+        "recognise-tangent-graph",
+        "sketch-sine-graph",
+        "sketch-cosine-graph",
+        "sketch-tangent-graph",
+        "interpret-sine-graph",
+        "interpret-cosine-graph",
+        "interpret-tangent-graph",
+        "solve-trigonometric-equation-in-given-domain"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5323,11 +7985,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E6.4",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5368,10 +8052,30 @@
       "extraction": {
         "status": "needs-review",
         "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E6.5",
         "method": "coordinate-table-reconstruction",
         "issues": [
-          "Mathematical formula layout requires teacher comparison with source PDF."
+          "Control character removed during normalization."
         ],
         "verifiedBy": null,
         "verifiedAt": null
@@ -5382,8 +8086,8 @@
       "tier": "extended",
       "topicId": "trigonometry",
       "officialCode": "E6.6",
-      "officialTitle": "\u0007Pythagoras’ theorem and trigonometry",
-      "officialStatement": "in 3D\nCarry out calculations and solve problems in \nthree dimensions using Pythagoras’ theorem \nand trigonometry, including calculating the angle \nbetween a line and a plane.",
+      "officialTitle": "Pythagoras’ theorem and trigonometry in 3D",
+      "officialStatement": "Carry out calculations and solve problems in \nthree dimensions using Pythagoras’ theorem \nand trigonometry, including calculating the angle \nbetween a line and a plane.",
       "notes": [],
       "examplesFromSyllabus": [],
       "extendedOnlyPlaceholder": false,
@@ -5396,7 +8100,8 @@
       ],
       "atomicSkillIds": [
         "solve-three-dimensional-pythagoras-problem",
-        "solve-three-dimensional-trigonometry-problem"
+        "solve-three-dimensional-trigonometry-problem",
+        "calculate-angle-between-line-and-plane"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5407,11 +8112,35 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.77,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "detached title fragment repaired",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": true,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": true,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E6.6",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization.",
+          "Detached or multiline title fragment normalized into the title."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5443,7 +8172,9 @@
         "describe-translation",
         "describe-enlargement",
         "enlarge-shape-with-negative-scale-factor",
-        "enlarge-shape-with-fractional-scale-factor"
+        "enlarge-shape-with-fractional-scale-factor",
+        "recognise-transformation",
+        "apply-combined-transformations"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5454,11 +8185,35 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.83,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "formula layout ambiguity",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": true,
+          "codePageAligned": true
+        },
         "rawSourceId": "E7.1",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization.",
+          "Formula layout requires comparison with the source PDF."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5484,8 +8239,7 @@
         "represent-vector-in-column-form",
         "add-vectors",
         "subtract-vectors",
-        "multiply-vector-by-scalar",
-        "use-position-vectors"
+        "multiply-vector-by-scalar"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5496,11 +8250,35 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.83,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "formula layout ambiguity",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": true,
+          "codePageAligned": true
+        },
         "rawSourceId": "E7.2",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization.",
+          "Formula layout requires comparison with the source PDF."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5534,11 +8312,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.93,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "formula layout ambiguity",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": true,
+          "codePageAligned": true
+        },
         "rawSourceId": "E7.3",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Formula layout requires comparison with the source PDF."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5565,7 +8365,10 @@
       "atomicSkillIds": [
         "solve-vector-geometry-problem",
         "prove-collinearity-using-vectors",
-        "prove-parallel-lines-using-vectors"
+        "prove-parallel-lines-using-vectors",
+        "use-position-vectors",
+        "represent-directed-line-segment-as-vector",
+        "express-vector-using-coplanar-basis"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5576,11 +8379,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E7.4",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5609,7 +8434,8 @@
         "use-probability-scale",
         "identify-impossible-event",
         "identify-certain-event",
-        "calculate-complementary-probability"
+        "calculate-complementary-probability",
+        "use-probability-notation"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5620,11 +8446,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E8.1",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5651,7 +8499,9 @@
       "atomicSkillIds": [
         "calculate-relative-frequency",
         "calculate-expected-frequency",
-        "compare-relative-frequency-with-theoretical-probability"
+        "compare-relative-frequency-with-theoretical-probability",
+        "assess-randomness-of-outcomes",
+        "assess-fairness-of-experiment"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5662,11 +8512,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E8.2",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5697,7 +8569,11 @@
         "calculate-probability-of-independent-events",
         "construct-probability-tree-diagram",
         "calculate-probability-using-venn-diagram",
-        "use-set-notation-in-probability"
+        "use-set-notation-in-probability",
+        "calculate-probability-from-sample-space",
+        "calculate-probability-from-tree-diagram",
+        "calculate-probability-without-replacement",
+        "calculate-probability-with-replacement"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5709,7 +8585,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E8.3",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -5738,7 +8633,9 @@
       ],
       "atomicSkillIds": [
         "calculate-conditional-probability",
-        "apply-conditional-probability-to-tree-diagram"
+        "apply-conditional-probability-to-tree-diagram",
+        "calculate-conditional-probability-from-venn-diagram",
+        "calculate-conditional-probability-from-table"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5750,7 +8647,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E8.4",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -5778,7 +8694,9 @@
       "atomicSkillIds": [
         "classify-categorical-data",
         "classify-discrete-data",
-        "classify-continuous-data"
+        "classify-continuous-data",
+        "construct-tally-table",
+        "construct-two-way-table"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5791,6 +8709,25 @@
       "extraction": {
         "status": "clean",
         "confidence": 0.97,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E9.1",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -5817,11 +8754,13 @@
       ],
       "atomicSkillIds": [
         "interpret-frequency-table",
-        "construct-frequency-table",
-        "identify-biased-data-collection",
-        "evaluate-sampling-method",
-        "design-questionnaire",
-        "identify-sampling-bias"
+        "read-statistical-table",
+        "interpret-statistical-diagram",
+        "draw-inference-from-statistical-data",
+        "compare-statistical-data-sets",
+        "evaluate-limitations-of-statistical-conclusion",
+        "compare-distributions-using-averages",
+        "compare-distributions-using-spread"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5832,11 +8771,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E9.2",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5867,8 +8828,7 @@
         "calculate-quartiles",
         "calculate-interquartile-range",
         "calculate-estimated-mean-from-grouped-data",
-        "compare-distributions-using-averages",
-        "compare-distributions-using-spread"
+        "identify-modal-class"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5879,11 +8839,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.87,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "no notes-column block detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": false,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E9.3",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -5914,8 +8896,9 @@
         "interpret-pie-chart",
         "draw-pictogram",
         "interpret-pictogram",
-        "draw-frequency-polygon",
-        "interpret-frequency-polygon"
+        "draw-stem-and-leaf-diagram",
+        "interpret-stem-and-leaf-diagram",
+        "construct-simple-frequency-distribution"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5927,7 +8910,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E9.4",
         "method": "coordinate-table-reconstruction",
         "issues": [],
@@ -5959,7 +8961,8 @@
         "identify-correlation",
         "draw-line-of-best-fit",
         "use-line-of-best-fit",
-        "identify-unreliable-extrapolation"
+        "interpret-scatter-diagram",
+        "interpret-line-of-best-fit"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -5970,11 +8973,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E9.5",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -6003,9 +9028,9 @@
         "interpret-cumulative-frequency-graph",
         "estimate-median-from-cumulative-frequency-graph",
         "estimate-quartiles-from-cumulative-frequency-graph",
-        "draw-box-plot",
-        "interpret-box-plot",
-        "compare-distributions-using-box-plots"
+        "construct-cumulative-frequency-table",
+        "estimate-percentile-from-cumulative-frequency-graph",
+        "interpret-median-quartiles-and-interquartile-range"
       ],
       "syllabusCode": "0580",
       "prerequisiteSyllabusPointIds": [],
@@ -6016,11 +9041,33 @@
         "notes": ""
       },
       "extraction": {
-        "status": "clean",
-        "confidence": 0.97,
+        "status": "needs-review",
+        "confidence": 0.9,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "control character found",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": true,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E9.6",
         "method": "coordinate-table-reconstruction",
-        "issues": [],
+        "issues": [
+          "Control character removed during normalization."
+        ],
         "verifiedBy": null,
         "verifiedAt": null
       }
@@ -6057,7 +9104,26 @@
       },
       "extraction": {
         "status": "clean",
-        "confidence": 0.97,
+        "confidence": 0.99,
+        "confidenceBasis": [
+          "code detected",
+          "title detected",
+          "statement detected",
+          "notes column detected"
+        ],
+        "signals": {
+          "codeDetected": true,
+          "titleDetected": true,
+          "statementDetected": true,
+          "notesColumnDetected": true,
+          "continuationMerged": false,
+          "continuationAmbiguity": false,
+          "controlCharactersFound": false,
+          "footerLeakageFound": false,
+          "detachedTitleFragmentFound": false,
+          "formulaLayoutAmbiguity": false,
+          "codePageAligned": true
+        },
         "rawSourceId": "E9.7",
         "method": "coordinate-table-reconstruction",
         "issues": [],

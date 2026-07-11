@@ -30,7 +30,7 @@ def main() -> int:
     points = load_json(TAXONOMY_DIR / "syllabus-points.json")["syllabusPoints"]
     skills = load_json(TAXONOMY_DIR / "atomic-skills.json")["atomicSkills"]
     groups = load_json(TAXONOMY_DIR / "skill-groups.json")["skillGroups"]
-    core_ext = load_json(INDEX_DIR / "core-extended-map.json")
+    core_ext = load_json(ROOT / "config" / "0580-core-extended-map.json")
 
     by_topic = {}
     for topic in topics:

@@ -62,6 +62,36 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C1.1",
+      "to": "convert-number-words-to-numerals",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C1.1",
+      "to": "convert-numerals-to-number-words",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C1.1",
+      "to": "express-number-as-product-of-prime-factors",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C1.1",
+      "to": "find-highest-common-factor",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C1.1",
+      "to": "find-lowest-common-multiple",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "number",
       "to": "C1.2",
@@ -203,6 +233,18 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C1.4",
       "to": "convert-between-decimals-and-percentages",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C1.4",
+      "to": "use-decimal-notation",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C1.4",
+      "to": "use-percentage-notation",
       "origin": "lattice-derived"
     },
     {
@@ -374,6 +416,12 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C1.9",
+      "to": "round-to-nearest-unit-or-multiple",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "number",
       "to": "C1.10",
@@ -473,6 +521,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C1.12",
       "to": "convert-compound-units",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C1.12",
+      "to": "calculate-fuel-consumption",
       "origin": "lattice-derived"
     },
     {
@@ -599,6 +653,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C1.15",
       "to": "solve-time-zone-problems",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C1.15",
+      "to": "read-clock",
       "origin": "lattice-derived"
     },
     {
@@ -776,12 +836,6 @@
       "origin": "lattice-derived"
     },
     {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "C2.6",
-      "to": "solve-linear-inequality",
-      "origin": "lattice-derived"
-    },
-    {
       "type": "topic-contains-syllabus-point",
       "from": "algebra-and-graphs",
       "to": "C2.7",
@@ -815,6 +869,18 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C2.7",
       "to": "find-nth-term-of-cubic-sequence",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C2.7",
+      "to": "use-nth-term-of-sequence",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C2.7",
+      "to": "relate-different-sequences",
       "origin": "lattice-derived"
     },
     {
@@ -860,6 +926,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C2.9",
+      "to": "interpret-conversion-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C2.9",
+      "to": "draw-conversion-graph",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "algebra-and-graphs",
       "to": "C2.10",
@@ -898,13 +976,7 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C2.10",
-      "to": "draw-exponential-growth-graph",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "C2.10",
-      "to": "draw-exponential-decay-graph",
+      "to": "recognise-graph-of-function",
       "origin": "lattice-derived"
     },
     {
@@ -928,13 +1000,25 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C2.11",
-      "to": "sketch-cubic-function",
+      "to": "recognise-linear-function-graph",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C2.11",
-      "to": "sketch-reciprocal-function",
+      "to": "interpret-linear-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C2.11",
+      "to": "recognise-quadratic-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C2.11",
+      "to": "interpret-quadratic-function-graph",
       "origin": "lattice-derived"
     },
     {
@@ -1016,6 +1100,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C3.5",
+      "to": "interpret-vertical-line-equation",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C3.5",
+      "to": "extract-gradient-and-intercept-from-line-equation",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "coordinate-geometry",
       "to": "C3.6",
@@ -1031,6 +1127,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C3.6",
       "to": "use-equal-gradients-for-parallel-lines",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C3.6",
+      "to": "find-equation-of-parallel-line",
       "origin": "lattice-derived"
     },
     {
@@ -1064,18 +1166,6 @@
       "origin": "lattice-derived"
     },
     {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "C4.1",
-      "to": "identify-lines-of-symmetry",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "C4.1",
-      "to": "identify-rotational-symmetry",
-      "origin": "lattice-derived"
-    },
-    {
       "type": "topic-contains-syllabus-point",
       "from": "geometry",
       "to": "C4.2",
@@ -1090,25 +1180,43 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C4.2",
-      "to": "construct-perpendicular-bisector",
+      "to": "measure-line-length",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C4.2",
-      "to": "construct-angle-bisector",
+      "to": "draw-line-to-given-length",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C4.2",
-      "to": "construct-perpendicular-line",
+      "to": "measure-angle",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C4.2",
-      "to": "construct-locus",
+      "to": "draw-angle-to-given-size",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C4.2",
+      "to": "draw-net-of-solid",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C4.2",
+      "to": "use-net-of-solid",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C4.2",
+      "to": "interpret-net-of-solid",
       "origin": "lattice-derived"
     },
     {
@@ -1133,6 +1241,18 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C4.3",
       "to": "calculate-actual-length-from-scale",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C4.3",
+      "to": "interpret-three-figure-bearing",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C4.3",
+      "to": "use-three-figure-bearing",
       "origin": "lattice-derived"
     },
     {
@@ -1292,6 +1412,24 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.1",
+      "to": "convert-metric-units-of-mass",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.1",
+      "to": "convert-capacity-units",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.1",
+      "to": "convert-between-volume-and-capacity",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "mensuration",
       "to": "C5.2",
@@ -1388,6 +1526,42 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.4",
+      "to": "calculate-volume-of-pyramid",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.4",
+      "to": "calculate-surface-area-of-pyramid",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.4",
+      "to": "calculate-volume-of-cone",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.4",
+      "to": "calculate-surface-area-of-cone",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.4",
+      "to": "calculate-volume-of-sphere",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.4",
+      "to": "calculate-surface-area-of-sphere",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "mensuration",
       "to": "C5.5",
@@ -1415,6 +1589,18 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C5.5",
       "to": "calculate-surface-area-of-compound-solid",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.5",
+      "to": "calculate-area-of-partial-shape",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C5.5",
+      "to": "calculate-volume-of-partial-solid",
       "origin": "lattice-derived"
     },
     {
@@ -1469,24 +1655,6 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C6.2",
       "to": "find-angle-in-right-triangle",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "C6.2",
-      "to": "solve-angle-of-elevation",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "C6.2",
-      "to": "solve-angle-of-depression",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "C6.2",
-      "to": "solve-bearing-with-trigonometry",
       "origin": "lattice-derived"
     },
     {
@@ -1646,6 +1814,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C8.2",
+      "to": "assess-randomness-of-outcomes",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C8.2",
+      "to": "assess-fairness-of-experiment",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "probability",
       "to": "C8.3",
@@ -1682,6 +1862,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C8.3",
+      "to": "calculate-probability-from-sample-space",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C8.3",
+      "to": "calculate-probability-from-tree-diagram",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "probability",
       "to": "C8.4",
@@ -1712,6 +1904,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C9.1",
+      "to": "construct-tally-table",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C9.1",
+      "to": "construct-two-way-table",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "statistics",
       "to": "C9.2",
@@ -1726,19 +1930,31 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C9.2",
-      "to": "construct-frequency-table",
+      "to": "read-statistical-table",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C9.2",
-      "to": "identify-biased-data-collection",
+      "to": "interpret-statistical-diagram",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C9.2",
-      "to": "evaluate-sampling-method",
+      "to": "draw-inference-from-statistical-data",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C9.2",
+      "to": "compare-statistical-data-sets",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C9.2",
+      "to": "evaluate-limitations-of-statistical-conclusion",
       "origin": "lattice-derived"
     },
     {
@@ -1820,6 +2036,24 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C9.4",
+      "to": "draw-stem-and-leaf-diagram",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C9.4",
+      "to": "interpret-stem-and-leaf-diagram",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C9.4",
+      "to": "construct-simple-frequency-distribution",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "statistics",
       "to": "C9.5",
@@ -1852,7 +2086,13 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "C9.5",
-      "to": "identify-unreliable-extrapolation",
+      "to": "interpret-scatter-diagram",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "C9.5",
+      "to": "interpret-line-of-best-fit",
       "origin": "lattice-derived"
     },
     {
@@ -1928,6 +2168,36 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.1",
+      "to": "convert-number-words-to-numerals",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.1",
+      "to": "convert-numerals-to-number-words",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.1",
+      "to": "express-number-as-product-of-prime-factors",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.1",
+      "to": "find-highest-common-factor",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.1",
+      "to": "find-lowest-common-multiple",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "number",
       "to": "E1.2",
@@ -1967,6 +2237,30 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E1.2",
       "to": "apply-set-complement",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.2",
+      "to": "use-set-membership-notation",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.2",
+      "to": "use-empty-set-notation",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.2",
+      "to": "identify-subset",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.2",
+      "to": "represent-three-sets-with-venn-diagram",
       "origin": "lattice-derived"
     },
     {
@@ -2069,6 +2363,36 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E1.4",
       "to": "convert-between-decimals-and-percentages",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.4",
+      "to": "use-decimal-notation",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.4",
+      "to": "use-percentage-notation",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.4",
+      "to": "use-recurring-decimal-notation",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.4",
+      "to": "convert-recurring-decimal-to-fraction",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.4",
+      "to": "convert-fraction-to-recurring-decimal",
       "origin": "lattice-derived"
     },
     {
@@ -2180,6 +2504,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.7",
+      "to": "interpret-fractional-indices",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.7",
+      "to": "apply-fractional-index-laws",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "number",
       "to": "E1.8",
@@ -2240,6 +2576,12 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.9",
+      "to": "round-to-nearest-unit-or-multiple",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "number",
       "to": "E1.10",
@@ -2294,12 +2636,6 @@
       "origin": "lattice-derived"
     },
     {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "E1.11",
-      "to": "apply-inverse-proportion",
-      "origin": "lattice-derived"
-    },
-    {
       "type": "topic-contains-syllabus-point",
       "from": "number",
       "to": "E1.12",
@@ -2351,6 +2687,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E1.12",
       "to": "convert-compound-units",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.12",
+      "to": "calculate-fuel-consumption",
       "origin": "lattice-derived"
     },
     {
@@ -2411,6 +2753,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E1.13",
       "to": "calculate-reverse-percentage",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.13",
+      "to": "calculate-repeated-percentage-change",
       "origin": "lattice-derived"
     },
     {
@@ -2483,6 +2831,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E1.15",
       "to": "solve-time-zone-problems",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E1.15",
+      "to": "read-clock",
       "origin": "lattice-derived"
     },
     {
@@ -2636,6 +2990,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.2",
+      "to": "factorise-by-grouping",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.2",
+      "to": "recognise-perfect-square-expression",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "algebra-and-graphs",
       "to": "E2.3",
@@ -2651,6 +3017,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E2.3",
       "to": "calculate-with-algebraic-fractions",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.3",
+      "to": "factorise-rational-expression",
       "origin": "lattice-derived"
     },
     {
@@ -2675,6 +3047,18 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E2.4",
       "to": "solve-simple-exponential-equations",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.4",
+      "to": "interpret-fractional-algebraic-indices",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.4",
+      "to": "apply-fractional-algebraic-index-laws",
       "origin": "lattice-derived"
     },
     {
@@ -2756,6 +3140,30 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.5",
+      "to": "construct-simultaneous-equations",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.5",
+      "to": "solve-simultaneous-linear-and-nonlinear-equations",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.5",
+      "to": "change-subject-when-subject-is-repeated",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.5",
+      "to": "change-subject-when-subject-is-powered-or-rooted",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "algebra-and-graphs",
       "to": "E2.6",
@@ -2782,7 +3190,31 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E2.6",
-      "to": "solve-quadratic-inequality",
+      "to": "construct-linear-inequality",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.6",
+      "to": "interpret-linear-inequality-solution",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.6",
+      "to": "represent-linear-inequality-region-graphically",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.6",
+      "to": "interpret-linear-inequality-region",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.6",
+      "to": "list-inequalities-defining-region",
       "origin": "lattice-derived"
     },
     {
@@ -2828,6 +3260,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.7",
+      "to": "use-nth-term-of-sequence",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.7",
+      "to": "relate-different-sequences",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "algebra-and-graphs",
       "to": "E2.8",
@@ -2855,6 +3299,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E2.8",
       "to": "solve-inverse-proportion-problem",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.8",
+      "to": "apply-inverse-proportion",
       "origin": "lattice-derived"
     },
     {
@@ -2918,6 +3368,30 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.9",
+      "to": "interpret-conversion-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.9",
+      "to": "draw-conversion-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.9",
+      "to": "estimate-curve-gradient-using-tangent",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.9",
+      "to": "interpret-deceleration-from-speed-time-graph",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "algebra-and-graphs",
       "to": "E2.10",
@@ -2966,6 +3440,24 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.10",
+      "to": "recognise-graph-of-function",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.10",
+      "to": "interpret-exponential-growth-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.10",
+      "to": "interpret-exponential-decay-graph",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "algebra-and-graphs",
       "to": "E2.11",
@@ -2996,6 +3488,96 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "recognise-linear-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "interpret-linear-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "recognise-quadratic-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "interpret-quadratic-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "recognise-cubic-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "interpret-cubic-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "recognise-reciprocal-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "interpret-reciprocal-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "recognise-exponential-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "sketch-exponential-function",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "interpret-exponential-function-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "identify-function-roots",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "identify-function-symmetry",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "identify-function-turning-points",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.11",
+      "to": "identify-function-asymptotes",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "algebra-and-graphs",
       "to": "E2.12",
@@ -3023,6 +3605,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E2.12",
       "to": "classify-stationary-point",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.12",
+      "to": "estimate-gradient-using-drawn-tangent",
       "origin": "lattice-derived"
     },
     {
@@ -3059,6 +3647,18 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E2.13",
       "to": "evaluate-composite-function",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.13",
+      "to": "identify-domain-of-function",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E2.13",
+      "to": "identify-range-of-function",
       "origin": "lattice-derived"
     },
     {
@@ -3158,6 +3758,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E3.5",
+      "to": "interpret-vertical-line-equation",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E3.5",
+      "to": "extract-gradient-and-intercept-from-line-equation",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "coordinate-geometry",
       "to": "E3.6",
@@ -3176,6 +3788,12 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E3.6",
+      "to": "find-equation-of-parallel-line",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "coordinate-geometry",
       "to": "E3.7",
@@ -3191,6 +3809,24 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E3.7",
       "to": "use-negative-reciprocal-gradients",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E3.7",
+      "to": "find-gradient-of-perpendicular-line",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E3.7",
+      "to": "find-equation-of-perpendicular-line",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E3.7",
+      "to": "find-equation-of-perpendicular-bisector",
       "origin": "lattice-derived"
     },
     {
@@ -3220,13 +3856,19 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.1",
-      "to": "identify-lines-of-symmetry",
+      "to": "use-plane-vocabulary",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.1",
-      "to": "identify-rotational-symmetry",
+      "to": "use-perpendicular-bisector-vocabulary",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E4.1",
+      "to": "classify-extended-solid-types",
       "origin": "lattice-derived"
     },
     {
@@ -3244,25 +3886,43 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.2",
-      "to": "construct-perpendicular-bisector",
+      "to": "measure-line-length",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.2",
-      "to": "construct-angle-bisector",
+      "to": "draw-line-to-given-length",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.2",
-      "to": "construct-perpendicular-line",
+      "to": "measure-angle",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.2",
-      "to": "construct-locus",
+      "to": "draw-angle-to-given-size",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E4.2",
+      "to": "draw-net-of-solid",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E4.2",
+      "to": "use-net-of-solid",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E4.2",
+      "to": "interpret-net-of-solid",
       "origin": "lattice-derived"
     },
     {
@@ -3287,6 +3947,18 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.3",
       "to": "calculate-actual-length-from-scale",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E4.3",
+      "to": "interpret-three-figure-bearing",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E4.3",
+      "to": "use-three-figure-bearing",
       "origin": "lattice-derived"
     },
     {
@@ -3316,18 +3988,6 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.4",
-      "to": "identify-congruent-shapes",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "E4.4",
-      "to": "prove-triangles-congruent",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "E4.4",
       "to": "calculate-area-scale-factor",
       "origin": "lattice-derived"
     },
@@ -3335,6 +3995,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.4",
       "to": "calculate-volume-scale-factor",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E4.4",
+      "to": "calculate-surface-area-scale-factor",
       "origin": "lattice-derived"
     },
     {
@@ -3358,7 +4024,13 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.5",
-      "to": "use-symmetry-properties-of-circle",
+      "to": "identify-plane-of-symmetry",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E4.5",
+      "to": "identify-axis-of-rotational-symmetry",
       "origin": "lattice-derived"
     },
     {
@@ -3496,19 +4168,19 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.8",
-      "to": "apply-tangent-chord-theorem",
+      "to": "apply-equal-chords-equidistant-from-centre",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.8",
-      "to": "apply-intersecting-chords-theorem",
+      "to": "apply-perpendicular-bisector-of-chord-through-centre",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E4.8",
-      "to": "apply-secant-tangent-theorem",
+      "to": "apply-equal-tangents-from-external-point",
       "origin": "lattice-derived"
     },
     {
@@ -3533,6 +4205,24 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E5.1",
       "to": "convert-metric-units-of-volume",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E5.1",
+      "to": "convert-metric-units-of-mass",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E5.1",
+      "to": "convert-capacity-units",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E5.1",
+      "to": "convert-between-volume-and-capacity",
       "origin": "lattice-derived"
     },
     {
@@ -3569,18 +4259,6 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E5.2",
       "to": "calculate-area-of-trapezium",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "E5.2",
-      "to": "calculate-area-of-kite",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "E5.2",
-      "to": "calculate-area-of-rhombus",
       "origin": "lattice-derived"
     },
     {
@@ -3712,13 +4390,13 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E5.5",
-      "to": "calculate-similar-area-ratio",
+      "to": "calculate-area-of-partial-shape",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E5.5",
-      "to": "calculate-similar-volume-ratio",
+      "to": "calculate-volume-of-partial-solid",
       "origin": "lattice-derived"
     },
     {
@@ -3790,7 +4468,19 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E6.2",
-      "to": "solve-bearing-with-trigonometry",
+      "to": "identify-perpendicular-distance-as-shortest-distance",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.2",
+      "to": "apply-pythagoras-theorem",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.2",
+      "to": "find-missing-side-using-pythagoras",
       "origin": "lattice-derived"
     },
     {
@@ -3826,13 +4516,61 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E6.4",
-      "to": "interpret-trigonometric-function-graph",
+      "to": "recognise-sine-graph",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E6.4",
-      "to": "solve-trigonometric-equation-from-graph",
+      "to": "recognise-cosine-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.4",
+      "to": "recognise-tangent-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.4",
+      "to": "sketch-sine-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.4",
+      "to": "sketch-cosine-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.4",
+      "to": "sketch-tangent-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.4",
+      "to": "interpret-sine-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.4",
+      "to": "interpret-cosine-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.4",
+      "to": "interpret-tangent-graph",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.4",
+      "to": "solve-trigonometric-equation-in-given-domain",
       "origin": "lattice-derived"
     },
     {
@@ -3881,6 +4619,12 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E6.6",
       "to": "solve-three-dimensional-trigonometry-problem",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E6.6",
+      "to": "calculate-angle-between-line-and-plane",
       "origin": "lattice-derived"
     },
     {
@@ -3950,6 +4694,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E7.1",
+      "to": "recognise-transformation",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E7.1",
+      "to": "apply-combined-transformations",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "transformations-and-vectors",
       "to": "E7.2",
@@ -3977,12 +4733,6 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E7.2",
       "to": "multiply-vector-by-scalar",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "E7.2",
-      "to": "use-position-vectors",
       "origin": "lattice-derived"
     },
     {
@@ -4022,6 +4772,24 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E7.4",
+      "to": "use-position-vectors",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E7.4",
+      "to": "represent-directed-line-segment-as-vector",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E7.4",
+      "to": "express-vector-using-coplanar-basis",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "probability",
       "to": "E8.1",
@@ -4058,6 +4826,12 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E8.1",
+      "to": "use-probability-notation",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "probability",
       "to": "E8.2",
@@ -4079,6 +4853,18 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E8.2",
       "to": "compare-relative-frequency-with-theoretical-probability",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E8.2",
+      "to": "assess-randomness-of-outcomes",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E8.2",
+      "to": "assess-fairness-of-experiment",
       "origin": "lattice-derived"
     },
     {
@@ -4130,6 +4916,30 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E8.3",
+      "to": "calculate-probability-from-sample-space",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E8.3",
+      "to": "calculate-probability-from-tree-diagram",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E8.3",
+      "to": "calculate-probability-without-replacement",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E8.3",
+      "to": "calculate-probability-with-replacement",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "probability",
       "to": "E8.4",
@@ -4145,6 +4955,18 @@
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E8.4",
       "to": "apply-conditional-probability-to-tree-diagram",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E8.4",
+      "to": "calculate-conditional-probability-from-venn-diagram",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E8.4",
+      "to": "calculate-conditional-probability-from-table",
       "origin": "lattice-derived"
     },
     {
@@ -4172,6 +4994,18 @@
       "origin": "lattice-derived"
     },
     {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E9.1",
+      "to": "construct-tally-table",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E9.1",
+      "to": "construct-two-way-table",
+      "origin": "lattice-derived"
+    },
+    {
       "type": "topic-contains-syllabus-point",
       "from": "statistics",
       "to": "E9.2",
@@ -4186,31 +5020,43 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.2",
-      "to": "construct-frequency-table",
+      "to": "read-statistical-table",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.2",
-      "to": "identify-biased-data-collection",
+      "to": "interpret-statistical-diagram",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.2",
-      "to": "evaluate-sampling-method",
+      "to": "draw-inference-from-statistical-data",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.2",
-      "to": "design-questionnaire",
+      "to": "compare-statistical-data-sets",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.2",
-      "to": "identify-sampling-bias",
+      "to": "evaluate-limitations-of-statistical-conclusion",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E9.2",
+      "to": "compare-distributions-using-averages",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E9.2",
+      "to": "compare-distributions-using-spread",
       "origin": "lattice-derived"
     },
     {
@@ -4270,13 +5116,7 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.3",
-      "to": "compare-distributions-using-averages",
-      "origin": "lattice-derived"
-    },
-    {
-      "type": "syllabus-point-requires-atomic-skill",
-      "from": "E9.3",
-      "to": "compare-distributions-using-spread",
+      "to": "identify-modal-class",
       "origin": "lattice-derived"
     },
     {
@@ -4324,13 +5164,19 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.4",
-      "to": "draw-frequency-polygon",
+      "to": "draw-stem-and-leaf-diagram",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.4",
-      "to": "interpret-frequency-polygon",
+      "to": "interpret-stem-and-leaf-diagram",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E9.4",
+      "to": "construct-simple-frequency-distribution",
       "origin": "lattice-derived"
     },
     {
@@ -4366,7 +5212,13 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.5",
-      "to": "identify-unreliable-extrapolation",
+      "to": "interpret-scatter-diagram",
+      "origin": "lattice-derived"
+    },
+    {
+      "type": "syllabus-point-requires-atomic-skill",
+      "from": "E9.5",
+      "to": "interpret-line-of-best-fit",
       "origin": "lattice-derived"
     },
     {
@@ -4402,19 +5254,19 @@
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.6",
-      "to": "draw-box-plot",
+      "to": "construct-cumulative-frequency-table",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.6",
-      "to": "interpret-box-plot",
+      "to": "estimate-percentile-from-cumulative-frequency-graph",
       "origin": "lattice-derived"
     },
     {
       "type": "syllabus-point-requires-atomic-skill",
       "from": "E9.6",
-      "to": "compare-distributions-using-box-plots",
+      "to": "interpret-median-quartiles-and-interquartile-range",
       "origin": "lattice-derived"
     },
     {
@@ -4489,7 +5341,7 @@
       "from": "C1.2",
       "to": "E1.2",
       "origin": "lattice-derived",
-      "relationship": "equivalent-requirement"
+      "relationship": "extended-adds-scope"
     },
     {
       "type": "core-point-extended-by",
@@ -4510,7 +5362,7 @@
       "from": "C1.5",
       "to": "E1.5",
       "origin": "lattice-derived",
-      "relationship": "extended-adds-scope"
+      "relationship": "equivalent-requirement"
     },
     {
       "type": "core-point-extended-by",
@@ -4559,7 +5411,7 @@
       "from": "C1.12",
       "to": "E1.12",
       "origin": "lattice-derived",
-      "relationship": "extended-adds-scope"
+      "relationship": "equivalent-requirement"
     },
     {
       "type": "core-point-extended-by",
@@ -4699,14 +5551,14 @@
       "from": "C3.1",
       "to": "E3.1",
       "origin": "lattice-derived",
-      "relationship": "extended-adds-scope"
+      "relationship": "equivalent-requirement"
     },
     {
       "type": "core-point-extended-by",
       "from": "C3.2",
       "to": "E3.2",
       "origin": "lattice-derived",
-      "relationship": "extended-adds-scope"
+      "relationship": "equivalent-requirement"
     },
     {
       "type": "core-point-extended-by",
@@ -4804,21 +5656,21 @@
       "from": "C5.1",
       "to": "E5.1",
       "origin": "lattice-derived",
-      "relationship": "extended-adds-scope"
+      "relationship": "equivalent-requirement"
     },
     {
       "type": "core-point-extended-by",
       "from": "C5.2",
       "to": "E5.2",
       "origin": "lattice-derived",
-      "relationship": "extended-adds-scope"
+      "relationship": "equivalent-requirement"
     },
     {
       "type": "core-point-extended-by",
       "from": "C5.3",
       "to": "E5.3",
       "origin": "lattice-derived",
-      "relationship": "extended-adds-scope"
+      "relationship": "equivalent-requirement"
     },
     {
       "type": "core-point-extended-by",
@@ -4832,7 +5684,7 @@
       "from": "C5.5",
       "to": "E5.5",
       "origin": "lattice-derived",
-      "relationship": "extended-adds-scope"
+      "relationship": "equivalent-requirement"
     },
     {
       "type": "core-point-extended-by",
@@ -4923,7 +5775,7 @@
       "from": "C8.3",
       "to": "E8.3",
       "origin": "lattice-derived",
-      "relationship": "equivalent-requirement"
+      "relationship": "extended-adds-scope"
     },
     {
       "type": "core-point-extended-by",

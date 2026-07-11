@@ -4,3 +4,4 @@
 /private-assets/
 __pycache__/
 *.py[cod]
+/internal-content/**/syllabus/backups/

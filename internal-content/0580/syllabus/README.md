@@ -28,6 +28,20 @@ npm run test:0580-taxonomy
 npm run test:0580-gate1c
 ```
 
+## Gate 1C Repair safeguards
+
+Clause coverage is explicit in `config/0580-syllabus-clauses.json`. Validation recomputes coverage from each clause's required actions and skill mappings, checks the bidirectional point/skill relation, and rejects unsupported skills; it does not trust an empty `unmappedClauses` array.
+
+Pedagogical groups are maintained in `config/0580-skill-groups.json` and are narrower than the nine official topics. Core/Extended categories come only from `config/0580-core-extended-map.json`.
+
+Draft promotion is a field-level merge. It preserves canonical identity, source references, provenance and review history, validates the merged candidate, creates a backup, regenerates indexes, runs full validation, and rolls back every changed canonical/index file if validation fails. Preview the field diff without writing:
+
+```text
+python scripts/promote_0580_taxonomy.py
+python scripts/promote_0580_taxonomy.py --confirm
+npm run test:0580-gate1c-repair
+```
+
 ## What is Lattice?
 
 Lattice is an internal curriculum and past-paper corpus system. Its core principle is **one canonical record per syllabus point and per question**; topics, skills, papers, and syllabus points are **views** generated through indexes, never duplicate content folders.

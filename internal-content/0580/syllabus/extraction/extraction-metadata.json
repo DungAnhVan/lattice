@@ -1,8 +1,9 @@
 {
   "source": "../sources/2025-2027-syllabus.pdf",
   "method": "PyMuPDF coordinate-table-reconstruction",
+  "confidenceModel": "signal penalties documented in scripts/extract_0580_syllabus.py",
   "pageNumbering": "one-based",
-  "extractedAt": "2026-07-11T03:15:01.932774+00:00",
+  "extractedAt": "2026-07-11T05:40:35.360979+00:00",
   "pageCount": 71,
   "recordCount": 144
 }

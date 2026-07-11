@@ -1,0 +1,79 @@
+# Core/Extended Clause Diff
+
+- Explicit pairs: 72
+- Categories: {'equivalent-requirement': 27, 'extended-adds-scope': 26, 'extended-only': 19}
+
+| Pair | Category | Shared clauses | Extended-only clauses | Shared skills | Extended-only skills |
+|---|---|---:|---:|---:|---:|
+| C1.1 / E1.1 | equivalent-requirement | 2 | 0 | 14 | 0 |
+| C1.2 / E1.2 | extended-adds-scope | 1 | 1 | 6 | 4 |
+| C1.3 / E1.3 | equivalent-requirement | 2 | 0 | 6 | 0 |
+| C1.4 / E1.4 | extended-adds-scope | 2 | 2 | 11 | 3 |
+| C1.5 / E1.5 | equivalent-requirement | 2 | 0 | 3 | 0 |
+| C1.6 / E1.6 | equivalent-requirement | 2 | 0 | 6 | 0 |
+| C1.7 / E1.7 | extended-adds-scope | 3 | 1 | 6 | 2 |
+| C1.8 / E1.8 | equivalent-requirement | 6 | 0 | 4 | 0 |
+| C1.9 / E1.9 | equivalent-requirement | 6 | 0 | 5 | 0 |
+| C1.10 / E1.10 | extended-adds-scope | 2 | 1 | 2 | 1 |
+| C1.11 / E1.11 | equivalent-requirement | 2 | 0 | 4 | 0 |
+| C1.12 / E1.12 | equivalent-requirement | 6 | 0 | 9 | 0 |
+| C1.13 / E1.13 | extended-adds-scope | 7 | 2 | 8 | 2 |
+| C1.14 / E1.14 | equivalent-requirement | 8 | 0 | 4 | 0 |
+| C1.15 / E1.15 | equivalent-requirement | 8 | 0 | 7 | 0 |
+| C1.16 / E1.16 | equivalent-requirement | 4 | 0 | 2 | 0 |
+| C1.17 / E1.17 | extended-only | 0 | 1 | 0 | 4 |
+| C1.18 / E1.18 | extended-only | 0 | 2 | 0 | 3 |
+| C2.1 / E2.1 | equivalent-requirement | 4 | 0 | 3 | 0 |
+| C2.2 / E2.2 | extended-adds-scope | 5 | 3 | 4 | 6 |
+| C2.3 / E2.3 | extended-only | 0 | 2 | 0 | 3 |
+| C2.4 / E2.4 | extended-adds-scope | 17 | 1 | 3 | 2 |
+| C2.5 / E2.5 | extended-adds-scope | 6 | 5 | 6 | 10 |
+| C2.6 / E2.6 | extended-adds-scope | 2 | 3 | 2 | 6 |
+| C2.7 / E2.7 | extended-adds-scope | 5 | 1 | 7 | 1 |
+| C2.8 / E2.8 | extended-only | 0 | 1 | 0 | 5 |
+| C2.9 / E2.9 | extended-adds-scope | 2 | 4 | 7 | 6 |
+| C2.10 / E2.10 | extended-adds-scope | 4 | 1 | 6 | 4 |
+| C2.11 / E2.11 | extended-adds-scope | 1 | 1 | 6 | 13 |
+| C2.12 / E2.12 | extended-only | 0 | 4 | 0 | 5 |
+| C2.13 / E2.13 | extended-only | 0 | 3 | 0 | 7 |
+| C3.1 / E3.1 | equivalent-requirement | 2 | 0 | 2 | 0 |
+| C3.2 / E3.2 | equivalent-requirement | 2 | 0 | 1 | 0 |
+| C3.3 / E3.3 | extended-adds-scope | 2 | 1 | 1 | 1 |
+| C3.4 / E3.4 | extended-only | 0 | 2 | 0 | 2 |
+| C3.5 / E3.5 | extended-adds-scope | 1 | 1 | 4 | 2 |
+| C3.6 / E3.6 | equivalent-requirement | 2 | 0 | 3 | 0 |
+| C3.7 / E3.7 | extended-only | 0 | 1 | 0 | 5 |
+| C4.1 / E4.1 | extended-adds-scope | 5 | 1 | 3 | 3 |
+| C4.2 / E4.2 | equivalent-requirement | 6 | 0 | 8 | 0 |
+| C4.3 / E4.3 | equivalent-requirement | 4 | 0 | 5 | 0 |
+| C4.4 / E4.4 | extended-adds-scope | 3 | 1 | 2 | 4 |
+| C4.5 / E4.5 | extended-adds-scope | 2 | 1 | 2 | 2 |
+| C4.6 / E4.6 | extended-adds-scope | 5 | 1 | 11 | 2 |
+| C4.7 / E4.7 | extended-adds-scope | 1 | 1 | 2 | 4 |
+| C4.8 / E4.8 | extended-only | 0 | 1 | 0 | 3 |
+| C5.1 / E5.1 | equivalent-requirement | 2 | 0 | 6 | 0 |
+| C5.2 / E5.2 | equivalent-requirement | 2 | 0 | 5 | 0 |
+| C5.3 / E5.3 | equivalent-requirement | 4 | 0 | 4 | 0 |
+| C5.4 / E5.4 | equivalent-requirement | 2 | 0 | 10 | 0 |
+| C5.5 / E5.5 | equivalent-requirement | 4 | 0 | 6 | 0 |
+| C6.1 / E6.1 | equivalent-requirement | 2 | 0 | 2 | 0 |
+| C6.2 / E6.2 | extended-adds-scope | 3 | 3 | 5 | 5 |
+| C6.3 / E6.3 | extended-only | 0 | 3 | 0 | 3 |
+| C6.4 / E6.4 | extended-only | 0 | 2 | 0 | 10 |
+| C6.5 / E6.5 | extended-only | 0 | 3 | 0 | 4 |
+| C6.6 / E6.6 | extended-only | 0 | 1 | 0 | 3 |
+| C7.1 / E7.1 | extended-adds-scope | 7 | 3 | 8 | 4 |
+| C7.2 / E7.2 | extended-only | 0 | 3 | 0 | 4 |
+| C7.3 / E7.3 | extended-only | 0 | 3 | 0 | 1 |
+| C7.4 / E7.4 | extended-only | 0 | 4 | 0 | 6 |
+| C8.1 / E8.1 | extended-adds-scope | 8 | 1 | 5 | 1 |
+| C8.2 / E8.2 | equivalent-requirement | 4 | 0 | 5 | 0 |
+| C8.3 / E8.3 | extended-adds-scope | 1 | 1 | 7 | 4 |
+| C8.4 / E8.4 | extended-only | 0 | 1 | 0 | 4 |
+| C9.1 / E9.1 | equivalent-requirement | 2 | 0 | 5 | 0 |
+| C9.2 / E9.2 | extended-adds-scope | 5 | 1 | 6 | 2 |
+| C9.3 / E9.3 | extended-adds-scope | 1 | 3 | 5 | 4 |
+| C9.4 / E9.4 | equivalent-requirement | 2 | 0 | 9 | 0 |
+| C9.5 / E9.5 | equivalent-requirement | 6 | 0 | 6 | 0 |
+| C9.6 / E9.6 | extended-only | 0 | 2 | 0 | 7 |
+| C9.7 / E9.7 | extended-only | 0 | 2 | 0 | 3 |

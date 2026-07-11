@@ -1,8 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "skillGroups": [
-    {
-      "id": "algebraic-expansion",
+  "groups": {
+    "algebraic-expansion": {
       "label": "Algebraic expansion",
       "description": "Expansion of single, double and multiple algebraic factors while preserving equivalence.",
       "topicIds": [
@@ -18,14 +17,12 @@
         "expand-single-bracket",
         "recognise-perfect-square-expression"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "algebraic-factorisation",
+    "algebraic-factorisation": {
       "label": "Algebraic factorisation",
       "description": "Common-factor, grouping, quadratic, rational-expression and difference-of-squares factorisation methods.",
       "topicIds": [
@@ -43,14 +40,12 @@
         "factorise-quadratic-expression",
         "factorise-rational-expression"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "algebraic-fractions",
+    "algebraic-fractions": {
       "label": "Algebraic fractions",
       "description": "Simplification and arithmetic with algebraic fractions, including denominator restrictions.",
       "topicIds": [
@@ -63,14 +58,12 @@
         "calculate-with-algebraic-fractions",
         "simplify-algebraic-fractions"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "algebraic-notation-and-substitution",
+    "algebraic-notation-and-substitution": {
       "label": "Algebraic notation and substitution",
       "description": "Representation of generalised numbers and substitution into algebraic expressions and formulas.",
       "topicIds": [
@@ -89,14 +82,12 @@
         "substitute-values-into-expressions",
         "substitute-values-into-formulas"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "algebraic-simplification",
+    "algebraic-simplification": {
       "label": "Algebraic simplification",
       "description": "Collection of like terms and equivalent rewriting of algebraic expressions.",
       "topicIds": [
@@ -111,14 +102,12 @@
         "collect-like-terms",
         "simplify-algebraic-fractions"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "angle-properties",
+    "angle-properties": {
       "label": "Angle properties",
       "description": "Angle facts for points, straight lines, vertical opposites, triangles, quadrilaterals and parallel lines.",
       "topicIds": [
@@ -139,14 +128,12 @@
         "apply-vertically-opposite-angles",
         "interpret-three-letter-angle-notation"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "arithmetic-operations",
+    "arithmetic-operations": {
       "label": "Arithmetic operations",
       "description": "Accurate arithmetic with integers, fractions, decimals, negative numbers, brackets and the order of operations.",
       "topicIds": [
@@ -164,14 +151,12 @@
         "calculate-with-integers",
         "calculate-with-negative-numbers"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "calculator-methods",
+    "calculator-methods": {
       "label": "Calculator methods",
       "description": "Efficient and accurate calculator entry, display interpretation and control of intermediate rounding.",
       "topicIds": [
@@ -187,14 +172,12 @@
         "preserve-calculation-precision",
         "use-calculator-efficiently"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "circle-mensuration",
+    "circle-mensuration": {
       "label": "Circle mensuration",
       "description": "Circumference, circle area, arc length and sector area calculations.",
       "topicIds": [
@@ -210,14 +193,12 @@
         "calculate-circumference-of-circle",
         "calculate-sector-area"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "circle-theorems",
+    "circle-theorems": {
       "label": "Circle theorems",
       "description": "Angle, tangent, chord, cyclic quadrilateral and secant relationships used in circle geometry.",
       "topicIds": [
@@ -239,14 +220,12 @@
         "apply-same-segment-angle-theorem",
         "apply-tangent-radius-angle-property"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "combined-probability",
+    "combined-probability": {
       "label": "Combined probability",
       "description": "Sample spaces, mutually exclusive and independent events, tree diagrams, Venn diagrams and set notation.",
       "topicIds": [
@@ -269,14 +248,12 @@
         "construct-sample-space-diagram",
         "use-set-notation-in-probability"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "conditional-probability",
+    "conditional-probability": {
       "label": "Conditional probability",
       "description": "Conditional event calculations and conditional probabilities represented on tree diagrams.",
       "topicIds": [
@@ -291,14 +268,12 @@
         "calculate-conditional-probability-from-table",
         "calculate-conditional-probability-from-venn-diagram"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "coordinate-position-and-distance",
+    "coordinate-position-and-distance": {
       "label": "Coordinate position and distance",
       "description": "Reading, plotting, distance and midpoint calculations using Cartesian coordinates.",
       "topicIds": [
@@ -315,14 +290,12 @@
         "plot-cartesian-coordinates",
         "read-cartesian-coordinates"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "cumulative-frequency-and-box-plots",
+    "cumulative-frequency-and-box-plots": {
       "label": "Cumulative frequency and box plots",
       "description": "Cumulative frequency, quartile estimation, box plots and comparison of distributions.",
       "topicIds": [
@@ -340,14 +313,12 @@
         "interpret-cumulative-frequency-graph",
         "interpret-median-quartiles-and-interquartile-range"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "data-classification-and-tables",
+    "data-classification-and-tables": {
       "label": "Data classification and tables",
       "description": "Classification and tabulation of categorical, discrete and continuous statistical data.",
       "topicIds": [
@@ -364,14 +335,12 @@
         "construct-tally-table",
         "construct-two-way-table"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "differentiation",
+    "differentiation": {
       "label": "Differentiation",
       "description": "Power-function differentiation, gradients, stationary points and classification of turning points.",
       "topicIds": [
@@ -387,14 +356,12 @@
         "find-gradient-using-derivative",
         "find-stationary-point"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "estimation-and-bounds",
+    "estimation-and-bounds": {
       "label": "Estimation and bounds",
       "description": "Rounding, estimation, accuracy and upper or lower bounds for measured and calculated quantities.",
       "topicIds": [
@@ -416,14 +383,12 @@
         "round-to-nearest-unit-or-multiple",
         "round-to-significant-figures"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "exponential-growth-and-decay",
+    "exponential-growth-and-decay": {
       "label": "Exponential growth and decay",
       "description": "Repeated percentage and multiplicative models used to calculate growth, depreciation and decay over time.",
       "topicIds": [
@@ -438,14 +403,12 @@
         "model-exponential-decay",
         "model-exponential-growth"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "formula-rearrangement",
+    "formula-rearrangement": {
       "label": "Formula rearrangement",
       "description": "Changing the subject of simple and structurally complex formulas.",
       "topicIds": [
@@ -461,14 +424,12 @@
         "change-subject-when-subject-is-powered-or-rooted",
         "change-subject-when-subject-is-repeated"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "fraction-decimal-percentage-conversion",
+    "fraction-decimal-percentage-conversion": {
       "label": "Fraction, decimal and percentage conversion",
       "description": "Equivalent representations of rational quantities and conversions between fractions, decimals and percentages.",
       "topicIds": [
@@ -494,14 +455,12 @@
         "use-percentage-notation",
         "use-recurring-decimal-notation"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "functions",
+    "functions": {
       "label": "Functions",
       "description": "Function notation, evaluation, inverses and composition of functions.",
       "topicIds": [
@@ -519,14 +478,12 @@
         "identify-range-of-function",
         "use-function-notation"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "geometric-construction-and-loci",
+    "geometric-construction-and-loci": {
       "label": "Geometric construction and loci",
       "description": "Ruler-and-compass constructions, bisectors, perpendiculars and loci satisfying stated conditions.",
       "topicIds": [
@@ -546,14 +503,12 @@
         "measure-line-length",
         "use-net-of-solid"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "geometric-language-and-classification",
+    "geometric-language-and-classification": {
       "label": "Geometric language and classification",
       "description": "Precise vocabulary and classification properties for points, lines, angles, triangles and quadrilaterals.",
       "topicIds": [
@@ -571,14 +526,12 @@
         "use-perpendicular-bisector-vocabulary",
         "use-plane-vocabulary"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "gradients-and-straight-line-equations",
+    "gradients-and-straight-line-equations": {
       "label": "Gradients and straight-line equations",
       "description": "Gradient calculations and equations for general, parallel and perpendicular straight lines.",
       "topicIds": [
@@ -614,14 +567,12 @@
         "use-equal-gradients-for-parallel-lines",
         "use-negative-reciprocal-gradients"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "graphs-of-functions",
+    "graphs-of-functions": {
       "label": "Graphs of functions",
       "description": "Tables, plotting, recognition, interpretation and graphical solution for algebraic and exponential functions.",
       "topicIds": [
@@ -661,14 +612,12 @@
         "sketch-reciprocal-function",
         "solve-equations-graphically"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "histograms",
+    "histograms": {
       "label": "Histograms",
       "description": "Frequency density and the construction and interpretation of histograms for grouped continuous data.",
       "topicIds": [
@@ -682,14 +631,12 @@
         "draw-histogram",
         "interpret-histogram"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "index-laws",
+    "index-laws": {
       "label": "Index laws",
       "description": "Interpretation and use of integer, fractional and algebraic indices and the laws that combine them.",
       "topicIds": [
@@ -717,14 +664,12 @@
         "interpret-zero-indices",
         "solve-simple-exponential-equations"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "inequalities",
+    "inequalities": {
       "label": "Inequalities",
       "description": "Construction, solution, number-line representation and graphical interpretation of linear inequalities and regions.",
       "topicIds": [
@@ -744,14 +689,12 @@
         "represent-linear-inequality-region-graphically",
         "solve-linear-inequality"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "linear-and-simultaneous-equations",
+    "linear-and-simultaneous-equations": {
       "label": "Linear and simultaneous equations",
       "description": "Construction and solution of linear equations and simultaneous linear systems.",
       "topicIds": [
@@ -768,14 +711,12 @@
         "solve-linear-equation",
         "solve-simultaneous-linear-equations"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "measurement-units",
+    "measurement-units": {
       "label": "Measurement units",
       "description": "Conversion between metric measures of length, area and volume.",
       "topicIds": [
@@ -793,14 +734,12 @@
         "convert-metric-units-of-mass",
         "convert-metric-units-of-volume"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "non-right-triangle-trigonometry",
+    "non-right-triangle-trigonometry": {
       "label": "Non-right-triangle trigonometry",
       "description": "Sine rule, cosine rule and sine-area methods for non-right-angled triangles, including ambiguity.",
       "topicIds": [
@@ -815,14 +754,12 @@
         "use-cosine-rule",
         "use-sine-rule"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "number-ordering",
+    "number-ordering": {
       "label": "Number ordering",
       "description": "Ordering and comparing numerical quantities using equality and inequality notation.",
       "topicIds": [
@@ -837,14 +774,12 @@
         "compare-quantities-using-inequality-symbols",
         "order-quantities-by-magnitude"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "percentage-calculations",
+    "percentage-calculations": {
       "label": "Percentage calculations",
       "description": "Percentage amounts, changes, reverse percentages, discounts, profit, loss and financial interest calculations.",
       "topicIds": [
@@ -866,14 +801,12 @@
         "calculate-simple-interest",
         "express-quantity-as-percentage"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "plane-area-and-perimeter",
+    "plane-area-and-perimeter": {
       "label": "Plane area and perimeter",
       "description": "Perimeter and area methods for polygons, standard plane figures and compound shapes.",
       "topicIds": [
@@ -895,14 +828,12 @@
         "calculate-perimeter-of-compound-shape",
         "calculate-surface-area-of-compound-solid"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "polygon-angles",
+    "polygon-angles": {
       "label": "Polygon angles",
       "description": "Interior, exterior and total angle properties of regular and irregular polygons.",
       "topicIds": [
@@ -922,14 +853,12 @@
         "calculate-interior-angle-of-regular-polygon",
         "calculate-perimeter-of-polygon"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "powers-and-roots",
+    "powers-and-roots": {
       "label": "Powers and roots",
       "description": "Squares, cubes, powers and their inverse root operations, including recognition of exact integer results.",
       "topicIds": [
@@ -947,14 +876,12 @@
         "calculate-square-roots",
         "calculate-squares"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "practical-and-kinematic-graphs",
+    "practical-and-kinematic-graphs": {
       "label": "Practical and kinematic graphs",
       "description": "Drawing and interpreting practical, distance–time and speed–time graphs, including rate, distance and acceleration.",
       "topicIds": [
@@ -979,14 +906,12 @@
         "interpret-practical-graphs",
         "interpret-speed-time-graph"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "pythagoras-and-right-triangle-trigonometry",
+    "pythagoras-and-right-triangle-trigonometry": {
       "label": "Pythagoras and right-triangle trigonometry",
       "description": "Pythagoras and sine, cosine or tangent ratios for two- and three-dimensional right-triangle problems.",
       "topicIds": [
@@ -1010,14 +935,12 @@
         "use-sine-ratio",
         "use-tangent-ratio"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "quadratic-and-nonlinear-equations",
+    "quadratic-and-nonlinear-equations": {
       "label": "Quadratic and non-linear equations",
       "description": "Factorisation, completing-the-square and formula methods for quadratics and simultaneous linear/non-linear systems.",
       "topicIds": [
@@ -1043,14 +966,12 @@
         "solve-simultaneous-linear-and-nonlinear-equations",
         "solve-simultaneous-linear-and-quadratic-equations"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "rates-and-compound-units",
+    "rates-and-compound-units": {
       "label": "Rates and compound units",
       "description": "Calculation and conversion of rates such as speed, density, pressure, flow and population density.",
       "topicIds": [
@@ -1071,14 +992,12 @@
         "calculate-rate-of-pay",
         "convert-compound-units"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "ratio-and-proportion",
+    "ratio-and-proportion": {
       "label": "Ratio and proportion",
       "description": "Simplification, division and contextual use of ratios, direct proportion and inverse proportion.",
       "topicIds": [
@@ -1101,14 +1020,12 @@
         "solve-direct-proportion-problem",
         "solve-inverse-proportion-problem"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "scale-similarity-and-congruence",
+    "scale-similarity-and-congruence": {
       "label": "Scale, similarity and congruence",
       "description": "Scale drawings, similarity, congruence and corresponding length, area and volume scale factors.",
       "topicIds": [
@@ -1133,14 +1050,12 @@
         "prove-shapes-similar",
         "use-three-figure-bearing"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "scatter-diagrams-and-correlation",
+    "scatter-diagrams-and-correlation": {
       "label": "Scatter diagrams and correlation",
       "description": "Scatter plots, correlation, lines of best fit, interpolation and limits of extrapolation.",
       "topicIds": [
@@ -1158,14 +1073,12 @@
         "interpret-scatter-diagram",
         "use-line-of-best-fit"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "sequences",
+    "sequences": {
       "label": "Sequences",
       "description": "Continuation, pattern recognition and nth-term rules for linear, quadratic, cubic and exponential sequences.",
       "topicIds": [
@@ -1184,14 +1097,12 @@
         "relate-different-sequences",
         "use-nth-term-of-sequence"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "set-notation-and-venn-diagrams",
+    "set-notation-and-venn-diagrams": {
       "label": "Set notation and Venn diagrams",
       "description": "Set language, notation and Venn-diagram operations used to represent membership and relationships between sets.",
       "topicIds": [
@@ -1213,14 +1124,12 @@
         "use-set-language-and-notation",
         "use-set-membership-notation"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "shape-symmetry",
+    "shape-symmetry": {
       "label": "Shape symmetry",
       "description": "Line and rotational symmetry of plane shapes, including symmetry properties of circles.",
       "topicIds": [
@@ -1236,14 +1145,12 @@
         "identify-order-of-rotational-symmetry",
         "identify-plane-of-symmetry"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "single-event-and-experimental-probability",
+    "single-event-and-experimental-probability": {
       "label": "Single-event and experimental probability",
       "description": "Theoretical and experimental probability for single events, relative frequency, fairness and expected outcomes.",
       "topicIds": [
@@ -1268,14 +1175,12 @@
         "use-probability-notation",
         "use-probability-scale"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "standard-form",
+    "standard-form": {
       "label": "Standard form",
       "description": "Representation, conversion and calculation with numbers written in standard form.",
       "topicIds": [
@@ -1291,14 +1196,12 @@
         "convert-numbers-to-standard-form",
         "represent-numbers-in-standard-form"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "statistical-averages",
+    "statistical-averages": {
       "label": "Statistical averages",
       "description": "Mean, median, mode, range, quartiles, interquartile range and estimated mean for grouped data.",
       "topicIds": [
@@ -1319,14 +1222,12 @@
         "choose-appropriate-average",
         "identify-modal-class"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "statistical-diagrams",
+    "statistical-diagrams": {
       "label": "Statistical diagrams",
       "description": "Construction and interpretation of bar charts, pie charts, pictograms, frequency polygons and scatter diagrams.",
       "topicIds": [
@@ -1347,14 +1248,12 @@
         "interpret-pie-chart",
         "interpret-stem-and-leaf-diagram"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "statistical-interpretation",
+    "statistical-interpretation": {
       "label": "Statistical interpretation",
       "description": "Inference, comparison and limits of conclusions drawn from statistical tables, diagrams and measures.",
       "topicIds": [
@@ -1374,14 +1273,12 @@
         "interpret-statistical-diagram",
         "read-statistical-table"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "surds",
+    "surds": {
       "label": "Surds",
       "description": "Exact simplification and arithmetic with irrational roots, including rationalising denominators.",
       "topicIds": [
@@ -1395,14 +1292,12 @@
         "rationalise-denominator",
         "simplify-surds"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "surface-area-and-volume",
+    "surface-area-and-volume": {
       "label": "Surface area and volume",
       "description": "Surface area and volume of prisms, cylinders, pyramids, cones, spheres and compound solids.",
       "topicIds": [
@@ -1428,14 +1323,12 @@
         "calculate-volume-of-pyramid",
         "calculate-volume-of-sphere"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "three-dimensional-trigonometry",
+    "three-dimensional-trigonometry": {
       "label": "Three-dimensional trigonometry",
       "description": "Pythagoras and trigonometric methods for lengths and angles in three-dimensional figures.",
       "topicIds": [
@@ -1449,14 +1342,12 @@
         "solve-three-dimensional-pythagoras-problem",
         "solve-three-dimensional-trigonometry-problem"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "time-and-money",
+    "time-and-money": {
       "label": "Time and money",
       "description": "Unit conversion and contextual calculation with time, timetables, clocks, currencies and money.",
       "topicIds": [
@@ -1479,14 +1370,12 @@
         "use-twelve-hour-clock",
         "use-twenty-four-hour-clock"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "transformations",
+    "transformations": {
       "label": "Transformations",
       "description": "Construction and description of reflections, rotations, translations and enlargements with varied scale factors.",
       "topicIds": [
@@ -1510,14 +1399,12 @@
         "rotate-shape",
         "translate-shape"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "trigonometric-functions",
+    "trigonometric-functions": {
       "label": "Trigonometric functions",
       "description": "Recognition, sketching, interpretation and equation solving with sine, cosine and tangent graphs.",
       "topicIds": [
@@ -1542,14 +1429,12 @@
         "sketch-tangent-graph",
         "solve-trigonometric-equation-in-given-domain"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "types-of-number",
+    "types-of-number": {
       "label": "Types of number",
       "description": "Classification and properties of natural, integer, prime, rational and irrational numbers, factors, multiples and reciprocals.",
       "topicIds": [
@@ -1575,14 +1460,12 @@
         "identify-prime-numbers",
         "identify-square-numbers"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "vector-arithmetic",
+    "vector-arithmetic": {
       "label": "Vector arithmetic",
       "description": "Column and position-vector notation, vector addition, subtraction, scaling and magnitude.",
       "topicIds": [
@@ -1599,14 +1482,12 @@
         "represent-vector-in-column-form",
         "subtract-vectors"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     },
-    {
-      "id": "vector-geometry",
+    "vector-geometry": {
       "label": "Vector geometry",
       "description": "Vector methods used to solve geometric problems and prove collinearity or parallelism.",
       "topicIds": [
@@ -1623,11 +1504,10 @@
         "solve-vector-geometry-problem",
         "use-position-vectors"
       ],
-      "origin": "lattice-derived",
       "review": {
         "status": "pending-review",
         "notes": ""
       }
     }
-  ]
+  }
 }

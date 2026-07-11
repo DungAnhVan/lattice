@@ -1,0 +1,4899 @@
+{
+  "schemaVersion": "1.0",
+  "status": "pre-repair-audit-only",
+  "points": [
+    {
+      "pointId": "C1.1",
+      "officialTitle": "Types of number",
+      "clauses": [
+        {
+          "clauseId": "C1.1-c1",
+          "officialText": "Identify and use:\n• natural numbers\n• integers (positive, zero and negative) \n• prime numbers \n• square numbers \n• cube numbers \n• common factors\n• common multiples\n• rational and irrational numbers\n• reciprocals.",
+          "candidateSkillIds": [
+            "identify-square-numbers",
+            "identify-prime-numbers",
+            "identify-natural-numbers",
+            "identify-cube-numbers",
+            "classify-rational-and-irrational-numbers"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "identify-natural-numbers",
+        "identify-integers",
+        "identify-prime-numbers",
+        "identify-square-numbers",
+        "identify-cube-numbers",
+        "find-common-factors",
+        "find-common-multiples",
+        "classify-rational-and-irrational-numbers",
+        "find-reciprocals"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "find-common-factors",
+        "find-common-multiples",
+        "find-reciprocals",
+        "identify-integers"
+      ]
+    },
+    {
+      "pointId": "C1.2",
+      "officialTitle": "Sets",
+      "clauses": [
+        {
+          "clauseId": "C1.2-c1",
+          "officialText": "Understand and use set language, notation and Venn diagrams to describe sets.",
+          "candidateSkillIds": [
+            "use-set-language-and-notation",
+            "represent-sets-with-venn-diagrams"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "use-set-language-and-notation",
+        "represent-sets-with-venn-diagrams",
+        "calculate-number-of-set-elements",
+        "apply-set-union",
+        "apply-set-intersection",
+        "apply-set-complement"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-set-complement",
+        "apply-set-intersection",
+        "apply-set-union",
+        "calculate-number-of-set-elements"
+      ]
+    },
+    {
+      "pointId": "C1.3",
+      "officialTitle": "Powers and roots",
+      "clauses": [
+        {
+          "clauseId": "C1.3-c1",
+          "officialText": "Calculate with the following:\n• squares\n• square roots\n• cubes\n• cube roots\n• other powers and roots of numbers.",
+          "candidateSkillIds": [
+            "calculate-square-roots",
+            "calculate-roots-of-numbers",
+            "calculate-cube-roots"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-squares",
+        "calculate-square-roots",
+        "calculate-cubes",
+        "calculate-cube-roots",
+        "calculate-integer-powers",
+        "calculate-roots-of-numbers"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-cubes",
+        "calculate-integer-powers",
+        "calculate-squares"
+      ]
+    },
+    {
+      "pointId": "C1.4",
+      "officialTitle": "Fractions, decimals and percentages",
+      "clauses": [
+        {
+          "clauseId": "C1.4-c1",
+          "officialText": "1 Use the language and notation of the following in \nappropriate contexts:\n• \nproper fractions\n• \nimproper fractions\n• \nmixed numbers\n• \ndecimals\n• \npercentages.",
+          "candidateSkillIds": [
+            "convert-between-improper-fractions-and-mixed-numbers"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        },
+        {
+          "clauseId": "C1.4-c2",
+          "officialText": "2 Recognise equivalence and convert between \nthese forms.",
+          "candidateSkillIds": [
+            "convert-between-improper-fractions-and-mixed-numbers",
+            "convert-between-fractions-and-percentages",
+            "convert-between-decimals-and-percentages"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "recognise-proper-fractions",
+        "recognise-improper-fractions",
+        "recognise-mixed-numbers",
+        "simplify-fractions",
+        "convert-between-improper-fractions-and-mixed-numbers",
+        "convert-fractions-to-decimals",
+        "convert-decimals-to-fractions",
+        "convert-between-fractions-and-percentages",
+        "convert-between-decimals-and-percentages"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "convert-decimals-to-fractions",
+        "convert-fractions-to-decimals",
+        "recognise-improper-fractions",
+        "recognise-mixed-numbers",
+        "recognise-proper-fractions",
+        "simplify-fractions"
+      ]
+    },
+    {
+      "pointId": "C1.5",
+      "officialTitle": "Ordering",
+      "clauses": [
+        {
+          "clauseId": "C1.5-c1",
+          "officialText": "Order quantities by magnitude and demonstrate \nfamiliarity with the symbols =, ≠, >, < , ⩾ and ⩽ .",
+          "candidateSkillIds": [
+            "order-quantities-by-magnitude"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "order-quantities-by-magnitude",
+        "compare-quantities-using-equality-symbols",
+        "compare-quantities-using-inequality-symbols"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "compare-quantities-using-equality-symbols",
+        "compare-quantities-using-inequality-symbols"
+      ]
+    },
+    {
+      "pointId": "C1.6",
+      "officialTitle": "The four operations",
+      "clauses": [
+        {
+          "clauseId": "C1.6-c1",
+          "officialText": "Use the four operations for calculations with \nintegers, fractions and decimals, including correct \nordering of operations and use of brackets.",
+          "candidateSkillIds": [
+            "apply-brackets-in-calculations"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-with-integers",
+        "calculate-with-fractions",
+        "calculate-with-decimals",
+        "apply-order-of-operations",
+        "apply-brackets-in-calculations",
+        "calculate-with-negative-numbers"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-order-of-operations",
+        "calculate-with-decimals",
+        "calculate-with-fractions",
+        "calculate-with-integers",
+        "calculate-with-negative-numbers"
+      ]
+    },
+    {
+      "pointId": "C1.7",
+      "officialTitle": "Indices I",
+      "clauses": [
+        {
+          "clauseId": "C1.7-c1",
+          "officialText": "1  Understand and use indices (positive, zero and negative integers).",
+          "candidateSkillIds": [
+            "interpret-zero-indices",
+            "interpret-positive-integer-indices",
+            "interpret-negative-integer-indices"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C1.7-c2",
+          "officialText": "2  Understand and use the rules of indices.",
+          "candidateSkillIds": [
+            "interpret-zero-indices",
+            "interpret-positive-integer-indices",
+            "interpret-negative-integer-indices",
+            "apply-quotient-rule-for-indices",
+            "apply-product-rule-for-indices"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-positive-integer-indices",
+        "interpret-zero-indices",
+        "interpret-negative-integer-indices",
+        "apply-product-rule-for-indices",
+        "apply-quotient-rule-for-indices",
+        "apply-power-of-power-rule"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-power-of-power-rule"
+      ]
+    },
+    {
+      "pointId": "C1.8",
+      "officialTitle": "Standard form",
+      "clauses": [
+        {
+          "clauseId": "C1.8-c1",
+          "officialText": "1 Use the standard form A × 10n where n is a \npositive or negative integer and 1 ⩽ A < 10.",
+          "candidateSkillIds": [
+            "represent-numbers-in-standard-form",
+            "convert-numbers-to-standard-form",
+            "convert-numbers-from-standard-form",
+            "calculate-with-standard-form"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C1.8-c2",
+          "officialText": "2 Convert numbers into and out of standard form.",
+          "candidateSkillIds": [
+            "convert-numbers-to-standard-form",
+            "convert-numbers-from-standard-form"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        },
+        {
+          "clauseId": "C1.8-c3",
+          "officialText": "3 Calculate with values in standard form.",
+          "candidateSkillIds": [
+            "represent-numbers-in-standard-form",
+            "convert-numbers-to-standard-form",
+            "convert-numbers-from-standard-form",
+            "calculate-with-standard-form"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "represent-numbers-in-standard-form",
+        "convert-numbers-to-standard-form",
+        "convert-numbers-from-standard-form",
+        "calculate-with-standard-form"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C1.9",
+      "officialTitle": "Estimation",
+      "clauses": [
+        {
+          "clauseId": "C1.9-c1",
+          "officialText": "1 Round values to a specified degree of accuracy.",
+          "candidateSkillIds": [
+            "round-to-significant-figures",
+            "round-to-decimal-places",
+            "choose-appropriate-answer-accuracy"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C1.9-c2",
+          "officialText": "2 Make estimates for calculations involving \nnumbers, quantities and measurements.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "C1.9-c3",
+          "officialText": "3 Round answers to a reasonable degree of \naccuracy in the context of a given problem.",
+          "candidateSkillIds": [
+            "round-to-significant-figures",
+            "round-to-decimal-places",
+            "choose-appropriate-answer-accuracy"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "round-to-decimal-places",
+        "round-to-significant-figures",
+        "estimate-calculation-results",
+        "choose-appropriate-answer-accuracy"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "estimate-calculation-results"
+      ]
+    },
+    {
+      "pointId": "C1.10",
+      "officialTitle": "Limits of accuracy",
+      "clauses": [
+        {
+          "clauseId": "C1.10-c1",
+          "officialText": "Give upper and lower bounds for data rounded to a \nspecified accuracy.\ne.g. write down the upper bound of a length \nmeasured correct to the nearest metre.",
+          "candidateSkillIds": [
+            "find-upper-bound-of-rounded-value",
+            "find-lower-bound-of-rounded-value"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "find-lower-bound-of-rounded-value",
+        "find-upper-bound-of-rounded-value"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C1.11",
+      "officialTitle": "Ratio and proportion",
+      "clauses": [
+        {
+          "clauseId": "C1.11-c1",
+          "officialText": "Understand and use ratio and proportion to:",
+          "candidateSkillIds": [
+            "divide-quantity-in-given-ratio",
+            "apply-ratio-in-context",
+            "apply-direct-proportion"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C1.11-c2",
+          "officialText": "• give ratios in their simplest form",
+          "candidateSkillIds": [
+            "simplify-ratios"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C1.11-c3",
+          "officialText": "• use proportional reasoning and ratios in \ncontext.\ne.g. 20 : 30 : 40 in its simplest form is 2 : 3 : 4.\ne.g. adapt recipes; use map scales; determine best \nvalue.",
+          "candidateSkillIds": [
+            "simplify-ratios",
+            "apply-ratio-in-context"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "simplify-ratios",
+        "divide-quantity-in-given-ratio",
+        "apply-ratio-in-context",
+        "apply-direct-proportion"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C1.12",
+      "officialTitle": "Rates",
+      "clauses": [
+        {
+          "clauseId": "C1.12-c1",
+          "officialText": "1 Use common measures of rate.",
+          "candidateSkillIds": [
+            "calculate-rate-of-pay",
+            "calculate-flow-rate"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C1.12-c2",
+          "officialText": "2 Apply other measures of rate.",
+          "candidateSkillIds": [
+            "calculate-rate-of-pay",
+            "calculate-flow-rate"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C1.12-c3",
+          "officialText": "3 Solve problems involving average speed.\ne.g. calculate with:\n• hourly rates of pay\n• exchange rates between currencies\n• flow rates\n• fuel consumption.\ne.g. calculate with:\n• pressure\n• density\n• population density.",
+          "candidateSkillIds": [
+            "calculate-population-density",
+            "calculate-average-speed"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-rate-of-pay",
+        "calculate-currency-exchange",
+        "calculate-flow-rate",
+        "calculate-density",
+        "calculate-pressure",
+        "calculate-population-density",
+        "calculate-average-speed",
+        "convert-compound-units"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-currency-exchange",
+        "calculate-density",
+        "calculate-pressure",
+        "convert-compound-units"
+      ]
+    },
+    {
+      "pointId": "C1.13",
+      "officialTitle": "Percentages",
+      "clauses": [
+        {
+          "clauseId": "C1.13-c1",
+          "officialText": "1 Calculate a given percentage of a quantity.",
+          "candidateSkillIds": [
+            "express-quantity-as-percentage",
+            "calculate-percentage-of-quantity"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C1.13-c2",
+          "officialText": "2 Express one quantity as a percentage of another.",
+          "candidateSkillIds": [
+            "express-quantity-as-percentage"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C1.13-c3",
+          "officialText": "3 Calculate percentage increase or decrease.",
+          "candidateSkillIds": [
+            "calculate-percentage-increase",
+            "calculate-percentage-decrease"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C1.13-c4",
+          "officialText": "4 Calculate with simple and compound interest.\nFormulas are not given. \nPercentage calculations may include:\n• deposit\n• discount\n• profit and loss (as an amount or a percentage)\n• earnings\n• percentages over 100%.",
+          "candidateSkillIds": [
+            "calculate-simple-interest",
+            "calculate-profit-and-loss",
+            "calculate-compound-interest"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-percentage-of-quantity",
+        "express-quantity-as-percentage",
+        "calculate-percentage-increase",
+        "calculate-percentage-decrease",
+        "calculate-simple-interest",
+        "calculate-compound-interest",
+        "calculate-profit-and-loss",
+        "calculate-discount"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-discount"
+      ]
+    },
+    {
+      "pointId": "C1.14",
+      "officialTitle": "Using a calculator",
+      "clauses": [
+        {
+          "clauseId": "C1.14-c1",
+          "officialText": "1 Use a calculator efficiently.",
+          "candidateSkillIds": [
+            "use-calculator-efficiently"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C1.14-c2",
+          "officialText": "2 Enter values appropriately on a calculator.",
+          "candidateSkillIds": [
+            "enter-values-into-calculator"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C1.14-c3",
+          "officialText": "3 Interpret the calculator display appropriately.\ne.g. know not to round values within a calculation \nand to only round the final answer.\ne.g. enter 2 hours 30 minutes as 2.5 hours or \n2° 30’ 0’’.\ne.g. in money 4.8 means $4.80; in time 3.25 means",
+          "candidateSkillIds": [
+            "enter-values-into-calculator"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C1.14-c4",
+          "officialText": "3 hours 15 minutes.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "use-calculator-efficiently",
+        "enter-values-into-calculator",
+        "interpret-calculator-display",
+        "preserve-calculation-precision"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "interpret-calculator-display",
+        "preserve-calculation-precision"
+      ]
+    },
+    {
+      "pointId": "C1.15",
+      "officialTitle": "Time",
+      "clauses": [
+        {
+          "clauseId": "C1.15-c1",
+          "officialText": "1 Calculate with time: seconds (s), minutes (min), \nhours (h), days, weeks, months, years, including \nthe relationship between units.",
+          "candidateSkillIds": [
+            "convert-units-of-time"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C1.15-c2",
+          "officialText": "2 Calculate times in terms of the 24-hour and \n12-hour clock.",
+          "candidateSkillIds": [
+            "use-twenty-four-hour-clock",
+            "use-twelve-hour-clock"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C1.15-c3",
+          "officialText": "3 Read clocks and timetables.",
+          "candidateSkillIds": [
+            "read-timetables"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C1.15-c4",
+          "officialText": "1 year = 365 days.\nIn the 24-hour clock, for example, 3.15 a.m. will be \ndenoted by 03 15 and 3.15 p.m. by 15 15.",
+          "candidateSkillIds": [
+            "use-twenty-four-hour-clock",
+            "use-twelve-hour-clock"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "convert-units-of-time",
+        "calculate-time-intervals",
+        "use-twelve-hour-clock",
+        "use-twenty-four-hour-clock",
+        "read-timetables",
+        "solve-time-zone-problems"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-time-intervals",
+        "solve-time-zone-problems"
+      ]
+    },
+    {
+      "pointId": "C1.16",
+      "officialTitle": "Money",
+      "clauses": [
+        {
+          "clauseId": "C1.16-c1",
+          "officialText": "1 Calculate with money.",
+          "candidateSkillIds": [
+            "calculate-with-money"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C1.16-c2",
+          "officialText": "2 Convert from one currency to another.",
+          "candidateSkillIds": [
+            "convert-between-currencies"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-with-money",
+        "convert-between-currencies"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C2.1",
+      "officialTitle": "Introduction to algebra",
+      "clauses": [
+        {
+          "clauseId": "C2.1-c1",
+          "officialText": "1 Know that letters can be used to represent \ngeneralised numbers.",
+          "candidateSkillIds": [
+            "represent-generalised-numbers-with-letters"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C2.1-c2",
+          "officialText": "2 Substitute numbers into expressions and \nformulas.",
+          "candidateSkillIds": [
+            "substitute-values-into-formulas",
+            "substitute-values-into-expressions"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "represent-generalised-numbers-with-letters",
+        "substitute-values-into-expressions",
+        "substitute-values-into-formulas"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C2.2",
+      "officialTitle": "Algebraic manipulation",
+      "clauses": [
+        {
+          "clauseId": "C2.2-c1",
+          "officialText": "1 Simplify expressions by collecting like terms.",
+          "candidateSkillIds": [
+            "collect-like-terms"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C2.2-c2",
+          "officialText": "2 Expand products of algebraic expressions.",
+          "candidateSkillIds": [
+            "expand-single-bracket",
+            "expand-product-of-two-brackets"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C2.2-c3",
+          "officialText": "3 Factorise by extracting common factors.",
+          "candidateSkillIds": [
+            "factorise-by-common-factor"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "collect-like-terms",
+        "expand-single-bracket",
+        "expand-product-of-two-brackets",
+        "factorise-by-common-factor"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C2.4",
+      "officialTitle": "Indices II",
+      "clauses": [
+        {
+          "clauseId": "C2.4-c1",
+          "officialText": "1 Understand and use indices (positive, zero and \nnegative).",
+          "candidateSkillIds": [
+            "interpret-algebraic-indices"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C2.4-c2",
+          "officialText": "2 Understand and use the rules of indices.\ne.g. 2x = 32. Find the value of x.\ne.g. simplify:\n• (5x 3) 2\n• 12a 5 ÷ 3a –2\n• 6x 7y 4 × 5x –5y.",
+          "candidateSkillIds": [
+            "interpret-algebraic-indices"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-algebraic-indices",
+        "apply-algebraic-index-laws",
+        "solve-simple-exponential-equations"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-algebraic-index-laws",
+        "solve-simple-exponential-equations"
+      ]
+    },
+    {
+      "pointId": "C2.5",
+      "officialTitle": "Equations",
+      "clauses": [
+        {
+          "clauseId": "C2.5-c1",
+          "officialText": "1 Construct simple expressions, equations and \nformulas.",
+          "candidateSkillIds": [
+            "solve-simultaneous-linear-equations",
+            "construct-formulas",
+            "construct-equations",
+            "construct-algebraic-expressions"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C2.5-c2",
+          "officialText": "2 Solve linear equations in one unknown.",
+          "candidateSkillIds": [
+            "solve-simultaneous-linear-equations"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C2.5-c3",
+          "officialText": "3 Solve simultaneous linear equations in two \nunknowns.",
+          "candidateSkillIds": [
+            "solve-simultaneous-linear-equations"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C2.5-c4",
+          "officialText": "4 Change the subject of simple formulas.\ne.g. write an expression for a number that is 2 more \nthan n.",
+          "candidateSkillIds": [
+            "change-subject-of-formula"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "construct-algebraic-expressions",
+        "construct-equations",
+        "construct-formulas",
+        "solve-linear-equation",
+        "solve-simultaneous-linear-equations",
+        "change-subject-of-formula"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "solve-linear-equation"
+      ]
+    },
+    {
+      "pointId": "C2.6",
+      "officialTitle": "Inequalities",
+      "clauses": [
+        {
+          "clauseId": "C2.6-c1",
+          "officialText": "Represent and interpret inequalities, including on a \nnumber line.",
+          "candidateSkillIds": [
+            "represent-inequality-on-number-line",
+            "interpret-inequality-on-number-line"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "represent-inequality-on-number-line",
+        "interpret-inequality-on-number-line",
+        "solve-linear-inequality"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "solve-linear-inequality"
+      ]
+    },
+    {
+      "pointId": "C2.7",
+      "officialTitle": "Sequences",
+      "clauses": [
+        {
+          "clauseId": "C2.7-c1",
+          "officialText": "1 Continue a given number sequence or pattern.",
+          "candidateSkillIds": [
+            "continue-number-sequence"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C2.7-c2",
+          "officialText": "2 Recognise patterns in sequences, including the \nterm-to-term rule, and relationships between \ndifferent sequences.",
+          "candidateSkillIds": [
+            "recognise-sequence-pattern",
+            "find-nth-term-of-quadratic-sequence",
+            "find-nth-term-of-linear-sequence",
+            "find-nth-term-of-cubic-sequence"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C2.7-c3",
+          "officialText": "3 Find and use the nth term of the following \nsequences:\n(a) linear\n(b) simple quadratic\n(c) simple cubic.\ne.g. write the next two terms in this sequence: \n1, 3, 6, 10, 15, … , …\ne.g. find the nth term of 2, 5, 10, 17",
+          "candidateSkillIds": [
+            "find-nth-term-of-quadratic-sequence",
+            "find-nth-term-of-linear-sequence",
+            "find-nth-term-of-cubic-sequence"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        }
+      ],
+      "currentSkillIds": [
+        "continue-number-sequence",
+        "recognise-sequence-pattern",
+        "find-nth-term-of-linear-sequence",
+        "find-nth-term-of-quadratic-sequence",
+        "find-nth-term-of-cubic-sequence"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C2.9",
+      "officialTitle": "Graphs in practical situations",
+      "clauses": [
+        {
+          "clauseId": "C2.9-c1",
+          "officialText": "1 Use and interpret graphs in practical situations \nincluding travel graphs and conversion graphs.",
+          "candidateSkillIds": [
+            "interpret-practical-graphs"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C2.9-c2",
+          "officialText": "2 Draw graphs from given data.\ne.g. interpret the gradient of a straight-line graph as \na rate of change.\ne.g. draw a distance–time graph to represent a \njourney.",
+          "candidateSkillIds": [
+            "draw-distance-time-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-practical-graphs",
+        "interpret-gradient-as-rate-of-change",
+        "draw-graph-from-data",
+        "interpret-distance-time-graph",
+        "draw-distance-time-graph"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "draw-graph-from-data",
+        "interpret-distance-time-graph",
+        "interpret-gradient-as-rate-of-change"
+      ]
+    },
+    {
+      "pointId": "C2.10",
+      "officialTitle": "Graphs of functions",
+      "clauses": [
+        {
+          "clauseId": "C2.10-c1",
+          "officialText": "1 Construct tables of values, and draw, recognise \nand interpret graphs for functions of the following \nforms:\n• ax + b\n •\n± x2 + ax + b\n• x\na (x ≠ 0)\n where a and b are integer constants.",
+          "candidateSkillIds": [
+            "draw-exponential-growth-graph",
+            "draw-exponential-decay-graph",
+            "construct-table-of-values"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C2.10-c2",
+          "officialText": "2 Solve associated equations graphically, including \nfinding and interpreting roots by graphical \nmethods.\ne.g. find the intersection of a line and a curve.",
+          "candidateSkillIds": [
+            "solve-equations-graphically"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "construct-table-of-values",
+        "plot-graph-of-function",
+        "interpret-graph-of-function",
+        "solve-equations-graphically",
+        "interpret-roots-from-graph",
+        "draw-exponential-growth-graph",
+        "draw-exponential-decay-graph"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "interpret-graph-of-function",
+        "interpret-roots-from-graph",
+        "plot-graph-of-function"
+      ]
+    },
+    {
+      "pointId": "C2.11",
+      "officialTitle": "Sketching curves",
+      "clauses": [
+        {
+          "clauseId": "C2.11-c1",
+          "officialText": "Recognise, sketch and interpret graphs of the \nfollowing functions:\n(a) linear \n(b) quadratic.",
+          "candidateSkillIds": [
+            "sketch-quadratic-function",
+            "sketch-linear-function"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "sketch-linear-function",
+        "sketch-quadratic-function",
+        "sketch-cubic-function",
+        "sketch-reciprocal-function"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "sketch-cubic-function",
+        "sketch-reciprocal-function"
+      ]
+    },
+    {
+      "pointId": "C3.1",
+      "officialTitle": "Coordinates",
+      "clauses": [
+        {
+          "clauseId": "C3.1-c1",
+          "officialText": "Use and interpret Cartesian coordinates in \ntwo dimensions.",
+          "candidateSkillIds": [
+            "read-cartesian-coordinates",
+            "plot-cartesian-coordinates"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "read-cartesian-coordinates",
+        "plot-cartesian-coordinates"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C3.2",
+      "officialTitle": "Drawing linear graphs",
+      "clauses": [
+        {
+          "clauseId": "C3.2-c1",
+          "officialText": "Draw straight-line graphs for linear equations.\nEquations will be given in the form y = mx + c \n(e.g. y = –2x + 5), unless a table of values is given.",
+          "candidateSkillIds": [
+            "draw-linear-graph-from-equation"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "draw-linear-graph-from-equation"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C3.3",
+      "officialTitle": "Gradient of linear graphs",
+      "clauses": [
+        {
+          "clauseId": "C3.3-c1",
+          "officialText": "Find the gradient of a straight line.\nFrom a grid only.",
+          "candidateSkillIds": [
+            "calculate-gradient-from-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-gradient-from-graph"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C3.5",
+      "officialTitle": "Equations of linear graphs",
+      "clauses": [
+        {
+          "clauseId": "C3.5-c1",
+          "officialText": "Interpret and obtain the equation of a straight-line \ngraph in the form y = mx + c.\nQuestions may:",
+          "candidateSkillIds": [
+            "find-equation-of-line-from-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C3.5-c2",
+          "officialText": "• use and request lines in the forms\ny = mx + c \nx = k",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "C3.5-c3",
+          "officialText": "• ask for the gradient or y-intercept of a graph \nfrom an equation, e.g. find the gradient and \ny-intercept of the graph with the equation \ny = 6x + 3.",
+          "candidateSkillIds": [
+            "interpret-gradient-intercept-form",
+            "find-equation-of-line-from-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-gradient-intercept-form",
+        "find-equation-of-line-from-graph"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C3.6",
+      "officialTitle": "Parallel lines",
+      "clauses": [
+        {
+          "clauseId": "C3.6-c1",
+          "officialText": "Find the gradient and equation of a straight line \nparallel to a given line.\ne.g. find the equation of the line parallel to \ny = 4x – 1 that passes through (1, –3).",
+          "candidateSkillIds": [
+            "use-equal-gradients-for-parallel-lines",
+            "identify-parallel-lines"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "identify-parallel-lines",
+        "use-equal-gradients-for-parallel-lines"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C4.1",
+      "officialTitle": "Geometrical terms",
+      "clauses": [
+        {
+          "clauseId": "C4.1-c1",
+          "officialText": "1 Use and interpret the following geometrical \nterms:\n• \npoint\n• \nvertex\n• \nline\n• \nparallel\n• \nperpendicular\n• \nbearing\n• \nright angle\n• \nacute, obtuse and reflex angles\n• \ninterior and exterior angles\n• \nsimilar \n• \ncongruent\n• \nscale factor.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "C4.1-c2",
+          "officialText": "2 Use and interpret the vocabulary of:\n• \ntriangles\n• \nspecial quadrilaterals\n• \npolygons\n• \nnets \n• \nsimple solids.",
+          "candidateSkillIds": [
+            "use-geometric-vocabulary",
+            "classify-triangles",
+            "classify-quadrilaterals"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C4.1-c3",
+          "officialText": "3 Use and interpret the vocabulary of a circle.\nSimple solids:\n• cube\n• cuboid\n• prism\n• cylinder\n• pyramid\n• cone\n• sphere (term ‘hemisphere’ not required)\n• face\n• surface\n• edge.",
+          "candidateSkillIds": [
+            "use-geometric-vocabulary"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "use-geometric-vocabulary",
+        "classify-triangles",
+        "classify-quadrilaterals",
+        "identify-lines-of-symmetry",
+        "identify-rotational-symmetry"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "identify-lines-of-symmetry",
+        "identify-rotational-symmetry"
+      ]
+    },
+    {
+      "pointId": "C4.2",
+      "officialTitle": "Geometrical constructions",
+      "clauses": [
+        {
+          "clauseId": "C4.2-c1",
+          "officialText": "1 Measure and draw lines and angles.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "C4.2-c2",
+          "officialText": "2 Construct a triangle, given the lengths of all \nsides, using a ruler and pair of compasses only.",
+          "candidateSkillIds": [
+            "construct-triangle-with-ruler-and-compasses"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C4.2-c3",
+          "officialText": "3 Draw, use and interpret nets.\nA ruler should be used for all straight edges.\nConstructions of perpendicular bisectors and angle \nbisectors are not required. \ne.g. construct a rhombus by drawing two triangles. \nConstruction arcs must be shown.",
+          "candidateSkillIds": [
+            "construct-triangle-with-ruler-and-compasses",
+            "construct-perpendicular-line",
+            "construct-perpendicular-bisector",
+            "construct-angle-bisector"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "construct-triangle-with-ruler-and-compasses",
+        "construct-perpendicular-bisector",
+        "construct-angle-bisector",
+        "construct-perpendicular-line",
+        "construct-locus"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "construct-locus"
+      ]
+    },
+    {
+      "pointId": "C4.3",
+      "officialTitle": "Scale drawings",
+      "clauses": [
+        {
+          "clauseId": "C4.3-c1",
+          "officialText": "1 Draw and interpret scale drawings.",
+          "candidateSkillIds": [
+            "interpret-scale-drawing",
+            "construct-scale-drawing",
+            "calculate-actual-length-from-scale"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C4.3-c2",
+          "officialText": "2 Use and interpret three-figure bearings.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-scale-drawing",
+        "construct-scale-drawing",
+        "calculate-actual-length-from-scale"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C4.4",
+      "officialTitle": "Similarity",
+      "clauses": [
+        {
+          "clauseId": "C4.4-c1",
+          "officialText": "Calculate lengths of similar shapes.",
+          "candidateSkillIds": [
+            "calculate-missing-lengths-in-similar-shapes"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "identify-similar-shapes",
+        "calculate-missing-lengths-in-similar-shapes"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "identify-similar-shapes"
+      ]
+    },
+    {
+      "pointId": "C4.5",
+      "officialTitle": "Symmetry",
+      "clauses": [
+        {
+          "clauseId": "C4.5-c1",
+          "officialText": "Recognise line symmetry and order of rotational \nsymmetry in two dimensions.",
+          "candidateSkillIds": [
+            "identify-order-of-rotational-symmetry"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "identify-line-symmetry",
+        "identify-order-of-rotational-symmetry"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "identify-line-symmetry"
+      ]
+    },
+    {
+      "pointId": "C4.6",
+      "officialTitle": "Angles",
+      "clauses": [
+        {
+          "clauseId": "C4.6-c1",
+          "officialText": "1 Calculate unknown angles and give simple \nexplanations using the following geometrical \nproperties:\n• sum of angles at a point = 360°\n• sum of angles at a point on a straight line = 180°\n• vertically opposite angles are equal\n• angle sum of a triangle = 180° and angle sum \nof a quadrilateral = 360°.",
+          "candidateSkillIds": [
+            "apply-vertically-opposite-angles",
+            "apply-angles-on-a-straight-line",
+            "apply-angle-sum-of-triangle",
+            "apply-angle-sum-of-quadrilateral"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C4.6-c2",
+          "officialText": "2 Calculate unknown angles and give geometric \nexplanations for angles formed within parallel lines:\n• corresponding angles are equal\n• alternate angles are equal \n• co-interior angles sum to 180° (supplementary).",
+          "candidateSkillIds": [
+            "apply-corresponding-angles",
+            "apply-alternate-angles"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C4.6-c3",
+          "officialText": "3 Know and use angle properties of regular \npolygons.",
+          "candidateSkillIds": [
+            "calculate-interior-angle-of-regular-polygon",
+            "calculate-exterior-angle-of-regular-polygon"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-three-letter-angle-notation",
+        "apply-angles-around-a-point",
+        "apply-angles-on-a-straight-line",
+        "apply-vertically-opposite-angles",
+        "apply-angle-sum-of-triangle",
+        "apply-angle-sum-of-quadrilateral",
+        "apply-corresponding-angles",
+        "apply-alternate-angles",
+        "apply-cointerior-angles",
+        "calculate-interior-angle-of-regular-polygon",
+        "calculate-exterior-angle-of-regular-polygon"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-angles-around-a-point",
+        "apply-cointerior-angles",
+        "interpret-three-letter-angle-notation"
+      ]
+    },
+    {
+      "pointId": "C4.7",
+      "officialTitle": "Circle theorems",
+      "clauses": [
+        {
+          "clauseId": "C4.7-c1",
+          "officialText": "Calculate unknown angles and give explanations \nusing the following geometrical properties of circles:",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "C4.7-c2",
+          "officialText": "• angle between tangent and radius = 90°.\nCandidates will be expected to use the geometrical \nproperties listed in the syllabus when giving \nreasons for answers.",
+          "candidateSkillIds": [
+            "apply-tangent-radius-angle-property"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "apply-angle-in-semicircle-theorem",
+        "apply-tangent-radius-angle-property"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-angle-in-semicircle-theorem"
+      ]
+    },
+    {
+      "pointId": "C5.1",
+      "officialTitle": "Units of measure",
+      "clauses": [
+        {
+          "clauseId": "C5.1-c1",
+          "officialText": "Use metric units of mass, length, area, volume \nand capacity in practical situations and convert \nquantities into larger or smaller units.\nUnits include: \n• mm, cm, m, km\n• mm2, cm2, m2, km2\n• mm3, cm3, m3\n• ml, l\n• g, kg. \nConversion between units includes: \n• between different units of area, e.g. cm2 ↔ m2 \n• between units of volume and capacity, \ne.g. m3 ↔ litres.",
+          "candidateSkillIds": [
+            "convert-metric-units-of-volume",
+            "convert-metric-units-of-length",
+            "convert-metric-units-of-area"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        }
+      ],
+      "currentSkillIds": [
+        "convert-metric-units-of-length",
+        "convert-metric-units-of-area",
+        "convert-metric-units-of-volume"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C5.2",
+      "officialTitle": "Area and perimeter",
+      "clauses": [
+        {
+          "clauseId": "C5.2-c1",
+          "officialText": "Carry out calculations involving the perimeter and \narea of a rectangle, triangle, parallelogram and \ntrapezium. \nExcept for area of a triangle, formulas are not \ngiven.",
+          "candidateSkillIds": [
+            "calculate-area-of-triangle",
+            "calculate-area-of-trapezium",
+            "calculate-area-of-rectangle",
+            "calculate-area-of-parallelogram"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-perimeter-of-polygon",
+        "calculate-area-of-rectangle",
+        "calculate-area-of-triangle",
+        "calculate-area-of-parallelogram",
+        "calculate-area-of-trapezium"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-perimeter-of-polygon"
+      ]
+    },
+    {
+      "pointId": "C5.3",
+      "officialTitle": "Circles, arcs and sectors",
+      "clauses": [
+        {
+          "clauseId": "C5.3-c1",
+          "officialText": "1 Carry out calculations involving the \ncircumference and area of a circle.",
+          "candidateSkillIds": [
+            "calculate-circumference-of-circle",
+            "calculate-area-of-circle"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C5.3-c2",
+          "officialText": "2 Carry out calculations involving arc length and \nsector area as fractions of the circumference and \narea of a circle, where the sector angle is a factor \nof 360°.\nAnswers may be asked for in terms of π.\nFormulas are given in the List of formulas.",
+          "candidateSkillIds": [
+            "calculate-sector-area",
+            "calculate-circumference-of-circle",
+            "calculate-area-of-circle",
+            "calculate-arc-length"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-circumference-of-circle",
+        "calculate-area-of-circle",
+        "calculate-arc-length",
+        "calculate-sector-area"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C5.4",
+      "officialTitle": "Surface area and volume",
+      "clauses": [
+        {
+          "clauseId": "C5.4-c1",
+          "officialText": "Carry out calculations and solve problems involving \nthe surface area and volume of a:",
+          "candidateSkillIds": [
+            "calculate-surface-area-of-prism",
+            "calculate-surface-area-of-cylinder"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C5.4-c2",
+          "officialText": "• cone.\nAnswers may be asked for in terms of π.\nThe following formulas are given in the List of \nformulas:",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-surface-area-of-prism",
+        "calculate-volume-of-prism",
+        "calculate-surface-area-of-cylinder",
+        "calculate-volume-of-cylinder"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-volume-of-cylinder",
+        "calculate-volume-of-prism"
+      ]
+    },
+    {
+      "pointId": "C5.5",
+      "officialTitle": "Compound shapes and parts of shapes",
+      "clauses": [
+        {
+          "clauseId": "C5.5-c1",
+          "officialText": "1 Carry out calculations and solve problems \ninvolving perimeters and areas of:\n• compound shapes\n• parts of shapes.",
+          "candidateSkillIds": [
+            "calculate-volume-of-compound-solid",
+            "calculate-surface-area-of-compound-solid",
+            "calculate-perimeter-of-compound-shape",
+            "calculate-area-of-compound-shape"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C5.5-c2",
+          "officialText": "2 Carry out calculations and solve problems \ninvolving surface areas and volumes of:\n• compound solids\n• parts of solids.\nAnswers may be asked for in terms of π. \ne.g. find the volume of half of a sphere.",
+          "candidateSkillIds": [
+            "calculate-volume-of-compound-solid",
+            "calculate-surface-area-of-compound-solid"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-area-of-compound-shape",
+        "calculate-perimeter-of-compound-shape",
+        "calculate-volume-of-compound-solid",
+        "calculate-surface-area-of-compound-solid"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C6.1",
+      "officialTitle": "Pythagoras’ theorem",
+      "clauses": [
+        {
+          "clauseId": "C6.1-c1",
+          "officialText": "Know and use Pythagoras’ theorem.",
+          "candidateSkillIds": [
+            "apply-pythagoras-theorem"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "apply-pythagoras-theorem",
+        "find-missing-side-using-pythagoras"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "find-missing-side-using-pythagoras"
+      ]
+    },
+    {
+      "pointId": "C6.2",
+      "officialTitle": "Right-angled triangles",
+      "clauses": [
+        {
+          "clauseId": "C6.2-c1",
+          "officialText": "1 Know and use the sine, cosine and tangent \nratios for acute angles in calculations involving \nsides and angles of a right-angled triangle.",
+          "candidateSkillIds": [
+            "find-side-in-right-triangle",
+            "find-angle-in-right-triangle"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C6.2-c2",
+          "officialText": "2 Solve problems in two dimensions using \nPythagoras’ theorem and trigonometry.",
+          "candidateSkillIds": [
+            "solve-bearing-with-trigonometry"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "use-sine-ratio",
+        "use-cosine-ratio",
+        "use-tangent-ratio",
+        "find-side-in-right-triangle",
+        "find-angle-in-right-triangle",
+        "solve-angle-of-elevation",
+        "solve-angle-of-depression",
+        "solve-bearing-with-trigonometry"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "solve-angle-of-depression",
+        "solve-angle-of-elevation",
+        "use-cosine-ratio",
+        "use-sine-ratio",
+        "use-tangent-ratio"
+      ]
+    },
+    {
+      "pointId": "C7.1",
+      "officialTitle": "Transformations",
+      "clauses": [
+        {
+          "clauseId": "C7.1-c1",
+          "officialText": "Recognise, describe and draw the following \ntransformations:",
+          "candidateSkillIds": [
+            "describe-translation",
+            "describe-rotation",
+            "describe-reflection",
+            "describe-enlargement"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C7.1-c2",
+          "officialText": "1 Reflection of a shape in a vertical or horizontal \nline.",
+          "candidateSkillIds": [
+            "translate-shape",
+            "rotate-shape",
+            "reflect-shape",
+            "enlarge-shape",
+            "describe-reflection"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C7.1-c3",
+          "officialText": "2 Rotation of a shape about the origin, vertices \nor midpoints of edges of the shape, through \nmultiples of 90°.",
+          "candidateSkillIds": [
+            "translate-shape",
+            "rotate-shape",
+            "reflect-shape",
+            "enlarge-shape",
+            "describe-rotation"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C7.1-c4",
+          "officialText": "3 Enlargement of a shape from a centre by a scale \nfactor.",
+          "candidateSkillIds": [
+            "translate-shape",
+            "rotate-shape",
+            "reflect-shape",
+            "enlarge-shape",
+            "describe-enlargement"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C7.1-c5",
+          "officialText": "4 Translation of a shape by a vector x\ny\nJ\nL\nKK\nN\nP\nOO.",
+          "candidateSkillIds": [
+            "translate-shape",
+            "rotate-shape",
+            "reflect-shape",
+            "enlarge-shape",
+            "describe-translation"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "reflect-shape",
+        "rotate-shape",
+        "translate-shape",
+        "enlarge-shape",
+        "describe-reflection",
+        "describe-rotation",
+        "describe-translation",
+        "describe-enlargement"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C8.1",
+      "officialTitle": "Introduction to probability",
+      "clauses": [
+        {
+          "clauseId": "C8.1-c1",
+          "officialText": "1 Understand and use the probability scale from",
+          "candidateSkillIds": [
+            "use-probability-scale"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C8.1-c2",
+          "officialText": "0 to 1.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "C8.1-c3",
+          "officialText": "2 Calculate the probability of a single event.",
+          "candidateSkillIds": [
+            "calculate-single-event-probability"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C8.1-c4",
+          "officialText": "3 Understand that the probability of an event \nnot occurring = 1 – the probability of the event \noccurring.\nProbability notation is not required.",
+          "candidateSkillIds": [
+            "calculate-single-event-probability"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-single-event-probability",
+        "use-probability-scale",
+        "identify-impossible-event",
+        "identify-certain-event",
+        "calculate-complementary-probability"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-complementary-probability",
+        "identify-certain-event",
+        "identify-impossible-event"
+      ]
+    },
+    {
+      "pointId": "C8.2",
+      "officialTitle": "Relative and expected frequencies",
+      "clauses": [
+        {
+          "clauseId": "C8.2-c1",
+          "officialText": "1 Understand relative frequency as an estimate of \nprobability.",
+          "candidateSkillIds": [
+            "compare-relative-frequency-with-theoretical-probability"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "C8.2-c2",
+          "officialText": "2 Calculate expected frequencies.\ne.g. use results of experiments with a spinner to \nestimate the probability of a given outcome.\ne.g. use probability to estimate an expected value \nfrom a population.",
+          "candidateSkillIds": [
+            "compare-relative-frequency-with-theoretical-probability",
+            "calculate-expected-frequency"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-relative-frequency",
+        "calculate-expected-frequency",
+        "compare-relative-frequency-with-theoretical-probability"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-relative-frequency"
+      ]
+    },
+    {
+      "pointId": "C8.3",
+      "officialTitle": "Probability of combined events",
+      "clauses": [
+        {
+          "clauseId": "C8.3-c1",
+          "officialText": "Calculate the probability of combined events using, \nwhere appropriate:\n• sample space diagrams\n• Venn diagrams\n• tree diagrams.",
+          "candidateSkillIds": [
+            "calculate-probability-of-combined-events"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-probability-of-combined-events",
+        "construct-sample-space-diagram",
+        "calculate-probability-of-mutually-exclusive-events",
+        "calculate-probability-of-independent-events",
+        "construct-probability-tree-diagram"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-probability-of-independent-events",
+        "calculate-probability-of-mutually-exclusive-events",
+        "construct-probability-tree-diagram",
+        "construct-sample-space-diagram"
+      ]
+    },
+    {
+      "pointId": "C9.1",
+      "officialTitle": "Classifying statistical data",
+      "clauses": [
+        {
+          "clauseId": "C9.1-c1",
+          "officialText": "Classify and tabulate statistical data.\ne.g. tally tables, two-way tables.",
+          "candidateSkillIds": [
+            "classify-discrete-data",
+            "classify-continuous-data",
+            "classify-categorical-data"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "classify-categorical-data",
+        "classify-discrete-data",
+        "classify-continuous-data"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "C9.2",
+      "officialTitle": "Interpreting statistical data",
+      "clauses": [
+        {
+          "clauseId": "C9.2-c1",
+          "officialText": "1 Read, interpret and draw inferences from tables \nand statistical diagrams.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "C9.2-c2",
+          "officialText": "2 Compare sets of data using tables, graphs and \nstatistical measures.",
+          "candidateSkillIds": [
+            "identify-biased-data-collection"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C9.2-c3",
+          "officialText": "3 Appreciate restrictions on drawing conclusions \nfrom given data.\ne.g. compare averages and ranges between two \ndata sets.",
+          "candidateSkillIds": [
+            "identify-biased-data-collection"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-frequency-table",
+        "construct-frequency-table",
+        "identify-biased-data-collection",
+        "evaluate-sampling-method"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "construct-frequency-table",
+        "evaluate-sampling-method",
+        "interpret-frequency-table"
+      ]
+    },
+    {
+      "pointId": "C9.3",
+      "officialTitle": "Averages and range",
+      "clauses": [
+        {
+          "clauseId": "C9.3-c1",
+          "officialText": "Calculate the mean, median, mode and range \nfor individual data and distinguish between the \npurposes for which these are used.",
+          "candidateSkillIds": [
+            "calculate-range",
+            "calculate-mode",
+            "calculate-median",
+            "calculate-mean"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-mean",
+        "calculate-median",
+        "calculate-mode",
+        "calculate-range",
+        "choose-appropriate-average"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "choose-appropriate-average"
+      ]
+    },
+    {
+      "pointId": "C9.4",
+      "officialTitle": "Statistical charts and diagrams",
+      "clauses": [
+        {
+          "clauseId": "C9.4-c1",
+          "officialText": "Draw and interpret:\n(a) bar charts\n(b) pie charts\n(c) pictograms\n(d) stem-and-leaf diagrams\n(e) simple frequency distributions.",
+          "candidateSkillIds": [
+            "draw-pie-chart",
+            "draw-bar-chart"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "draw-bar-chart",
+        "interpret-bar-chart",
+        "draw-pie-chart",
+        "interpret-pie-chart",
+        "draw-pictogram",
+        "interpret-pictogram"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "draw-pictogram",
+        "interpret-bar-chart",
+        "interpret-pictogram",
+        "interpret-pie-chart"
+      ]
+    },
+    {
+      "pointId": "C9.5",
+      "officialTitle": "Scatter diagrams",
+      "clauses": [
+        {
+          "clauseId": "C9.5-c1",
+          "officialText": "1 Draw and interpret scatter diagrams.",
+          "candidateSkillIds": [
+            "draw-scatter-diagram"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "C9.5-c2",
+          "officialText": "2 Understand what is meant by positive, negative \nand zero correlation.",
+          "candidateSkillIds": [
+            "identify-correlation"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "C9.5-c3",
+          "officialText": "3 Draw by eye, interpret and use a straight line of \nbest fit.",
+          "candidateSkillIds": [
+            "draw-line-of-best-fit"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        }
+      ],
+      "currentSkillIds": [
+        "draw-scatter-diagram",
+        "identify-correlation",
+        "draw-line-of-best-fit",
+        "use-line-of-best-fit",
+        "identify-unreliable-extrapolation"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "identify-unreliable-extrapolation",
+        "use-line-of-best-fit"
+      ]
+    },
+    {
+      "pointId": "E1.1",
+      "officialTitle": "Types of number",
+      "clauses": [
+        {
+          "clauseId": "E1.1-c1",
+          "officialText": "Identify and use:\n• natural numbers\n• integers (positive, zero and negative) \n• prime numbers \n• square numbers \n• cube numbers \n• common factors\n• common multiples\n• rational and irrational numbers\n• reciprocals.",
+          "candidateSkillIds": [
+            "identify-square-numbers",
+            "identify-prime-numbers",
+            "identify-natural-numbers",
+            "identify-cube-numbers",
+            "classify-rational-and-irrational-numbers"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "identify-natural-numbers",
+        "identify-integers",
+        "identify-prime-numbers",
+        "identify-square-numbers",
+        "identify-cube-numbers",
+        "find-common-factors",
+        "find-common-multiples",
+        "classify-rational-and-irrational-numbers",
+        "find-reciprocals"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "find-common-factors",
+        "find-common-multiples",
+        "find-reciprocals",
+        "identify-integers"
+      ]
+    },
+    {
+      "pointId": "E1.2",
+      "officialTitle": "Sets",
+      "clauses": [
+        {
+          "clauseId": "E1.2-c1",
+          "officialText": "Understand and use set language, notation and Venn diagrams to describe sets.",
+          "candidateSkillIds": [
+            "use-set-language-and-notation",
+            "represent-sets-with-venn-diagrams"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "use-set-language-and-notation",
+        "represent-sets-with-venn-diagrams",
+        "calculate-number-of-set-elements",
+        "apply-set-union",
+        "apply-set-intersection",
+        "apply-set-complement"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-set-complement",
+        "apply-set-intersection",
+        "apply-set-union",
+        "calculate-number-of-set-elements"
+      ]
+    },
+    {
+      "pointId": "E1.3",
+      "officialTitle": "Powers and roots",
+      "clauses": [
+        {
+          "clauseId": "E1.3-c1",
+          "officialText": "Calculate with the following:\n• squares\n• square roots\n• cubes\n• cube roots\n• other powers and roots of numbers.",
+          "candidateSkillIds": [
+            "calculate-square-roots",
+            "calculate-roots-of-numbers",
+            "calculate-cube-roots"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-squares",
+        "calculate-square-roots",
+        "calculate-cubes",
+        "calculate-cube-roots",
+        "calculate-integer-powers",
+        "calculate-roots-of-numbers"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-cubes",
+        "calculate-integer-powers",
+        "calculate-squares"
+      ]
+    },
+    {
+      "pointId": "E1.4",
+      "officialTitle": "Fractions, decimals and percentages",
+      "clauses": [
+        {
+          "clauseId": "E1.4-c1",
+          "officialText": "1 Use the language and notation of the following in \nappropriate contexts: \n• \nproper fractions\n• \nimproper fractions\n• \nmixed numbers\n• \ndecimals\n• \npercentages.",
+          "candidateSkillIds": [
+            "convert-between-improper-fractions-and-mixed-numbers"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        },
+        {
+          "clauseId": "E1.4-c2",
+          "officialText": "2 Recognise equivalence and convert between \nthese forms.",
+          "candidateSkillIds": [
+            "convert-between-improper-fractions-and-mixed-numbers",
+            "convert-between-fractions-and-percentages",
+            "convert-between-decimals-and-percentages"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "recognise-proper-fractions",
+        "recognise-improper-fractions",
+        "recognise-mixed-numbers",
+        "simplify-fractions",
+        "convert-between-improper-fractions-and-mixed-numbers",
+        "convert-fractions-to-decimals",
+        "convert-decimals-to-fractions",
+        "convert-between-fractions-and-percentages",
+        "convert-between-decimals-and-percentages"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "convert-decimals-to-fractions",
+        "convert-fractions-to-decimals",
+        "recognise-improper-fractions",
+        "recognise-mixed-numbers",
+        "recognise-proper-fractions",
+        "simplify-fractions"
+      ]
+    },
+    {
+      "pointId": "E1.5",
+      "officialTitle": "Ordering",
+      "clauses": [
+        {
+          "clauseId": "E1.5-c1",
+          "officialText": "Order quantities by magnitude and demonstrate \nfamiliarity with the symbols =, ≠, >, < , ⩾ and ⩽.",
+          "candidateSkillIds": [
+            "order-quantities-by-magnitude"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "order-quantities-by-magnitude",
+        "compare-quantities-using-equality-symbols",
+        "compare-quantities-using-inequality-symbols"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "compare-quantities-using-equality-symbols",
+        "compare-quantities-using-inequality-symbols"
+      ]
+    },
+    {
+      "pointId": "E1.6",
+      "officialTitle": "The four operations",
+      "clauses": [
+        {
+          "clauseId": "E1.6-c1",
+          "officialText": "Use the four operations for calculations with \nintegers, fractions and decimals, including correct \nordering of operations and use of brackets.",
+          "candidateSkillIds": [
+            "apply-brackets-in-calculations"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-with-integers",
+        "calculate-with-fractions",
+        "calculate-with-decimals",
+        "apply-order-of-operations",
+        "apply-brackets-in-calculations",
+        "calculate-with-negative-numbers"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-order-of-operations",
+        "calculate-with-decimals",
+        "calculate-with-fractions",
+        "calculate-with-integers",
+        "calculate-with-negative-numbers"
+      ]
+    },
+    {
+      "pointId": "E1.7",
+      "officialTitle": "Indices I",
+      "clauses": [
+        {
+          "clauseId": "E1.7-c1",
+          "officialText": "1 Understand and use indices (positive, zero, \nnegative, and fractional).",
+          "candidateSkillIds": [
+            "interpret-zero-indices",
+            "interpret-positive-integer-indices",
+            "interpret-negative-integer-indices"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E1.7-c2",
+          "officialText": "2 Understand and use the rules of indices.",
+          "candidateSkillIds": [
+            "interpret-zero-indices",
+            "interpret-positive-integer-indices",
+            "interpret-negative-integer-indices",
+            "apply-quotient-rule-for-indices",
+            "apply-product-rule-for-indices"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-positive-integer-indices",
+        "interpret-zero-indices",
+        "interpret-negative-integer-indices",
+        "apply-product-rule-for-indices",
+        "apply-quotient-rule-for-indices",
+        "apply-power-of-power-rule"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-power-of-power-rule"
+      ]
+    },
+    {
+      "pointId": "E1.8",
+      "officialTitle": "Standard form",
+      "clauses": [
+        {
+          "clauseId": "E1.8-c1",
+          "officialText": "1 Use the standard form A × 10n where n is a \npositive or negative integer and 1 ⩽ A < 10.",
+          "candidateSkillIds": [
+            "represent-numbers-in-standard-form",
+            "convert-numbers-to-standard-form",
+            "convert-numbers-from-standard-form",
+            "calculate-with-standard-form"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E1.8-c2",
+          "officialText": "2 Convert numbers into and out of standard form.",
+          "candidateSkillIds": [
+            "convert-numbers-to-standard-form",
+            "convert-numbers-from-standard-form"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        },
+        {
+          "clauseId": "E1.8-c3",
+          "officialText": "3 Calculate with values in standard form.",
+          "candidateSkillIds": [
+            "represent-numbers-in-standard-form",
+            "convert-numbers-to-standard-form",
+            "convert-numbers-from-standard-form",
+            "calculate-with-standard-form"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "represent-numbers-in-standard-form",
+        "convert-numbers-to-standard-form",
+        "convert-numbers-from-standard-form",
+        "calculate-with-standard-form"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E1.9",
+      "officialTitle": "Estimation",
+      "clauses": [
+        {
+          "clauseId": "E1.9-c1",
+          "officialText": "1 Round values to a specified degree of accuracy.",
+          "candidateSkillIds": [
+            "round-to-significant-figures",
+            "round-to-decimal-places",
+            "choose-appropriate-answer-accuracy"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E1.9-c2",
+          "officialText": "2 Make estimates for calculations involving \nnumbers, quantities and measurements.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E1.9-c3",
+          "officialText": "3 Round answers to a reasonable degree of \naccuracy in the context of a given problem.",
+          "candidateSkillIds": [
+            "round-to-significant-figures",
+            "round-to-decimal-places",
+            "choose-appropriate-answer-accuracy"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "round-to-decimal-places",
+        "round-to-significant-figures",
+        "estimate-calculation-results",
+        "choose-appropriate-answer-accuracy"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "estimate-calculation-results"
+      ]
+    },
+    {
+      "pointId": "E1.10",
+      "officialTitle": "Limits of accuracy",
+      "clauses": [
+        {
+          "clauseId": "E1.10-c1",
+          "officialText": "1 Give upper and lower bounds for data rounded \nto a specified accuracy.",
+          "candidateSkillIds": [
+            "find-upper-bound-of-rounded-value",
+            "find-lower-bound-of-rounded-value"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E1.10-c2",
+          "officialText": "2 Find upper and lower bounds of the results of \ncalculations which have used data rounded to a \nspecified accuracy.\ne.g. write down the upper bound of a length \nmeasured correct to the nearest metre.",
+          "candidateSkillIds": [
+            "find-upper-bound-of-rounded-value",
+            "find-lower-bound-of-rounded-value"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "find-lower-bound-of-rounded-value",
+        "find-upper-bound-of-rounded-value",
+        "find-bounds-of-calculation-result"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "find-bounds-of-calculation-result"
+      ]
+    },
+    {
+      "pointId": "E1.11",
+      "officialTitle": "Ratio and proportion",
+      "clauses": [
+        {
+          "clauseId": "E1.11-c1",
+          "officialText": "Understand and use ratio and proportion to:",
+          "candidateSkillIds": [
+            "divide-quantity-in-given-ratio",
+            "apply-ratio-in-context",
+            "apply-inverse-proportion",
+            "apply-direct-proportion"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E1.11-c2",
+          "officialText": "• give ratios in their simplest form",
+          "candidateSkillIds": [
+            "simplify-ratios"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E1.11-c3",
+          "officialText": "• use proportional reasoning and ratios in \ncontext.\ne.g. 20 : 30 : 40 in its simplest form is 2 : 3 : 4.\ne.g. adapt recipes; use map scales; determine best \nvalue.",
+          "candidateSkillIds": [
+            "simplify-ratios",
+            "apply-ratio-in-context"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "simplify-ratios",
+        "divide-quantity-in-given-ratio",
+        "apply-ratio-in-context",
+        "apply-direct-proportion",
+        "apply-inverse-proportion"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E1.12",
+      "officialTitle": "Rates",
+      "clauses": [
+        {
+          "clauseId": "E1.12-c1",
+          "officialText": "1 Use common measures of rate.",
+          "candidateSkillIds": [
+            "calculate-rate-of-pay",
+            "calculate-flow-rate"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E1.12-c2",
+          "officialText": "2 Apply other measures of rate.",
+          "candidateSkillIds": [
+            "calculate-rate-of-pay",
+            "calculate-flow-rate"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E1.12-c3",
+          "officialText": "3 Solve problems involving average speed.\ne.g. calculate with:\n• hourly rates of pay\n• exchange rates between currencies\n• flow rates\n• fuel consumption.\ne.g. calculate with:\n• pressure\n• density\n• population density.",
+          "candidateSkillIds": [
+            "calculate-population-density",
+            "calculate-average-speed"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-rate-of-pay",
+        "calculate-currency-exchange",
+        "calculate-flow-rate",
+        "calculate-density",
+        "calculate-pressure",
+        "calculate-population-density",
+        "calculate-average-speed",
+        "convert-compound-units"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-currency-exchange",
+        "calculate-density",
+        "calculate-pressure",
+        "convert-compound-units"
+      ]
+    },
+    {
+      "pointId": "E1.13",
+      "officialTitle": "Percentages",
+      "clauses": [
+        {
+          "clauseId": "E1.13-c1",
+          "officialText": "1 Calculate a given percentage of a quantity.",
+          "candidateSkillIds": [
+            "express-quantity-as-percentage",
+            "calculate-percentage-of-quantity"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E1.13-c2",
+          "officialText": "2 Express one quantity as a percentage of another.",
+          "candidateSkillIds": [
+            "express-quantity-as-percentage"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E1.13-c3",
+          "officialText": "3 Calculate percentage increase or decrease.",
+          "candidateSkillIds": [
+            "calculate-percentage-increase",
+            "calculate-percentage-decrease"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E1.13-c4",
+          "officialText": "4 Calculate with simple and compound interest.",
+          "candidateSkillIds": [
+            "calculate-simple-interest",
+            "calculate-compound-interest"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E1.13-c5",
+          "officialText": "5 Calculate using reverse percentages.",
+          "candidateSkillIds": [
+            "calculate-reverse-percentage"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-percentage-of-quantity",
+        "express-quantity-as-percentage",
+        "calculate-percentage-increase",
+        "calculate-percentage-decrease",
+        "calculate-simple-interest",
+        "calculate-compound-interest",
+        "calculate-profit-and-loss",
+        "calculate-discount",
+        "calculate-reverse-percentage"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-discount",
+        "calculate-profit-and-loss"
+      ]
+    },
+    {
+      "pointId": "E1.14",
+      "officialTitle": "Using a calculator",
+      "clauses": [
+        {
+          "clauseId": "E1.14-c1",
+          "officialText": "1 Use a calculator efficiently.",
+          "candidateSkillIds": [
+            "use-calculator-efficiently"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E1.14-c2",
+          "officialText": "2 Enter values appropriately on a calculator.",
+          "candidateSkillIds": [
+            "enter-values-into-calculator"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E1.14-c3",
+          "officialText": "3 Interpret the calculator display appropriately.\ne.g. know not to round values within a calculation \nand to only round the final answer.\ne.g. enter 2 hours 30 minutes as 2.5 hours or \n2° 30’ 0’’.\ne.g. in money 4.8 means $4.80; in time 3.25 means",
+          "candidateSkillIds": [
+            "enter-values-into-calculator"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E1.14-c4",
+          "officialText": "3 hours 15 minutes.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "use-calculator-efficiently",
+        "enter-values-into-calculator",
+        "interpret-calculator-display",
+        "preserve-calculation-precision"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "interpret-calculator-display",
+        "preserve-calculation-precision"
+      ]
+    },
+    {
+      "pointId": "E1.15",
+      "officialTitle": "Time",
+      "clauses": [
+        {
+          "clauseId": "E1.15-c1",
+          "officialText": "1 Calculate with time: seconds (s), minutes (min), \nhours (h), days, weeks, months, years, including \nthe relationship between units.",
+          "candidateSkillIds": [
+            "convert-units-of-time"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E1.15-c2",
+          "officialText": "2 Calculate times in terms of the 24-hour and \n12-hour clock.",
+          "candidateSkillIds": [
+            "use-twenty-four-hour-clock",
+            "use-twelve-hour-clock"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E1.15-c3",
+          "officialText": "3 Read clocks and timetables.",
+          "candidateSkillIds": [
+            "read-timetables"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E1.15-c4",
+          "officialText": "1 year = 365 days.\nIn the 24-hour clock, for example, 3.15 a.m. will be \ndenoted by 03 15 and 3.15 p.m. by 15 15.",
+          "candidateSkillIds": [
+            "use-twenty-four-hour-clock",
+            "use-twelve-hour-clock"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "convert-units-of-time",
+        "calculate-time-intervals",
+        "use-twelve-hour-clock",
+        "use-twenty-four-hour-clock",
+        "read-timetables",
+        "solve-time-zone-problems"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-time-intervals",
+        "solve-time-zone-problems"
+      ]
+    },
+    {
+      "pointId": "E1.16",
+      "officialTitle": "Money",
+      "clauses": [
+        {
+          "clauseId": "E1.16-c1",
+          "officialText": "1 Calculate with money.",
+          "candidateSkillIds": [
+            "calculate-with-money"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E1.16-c2",
+          "officialText": "2 Convert from one currency to another.",
+          "candidateSkillIds": [
+            "convert-between-currencies"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-with-money",
+        "convert-between-currencies"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E1.17",
+      "officialTitle": "Exponential growth and decay",
+      "clauses": [
+        {
+          "clauseId": "E1.17-c1",
+          "officialText": "Use exponential growth and decay.\ne.g. depreciation, population change.",
+          "candidateSkillIds": [
+            "model-exponential-growth",
+            "model-exponential-decay"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "model-exponential-growth",
+        "model-exponential-decay",
+        "calculate-compound-growth",
+        "calculate-compound-decay"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-compound-decay",
+        "calculate-compound-growth"
+      ]
+    },
+    {
+      "pointId": "E1.18",
+      "officialTitle": "Surds",
+      "clauses": [
+        {
+          "clauseId": "E1.18-c1",
+          "officialText": "1 Understand and use surds, including simplifying \nexpressions.",
+          "candidateSkillIds": [
+            "simplify-surds",
+            "calculate-with-surds"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E1.18-c2",
+          "officialText": "2 Rationalise the denominator.",
+          "candidateSkillIds": [
+            "rationalise-denominator"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "simplify-surds",
+        "rationalise-denominator",
+        "calculate-with-surds"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E2.1",
+      "officialTitle": "Introduction to algebra",
+      "clauses": [
+        {
+          "clauseId": "E2.1-c1",
+          "officialText": "1 Know that letters can be used to represent \ngeneralised numbers.",
+          "candidateSkillIds": [
+            "represent-generalised-numbers-with-letters"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E2.1-c2",
+          "officialText": "2 Substitute numbers into expressions and \nformulas.",
+          "candidateSkillIds": [
+            "substitute-values-into-formulas",
+            "substitute-values-into-expressions"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "represent-generalised-numbers-with-letters",
+        "substitute-values-into-expressions",
+        "substitute-values-into-formulas"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E2.2",
+      "officialTitle": "Algebraic manipulation",
+      "clauses": [
+        {
+          "clauseId": "E2.2-c1",
+          "officialText": "1 Simplify expressions by collecting like terms.",
+          "candidateSkillIds": [
+            "collect-like-terms"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.2-c2",
+          "officialText": "2 Expand products of algebraic expressions.",
+          "candidateSkillIds": [
+            "expand-multiple-algebraic-factors"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.2-c3",
+          "officialText": "3 Factorise by extracting common factors.",
+          "candidateSkillIds": [
+            "factorise-by-common-factor"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.2-c4",
+          "officialText": "4 Factorise expressions of the form:\n• \nax + bx + kay + kby\n• \na2x2 − b2y2\n• \na2 + 2ab + b2\n• \nax2 + bx + c\n• \nax3 + bx2 + cx.",
+          "candidateSkillIds": [
+            "factorise-quadratic-expression",
+            "factorise-difference-of-two-squares",
+            "factorise-by-common-factor"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E2.2-c5",
+          "officialText": "5 Complete the square for expressions in the form \nax2 + bx + c.",
+          "candidateSkillIds": [
+            "complete-square"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "collect-like-terms",
+        "expand-single-bracket",
+        "expand-product-of-two-brackets",
+        "factorise-by-common-factor",
+        "factorise-quadratic-expression",
+        "factorise-difference-of-two-squares",
+        "complete-square",
+        "expand-multiple-algebraic-factors"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "expand-product-of-two-brackets",
+        "expand-single-bracket"
+      ]
+    },
+    {
+      "pointId": "E2.3",
+      "officialTitle": "Algebraic fractions",
+      "clauses": [
+        {
+          "clauseId": "E2.3-c1",
+          "officialText": "1 Manipulate algebraic fractions.",
+          "candidateSkillIds": [
+            "simplify-algebraic-fractions",
+            "calculate-with-algebraic-fractions"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.3-c2",
+          "officialText": "2 Factorise and simplify rational expressions.",
+          "candidateSkillIds": [
+            "simplify-algebraic-fractions"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "simplify-algebraic-fractions",
+        "calculate-with-algebraic-fractions"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E2.4",
+      "officialTitle": "Indices II",
+      "clauses": [
+        {
+          "clauseId": "E2.4-c1",
+          "officialText": "1 Understand and use indices (positive, zero, \nnegative and fractional).",
+          "candidateSkillIds": [
+            "interpret-algebraic-indices"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E2.4-c2",
+          "officialText": "2 Understand and use the rules of indices.\ne.g. solve:\n• 32x = 2\n• 5x + 1 = 25x.\ne.g. simplify:\n• x\nx",
+          "candidateSkillIds": [
+            "interpret-algebraic-indices"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E2.4-c3",
+          "officialText": "3",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c4",
+          "officialText": "3",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c5",
+          "officialText": "2",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c6",
+          "officialText": "4",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c7",
+          "officialText": "2",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c8",
+          "officialText": "1\n#\n−\n \nx\nx",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c9",
+          "officialText": "5",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c10",
+          "officialText": "2",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c11",
+          "officialText": "2",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c12",
+          "officialText": "2",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c13",
+          "officialText": "2",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c14",
+          "officialText": "1 '\n−\n•\nx",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c15",
+          "officialText": "3",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.4-c16",
+          "officialText": "2 5 3\nJ\nL\nKK\nN\nP\nOO .",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-algebraic-indices",
+        "apply-algebraic-index-laws",
+        "solve-simple-exponential-equations"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-algebraic-index-laws",
+        "solve-simple-exponential-equations"
+      ]
+    },
+    {
+      "pointId": "E2.5",
+      "officialTitle": "Equations",
+      "clauses": [
+        {
+          "clauseId": "E2.5-c1",
+          "officialText": "1 Construct expressions, equations and formulas.",
+          "candidateSkillIds": [
+            "solve-simultaneous-linear-equations",
+            "solve-simultaneous-linear-and-quadratic-equations",
+            "construct-formulas",
+            "construct-equations",
+            "construct-algebraic-expressions"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E2.5-c2",
+          "officialText": "2 Solve linear equations in one unknown.",
+          "candidateSkillIds": [
+            "solve-simultaneous-linear-equations",
+            "solve-simultaneous-linear-and-quadratic-equations"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.5-c3",
+          "officialText": "3 Solve fractional equations with numerical and \nlinear algebraic denominators.",
+          "candidateSkillIds": [
+            "solve-simultaneous-linear-equations",
+            "solve-simultaneous-linear-and-quadratic-equations"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.5-c4",
+          "officialText": "4 Solve simultaneous linear equations in two \nunknowns.",
+          "candidateSkillIds": [
+            "solve-simultaneous-linear-equations",
+            "solve-simultaneous-linear-and-quadratic-equations"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E2.5-c5",
+          "officialText": "5 Solve simultaneous equations, involving one \nlinear and one non-linear.",
+          "candidateSkillIds": [
+            "solve-simultaneous-linear-equations",
+            "solve-simultaneous-linear-and-quadratic-equations"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E2.5-c6",
+          "officialText": "6 Solve quadratic equations by factorisation, \ncompleting the square and by use of the \nquadratic formula.",
+          "candidateSkillIds": [
+            "solve-simultaneous-linear-and-quadratic-equations",
+            "solve-quadratic-equation-using-formula",
+            "solve-quadratic-equation-by-factorisation",
+            "complete-square-to-solve-quadratic"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.5-c7",
+          "officialText": "7 Change the subject of formulas.\ne.g. write an expression for the product of two \nconsecutive even numbers.",
+          "candidateSkillIds": [
+            "change-subject-of-formula",
+            "change-subject-in-complex-formula"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "construct-algebraic-expressions",
+        "construct-equations",
+        "construct-formulas",
+        "solve-linear-equation",
+        "solve-simultaneous-linear-equations",
+        "change-subject-of-formula",
+        "solve-equation-with-algebraic-fractions",
+        "solve-quadratic-equation-by-factorisation",
+        "solve-quadratic-equation-using-formula",
+        "complete-square-to-solve-quadratic",
+        "solve-simultaneous-linear-and-quadratic-equations",
+        "change-subject-in-complex-formula"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "solve-equation-with-algebraic-fractions",
+        "solve-linear-equation"
+      ]
+    },
+    {
+      "pointId": "E2.6",
+      "officialTitle": "Inequalities",
+      "clauses": [
+        {
+          "clauseId": "E2.6-c1",
+          "officialText": "1 Represent and interpret inequalities, including on \na number line.",
+          "candidateSkillIds": [
+            "represent-inequality-on-number-line",
+            "interpret-inequality-on-number-line"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.6-c2",
+          "officialText": "2 Construct, solve and interpret linear inequalities.",
+          "candidateSkillIds": [
+            "solve-linear-inequality"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E2.6-c3",
+          "officialText": "3 Represent and interpret linear inequalities in two \nvariables graphically.",
+          "candidateSkillIds": [
+            "solve-linear-inequality"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E2.6-c4",
+          "officialText": "4 List inequalities that define a given region.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "represent-inequality-on-number-line",
+        "interpret-inequality-on-number-line",
+        "solve-linear-inequality",
+        "solve-quadratic-inequality"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "solve-quadratic-inequality"
+      ]
+    },
+    {
+      "pointId": "E2.7",
+      "officialTitle": "Sequences",
+      "clauses": [
+        {
+          "clauseId": "E2.7-c1",
+          "officialText": "1 Continue a given number sequence or pattern.",
+          "candidateSkillIds": [
+            "continue-number-sequence"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E2.7-c2",
+          "officialText": "2 Recognise patterns in sequences, including the \nterm-to-term rule, and relationships between \ndifferent sequences.",
+          "candidateSkillIds": [
+            "recognise-sequence-pattern",
+            "find-nth-term-of-quadratic-sequence",
+            "find-nth-term-of-linear-sequence",
+            "find-nth-term-of-exponential-sequence",
+            "find-nth-term-of-cubic-sequence"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E2.7-c3",
+          "officialText": "3 Find and use the nth term of sequences. \nSubscript notation may be used, e.g. Tn is the nth \nterm of sequence T.",
+          "candidateSkillIds": [
+            "find-nth-term-of-quadratic-sequence",
+            "find-nth-term-of-linear-sequence",
+            "find-nth-term-of-exponential-sequence",
+            "find-nth-term-of-cubic-sequence"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "continue-number-sequence",
+        "recognise-sequence-pattern",
+        "find-nth-term-of-linear-sequence",
+        "find-nth-term-of-quadratic-sequence",
+        "find-nth-term-of-cubic-sequence",
+        "find-nth-term-of-exponential-sequence"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E2.8",
+      "officialTitle": "Proportion",
+      "clauses": [
+        {
+          "clauseId": "E2.8-c1",
+          "officialText": "Express direct and inverse proportion in algebraic \nterms and use this form of expression to find \nunknown quantities.",
+          "candidateSkillIds": [
+            "form-inverse-proportion-equation",
+            "form-direct-proportion-equation"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "form-direct-proportion-equation",
+        "form-inverse-proportion-equation",
+        "solve-direct-proportion-problem",
+        "solve-inverse-proportion-problem"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "solve-direct-proportion-problem",
+        "solve-inverse-proportion-problem"
+      ]
+    },
+    {
+      "pointId": "E2.9",
+      "officialTitle": "Graphs in practical situations",
+      "clauses": [
+        {
+          "clauseId": "E2.9-c1",
+          "officialText": "1 Use and interpret graphs in practical situations \nincluding travel graphs and conversion graphs.",
+          "candidateSkillIds": [
+            "interpret-practical-graphs"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.9-c2",
+          "officialText": "2 Draw graphs from given data.",
+          "candidateSkillIds": [
+            "draw-graph-from-data"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.9-c3",
+          "officialText": "3 Apply the idea of rate of change to simple \nkinematics involving distance–time and \nspeed–time graphs, acceleration and \ndeceleration.",
+          "candidateSkillIds": [
+            "calculate-distance-from-speed-time-graph",
+            "calculate-acceleration-from-speed-time-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E2.9-c4",
+          "officialText": "4 Calculate distance travelled as area under a \nspeed–time graph.",
+          "candidateSkillIds": [
+            "calculate-distance-from-speed-time-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-practical-graphs",
+        "interpret-gradient-as-rate-of-change",
+        "draw-graph-from-data",
+        "interpret-distance-time-graph",
+        "draw-distance-time-graph",
+        "interpret-speed-time-graph",
+        "draw-speed-time-graph",
+        "calculate-distance-from-speed-time-graph",
+        "calculate-acceleration-from-speed-time-graph"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "draw-distance-time-graph",
+        "draw-speed-time-graph",
+        "interpret-distance-time-graph",
+        "interpret-gradient-as-rate-of-change",
+        "interpret-speed-time-graph"
+      ]
+    },
+    {
+      "pointId": "E2.10",
+      "officialTitle": "Graphs of functions",
+      "clauses": [
+        {
+          "clauseId": "E2.10-c1",
+          "officialText": "1 Construct tables of values, and draw, recognise \nand interpret graphs for functions of the following \nforms:\n• \naxn (includes sums of no more than three of \nthese)\n• \nabx + c\n where n = –2, –1,",
+          "candidateSkillIds": [
+            "draw-exponential-growth-graph",
+            "draw-exponential-decay-graph",
+            "construct-table-of-values"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E2.10-c2",
+          "officialText": "2",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.10-c3",
+          "officialText": "1\n−, 0, 2",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.10-c4",
+          "officialText": "1 , 1, 2, 3; a and c are \n rational numbers; and b is a positive integer.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.10-c5",
+          "officialText": "2 Solve associated equations graphically, including \nfinding and interpreting roots by graphical \nmethods.",
+          "candidateSkillIds": [
+            "solve-equations-graphically"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.10-c6",
+          "officialText": "3 Draw and interpret graphs representing \nexponential growth and decay problems.",
+          "candidateSkillIds": [
+            "draw-exponential-growth-graph",
+            "draw-exponential-decay-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "construct-table-of-values",
+        "plot-graph-of-function",
+        "interpret-graph-of-function",
+        "solve-equations-graphically",
+        "interpret-roots-from-graph",
+        "draw-exponential-growth-graph",
+        "draw-exponential-decay-graph"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "interpret-graph-of-function",
+        "interpret-roots-from-graph",
+        "plot-graph-of-function"
+      ]
+    },
+    {
+      "pointId": "E2.11",
+      "officialTitle": "Sketching curves",
+      "clauses": [
+        {
+          "clauseId": "E2.11-c1",
+          "officialText": "Recognise, sketch and interpret graphs of the \nfollowing functions:\n(a) linear\n(b) quadratic\n(c) cubic\n(d) reciprocal\n(e) exponential.\nFunctions will be equivalent to:\n• ax + by = c\n• y = ax2 + bx + c\n• y = ax3 + b\n• y = ax3 + bx2 + cx\n• y\nx\na\nb\n=\n+\n \ny = arx + b\nwhere a, b and c are rational numbers and r is a \nrational, positive number.",
+          "candidateSkillIds": [
+            "sketch-reciprocal-function",
+            "sketch-quadratic-function",
+            "sketch-linear-function",
+            "sketch-cubic-function"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "sketch-linear-function",
+        "sketch-quadratic-function",
+        "sketch-cubic-function",
+        "sketch-reciprocal-function"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E2.12",
+      "officialTitle": "Differentiation",
+      "clauses": [
+        {
+          "clauseId": "E2.12-c1",
+          "officialText": "1 Estimate gradients of curves by drawing \ntangents.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.12-c2",
+          "officialText": "2 Use the derivatives of functions of the form axn, \nwhere a is a rational constant and n is a positive \ninteger or zero, and simple sums of not more \nthan three of these.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E2.12-c3",
+          "officialText": "3 Apply differentiation to gradients and stationary \npoints (turning points).",
+          "candidateSkillIds": [
+            "find-stationary-point",
+            "classify-stationary-point"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E2.12-c4",
+          "officialText": "4 Discriminate between maxima and minima by \nany method.\nd\nd\nx\ny notation will be expected.\nMaximum and minimum points may be identified by:\n• an accurate sketch\n• use of the second differential\n• inspecting the gradient either side of a turning \npoint.",
+          "candidateSkillIds": [
+            "find-stationary-point",
+            "find-gradient-using-derivative",
+            "classify-stationary-point"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "differentiate-power-function",
+        "find-gradient-using-derivative",
+        "find-stationary-point",
+        "classify-stationary-point"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "differentiate-power-function"
+      ]
+    },
+    {
+      "pointId": "E2.13",
+      "officialTitle": "Functions",
+      "clauses": [
+        {
+          "clauseId": "E2.13-c1",
+          "officialText": "1 Understand functions, domain and range and \nuse function notation.",
+          "candidateSkillIds": [
+            "use-function-notation"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E2.13-c2",
+          "officialText": "2 Understand and find inverse functions f –1(x).",
+          "candidateSkillIds": [
+            "find-inverse-function"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E2.13-c3",
+          "officialText": "3 Form composite functions as defined by \ngf(x) = g(f(x)).",
+          "candidateSkillIds": [
+            "form-composite-function"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "use-function-notation",
+        "evaluate-function",
+        "find-inverse-function",
+        "form-composite-function",
+        "evaluate-composite-function"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "evaluate-composite-function",
+        "evaluate-function"
+      ]
+    },
+    {
+      "pointId": "E3.1",
+      "officialTitle": "Coordinates",
+      "clauses": [
+        {
+          "clauseId": "E3.1-c1",
+          "officialText": "Use and interpret Cartesian coordinates in two \ndimensions.",
+          "candidateSkillIds": [
+            "read-cartesian-coordinates",
+            "plot-cartesian-coordinates"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "read-cartesian-coordinates",
+        "plot-cartesian-coordinates"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E3.2",
+      "officialTitle": "Drawing linear graphs",
+      "clauses": [
+        {
+          "clauseId": "E3.2-c1",
+          "officialText": "Draw straight-line graphs for linear equations.",
+          "candidateSkillIds": [
+            "draw-linear-graph-from-equation"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "draw-linear-graph-from-equation"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E3.3",
+      "officialTitle": "Gradient of linear graphs",
+      "clauses": [
+        {
+          "clauseId": "E3.3-c1",
+          "officialText": "1 Find the gradient of a straight line.",
+          "candidateSkillIds": [
+            "calculate-gradient-from-two-points",
+            "calculate-gradient-from-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E3.3-c2",
+          "officialText": "2 Calculate the gradient of a straight line from the \ncoordinates of two points on it.",
+          "candidateSkillIds": [
+            "calculate-gradient-from-two-points"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-gradient-from-graph",
+        "calculate-gradient-from-two-points"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E3.4",
+      "officialTitle": "Length and midpoint",
+      "clauses": [
+        {
+          "clauseId": "E3.4-c1",
+          "officialText": "1 Calculate the length of a line segment.",
+          "candidateSkillIds": [
+            "calculate-midpoint-of-line-segment"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E3.4-c2",
+          "officialText": "2 Find the coordinates of the midpoint of a line \nsegment.",
+          "candidateSkillIds": [
+            "calculate-midpoint-of-line-segment"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-distance-between-two-points",
+        "calculate-midpoint-of-line-segment"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-distance-between-two-points"
+      ]
+    },
+    {
+      "pointId": "E3.5",
+      "officialTitle": "Equations of linear graphs",
+      "clauses": [
+        {
+          "clauseId": "E3.5-c1",
+          "officialText": "Interpret and obtain the equation of a straight-line \ngraph.\nQuestions may:",
+          "candidateSkillIds": [
+            "find-equation-of-line-from-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E3.5-c2",
+          "officialText": "• use and request lines in different forms, e.g.\nax + by = c\ny = mx + c\nx = k",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E3.5-c3",
+          "officialText": "• ask for the gradient or y-intercept of a graph \nfrom an equation, e.g. find the gradient and \ny-intercept of the graph with equation \n5x + 4y = 8.",
+          "candidateSkillIds": [
+            "interpret-gradient-intercept-form",
+            "find-equation-of-line-from-point-and-gradient",
+            "find-equation-of-line-from-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-gradient-intercept-form",
+        "find-equation-of-line-from-graph",
+        "find-equation-of-line-from-two-points",
+        "find-equation-of-line-from-point-and-gradient"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "find-equation-of-line-from-two-points"
+      ]
+    },
+    {
+      "pointId": "E3.6",
+      "officialTitle": "Parallel lines",
+      "clauses": [
+        {
+          "clauseId": "E3.6-c1",
+          "officialText": "Find the gradient and equation of a straight line \nparallel to a given line.\ne.g. find the equation of the line parallel to \ny = 4x – 1 that passes through (1, –3).",
+          "candidateSkillIds": [
+            "use-equal-gradients-for-parallel-lines",
+            "identify-parallel-lines"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "identify-parallel-lines",
+        "use-equal-gradients-for-parallel-lines"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E3.7",
+      "officialTitle": "Perpendicular lines",
+      "clauses": [
+        {
+          "clauseId": "E3.7-c1",
+          "officialText": "Find the gradient and equation of a straight line \nperpendicular to a given line.",
+          "candidateSkillIds": [
+            "identify-perpendicular-lines"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "identify-perpendicular-lines",
+        "use-negative-reciprocal-gradients"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "use-negative-reciprocal-gradients"
+      ]
+    },
+    {
+      "pointId": "E4.1",
+      "officialTitle": "Geometrical terms",
+      "clauses": [
+        {
+          "clauseId": "E4.1-c1",
+          "officialText": "1 Use and interpret the following geometrical \nterms: \n• \npoint\n• \nvertex\n• \nline\n• \nplane\n• \nparallel\n• \nperpendicular\n• \nperpendicular bisector\n• \nbearing\n• \nright angle\n• \nacute, obtuse and reflex angles\n• \ninterior and exterior angles\n• \nsimilar\n• \ncongruent\n• \nscale factor.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E4.1-c2",
+          "officialText": "2 Use and interpret the vocabulary of:\n• \ntriangles\n• \nspecial quadrilaterals\n• \npolygons\n• \nnets\n• \nsolids.",
+          "candidateSkillIds": [
+            "use-geometric-vocabulary",
+            "classify-triangles",
+            "classify-quadrilaterals"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E4.1-c3",
+          "officialText": "3 Use and interpret the vocabulary of a circle.\nPolygons: \n• regular and irregular polygons\n• pentagon\n• hexagon\n• octagon\n• decagon. \nSolids: \n• \ncube\n• \ncuboid\n• \nprism\n• \ncylinder\n• \npyramid\n• \ncone\n• \nsphere\n• \nhemisphere\n• \nfrustum\n• \nface\n• \nsurface\n• \nedge.",
+          "candidateSkillIds": [
+            "use-geometric-vocabulary"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "use-geometric-vocabulary",
+        "classify-triangles",
+        "classify-quadrilaterals",
+        "identify-lines-of-symmetry",
+        "identify-rotational-symmetry"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "identify-lines-of-symmetry",
+        "identify-rotational-symmetry"
+      ]
+    },
+    {
+      "pointId": "E4.2",
+      "officialTitle": "Geometrical constructions",
+      "clauses": [
+        {
+          "clauseId": "E4.2-c1",
+          "officialText": "1 Measure and draw lines and angles.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E4.2-c2",
+          "officialText": "2 Construct a triangle, given the lengths of all \nsides, using a ruler and pair of compasses only.",
+          "candidateSkillIds": [
+            "construct-triangle-with-ruler-and-compasses"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E4.2-c3",
+          "officialText": "3 Draw, use and interpret nets.\nA ruler should be used for all straight edges.\nConstructions of perpendicular bisectors and angle \nbisectors are not required. \ne.g. construct a rhombus by drawing two triangles. \nConstruction arcs must be shown.",
+          "candidateSkillIds": [
+            "construct-triangle-with-ruler-and-compasses",
+            "construct-perpendicular-line",
+            "construct-perpendicular-bisector",
+            "construct-angle-bisector"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "construct-triangle-with-ruler-and-compasses",
+        "construct-perpendicular-bisector",
+        "construct-angle-bisector",
+        "construct-perpendicular-line",
+        "construct-locus"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "construct-locus"
+      ]
+    },
+    {
+      "pointId": "E4.3",
+      "officialTitle": "Scale drawings",
+      "clauses": [
+        {
+          "clauseId": "E4.3-c1",
+          "officialText": "1 Draw and interpret scale drawings.",
+          "candidateSkillIds": [
+            "interpret-scale-drawing",
+            "construct-scale-drawing",
+            "calculate-actual-length-from-scale"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E4.3-c2",
+          "officialText": "2 Use and interpret three-figure bearings.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-scale-drawing",
+        "construct-scale-drawing",
+        "calculate-actual-length-from-scale"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E4.4",
+      "officialTitle": "Similarity",
+      "clauses": [
+        {
+          "clauseId": "E4.4-c1",
+          "officialText": "1 Calculate lengths of similar shapes.",
+          "candidateSkillIds": [
+            "calculate-missing-lengths-in-similar-shapes"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E4.4-c2",
+          "officialText": "2 Use the relationships between lengths and areas \nof similar shapes and lengths, surface areas and \nvolumes of similar solids.",
+          "candidateSkillIds": [
+            "calculate-missing-lengths-in-similar-shapes"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E4.4-c3",
+          "officialText": "3 Solve problems and give simple explanations \ninvolving similarity.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "identify-similar-shapes",
+        "calculate-missing-lengths-in-similar-shapes",
+        "prove-shapes-similar",
+        "identify-congruent-shapes",
+        "prove-triangles-congruent",
+        "calculate-area-scale-factor",
+        "calculate-volume-scale-factor"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-area-scale-factor",
+        "calculate-volume-scale-factor",
+        "identify-congruent-shapes",
+        "identify-similar-shapes",
+        "prove-shapes-similar",
+        "prove-triangles-congruent"
+      ]
+    },
+    {
+      "pointId": "E4.5",
+      "officialTitle": "Symmetry",
+      "clauses": [
+        {
+          "clauseId": "E4.5-c1",
+          "officialText": "1 Recognise line symmetry and order of rotational \nsymmetry in two dimensions.",
+          "candidateSkillIds": [
+            "identify-order-of-rotational-symmetry"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E4.5-c2",
+          "officialText": "2 Recognise symmetry properties of prisms, \ncylinders, pyramids and cones.",
+          "candidateSkillIds": [
+            "use-symmetry-properties-of-circle"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "identify-line-symmetry",
+        "identify-order-of-rotational-symmetry",
+        "use-symmetry-properties-of-circle"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "identify-line-symmetry"
+      ]
+    },
+    {
+      "pointId": "E4.6",
+      "officialTitle": "Angles",
+      "clauses": [
+        {
+          "clauseId": "E4.6-c1",
+          "officialText": "1 Calculate unknown angles and give simple \nexplanations using the following geometrical \nproperties:\n• sum of angles at a point = 360°\n• sum of angles at a point on a straight line = 180°\n• vertically opposite angles are equal\n• angle sum of a triangle = 180° and angle sum \nof a quadrilateral = 360°.",
+          "candidateSkillIds": [
+            "apply-vertically-opposite-angles",
+            "apply-angles-on-a-straight-line",
+            "apply-angle-sum-of-triangle",
+            "apply-angle-sum-of-quadrilateral"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E4.6-c2",
+          "officialText": "2 Calculate unknown angles and give geometric \nexplanations for angles formed within parallel lines:\n• corresponding angles are equal\n• alternate angles are equal \n• co-interior angles sum to 180° (supplementary).",
+          "candidateSkillIds": [
+            "apply-corresponding-angles",
+            "apply-alternate-angles"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E4.6-c3",
+          "officialText": "3 Know and use angle properties of regular and \nirregular polygons.",
+          "candidateSkillIds": [
+            "calculate-interior-angle-of-regular-polygon",
+            "calculate-interior-angle-of-irregular-polygon",
+            "calculate-exterior-angle-of-regular-polygon"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-three-letter-angle-notation",
+        "apply-angles-around-a-point",
+        "apply-angles-on-a-straight-line",
+        "apply-vertically-opposite-angles",
+        "apply-angle-sum-of-triangle",
+        "apply-angle-sum-of-quadrilateral",
+        "apply-corresponding-angles",
+        "apply-alternate-angles",
+        "apply-cointerior-angles",
+        "calculate-interior-angle-of-regular-polygon",
+        "calculate-exterior-angle-of-regular-polygon",
+        "calculate-angle-sum-of-polygon",
+        "calculate-interior-angle-of-irregular-polygon"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-angles-around-a-point",
+        "apply-cointerior-angles",
+        "calculate-angle-sum-of-polygon",
+        "interpret-three-letter-angle-notation"
+      ]
+    },
+    {
+      "pointId": "E4.7",
+      "officialTitle": "Circle theorems I",
+      "clauses": [
+        {
+          "clauseId": "E4.7-c1",
+          "officialText": "Calculate unknown angles and give explanations \nusing the following geometrical properties of circles:\n• angle in a semicircle = 90°\n• angle between tangent and radius = 90°\n• angle at the centre is twice the angle at the \ncircumference\n• angles in the same segment are equal\n• opposite angles of a cyclic quadrilateral sum to \n180° (supplementary)\n• alternate segment theorem.",
+          "candidateSkillIds": [
+            "apply-same-segment-angle-theorem",
+            "apply-centre-circumference-angle-theorem"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        }
+      ],
+      "currentSkillIds": [
+        "apply-angle-in-semicircle-theorem",
+        "apply-tangent-radius-angle-property",
+        "apply-centre-circumference-angle-theorem",
+        "apply-same-segment-angle-theorem",
+        "apply-cyclic-quadrilateral-angle-property",
+        "apply-alternate-segment-theorem"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-alternate-segment-theorem",
+        "apply-angle-in-semicircle-theorem",
+        "apply-cyclic-quadrilateral-angle-property",
+        "apply-tangent-radius-angle-property"
+      ]
+    },
+    {
+      "pointId": "E4.8",
+      "officialTitle": "Circle theorems II",
+      "clauses": [
+        {
+          "clauseId": "E4.8-c1",
+          "officialText": "Use the following symmetry properties of circles:\n• equal chords are equidistant from the centre\n• the perpendicular bisector of a chord passes \nthrough the centre\n• tangents from an external point are equal in \nlength.",
+          "candidateSkillIds": [
+            "apply-tangent-chord-theorem",
+            "apply-intersecting-chords-theorem"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "apply-tangent-chord-theorem",
+        "apply-intersecting-chords-theorem",
+        "apply-secant-tangent-theorem"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "apply-secant-tangent-theorem"
+      ]
+    },
+    {
+      "pointId": "E5.1",
+      "officialTitle": "Units of measure",
+      "clauses": [
+        {
+          "clauseId": "E5.1-c1",
+          "officialText": "Use metric units of mass, length, area, volume \nand capacity in practical situations and convert \nquantities into larger or smaller units.\nUnits include: \n• mm, cm, m, km\n• mm2, cm2, m2, km2\n• mm3, cm3, m3\n• ml, l\n• g, kg.\nConversion between units includes: \n• between different units of area, e.g. cm2 ↔ m2\n• between units of volume and capacity, \ne.g. m3 ↔ litres.",
+          "candidateSkillIds": [
+            "convert-metric-units-of-volume",
+            "convert-metric-units-of-length",
+            "convert-metric-units-of-area"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        }
+      ],
+      "currentSkillIds": [
+        "convert-metric-units-of-length",
+        "convert-metric-units-of-area",
+        "convert-metric-units-of-volume"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E5.2",
+      "officialTitle": "Area and perimeter",
+      "clauses": [
+        {
+          "clauseId": "E5.2-c1",
+          "officialText": "Carry out calculations involving the perimeter and \narea of a rectangle, triangle, parallelogram and \ntrapezium. \nExcept for the area of a triangle, formulas are not \ngiven.",
+          "candidateSkillIds": [
+            "calculate-area-of-triangle",
+            "calculate-area-of-trapezium",
+            "calculate-area-of-rectangle",
+            "calculate-area-of-parallelogram"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-perimeter-of-polygon",
+        "calculate-area-of-rectangle",
+        "calculate-area-of-triangle",
+        "calculate-area-of-parallelogram",
+        "calculate-area-of-trapezium",
+        "calculate-area-of-kite",
+        "calculate-area-of-rhombus"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-area-of-kite",
+        "calculate-area-of-rhombus",
+        "calculate-perimeter-of-polygon"
+      ]
+    },
+    {
+      "pointId": "E5.3",
+      "officialTitle": "Circles, arcs and sectors",
+      "clauses": [
+        {
+          "clauseId": "E5.3-c1",
+          "officialText": "1 Carry out calculations involving the \ncircumference and area of a circle.",
+          "candidateSkillIds": [
+            "calculate-circumference-of-circle",
+            "calculate-area-of-circle"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E5.3-c2",
+          "officialText": "2 Carry out calculations involving arc length and \nsector area as fractions of the circumference and \narea of a circle.\nAnswers may be asked for in terms of π.\nFormulas are given in the List of formulas.",
+          "candidateSkillIds": [
+            "calculate-sector-area",
+            "calculate-circumference-of-circle",
+            "calculate-area-of-circle",
+            "calculate-arc-length"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-circumference-of-circle",
+        "calculate-area-of-circle",
+        "calculate-arc-length",
+        "calculate-sector-area"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E5.4",
+      "officialTitle": "Surface area and volume",
+      "clauses": [
+        {
+          "clauseId": "E5.4-c1",
+          "officialText": "Carry out calculations and solve problems involving \nthe surface area and volume of a:",
+          "candidateSkillIds": [
+            "calculate-surface-area-of-sphere",
+            "calculate-surface-area-of-pyramid",
+            "calculate-surface-area-of-prism",
+            "calculate-surface-area-of-cylinder",
+            "calculate-surface-area-of-cone"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E5.4-c2",
+          "officialText": "• cone.\nAnswers may be asked for in terms of π.\nThe following formulas are given in the List of \nformulas:",
+          "candidateSkillIds": [
+            "calculate-volume-of-cone",
+            "calculate-surface-area-of-cone"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-surface-area-of-prism",
+        "calculate-volume-of-prism",
+        "calculate-surface-area-of-cylinder",
+        "calculate-volume-of-cylinder",
+        "calculate-volume-of-pyramid",
+        "calculate-surface-area-of-pyramid",
+        "calculate-volume-of-cone",
+        "calculate-surface-area-of-cone",
+        "calculate-volume-of-sphere",
+        "calculate-surface-area-of-sphere"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-volume-of-cylinder",
+        "calculate-volume-of-prism",
+        "calculate-volume-of-pyramid",
+        "calculate-volume-of-sphere"
+      ]
+    },
+    {
+      "pointId": "E5.5",
+      "officialTitle": "Compound shapes and parts of shapes",
+      "clauses": [
+        {
+          "clauseId": "E5.5-c1",
+          "officialText": "1 Carry out calculations and solve problems \ninvolving perimeters and areas of:\n• \ncompound shapes\n• \nparts of shapes.",
+          "candidateSkillIds": [
+            "calculate-volume-of-compound-solid",
+            "calculate-surface-area-of-compound-solid",
+            "calculate-perimeter-of-compound-shape",
+            "calculate-area-of-compound-shape"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E5.5-c2",
+          "officialText": "2 Carry out calculations and solve problems \ninvolving surface areas and volumes of: \n• \ncompound solids\n• \nparts of solids.\nAnswers may be asked for in terms of π. \ne.g. find the surface area and volume of a frustum.",
+          "candidateSkillIds": [
+            "calculate-surface-area-of-compound-solid"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-area-of-compound-shape",
+        "calculate-perimeter-of-compound-shape",
+        "calculate-volume-of-compound-solid",
+        "calculate-surface-area-of-compound-solid",
+        "calculate-similar-area-ratio",
+        "calculate-similar-volume-ratio"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-similar-area-ratio",
+        "calculate-similar-volume-ratio"
+      ]
+    },
+    {
+      "pointId": "E6.1",
+      "officialTitle": "Pythagoras’ theorem",
+      "clauses": [
+        {
+          "clauseId": "E6.1-c1",
+          "officialText": "Know and use Pythagoras’ theorem.",
+          "candidateSkillIds": [
+            "apply-pythagoras-theorem"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "apply-pythagoras-theorem",
+        "find-missing-side-using-pythagoras"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "find-missing-side-using-pythagoras"
+      ]
+    },
+    {
+      "pointId": "E6.2",
+      "officialTitle": "Right-angled triangles",
+      "clauses": [
+        {
+          "clauseId": "E6.2-c1",
+          "officialText": "1 Know and use the sine, cosine and tangent \nratios for acute angles in calculations involving \nsides and angles of a right-angled triangle.",
+          "candidateSkillIds": [
+            "find-side-in-right-triangle",
+            "find-angle-in-right-triangle"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E6.2-c2",
+          "officialText": "2 Solve problems in two dimensions using \nPythagoras’ theorem and trigonometry.",
+          "candidateSkillIds": [
+            "solve-bearing-with-trigonometry"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E6.2-c3",
+          "officialText": "3 Know that the perpendicular distance from a \npoint to a line is the shortest distance to the line.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E6.2-c4",
+          "officialText": "4 Carry out calculations involving angles of \nelevation and depression.",
+          "candidateSkillIds": [
+            "solve-angle-of-elevation",
+            "solve-angle-of-depression"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "use-sine-ratio",
+        "use-cosine-ratio",
+        "use-tangent-ratio",
+        "find-side-in-right-triangle",
+        "find-angle-in-right-triangle",
+        "solve-angle-of-elevation",
+        "solve-angle-of-depression",
+        "solve-bearing-with-trigonometry"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "use-cosine-ratio",
+        "use-sine-ratio",
+        "use-tangent-ratio"
+      ]
+    },
+    {
+      "pointId": "E6.3",
+      "officialTitle": "Exact trigonometric values",
+      "clauses": [
+        {
+          "clauseId": "E6.3-c1",
+          "officialText": "Know the exact values of:",
+          "candidateSkillIds": [
+            "recall-exact-tangent-values",
+            "recall-exact-sine-values",
+            "recall-exact-cosine-values"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E6.3-c2",
+          "officialText": "1 sin x and cos x for x = 0°, 30°, 45°, 60° and 90°.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E6.3-c3",
+          "officialText": "2 tan x for x = 0°, 30°, 45° and 60°.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "recall-exact-sine-values",
+        "recall-exact-cosine-values",
+        "recall-exact-tangent-values"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E6.4",
+      "officialTitle": "Trigonometric functions",
+      "clauses": [
+        {
+          "clauseId": "E6.4-c1",
+          "officialText": "1 Recognise, sketch and interpret the following \ngraphs for 0° ⩽ x ⩽ 360°:\n• \ny = sin x\n• \ny = cos x \n• \ny = tan x.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E6.4-c2",
+          "officialText": "2 Solve trigonometric equations involving sin x, \ncos x or tan x, for 0° ⩽ x ⩽ 360°.\ne.g. solve:\n• sin x = 2",
+          "candidateSkillIds": [
+            "solve-trigonometric-equation-from-graph",
+            "interpret-trigonometric-function-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E6.4-c3",
+          "officialText": "3 for 0° ⩽ x ⩽ 360°\n• 2 cos x + 1 = 0 for 0° ⩽ x ⩽ 360°.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-trigonometric-function-graph",
+        "solve-trigonometric-equation-from-graph"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E6.5",
+      "officialTitle": "Non-right-angled triangles",
+      "clauses": [
+        {
+          "clauseId": "E6.5-c1",
+          "officialText": "1 Use the sine and cosine rules in calculations \ninvolving lengths and angles for any triangle.",
+          "candidateSkillIds": [
+            "calculate-triangle-area-using-sine"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E6.5-c2",
+          "officialText": "2 Use the formula \narea of triangle = 2",
+          "candidateSkillIds": [
+            "calculate-triangle-area-using-sine"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E6.5-c3",
+          "officialText": "1 ab sin C.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        }
+      ],
+      "currentSkillIds": [
+        "use-sine-rule",
+        "use-cosine-rule",
+        "calculate-triangle-area-using-sine",
+        "solve-ambiguous-sine-rule-case"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "solve-ambiguous-sine-rule-case",
+        "use-cosine-rule",
+        "use-sine-rule"
+      ]
+    },
+    {
+      "pointId": "E6.6",
+      "officialTitle": "\u0007Pythagoras’ theorem and trigonometry",
+      "clauses": [
+        {
+          "clauseId": "E6.6-c1",
+          "officialText": "in 3D\nCarry out calculations and solve problems in \nthree dimensions using Pythagoras’ theorem \nand trigonometry, including calculating the angle \nbetween a line and a plane.",
+          "candidateSkillIds": [
+            "solve-three-dimensional-trigonometry-problem",
+            "solve-three-dimensional-pythagoras-problem"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "solve-three-dimensional-pythagoras-problem",
+        "solve-three-dimensional-trigonometry-problem"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E7.1",
+      "officialTitle": "Transformations",
+      "clauses": [
+        {
+          "clauseId": "E7.1-c1",
+          "officialText": "Recognise, describe and draw the following \ntransformations:",
+          "candidateSkillIds": [
+            "describe-translation",
+            "describe-rotation",
+            "describe-reflection",
+            "describe-enlargement"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E7.1-c2",
+          "officialText": "1 Reflection of a shape in a straight line.",
+          "candidateSkillIds": [
+            "translate-shape",
+            "rotate-shape",
+            "reflect-shape",
+            "enlarge-shape-with-negative-scale-factor",
+            "enlarge-shape-with-fractional-scale-factor",
+            "enlarge-shape",
+            "describe-reflection"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E7.1-c3",
+          "officialText": "2 Rotation of a shape about a centre through \nmultiples of 90°.",
+          "candidateSkillIds": [
+            "translate-shape",
+            "rotate-shape",
+            "reflect-shape",
+            "enlarge-shape-with-negative-scale-factor",
+            "enlarge-shape-with-fractional-scale-factor",
+            "enlarge-shape",
+            "describe-rotation"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E7.1-c4",
+          "officialText": "3 Enlargement of a shape from a centre by a scale \nfactor.",
+          "candidateSkillIds": [
+            "enlarge-shape-with-negative-scale-factor",
+            "enlarge-shape-with-fractional-scale-factor"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E7.1-c5",
+          "officialText": "4 Translation of a shape by a vector x\ny\nJ\nL\nKK\nN\nP\nOO. \nQuestions may involve combinations of \ntransformations. A ruler must be used for all straight \nedges.\nPositive, fractional and negative scale factors may \nbe used.",
+          "candidateSkillIds": [
+            "enlarge-shape-with-negative-scale-factor",
+            "enlarge-shape-with-fractional-scale-factor"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "reflect-shape",
+        "rotate-shape",
+        "translate-shape",
+        "enlarge-shape",
+        "describe-reflection",
+        "describe-rotation",
+        "describe-translation",
+        "describe-enlargement",
+        "enlarge-shape-with-negative-scale-factor",
+        "enlarge-shape-with-fractional-scale-factor"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E7.2",
+      "officialTitle": "Vectors in two dimensions",
+      "clauses": [
+        {
+          "clauseId": "E7.2-c1",
+          "officialText": "1 Describe a translation using a vector represented \n by x\ny\nJ\nL\nKK\nN\nP\nOO, AB or a.",
+          "candidateSkillIds": [
+            "represent-vector-in-column-form",
+            "multiply-vector-by-scalar"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E7.2-c2",
+          "officialText": "2 Add and subtract vectors.",
+          "candidateSkillIds": [
+            "subtract-vectors",
+            "add-vectors"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E7.2-c3",
+          "officialText": "3 Multiply a vector by a scalar.\nVectors will be printed as AB or a.",
+          "candidateSkillIds": [
+            "multiply-vector-by-scalar"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "represent-vector-in-column-form",
+        "add-vectors",
+        "subtract-vectors",
+        "multiply-vector-by-scalar",
+        "use-position-vectors"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "use-position-vectors"
+      ]
+    },
+    {
+      "pointId": "E7.3",
+      "officialTitle": "Magnitude of a vector",
+      "clauses": [
+        {
+          "clauseId": "E7.3-c1",
+          "officialText": "Calculate the magnitude of a vector x\ny\nJ\nL\nKK\nN\nP\nOO as \nx\ny",
+          "candidateSkillIds": [
+            "calculate-vector-magnitude"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E7.3-c2",
+          "officialText": "2",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E7.3-c3",
+          "officialText": "2\n+\n .\nThe magnitudes of vectors will be denoted by \nmodulus signs, e.g.\n• a is the magnitude of a\n• AB is the magnitude of AB.",
+          "candidateSkillIds": [
+            "calculate-vector-magnitude"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-vector-magnitude"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E7.4",
+      "officialTitle": "Vector geometry",
+      "clauses": [
+        {
+          "clauseId": "E7.4-c1",
+          "officialText": "1 Represent vectors by directed line segments.",
+          "candidateSkillIds": [
+            "prove-parallel-lines-using-vectors",
+            "prove-collinearity-using-vectors"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E7.4-c2",
+          "officialText": "2 Use position vectors.",
+          "candidateSkillIds": [
+            "prove-parallel-lines-using-vectors",
+            "prove-collinearity-using-vectors"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E7.4-c3",
+          "officialText": "3 Use the sum and difference of two or more \nvectors to express given vectors in terms of two \ncoplanar vectors.",
+          "candidateSkillIds": [
+            "prove-parallel-lines-using-vectors",
+            "prove-collinearity-using-vectors"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E7.4-c4",
+          "officialText": "4 Use vectors to reason and to solve geometric \nproblems.",
+          "candidateSkillIds": [
+            "prove-parallel-lines-using-vectors",
+            "prove-collinearity-using-vectors"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "solve-vector-geometry-problem",
+        "prove-collinearity-using-vectors",
+        "prove-parallel-lines-using-vectors"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "solve-vector-geometry-problem"
+      ]
+    },
+    {
+      "pointId": "E8.1",
+      "officialTitle": "Introduction to probability",
+      "clauses": [
+        {
+          "clauseId": "E8.1-c1",
+          "officialText": "1 Understand and use the probability scale from",
+          "candidateSkillIds": [
+            "use-probability-scale"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E8.1-c2",
+          "officialText": "0 to 1.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E8.1-c3",
+          "officialText": "2 Understand and use probability notation.",
+          "candidateSkillIds": [
+            "use-probability-scale",
+            "calculate-single-event-probability",
+            "calculate-complementary-probability"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E8.1-c4",
+          "officialText": "3 Calculate the probability of a single event.",
+          "candidateSkillIds": [
+            "calculate-single-event-probability"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E8.1-c5",
+          "officialText": "4 Understand that the probability of an event \nnot occurring = 1 – the probability of the event \noccurring.\nP(A) is the probability of A\nP(A′) is the probability of not A",
+          "candidateSkillIds": [
+            "calculate-single-event-probability"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-single-event-probability",
+        "use-probability-scale",
+        "identify-impossible-event",
+        "identify-certain-event",
+        "calculate-complementary-probability"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "identify-certain-event",
+        "identify-impossible-event"
+      ]
+    },
+    {
+      "pointId": "E8.2",
+      "officialTitle": "Relative and expected frequencies",
+      "clauses": [
+        {
+          "clauseId": "E8.2-c1",
+          "officialText": "1 Understand relative frequency as an estimate of \nprobability.",
+          "candidateSkillIds": [
+            "compare-relative-frequency-with-theoretical-probability"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E8.2-c2",
+          "officialText": "2 Calculate expected frequencies.\ne.g. use results of experiments with a spinner to \nestimate the probability of a given outcome.\ne.g. use probability to estimate an expected value \nfrom a population.",
+          "candidateSkillIds": [
+            "compare-relative-frequency-with-theoretical-probability",
+            "calculate-expected-frequency"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-relative-frequency",
+        "calculate-expected-frequency",
+        "compare-relative-frequency-with-theoretical-probability"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-relative-frequency"
+      ]
+    },
+    {
+      "pointId": "E8.3",
+      "officialTitle": "Probability of combined events",
+      "clauses": [
+        {
+          "clauseId": "E8.3-c1",
+          "officialText": "Calculate the probability of combined events using, \nwhere appropriate:\n• sample space diagrams\n• Venn diagrams\n• tree diagrams.",
+          "candidateSkillIds": [
+            "calculate-probability-of-combined-events"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-probability-of-combined-events",
+        "construct-sample-space-diagram",
+        "calculate-probability-of-mutually-exclusive-events",
+        "calculate-probability-of-independent-events",
+        "construct-probability-tree-diagram",
+        "calculate-probability-using-venn-diagram",
+        "use-set-notation-in-probability"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-probability-of-independent-events",
+        "calculate-probability-of-mutually-exclusive-events",
+        "calculate-probability-using-venn-diagram",
+        "construct-probability-tree-diagram",
+        "construct-sample-space-diagram",
+        "use-set-notation-in-probability"
+      ]
+    },
+    {
+      "pointId": "E8.4",
+      "officialTitle": "Conditional probability",
+      "clauses": [
+        {
+          "clauseId": "E8.4-c1",
+          "officialText": "Calculate conditional probability using Venn \ndiagrams, tree diagrams and tables.",
+          "candidateSkillIds": [
+            "apply-conditional-probability-to-tree-diagram"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-conditional-probability",
+        "apply-conditional-probability-to-tree-diagram"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-conditional-probability"
+      ]
+    },
+    {
+      "pointId": "E9.1",
+      "officialTitle": "Classifying statistical data",
+      "clauses": [
+        {
+          "clauseId": "E9.1-c1",
+          "officialText": "Classify and tabulate statistical data.\ne.g. tally tables, two-way tables.",
+          "candidateSkillIds": [
+            "classify-discrete-data",
+            "classify-continuous-data",
+            "classify-categorical-data"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "classify-categorical-data",
+        "classify-discrete-data",
+        "classify-continuous-data"
+      ],
+      "skillsWithNoClauseEvidence": []
+    },
+    {
+      "pointId": "E9.2",
+      "officialTitle": "Interpreting statistical data",
+      "clauses": [
+        {
+          "clauseId": "E9.2-c1",
+          "officialText": "1 Read, interpret and draw inferences from tables \nand statistical diagrams.",
+          "candidateSkillIds": [],
+          "machineStatus": "unmapped",
+          "evidenceTokenOverlap": 0
+        },
+        {
+          "clauseId": "E9.2-c2",
+          "officialText": "2 Compare sets of data using tables, graphs and \nstatistical measures.",
+          "candidateSkillIds": [
+            "identify-biased-data-collection"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E9.2-c3",
+          "officialText": "3 Appreciate restrictions on drawing conclusions \nfrom given data.\ne.g. compare averages and measures of spread \nbetween two data sets.",
+          "candidateSkillIds": [
+            "identify-biased-data-collection"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "interpret-frequency-table",
+        "construct-frequency-table",
+        "identify-biased-data-collection",
+        "evaluate-sampling-method",
+        "design-questionnaire",
+        "identify-sampling-bias"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "construct-frequency-table",
+        "design-questionnaire",
+        "evaluate-sampling-method",
+        "identify-sampling-bias",
+        "interpret-frequency-table"
+      ]
+    },
+    {
+      "pointId": "E9.3",
+      "officialTitle": "Averages and measures of spread",
+      "clauses": [
+        {
+          "clauseId": "E9.3-c1",
+          "officialText": "1 Calculate the mean, median, mode, quartiles, \nrange and interquartile range for individual data \nand distinguish between the purposes for which \nthese are used.",
+          "candidateSkillIds": [
+            "calculate-interquartile-range",
+            "calculate-estimated-mean-from-grouped-data"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E9.3-c2",
+          "officialText": "2 Calculate an estimate of the mean for grouped \ndiscrete or grouped continuous data.",
+          "candidateSkillIds": [
+            "calculate-estimated-mean-from-grouped-data"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E9.3-c3",
+          "officialText": "3 Identify the modal class from a grouped \nfrequency distribution.",
+          "candidateSkillIds": [
+            "calculate-estimated-mean-from-grouped-data"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-mean",
+        "calculate-median",
+        "calculate-mode",
+        "calculate-range",
+        "choose-appropriate-average",
+        "calculate-quartiles",
+        "calculate-interquartile-range",
+        "calculate-estimated-mean-from-grouped-data",
+        "compare-distributions-using-averages",
+        "compare-distributions-using-spread"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "calculate-mean",
+        "calculate-median",
+        "calculate-mode",
+        "calculate-quartiles",
+        "calculate-range",
+        "choose-appropriate-average",
+        "compare-distributions-using-averages",
+        "compare-distributions-using-spread"
+      ]
+    },
+    {
+      "pointId": "E9.4",
+      "officialTitle": "Statistical charts and diagrams",
+      "clauses": [
+        {
+          "clauseId": "E9.4-c1",
+          "officialText": "Draw and interpret:\n(a) bar charts\n(b) pie charts\n(c) pictograms\n(d) stem-and-leaf diagrams\n(e) simple frequency distributions.",
+          "candidateSkillIds": [
+            "draw-pie-chart",
+            "draw-frequency-polygon",
+            "draw-bar-chart"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "draw-bar-chart",
+        "interpret-bar-chart",
+        "draw-pie-chart",
+        "interpret-pie-chart",
+        "draw-pictogram",
+        "interpret-pictogram",
+        "draw-frequency-polygon",
+        "interpret-frequency-polygon"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "draw-pictogram",
+        "interpret-bar-chart",
+        "interpret-frequency-polygon",
+        "interpret-pictogram",
+        "interpret-pie-chart"
+      ]
+    },
+    {
+      "pointId": "E9.5",
+      "officialTitle": "Scatter diagrams",
+      "clauses": [
+        {
+          "clauseId": "E9.5-c1",
+          "officialText": "1 Draw and interpret scatter diagrams.",
+          "candidateSkillIds": [
+            "draw-scatter-diagram"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        },
+        {
+          "clauseId": "E9.5-c2",
+          "officialText": "2 Understand what is meant by positive, negative \nand zero correlation.",
+          "candidateSkillIds": [
+            "identify-correlation"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E9.5-c3",
+          "officialText": "3 Draw by eye, interpret and use a straight line of \nbest fit.",
+          "candidateSkillIds": [
+            "draw-line-of-best-fit"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        }
+      ],
+      "currentSkillIds": [
+        "draw-scatter-diagram",
+        "identify-correlation",
+        "draw-line-of-best-fit",
+        "use-line-of-best-fit",
+        "identify-unreliable-extrapolation"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "identify-unreliable-extrapolation",
+        "use-line-of-best-fit"
+      ]
+    },
+    {
+      "pointId": "E9.6",
+      "officialTitle": "Cumulative frequency diagrams",
+      "clauses": [
+        {
+          "clauseId": "E9.6-c1",
+          "officialText": "1 Draw and interpret cumulative frequency tables \nand diagrams.",
+          "candidateSkillIds": [
+            "draw-cumulative-frequency-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 3
+        },
+        {
+          "clauseId": "E9.6-c2",
+          "officialText": "2 Estimate and interpret the median, percentiles, \nquartiles and interquartile range from cumulative \nfrequency diagrams.",
+          "candidateSkillIds": [
+            "estimate-quartiles-from-cumulative-frequency-graph",
+            "estimate-median-from-cumulative-frequency-graph"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 4
+        }
+      ],
+      "currentSkillIds": [
+        "draw-cumulative-frequency-graph",
+        "interpret-cumulative-frequency-graph",
+        "estimate-median-from-cumulative-frequency-graph",
+        "estimate-quartiles-from-cumulative-frequency-graph",
+        "draw-box-plot",
+        "interpret-box-plot",
+        "compare-distributions-using-box-plots"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "compare-distributions-using-box-plots",
+        "draw-box-plot",
+        "interpret-box-plot",
+        "interpret-cumulative-frequency-graph"
+      ]
+    },
+    {
+      "pointId": "E9.7",
+      "officialTitle": "Histograms",
+      "clauses": [
+        {
+          "clauseId": "E9.7-c1",
+          "officialText": "1 Draw and interpret histograms.",
+          "candidateSkillIds": [
+            "draw-histogram"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 1
+        },
+        {
+          "clauseId": "E9.7-c2",
+          "officialText": "2 Calculate with frequency density.\nOn histograms, the vertical axis is labelled \n‘Frequency density’. \nFrequency density is defined as \nfrequency density = frequency ÷ class width.",
+          "candidateSkillIds": [
+            "calculate-frequency-density"
+          ],
+          "machineStatus": "candidate-covered",
+          "evidenceTokenOverlap": 2
+        }
+      ],
+      "currentSkillIds": [
+        "calculate-frequency-density",
+        "draw-histogram",
+        "interpret-histogram"
+      ],
+      "skillsWithNoClauseEvidence": [
+        "interpret-histogram"
+      ]
+    }
+  ]
+}

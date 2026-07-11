@@ -11,7 +11,7 @@ APPROVED_ACTIONS = {
     "differentiate", "transform", "measure", "complete", "form", "sketch", "recall",
     "choose", "preserve", "add", "change", "collect", "continue", "design", "divide",
     "enlarge", "enter", "express", "model", "multiply", "rationalise", "reflect",
-    "rotate", "substitute", "subtract", "translate",
+    "rotate", "substitute", "subtract", "translate", "assess", "extract", "list", "relate",
 }
 STOP_WORDS = {"a", "an", "and", "in", "of", "or", "the", "to", "with", "i", "ii"}
 FOOTER_MARKERS = ("back to contents page", "cambridgeinternational.org", "cambridge igcse mathematics 0580 syllabus")

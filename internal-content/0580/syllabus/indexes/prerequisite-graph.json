@@ -37,6 +37,9 @@
   "apply-cointerior-angles": {
     "prerequisiteSkillIds": []
   },
+  "apply-combined-transformations": {
+    "prerequisiteSkillIds": []
+  },
   "apply-conditional-probability-to-tree-diagram": {
     "prerequisiteSkillIds": []
   },
@@ -49,13 +52,25 @@
   "apply-direct-proportion": {
     "prerequisiteSkillIds": []
   },
-  "apply-intersecting-chords-theorem": {
+  "apply-equal-chords-equidistant-from-centre": {
+    "prerequisiteSkillIds": []
+  },
+  "apply-equal-tangents-from-external-point": {
+    "prerequisiteSkillIds": []
+  },
+  "apply-fractional-algebraic-index-laws": {
+    "prerequisiteSkillIds": []
+  },
+  "apply-fractional-index-laws": {
     "prerequisiteSkillIds": []
   },
   "apply-inverse-proportion": {
     "prerequisiteSkillIds": []
   },
   "apply-order-of-operations": {
+    "prerequisiteSkillIds": []
+  },
+  "apply-perpendicular-bisector-of-chord-through-centre": {
     "prerequisiteSkillIds": []
   },
   "apply-power-of-power-rule": {
@@ -76,9 +91,6 @@
   "apply-same-segment-angle-theorem": {
     "prerequisiteSkillIds": []
   },
-  "apply-secant-tangent-theorem": {
-    "prerequisiteSkillIds": []
-  },
   "apply-set-complement": {
     "prerequisiteSkillIds": []
   },
@@ -88,19 +100,25 @@
   "apply-set-union": {
     "prerequisiteSkillIds": []
   },
-  "apply-tangent-chord-theorem": {
-    "prerequisiteSkillIds": []
-  },
   "apply-tangent-radius-angle-property": {
     "prerequisiteSkillIds": []
   },
   "apply-vertically-opposite-angles": {
     "prerequisiteSkillIds": []
   },
+  "assess-fairness-of-experiment": {
+    "prerequisiteSkillIds": []
+  },
+  "assess-randomness-of-outcomes": {
+    "prerequisiteSkillIds": []
+  },
   "calculate-acceleration-from-speed-time-graph": {
     "prerequisiteSkillIds": []
   },
   "calculate-actual-length-from-scale": {
+    "prerequisiteSkillIds": []
+  },
+  "calculate-angle-between-line-and-plane": {
     "prerequisiteSkillIds": []
   },
   "calculate-angle-sum-of-polygon": {
@@ -115,16 +133,13 @@
   "calculate-area-of-compound-shape": {
     "prerequisiteSkillIds": []
   },
-  "calculate-area-of-kite": {
-    "prerequisiteSkillIds": []
-  },
   "calculate-area-of-parallelogram": {
     "prerequisiteSkillIds": []
   },
-  "calculate-area-of-rectangle": {
+  "calculate-area-of-partial-shape": {
     "prerequisiteSkillIds": []
   },
-  "calculate-area-of-rhombus": {
+  "calculate-area-of-rectangle": {
     "prerequisiteSkillIds": []
   },
   "calculate-area-of-trapezium": {
@@ -155,6 +170,12 @@
     "prerequisiteSkillIds": []
   },
   "calculate-conditional-probability": {
+    "prerequisiteSkillIds": []
+  },
+  "calculate-conditional-probability-from-table": {
+    "prerequisiteSkillIds": []
+  },
+  "calculate-conditional-probability-from-venn-diagram": {
     "prerequisiteSkillIds": []
   },
   "calculate-cube-roots": {
@@ -196,6 +217,9 @@
     "prerequisiteSkillIds": [
       "calculate-with-fractions"
     ]
+  },
+  "calculate-fuel-consumption": {
+    "prerequisiteSkillIds": []
   },
   "calculate-gradient-from-graph": {
     "prerequisiteSkillIds": []
@@ -254,6 +278,12 @@
   "calculate-pressure": {
     "prerequisiteSkillIds": []
   },
+  "calculate-probability-from-sample-space": {
+    "prerequisiteSkillIds": []
+  },
+  "calculate-probability-from-tree-diagram": {
+    "prerequisiteSkillIds": []
+  },
   "calculate-probability-of-combined-events": {
     "prerequisiteSkillIds": []
   },
@@ -264,6 +294,12 @@
     "prerequisiteSkillIds": []
   },
   "calculate-probability-using-venn-diagram": {
+    "prerequisiteSkillIds": []
+  },
+  "calculate-probability-with-replacement": {
+    "prerequisiteSkillIds": []
+  },
+  "calculate-probability-without-replacement": {
     "prerequisiteSkillIds": []
   },
   "calculate-profit-and-loss": {
@@ -281,6 +317,9 @@
   "calculate-relative-frequency": {
     "prerequisiteSkillIds": []
   },
+  "calculate-repeated-percentage-change": {
+    "prerequisiteSkillIds": []
+  },
   "calculate-reverse-percentage": {
     "prerequisiteSkillIds": []
   },
@@ -288,12 +327,6 @@
     "prerequisiteSkillIds": []
   },
   "calculate-sector-area": {
-    "prerequisiteSkillIds": []
-  },
-  "calculate-similar-area-ratio": {
-    "prerequisiteSkillIds": []
-  },
-  "calculate-similar-volume-ratio": {
     "prerequisiteSkillIds": []
   },
   "calculate-simple-interest": {
@@ -326,6 +359,9 @@
   "calculate-surface-area-of-sphere": {
     "prerequisiteSkillIds": []
   },
+  "calculate-surface-area-scale-factor": {
+    "prerequisiteSkillIds": []
+  },
   "calculate-time-intervals": {
     "prerequisiteSkillIds": []
   },
@@ -342,6 +378,9 @@
     "prerequisiteSkillIds": []
   },
   "calculate-volume-of-cylinder": {
+    "prerequisiteSkillIds": []
+  },
+  "calculate-volume-of-partial-solid": {
     "prerequisiteSkillIds": []
   },
   "calculate-volume-of-prism": {
@@ -386,6 +425,12 @@
   "change-subject-of-formula": {
     "prerequisiteSkillIds": []
   },
+  "change-subject-when-subject-is-powered-or-rooted": {
+    "prerequisiteSkillIds": []
+  },
+  "change-subject-when-subject-is-repeated": {
+    "prerequisiteSkillIds": []
+  },
   "choose-appropriate-answer-accuracy": {
     "prerequisiteSkillIds": []
   },
@@ -399,6 +444,9 @@
     "prerequisiteSkillIds": []
   },
   "classify-discrete-data": {
+    "prerequisiteSkillIds": []
+  },
+  "classify-extended-solid-types": {
     "prerequisiteSkillIds": []
   },
   "classify-quadrilaterals": {
@@ -419,9 +467,6 @@
   "compare-distributions-using-averages": {
     "prerequisiteSkillIds": []
   },
-  "compare-distributions-using-box-plots": {
-    "prerequisiteSkillIds": []
-  },
   "compare-distributions-using-spread": {
     "prerequisiteSkillIds": []
   },
@@ -434,6 +479,9 @@
   "compare-relative-frequency-with-theoretical-probability": {
     "prerequisiteSkillIds": []
   },
+  "compare-statistical-data-sets": {
+    "prerequisiteSkillIds": []
+  },
   "complete-square": {
     "prerequisiteSkillIds": []
   },
@@ -443,7 +491,7 @@
   "construct-algebraic-expressions": {
     "prerequisiteSkillIds": []
   },
-  "construct-angle-bisector": {
+  "construct-cumulative-frequency-table": {
     "prerequisiteSkillIds": []
   },
   "construct-equations": {
@@ -452,16 +500,7 @@
   "construct-formulas": {
     "prerequisiteSkillIds": []
   },
-  "construct-frequency-table": {
-    "prerequisiteSkillIds": []
-  },
-  "construct-locus": {
-    "prerequisiteSkillIds": []
-  },
-  "construct-perpendicular-bisector": {
-    "prerequisiteSkillIds": []
-  },
-  "construct-perpendicular-line": {
+  "construct-linear-inequality": {
     "prerequisiteSkillIds": []
   },
   "construct-probability-tree-diagram": {
@@ -473,10 +512,22 @@
   "construct-scale-drawing": {
     "prerequisiteSkillIds": []
   },
+  "construct-simple-frequency-distribution": {
+    "prerequisiteSkillIds": []
+  },
+  "construct-simultaneous-equations": {
+    "prerequisiteSkillIds": []
+  },
   "construct-table-of-values": {
     "prerequisiteSkillIds": []
   },
+  "construct-tally-table": {
+    "prerequisiteSkillIds": []
+  },
   "construct-triangle-with-ruler-and-compasses": {
+    "prerequisiteSkillIds": []
+  },
+  "construct-two-way-table": {
     "prerequisiteSkillIds": []
   },
   "continue-number-sequence": {
@@ -494,10 +545,19 @@
   "convert-between-improper-fractions-and-mixed-numbers": {
     "prerequisiteSkillIds": []
   },
+  "convert-between-volume-and-capacity": {
+    "prerequisiteSkillIds": []
+  },
+  "convert-capacity-units": {
+    "prerequisiteSkillIds": []
+  },
   "convert-compound-units": {
     "prerequisiteSkillIds": []
   },
   "convert-decimals-to-fractions": {
+    "prerequisiteSkillIds": []
+  },
+  "convert-fraction-to-recurring-decimal": {
     "prerequisiteSkillIds": []
   },
   "convert-fractions-to-decimals": {
@@ -509,13 +569,25 @@
   "convert-metric-units-of-length": {
     "prerequisiteSkillIds": []
   },
+  "convert-metric-units-of-mass": {
+    "prerequisiteSkillIds": []
+  },
   "convert-metric-units-of-volume": {
+    "prerequisiteSkillIds": []
+  },
+  "convert-number-words-to-numerals": {
     "prerequisiteSkillIds": []
   },
   "convert-numbers-from-standard-form": {
     "prerequisiteSkillIds": []
   },
   "convert-numbers-to-standard-form": {
+    "prerequisiteSkillIds": []
+  },
+  "convert-numerals-to-number-words": {
+    "prerequisiteSkillIds": []
+  },
+  "convert-recurring-decimal-to-fraction": {
     "prerequisiteSkillIds": []
   },
   "convert-units-of-time": {
@@ -533,19 +605,19 @@
   "describe-translation": {
     "prerequisiteSkillIds": []
   },
-  "design-questionnaire": {
-    "prerequisiteSkillIds": []
-  },
   "differentiate-power-function": {
     "prerequisiteSkillIds": []
   },
   "divide-quantity-in-given-ratio": {
     "prerequisiteSkillIds": []
   },
+  "draw-angle-to-given-size": {
+    "prerequisiteSkillIds": []
+  },
   "draw-bar-chart": {
     "prerequisiteSkillIds": []
   },
-  "draw-box-plot": {
+  "draw-conversion-graph": {
     "prerequisiteSkillIds": []
   },
   "draw-cumulative-frequency-graph": {
@@ -560,19 +632,25 @@
   "draw-exponential-growth-graph": {
     "prerequisiteSkillIds": []
   },
-  "draw-frequency-polygon": {
-    "prerequisiteSkillIds": []
-  },
   "draw-graph-from-data": {
     "prerequisiteSkillIds": []
   },
   "draw-histogram": {
     "prerequisiteSkillIds": []
   },
+  "draw-inference-from-statistical-data": {
+    "prerequisiteSkillIds": []
+  },
   "draw-line-of-best-fit": {
     "prerequisiteSkillIds": []
   },
+  "draw-line-to-given-length": {
+    "prerequisiteSkillIds": []
+  },
   "draw-linear-graph-from-equation": {
+    "prerequisiteSkillIds": []
+  },
+  "draw-net-of-solid": {
     "prerequisiteSkillIds": []
   },
   "draw-pictogram": {
@@ -585,6 +663,9 @@
     "prerequisiteSkillIds": []
   },
   "draw-speed-time-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "draw-stem-and-leaf-diagram": {
     "prerequisiteSkillIds": []
   },
   "enlarge-shape": {
@@ -602,7 +683,16 @@
   "estimate-calculation-results": {
     "prerequisiteSkillIds": []
   },
+  "estimate-curve-gradient-using-tangent": {
+    "prerequisiteSkillIds": []
+  },
+  "estimate-gradient-using-drawn-tangent": {
+    "prerequisiteSkillIds": []
+  },
   "estimate-median-from-cumulative-frequency-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "estimate-percentile-from-cumulative-frequency-graph": {
     "prerequisiteSkillIds": []
   },
   "estimate-quartiles-from-cumulative-frequency-graph": {
@@ -614,7 +704,7 @@
   "evaluate-function": {
     "prerequisiteSkillIds": []
   },
-  "evaluate-sampling-method": {
+  "evaluate-limitations-of-statistical-conclusion": {
     "prerequisiteSkillIds": []
   },
   "expand-multiple-algebraic-factors": {
@@ -626,16 +716,31 @@
   "expand-single-bracket": {
     "prerequisiteSkillIds": []
   },
+  "express-number-as-product-of-prime-factors": {
+    "prerequisiteSkillIds": []
+  },
   "express-quantity-as-percentage": {
     "prerequisiteSkillIds": []
   },
+  "express-vector-using-coplanar-basis": {
+    "prerequisiteSkillIds": []
+  },
+  "extract-gradient-and-intercept-from-line-equation": {
+    "prerequisiteSkillIds": []
+  },
   "factorise-by-common-factor": {
+    "prerequisiteSkillIds": []
+  },
+  "factorise-by-grouping": {
     "prerequisiteSkillIds": []
   },
   "factorise-difference-of-two-squares": {
     "prerequisiteSkillIds": []
   },
   "factorise-quadratic-expression": {
+    "prerequisiteSkillIds": []
+  },
+  "factorise-rational-expression": {
     "prerequisiteSkillIds": []
   },
   "find-angle-in-right-triangle": {
@@ -659,13 +764,31 @@
   "find-equation-of-line-from-two-points": {
     "prerequisiteSkillIds": []
   },
+  "find-equation-of-parallel-line": {
+    "prerequisiteSkillIds": []
+  },
+  "find-equation-of-perpendicular-bisector": {
+    "prerequisiteSkillIds": []
+  },
+  "find-equation-of-perpendicular-line": {
+    "prerequisiteSkillIds": []
+  },
+  "find-gradient-of-perpendicular-line": {
+    "prerequisiteSkillIds": []
+  },
   "find-gradient-using-derivative": {
+    "prerequisiteSkillIds": []
+  },
+  "find-highest-common-factor": {
     "prerequisiteSkillIds": []
   },
   "find-inverse-function": {
     "prerequisiteSkillIds": []
   },
   "find-lower-bound-of-rounded-value": {
+    "prerequisiteSkillIds": []
+  },
+  "find-lowest-common-multiple": {
     "prerequisiteSkillIds": []
   },
   "find-missing-side-using-pythagoras": {
@@ -704,19 +827,31 @@
   "form-inverse-proportion-equation": {
     "prerequisiteSkillIds": []
   },
-  "identify-biased-data-collection": {
+  "identify-axis-of-rotational-symmetry": {
     "prerequisiteSkillIds": []
   },
   "identify-certain-event": {
-    "prerequisiteSkillIds": []
-  },
-  "identify-congruent-shapes": {
     "prerequisiteSkillIds": []
   },
   "identify-correlation": {
     "prerequisiteSkillIds": []
   },
   "identify-cube-numbers": {
+    "prerequisiteSkillIds": []
+  },
+  "identify-domain-of-function": {
+    "prerequisiteSkillIds": []
+  },
+  "identify-function-asymptotes": {
+    "prerequisiteSkillIds": []
+  },
+  "identify-function-roots": {
+    "prerequisiteSkillIds": []
+  },
+  "identify-function-symmetry": {
+    "prerequisiteSkillIds": []
+  },
+  "identify-function-turning-points": {
     "prerequisiteSkillIds": []
   },
   "identify-impossible-event": {
@@ -728,7 +863,7 @@
   "identify-line-symmetry": {
     "prerequisiteSkillIds": []
   },
-  "identify-lines-of-symmetry": {
+  "identify-modal-class": {
     "prerequisiteSkillIds": []
   },
   "identify-natural-numbers": {
@@ -740,16 +875,19 @@
   "identify-parallel-lines": {
     "prerequisiteSkillIds": []
   },
+  "identify-perpendicular-distance-as-shortest-distance": {
+    "prerequisiteSkillIds": []
+  },
   "identify-perpendicular-lines": {
+    "prerequisiteSkillIds": []
+  },
+  "identify-plane-of-symmetry": {
     "prerequisiteSkillIds": []
   },
   "identify-prime-numbers": {
     "prerequisiteSkillIds": []
   },
-  "identify-rotational-symmetry": {
-    "prerequisiteSkillIds": []
-  },
-  "identify-sampling-bias": {
+  "identify-range-of-function": {
     "prerequisiteSkillIds": []
   },
   "identify-similar-shapes": {
@@ -758,7 +896,7 @@
   "identify-square-numbers": {
     "prerequisiteSkillIds": []
   },
-  "identify-unreliable-extrapolation": {
+  "identify-subset": {
     "prerequisiteSkillIds": []
   },
   "interpret-algebraic-indices": {
@@ -767,19 +905,40 @@
   "interpret-bar-chart": {
     "prerequisiteSkillIds": []
   },
-  "interpret-box-plot": {
+  "interpret-calculator-display": {
     "prerequisiteSkillIds": []
   },
-  "interpret-calculator-display": {
+  "interpret-conversion-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-cosine-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-cubic-function-graph": {
     "prerequisiteSkillIds": []
   },
   "interpret-cumulative-frequency-graph": {
     "prerequisiteSkillIds": []
   },
+  "interpret-deceleration-from-speed-time-graph": {
+    "prerequisiteSkillIds": []
+  },
   "interpret-distance-time-graph": {
     "prerequisiteSkillIds": []
   },
-  "interpret-frequency-polygon": {
+  "interpret-exponential-decay-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-exponential-function-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-exponential-growth-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-fractional-algebraic-indices": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-fractional-indices": {
     "prerequisiteSkillIds": []
   },
   "interpret-frequency-table": {
@@ -800,7 +959,25 @@
   "interpret-inequality-on-number-line": {
     "prerequisiteSkillIds": []
   },
+  "interpret-line-of-best-fit": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-linear-function-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-linear-inequality-region": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-linear-inequality-solution": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-median-quartiles-and-interquartile-range": {
+    "prerequisiteSkillIds": []
+  },
   "interpret-negative-integer-indices": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-net-of-solid": {
     "prerequisiteSkillIds": []
   },
   "interpret-pictogram": {
@@ -815,22 +992,55 @@
   "interpret-practical-graphs": {
     "prerequisiteSkillIds": []
   },
+  "interpret-quadratic-function-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-reciprocal-function-graph": {
+    "prerequisiteSkillIds": []
+  },
   "interpret-roots-from-graph": {
     "prerequisiteSkillIds": []
   },
   "interpret-scale-drawing": {
     "prerequisiteSkillIds": []
   },
+  "interpret-scatter-diagram": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-sine-graph": {
+    "prerequisiteSkillIds": []
+  },
   "interpret-speed-time-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-statistical-diagram": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-stem-and-leaf-diagram": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-tangent-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "interpret-three-figure-bearing": {
     "prerequisiteSkillIds": []
   },
   "interpret-three-letter-angle-notation": {
     "prerequisiteSkillIds": []
   },
-  "interpret-trigonometric-function-graph": {
+  "interpret-vertical-line-equation": {
     "prerequisiteSkillIds": []
   },
   "interpret-zero-indices": {
+    "prerequisiteSkillIds": []
+  },
+  "list-inequalities-defining-region": {
+    "prerequisiteSkillIds": []
+  },
+  "measure-angle": {
+    "prerequisiteSkillIds": []
+  },
+  "measure-line-length": {
     "prerequisiteSkillIds": []
   },
   "model-exponential-decay": {
@@ -863,13 +1073,16 @@
   "prove-shapes-similar": {
     "prerequisiteSkillIds": []
   },
-  "prove-triangles-congruent": {
-    "prerequisiteSkillIds": []
-  },
   "rationalise-denominator": {
     "prerequisiteSkillIds": []
   },
   "read-cartesian-coordinates": {
+    "prerequisiteSkillIds": []
+  },
+  "read-clock": {
+    "prerequisiteSkillIds": []
+  },
+  "read-statistical-table": {
     "prerequisiteSkillIds": []
   },
   "read-timetables": {
@@ -884,19 +1097,58 @@
   "recall-exact-tangent-values": {
     "prerequisiteSkillIds": []
   },
+  "recognise-cosine-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "recognise-cubic-function-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "recognise-exponential-function-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "recognise-graph-of-function": {
+    "prerequisiteSkillIds": []
+  },
   "recognise-improper-fractions": {
+    "prerequisiteSkillIds": []
+  },
+  "recognise-linear-function-graph": {
     "prerequisiteSkillIds": []
   },
   "recognise-mixed-numbers": {
     "prerequisiteSkillIds": []
   },
+  "recognise-perfect-square-expression": {
+    "prerequisiteSkillIds": []
+  },
   "recognise-proper-fractions": {
+    "prerequisiteSkillIds": []
+  },
+  "recognise-quadratic-function-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "recognise-reciprocal-function-graph": {
     "prerequisiteSkillIds": []
   },
   "recognise-sequence-pattern": {
     "prerequisiteSkillIds": []
   },
+  "recognise-sine-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "recognise-tangent-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "recognise-transformation": {
+    "prerequisiteSkillIds": []
+  },
   "reflect-shape": {
+    "prerequisiteSkillIds": []
+  },
+  "relate-different-sequences": {
+    "prerequisiteSkillIds": []
+  },
+  "represent-directed-line-segment-as-vector": {
     "prerequisiteSkillIds": []
   },
   "represent-generalised-numbers-with-letters": {
@@ -905,10 +1157,16 @@
   "represent-inequality-on-number-line": {
     "prerequisiteSkillIds": []
   },
+  "represent-linear-inequality-region-graphically": {
+    "prerequisiteSkillIds": []
+  },
   "represent-numbers-in-standard-form": {
     "prerequisiteSkillIds": []
   },
   "represent-sets-with-venn-diagrams": {
+    "prerequisiteSkillIds": []
+  },
+  "represent-three-sets-with-venn-diagram": {
     "prerequisiteSkillIds": []
   },
   "represent-vector-in-column-form": {
@@ -918,6 +1176,9 @@
     "prerequisiteSkillIds": []
   },
   "round-to-decimal-places": {
+    "prerequisiteSkillIds": []
+  },
+  "round-to-nearest-unit-or-multiple": {
     "prerequisiteSkillIds": []
   },
   "round-to-significant-figures": {
@@ -935,7 +1196,13 @@
   "simplify-surds": {
     "prerequisiteSkillIds": []
   },
+  "sketch-cosine-graph": {
+    "prerequisiteSkillIds": []
+  },
   "sketch-cubic-function": {
+    "prerequisiteSkillIds": []
+  },
+  "sketch-exponential-function": {
     "prerequisiteSkillIds": []
   },
   "sketch-linear-function": {
@@ -947,6 +1214,12 @@
   "sketch-reciprocal-function": {
     "prerequisiteSkillIds": []
   },
+  "sketch-sine-graph": {
+    "prerequisiteSkillIds": []
+  },
+  "sketch-tangent-graph": {
+    "prerequisiteSkillIds": []
+  },
   "solve-ambiguous-sine-rule-case": {
     "prerequisiteSkillIds": []
   },
@@ -954,9 +1227,6 @@
     "prerequisiteSkillIds": []
   },
   "solve-angle-of-elevation": {
-    "prerequisiteSkillIds": []
-  },
-  "solve-bearing-with-trigonometry": {
     "prerequisiteSkillIds": []
   },
   "solve-direct-proportion-problem": {
@@ -985,10 +1255,10 @@
   "solve-quadratic-equation-using-formula": {
     "prerequisiteSkillIds": []
   },
-  "solve-quadratic-inequality": {
+  "solve-simple-exponential-equations": {
     "prerequisiteSkillIds": []
   },
-  "solve-simple-exponential-equations": {
+  "solve-simultaneous-linear-and-nonlinear-equations": {
     "prerequisiteSkillIds": []
   },
   "solve-simultaneous-linear-and-quadratic-equations": {
@@ -1010,7 +1280,7 @@
   "solve-time-zone-problems": {
     "prerequisiteSkillIds": []
   },
-  "solve-trigonometric-equation-from-graph": {
+  "solve-trigonometric-equation-in-given-domain": {
     "prerequisiteSkillIds": []
   },
   "solve-vector-geometry-problem": {
@@ -1037,6 +1307,12 @@
   "use-cosine-rule": {
     "prerequisiteSkillIds": []
   },
+  "use-decimal-notation": {
+    "prerequisiteSkillIds": []
+  },
+  "use-empty-set-notation": {
+    "prerequisiteSkillIds": []
+  },
   "use-equal-gradients-for-parallel-lines": {
     "prerequisiteSkillIds": []
   },
@@ -1052,13 +1328,37 @@
   "use-negative-reciprocal-gradients": {
     "prerequisiteSkillIds": []
   },
+  "use-net-of-solid": {
+    "prerequisiteSkillIds": []
+  },
+  "use-nth-term-of-sequence": {
+    "prerequisiteSkillIds": []
+  },
+  "use-percentage-notation": {
+    "prerequisiteSkillIds": []
+  },
+  "use-perpendicular-bisector-vocabulary": {
+    "prerequisiteSkillIds": []
+  },
+  "use-plane-vocabulary": {
+    "prerequisiteSkillIds": []
+  },
   "use-position-vectors": {
+    "prerequisiteSkillIds": []
+  },
+  "use-probability-notation": {
     "prerequisiteSkillIds": []
   },
   "use-probability-scale": {
     "prerequisiteSkillIds": []
   },
+  "use-recurring-decimal-notation": {
+    "prerequisiteSkillIds": []
+  },
   "use-set-language-and-notation": {
+    "prerequisiteSkillIds": []
+  },
+  "use-set-membership-notation": {
     "prerequisiteSkillIds": []
   },
   "use-set-notation-in-probability": {
@@ -1070,10 +1370,10 @@
   "use-sine-rule": {
     "prerequisiteSkillIds": []
   },
-  "use-symmetry-properties-of-circle": {
+  "use-tangent-ratio": {
     "prerequisiteSkillIds": []
   },
-  "use-tangent-ratio": {
+  "use-three-figure-bearing": {
     "prerequisiteSkillIds": []
   },
   "use-twelve-hour-clock": {

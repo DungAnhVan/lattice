@@ -1,0 +1,23 @@
+# Gate 1C Repair Summary
+
+- Total syllabus points: 144
+- Assessable syllabus points: 125
+- Total official clauses: 285
+- Covered clauses: 285
+- Partially covered clauses: 0
+- Unmapped clauses: 0
+- Unsupported skills removed: 31
+- Atomic skills added: 131
+- Atomic skills removed: 31
+- Atomic skills remaining: 457
+- Skill-group count: 60
+- Records with extraction issues: 62
+- Records below confidence 0.95: 81
+- Core/Extended mapping: PASS ({'equivalent-requirement': 27, 'extended-adds-scope': 26, 'extended-only': 19})
+- Promotion safety: PASS (field merge, schema preflight, backup, post-validation and rollback)
+- Test status: PASS
+- Structural: PASS
+- Extraction: PASS
+- Clause coverage: PASS
+- Semantic quality: PASS
+- Final Gate 1C Repair: PASS

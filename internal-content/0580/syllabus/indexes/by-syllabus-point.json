@@ -3,8 +3,13 @@
     "topicId": "number",
     "atomicSkillIds": [
       "classify-rational-and-irrational-numbers",
+      "convert-number-words-to-numerals",
+      "convert-numerals-to-number-words",
+      "express-number-as-product-of-prime-factors",
       "find-common-factors",
       "find-common-multiples",
+      "find-highest-common-factor",
+      "find-lowest-common-multiple",
       "find-reciprocals",
       "identify-cube-numbers",
       "identify-integers",
@@ -46,7 +51,9 @@
       "recognise-improper-fractions",
       "recognise-mixed-numbers",
       "recognise-proper-fractions",
-      "simplify-fractions"
+      "simplify-fractions",
+      "use-decimal-notation",
+      "use-percentage-notation"
     ]
   },
   "C1.5": {
@@ -94,6 +101,7 @@
       "choose-appropriate-answer-accuracy",
       "estimate-calculation-results",
       "round-to-decimal-places",
+      "round-to-nearest-unit-or-multiple",
       "round-to-significant-figures"
     ]
   },
@@ -120,6 +128,7 @@
       "calculate-currency-exchange",
       "calculate-density",
       "calculate-flow-rate",
+      "calculate-fuel-consumption",
       "calculate-population-density",
       "calculate-pressure",
       "calculate-rate-of-pay",
@@ -153,6 +162,7 @@
     "atomicSkillIds": [
       "calculate-time-intervals",
       "convert-units-of-time",
+      "read-clock",
       "read-timetables",
       "solve-time-zone-problems",
       "use-twelve-hour-clock",
@@ -218,8 +228,7 @@
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
       "interpret-inequality-on-number-line",
-      "represent-inequality-on-number-line",
-      "solve-linear-inequality"
+      "represent-inequality-on-number-line"
     ]
   },
   "C2.7": {
@@ -229,7 +238,9 @@
       "find-nth-term-of-cubic-sequence",
       "find-nth-term-of-linear-sequence",
       "find-nth-term-of-quadratic-sequence",
-      "recognise-sequence-pattern"
+      "recognise-sequence-pattern",
+      "relate-different-sequences",
+      "use-nth-term-of-sequence"
     ]
   },
   "C2.8": {
@@ -239,8 +250,10 @@
   "C2.9": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
+      "draw-conversion-graph",
       "draw-distance-time-graph",
       "draw-graph-from-data",
+      "interpret-conversion-graph",
       "interpret-distance-time-graph",
       "interpret-gradient-as-rate-of-change",
       "interpret-practical-graphs"
@@ -250,21 +263,22 @@
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
       "construct-table-of-values",
-      "draw-exponential-decay-graph",
-      "draw-exponential-growth-graph",
       "interpret-graph-of-function",
       "interpret-roots-from-graph",
       "plot-graph-of-function",
+      "recognise-graph-of-function",
       "solve-equations-graphically"
     ]
   },
   "C2.11": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
-      "sketch-cubic-function",
+      "interpret-linear-function-graph",
+      "interpret-quadratic-function-graph",
+      "recognise-linear-function-graph",
+      "recognise-quadratic-function-graph",
       "sketch-linear-function",
-      "sketch-quadratic-function",
-      "sketch-reciprocal-function"
+      "sketch-quadratic-function"
     ]
   },
   "C2.12": {
@@ -301,13 +315,16 @@
   "C3.5": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
+      "extract-gradient-and-intercept-from-line-equation",
       "find-equation-of-line-from-graph",
-      "interpret-gradient-intercept-form"
+      "interpret-gradient-intercept-form",
+      "interpret-vertical-line-equation"
     ]
   },
   "C3.6": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
+      "find-equation-of-parallel-line",
       "identify-parallel-lines",
       "use-equal-gradients-for-parallel-lines"
     ]
@@ -321,19 +338,20 @@
     "atomicSkillIds": [
       "classify-quadrilaterals",
       "classify-triangles",
-      "identify-lines-of-symmetry",
-      "identify-rotational-symmetry",
       "use-geometric-vocabulary"
     ]
   },
   "C4.2": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "construct-angle-bisector",
-      "construct-locus",
-      "construct-perpendicular-bisector",
-      "construct-perpendicular-line",
-      "construct-triangle-with-ruler-and-compasses"
+      "construct-triangle-with-ruler-and-compasses",
+      "draw-angle-to-given-size",
+      "draw-line-to-given-length",
+      "draw-net-of-solid",
+      "interpret-net-of-solid",
+      "measure-angle",
+      "measure-line-length",
+      "use-net-of-solid"
     ]
   },
   "C4.3": {
@@ -341,7 +359,9 @@
     "atomicSkillIds": [
       "calculate-actual-length-from-scale",
       "construct-scale-drawing",
-      "interpret-scale-drawing"
+      "interpret-scale-drawing",
+      "interpret-three-figure-bearing",
+      "use-three-figure-bearing"
     ]
   },
   "C4.4": {
@@ -388,8 +408,11 @@
   "C5.1": {
     "topicId": "mensuration",
     "atomicSkillIds": [
+      "convert-between-volume-and-capacity",
+      "convert-capacity-units",
       "convert-metric-units-of-area",
       "convert-metric-units-of-length",
+      "convert-metric-units-of-mass",
       "convert-metric-units-of-volume"
     ]
   },
@@ -415,19 +438,27 @@
   "C5.4": {
     "topicId": "mensuration",
     "atomicSkillIds": [
+      "calculate-surface-area-of-cone",
       "calculate-surface-area-of-cylinder",
       "calculate-surface-area-of-prism",
+      "calculate-surface-area-of-pyramid",
+      "calculate-surface-area-of-sphere",
+      "calculate-volume-of-cone",
       "calculate-volume-of-cylinder",
-      "calculate-volume-of-prism"
+      "calculate-volume-of-prism",
+      "calculate-volume-of-pyramid",
+      "calculate-volume-of-sphere"
     ]
   },
   "C5.5": {
     "topicId": "mensuration",
     "atomicSkillIds": [
       "calculate-area-of-compound-shape",
+      "calculate-area-of-partial-shape",
       "calculate-perimeter-of-compound-shape",
       "calculate-surface-area-of-compound-solid",
-      "calculate-volume-of-compound-solid"
+      "calculate-volume-of-compound-solid",
+      "calculate-volume-of-partial-solid"
     ]
   },
   "C6.1": {
@@ -442,9 +473,6 @@
     "atomicSkillIds": [
       "find-angle-in-right-triangle",
       "find-side-in-right-triangle",
-      "solve-angle-of-depression",
-      "solve-angle-of-elevation",
-      "solve-bearing-with-trigonometry",
       "use-cosine-ratio",
       "use-sine-ratio",
       "use-tangent-ratio"
@@ -504,6 +532,8 @@
   "C8.2": {
     "topicId": "probability",
     "atomicSkillIds": [
+      "assess-fairness-of-experiment",
+      "assess-randomness-of-outcomes",
       "calculate-expected-frequency",
       "calculate-relative-frequency",
       "compare-relative-frequency-with-theoretical-probability"
@@ -512,6 +542,8 @@
   "C8.3": {
     "topicId": "probability",
     "atomicSkillIds": [
+      "calculate-probability-from-sample-space",
+      "calculate-probability-from-tree-diagram",
       "calculate-probability-of-combined-events",
       "calculate-probability-of-independent-events",
       "calculate-probability-of-mutually-exclusive-events",
@@ -528,16 +560,20 @@
     "atomicSkillIds": [
       "classify-categorical-data",
       "classify-continuous-data",
-      "classify-discrete-data"
+      "classify-discrete-data",
+      "construct-tally-table",
+      "construct-two-way-table"
     ]
   },
   "C9.2": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "construct-frequency-table",
-      "evaluate-sampling-method",
-      "identify-biased-data-collection",
-      "interpret-frequency-table"
+      "compare-statistical-data-sets",
+      "draw-inference-from-statistical-data",
+      "evaluate-limitations-of-statistical-conclusion",
+      "interpret-frequency-table",
+      "interpret-statistical-diagram",
+      "read-statistical-table"
     ]
   },
   "C9.3": {
@@ -553,12 +589,15 @@
   "C9.4": {
     "topicId": "statistics",
     "atomicSkillIds": [
+      "construct-simple-frequency-distribution",
       "draw-bar-chart",
       "draw-pictogram",
       "draw-pie-chart",
+      "draw-stem-and-leaf-diagram",
       "interpret-bar-chart",
       "interpret-pictogram",
-      "interpret-pie-chart"
+      "interpret-pie-chart",
+      "interpret-stem-and-leaf-diagram"
     ]
   },
   "C9.5": {
@@ -567,7 +606,8 @@
       "draw-line-of-best-fit",
       "draw-scatter-diagram",
       "identify-correlation",
-      "identify-unreliable-extrapolation",
+      "interpret-line-of-best-fit",
+      "interpret-scatter-diagram",
       "use-line-of-best-fit"
     ]
   },
@@ -583,8 +623,13 @@
     "topicId": "number",
     "atomicSkillIds": [
       "classify-rational-and-irrational-numbers",
+      "convert-number-words-to-numerals",
+      "convert-numerals-to-number-words",
+      "express-number-as-product-of-prime-factors",
       "find-common-factors",
       "find-common-multiples",
+      "find-highest-common-factor",
+      "find-lowest-common-multiple",
       "find-reciprocals",
       "identify-cube-numbers",
       "identify-integers",
@@ -600,8 +645,12 @@
       "apply-set-intersection",
       "apply-set-union",
       "calculate-number-of-set-elements",
+      "identify-subset",
       "represent-sets-with-venn-diagrams",
-      "use-set-language-and-notation"
+      "represent-three-sets-with-venn-diagram",
+      "use-empty-set-notation",
+      "use-set-language-and-notation",
+      "use-set-membership-notation"
     ]
   },
   "E1.3": {
@@ -622,11 +671,16 @@
       "convert-between-fractions-and-percentages",
       "convert-between-improper-fractions-and-mixed-numbers",
       "convert-decimals-to-fractions",
+      "convert-fraction-to-recurring-decimal",
       "convert-fractions-to-decimals",
+      "convert-recurring-decimal-to-fraction",
       "recognise-improper-fractions",
       "recognise-mixed-numbers",
       "recognise-proper-fractions",
-      "simplify-fractions"
+      "simplify-fractions",
+      "use-decimal-notation",
+      "use-percentage-notation",
+      "use-recurring-decimal-notation"
     ]
   },
   "E1.5": {
@@ -651,9 +705,11 @@
   "E1.7": {
     "topicId": "number",
     "atomicSkillIds": [
+      "apply-fractional-index-laws",
       "apply-power-of-power-rule",
       "apply-product-rule-for-indices",
       "apply-quotient-rule-for-indices",
+      "interpret-fractional-indices",
       "interpret-negative-integer-indices",
       "interpret-positive-integer-indices",
       "interpret-zero-indices"
@@ -674,6 +730,7 @@
       "choose-appropriate-answer-accuracy",
       "estimate-calculation-results",
       "round-to-decimal-places",
+      "round-to-nearest-unit-or-multiple",
       "round-to-significant-figures"
     ]
   },
@@ -689,7 +746,6 @@
     "topicId": "number",
     "atomicSkillIds": [
       "apply-direct-proportion",
-      "apply-inverse-proportion",
       "apply-ratio-in-context",
       "divide-quantity-in-given-ratio",
       "simplify-ratios"
@@ -702,6 +758,7 @@
       "calculate-currency-exchange",
       "calculate-density",
       "calculate-flow-rate",
+      "calculate-fuel-consumption",
       "calculate-population-density",
       "calculate-pressure",
       "calculate-rate-of-pay",
@@ -717,6 +774,7 @@
       "calculate-percentage-increase",
       "calculate-percentage-of-quantity",
       "calculate-profit-and-loss",
+      "calculate-repeated-percentage-change",
       "calculate-reverse-percentage",
       "calculate-simple-interest",
       "express-quantity-as-percentage"
@@ -736,6 +794,7 @@
     "atomicSkillIds": [
       "calculate-time-intervals",
       "convert-units-of-time",
+      "read-clock",
       "read-timetables",
       "solve-time-zone-problems",
       "use-twelve-hour-clock",
@@ -783,14 +842,17 @@
       "expand-product-of-two-brackets",
       "expand-single-bracket",
       "factorise-by-common-factor",
+      "factorise-by-grouping",
       "factorise-difference-of-two-squares",
-      "factorise-quadratic-expression"
+      "factorise-quadratic-expression",
+      "recognise-perfect-square-expression"
     ]
   },
   "E2.3": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
       "calculate-with-algebraic-fractions",
+      "factorise-rational-expression",
       "simplify-algebraic-fractions"
     ]
   },
@@ -798,7 +860,9 @@
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
       "apply-algebraic-index-laws",
+      "apply-fractional-algebraic-index-laws",
       "interpret-algebraic-indices",
+      "interpret-fractional-algebraic-indices",
       "solve-simple-exponential-equations"
     ]
   },
@@ -807,14 +871,18 @@
     "atomicSkillIds": [
       "change-subject-in-complex-formula",
       "change-subject-of-formula",
+      "change-subject-when-subject-is-powered-or-rooted",
+      "change-subject-when-subject-is-repeated",
       "complete-square-to-solve-quadratic",
       "construct-algebraic-expressions",
       "construct-equations",
       "construct-formulas",
+      "construct-simultaneous-equations",
       "solve-equation-with-algebraic-fractions",
       "solve-linear-equation",
       "solve-quadratic-equation-by-factorisation",
       "solve-quadratic-equation-using-formula",
+      "solve-simultaneous-linear-and-nonlinear-equations",
       "solve-simultaneous-linear-and-quadratic-equations",
       "solve-simultaneous-linear-equations"
     ]
@@ -822,10 +890,14 @@
   "E2.6": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
+      "construct-linear-inequality",
       "interpret-inequality-on-number-line",
+      "interpret-linear-inequality-region",
+      "interpret-linear-inequality-solution",
+      "list-inequalities-defining-region",
       "represent-inequality-on-number-line",
-      "solve-linear-inequality",
-      "solve-quadratic-inequality"
+      "represent-linear-inequality-region-graphically",
+      "solve-linear-inequality"
     ]
   },
   "E2.7": {
@@ -836,12 +908,15 @@
       "find-nth-term-of-exponential-sequence",
       "find-nth-term-of-linear-sequence",
       "find-nth-term-of-quadratic-sequence",
-      "recognise-sequence-pattern"
+      "recognise-sequence-pattern",
+      "relate-different-sequences",
+      "use-nth-term-of-sequence"
     ]
   },
   "E2.8": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
+      "apply-inverse-proportion",
       "form-direct-proportion-equation",
       "form-inverse-proportion-equation",
       "solve-direct-proportion-problem",
@@ -853,9 +928,13 @@
     "atomicSkillIds": [
       "calculate-acceleration-from-speed-time-graph",
       "calculate-distance-from-speed-time-graph",
+      "draw-conversion-graph",
       "draw-distance-time-graph",
       "draw-graph-from-data",
       "draw-speed-time-graph",
+      "estimate-curve-gradient-using-tangent",
+      "interpret-conversion-graph",
+      "interpret-deceleration-from-speed-time-graph",
       "interpret-distance-time-graph",
       "interpret-gradient-as-rate-of-change",
       "interpret-practical-graphs",
@@ -868,16 +947,34 @@
       "construct-table-of-values",
       "draw-exponential-decay-graph",
       "draw-exponential-growth-graph",
+      "interpret-exponential-decay-graph",
+      "interpret-exponential-growth-graph",
       "interpret-graph-of-function",
       "interpret-roots-from-graph",
       "plot-graph-of-function",
+      "recognise-graph-of-function",
       "solve-equations-graphically"
     ]
   },
   "E2.11": {
     "topicId": "algebra-and-graphs",
     "atomicSkillIds": [
+      "identify-function-asymptotes",
+      "identify-function-roots",
+      "identify-function-symmetry",
+      "identify-function-turning-points",
+      "interpret-cubic-function-graph",
+      "interpret-exponential-function-graph",
+      "interpret-linear-function-graph",
+      "interpret-quadratic-function-graph",
+      "interpret-reciprocal-function-graph",
+      "recognise-cubic-function-graph",
+      "recognise-exponential-function-graph",
+      "recognise-linear-function-graph",
+      "recognise-quadratic-function-graph",
+      "recognise-reciprocal-function-graph",
       "sketch-cubic-function",
+      "sketch-exponential-function",
       "sketch-linear-function",
       "sketch-quadratic-function",
       "sketch-reciprocal-function"
@@ -888,6 +985,7 @@
     "atomicSkillIds": [
       "classify-stationary-point",
       "differentiate-power-function",
+      "estimate-gradient-using-drawn-tangent",
       "find-gradient-using-derivative",
       "find-stationary-point"
     ]
@@ -899,6 +997,8 @@
       "evaluate-function",
       "find-inverse-function",
       "form-composite-function",
+      "identify-domain-of-function",
+      "identify-range-of-function",
       "use-function-notation"
     ]
   },
@@ -932,15 +1032,18 @@
   "E3.5": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
+      "extract-gradient-and-intercept-from-line-equation",
       "find-equation-of-line-from-graph",
       "find-equation-of-line-from-point-and-gradient",
       "find-equation-of-line-from-two-points",
-      "interpret-gradient-intercept-form"
+      "interpret-gradient-intercept-form",
+      "interpret-vertical-line-equation"
     ]
   },
   "E3.6": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
+      "find-equation-of-parallel-line",
       "identify-parallel-lines",
       "use-equal-gradients-for-parallel-lines"
     ]
@@ -948,6 +1051,9 @@
   "E3.7": {
     "topicId": "coordinate-geometry",
     "atomicSkillIds": [
+      "find-equation-of-perpendicular-bisector",
+      "find-equation-of-perpendicular-line",
+      "find-gradient-of-perpendicular-line",
       "identify-perpendicular-lines",
       "use-negative-reciprocal-gradients"
     ]
@@ -955,21 +1061,25 @@
   "E4.1": {
     "topicId": "geometry",
     "atomicSkillIds": [
+      "classify-extended-solid-types",
       "classify-quadrilaterals",
       "classify-triangles",
-      "identify-lines-of-symmetry",
-      "identify-rotational-symmetry",
-      "use-geometric-vocabulary"
+      "use-geometric-vocabulary",
+      "use-perpendicular-bisector-vocabulary",
+      "use-plane-vocabulary"
     ]
   },
   "E4.2": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "construct-angle-bisector",
-      "construct-locus",
-      "construct-perpendicular-bisector",
-      "construct-perpendicular-line",
-      "construct-triangle-with-ruler-and-compasses"
+      "construct-triangle-with-ruler-and-compasses",
+      "draw-angle-to-given-size",
+      "draw-line-to-given-length",
+      "draw-net-of-solid",
+      "interpret-net-of-solid",
+      "measure-angle",
+      "measure-line-length",
+      "use-net-of-solid"
     ]
   },
   "E4.3": {
@@ -977,7 +1087,9 @@
     "atomicSkillIds": [
       "calculate-actual-length-from-scale",
       "construct-scale-drawing",
-      "interpret-scale-drawing"
+      "interpret-scale-drawing",
+      "interpret-three-figure-bearing",
+      "use-three-figure-bearing"
     ]
   },
   "E4.4": {
@@ -985,19 +1097,19 @@
     "atomicSkillIds": [
       "calculate-area-scale-factor",
       "calculate-missing-lengths-in-similar-shapes",
+      "calculate-surface-area-scale-factor",
       "calculate-volume-scale-factor",
-      "identify-congruent-shapes",
       "identify-similar-shapes",
-      "prove-shapes-similar",
-      "prove-triangles-congruent"
+      "prove-shapes-similar"
     ]
   },
   "E4.5": {
     "topicId": "geometry",
     "atomicSkillIds": [
+      "identify-axis-of-rotational-symmetry",
       "identify-line-symmetry",
       "identify-order-of-rotational-symmetry",
-      "use-symmetry-properties-of-circle"
+      "identify-plane-of-symmetry"
     ]
   },
   "E4.6": {
@@ -1032,26 +1144,27 @@
   "E4.8": {
     "topicId": "geometry",
     "atomicSkillIds": [
-      "apply-intersecting-chords-theorem",
-      "apply-secant-tangent-theorem",
-      "apply-tangent-chord-theorem"
+      "apply-equal-chords-equidistant-from-centre",
+      "apply-equal-tangents-from-external-point",
+      "apply-perpendicular-bisector-of-chord-through-centre"
     ]
   },
   "E5.1": {
     "topicId": "mensuration",
     "atomicSkillIds": [
+      "convert-between-volume-and-capacity",
+      "convert-capacity-units",
       "convert-metric-units-of-area",
       "convert-metric-units-of-length",
+      "convert-metric-units-of-mass",
       "convert-metric-units-of-volume"
     ]
   },
   "E5.2": {
     "topicId": "mensuration",
     "atomicSkillIds": [
-      "calculate-area-of-kite",
       "calculate-area-of-parallelogram",
       "calculate-area-of-rectangle",
-      "calculate-area-of-rhombus",
       "calculate-area-of-trapezium",
       "calculate-area-of-triangle",
       "calculate-perimeter-of-polygon"
@@ -1085,11 +1198,11 @@
     "topicId": "mensuration",
     "atomicSkillIds": [
       "calculate-area-of-compound-shape",
+      "calculate-area-of-partial-shape",
       "calculate-perimeter-of-compound-shape",
-      "calculate-similar-area-ratio",
-      "calculate-similar-volume-ratio",
       "calculate-surface-area-of-compound-solid",
-      "calculate-volume-of-compound-solid"
+      "calculate-volume-of-compound-solid",
+      "calculate-volume-of-partial-solid"
     ]
   },
   "E6.1": {
@@ -1102,11 +1215,13 @@
   "E6.2": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
+      "apply-pythagoras-theorem",
       "find-angle-in-right-triangle",
+      "find-missing-side-using-pythagoras",
       "find-side-in-right-triangle",
+      "identify-perpendicular-distance-as-shortest-distance",
       "solve-angle-of-depression",
       "solve-angle-of-elevation",
-      "solve-bearing-with-trigonometry",
       "use-cosine-ratio",
       "use-sine-ratio",
       "use-tangent-ratio"
@@ -1123,8 +1238,16 @@
   "E6.4": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
-      "interpret-trigonometric-function-graph",
-      "solve-trigonometric-equation-from-graph"
+      "interpret-cosine-graph",
+      "interpret-sine-graph",
+      "interpret-tangent-graph",
+      "recognise-cosine-graph",
+      "recognise-sine-graph",
+      "recognise-tangent-graph",
+      "sketch-cosine-graph",
+      "sketch-sine-graph",
+      "sketch-tangent-graph",
+      "solve-trigonometric-equation-in-given-domain"
     ]
   },
   "E6.5": {
@@ -1139,6 +1262,7 @@
   "E6.6": {
     "topicId": "trigonometry",
     "atomicSkillIds": [
+      "calculate-angle-between-line-and-plane",
       "solve-three-dimensional-pythagoras-problem",
       "solve-three-dimensional-trigonometry-problem"
     ]
@@ -1146,6 +1270,7 @@
   "E7.1": {
     "topicId": "transformations-and-vectors",
     "atomicSkillIds": [
+      "apply-combined-transformations",
       "describe-enlargement",
       "describe-reflection",
       "describe-rotation",
@@ -1153,6 +1278,7 @@
       "enlarge-shape",
       "enlarge-shape-with-fractional-scale-factor",
       "enlarge-shape-with-negative-scale-factor",
+      "recognise-transformation",
       "reflect-shape",
       "rotate-shape",
       "translate-shape"
@@ -1164,8 +1290,7 @@
       "add-vectors",
       "multiply-vector-by-scalar",
       "represent-vector-in-column-form",
-      "subtract-vectors",
-      "use-position-vectors"
+      "subtract-vectors"
     ]
   },
   "E7.3": {
@@ -1177,9 +1302,12 @@
   "E7.4": {
     "topicId": "transformations-and-vectors",
     "atomicSkillIds": [
+      "express-vector-using-coplanar-basis",
       "prove-collinearity-using-vectors",
       "prove-parallel-lines-using-vectors",
-      "solve-vector-geometry-problem"
+      "represent-directed-line-segment-as-vector",
+      "solve-vector-geometry-problem",
+      "use-position-vectors"
     ]
   },
   "E8.1": {
@@ -1189,12 +1317,15 @@
       "calculate-single-event-probability",
       "identify-certain-event",
       "identify-impossible-event",
+      "use-probability-notation",
       "use-probability-scale"
     ]
   },
   "E8.2": {
     "topicId": "probability",
     "atomicSkillIds": [
+      "assess-fairness-of-experiment",
+      "assess-randomness-of-outcomes",
       "calculate-expected-frequency",
       "calculate-relative-frequency",
       "compare-relative-frequency-with-theoretical-probability"
@@ -1203,10 +1334,14 @@
   "E8.3": {
     "topicId": "probability",
     "atomicSkillIds": [
+      "calculate-probability-from-sample-space",
+      "calculate-probability-from-tree-diagram",
       "calculate-probability-of-combined-events",
       "calculate-probability-of-independent-events",
       "calculate-probability-of-mutually-exclusive-events",
       "calculate-probability-using-venn-diagram",
+      "calculate-probability-with-replacement",
+      "calculate-probability-without-replacement",
       "construct-probability-tree-diagram",
       "construct-sample-space-diagram",
       "use-set-notation-in-probability"
@@ -1216,7 +1351,9 @@
     "topicId": "probability",
     "atomicSkillIds": [
       "apply-conditional-probability-to-tree-diagram",
-      "calculate-conditional-probability"
+      "calculate-conditional-probability",
+      "calculate-conditional-probability-from-table",
+      "calculate-conditional-probability-from-venn-diagram"
     ]
   },
   "E9.1": {
@@ -1224,18 +1361,22 @@
     "atomicSkillIds": [
       "classify-categorical-data",
       "classify-continuous-data",
-      "classify-discrete-data"
+      "classify-discrete-data",
+      "construct-tally-table",
+      "construct-two-way-table"
     ]
   },
   "E9.2": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "construct-frequency-table",
-      "design-questionnaire",
-      "evaluate-sampling-method",
-      "identify-biased-data-collection",
-      "identify-sampling-bias",
-      "interpret-frequency-table"
+      "compare-distributions-using-averages",
+      "compare-distributions-using-spread",
+      "compare-statistical-data-sets",
+      "draw-inference-from-statistical-data",
+      "evaluate-limitations-of-statistical-conclusion",
+      "interpret-frequency-table",
+      "interpret-statistical-diagram",
+      "read-statistical-table"
     ]
   },
   "E9.3": {
@@ -1249,21 +1390,21 @@
       "calculate-quartiles",
       "calculate-range",
       "choose-appropriate-average",
-      "compare-distributions-using-averages",
-      "compare-distributions-using-spread"
+      "identify-modal-class"
     ]
   },
   "E9.4": {
     "topicId": "statistics",
     "atomicSkillIds": [
+      "construct-simple-frequency-distribution",
       "draw-bar-chart",
-      "draw-frequency-polygon",
       "draw-pictogram",
       "draw-pie-chart",
+      "draw-stem-and-leaf-diagram",
       "interpret-bar-chart",
-      "interpret-frequency-polygon",
       "interpret-pictogram",
-      "interpret-pie-chart"
+      "interpret-pie-chart",
+      "interpret-stem-and-leaf-diagram"
     ]
   },
   "E9.5": {
@@ -1272,20 +1413,21 @@
       "draw-line-of-best-fit",
       "draw-scatter-diagram",
       "identify-correlation",
-      "identify-unreliable-extrapolation",
+      "interpret-line-of-best-fit",
+      "interpret-scatter-diagram",
       "use-line-of-best-fit"
     ]
   },
   "E9.6": {
     "topicId": "statistics",
     "atomicSkillIds": [
-      "compare-distributions-using-box-plots",
-      "draw-box-plot",
+      "construct-cumulative-frequency-table",
       "draw-cumulative-frequency-graph",
       "estimate-median-from-cumulative-frequency-graph",
+      "estimate-percentile-from-cumulative-frequency-graph",
       "estimate-quartiles-from-cumulative-frequency-graph",
-      "interpret-box-plot",
-      "interpret-cumulative-frequency-graph"
+      "interpret-cumulative-frequency-graph",
+      "interpret-median-quartiles-and-interquartile-range"
     ]
   },
   "E9.7": {
