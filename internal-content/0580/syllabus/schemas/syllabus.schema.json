@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "lattice://schemas/0580/syllabus.schema.json",
+  "title": "Lattice Syllabus Record",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "id",
+    "board",
+    "qualification",
+    "subject",
+    "syllabusCode",
+    "validFrom",
+    "validTo",
+    "taxonomyVersion",
+    "source",
+    "topicIds",
+    "createdAt",
+    "updatedAt"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "type": "string" },
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "board": { "type": "string" },
+    "qualification": { "type": "string" },
+    "subject": { "type": "string" },
+    "syllabusCode": { "type": "string", "pattern": "^[0-9]{4}$" },
+    "validFrom": { "type": "integer" },
+    "validTo": { "type": "integer" },
+    "taxonomyVersion": { "type": "string" },
+    "source": {
+      "type": "object",
+      "required": ["file", "title", "accessedLocally"],
+      "properties": {
+        "file": { "type": "string" },
+        "title": { "type": "string" },
+        "publicationCode": { "type": "string" },
+        "syllabusVersion": { "type": "integer" },
+        "published": { "type": "string" },
+        "accessedLocally": { "type": "boolean" }
+      }
+    },
+    "topicIds": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "createdAt": { "type": "string" },
+    "updatedAt": { "type": "string" }
+  }
+}

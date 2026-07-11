@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "lattice://schemas/0580/atomic-skill.schema.json",
+  "title": "Lattice Atomic Skill Collection",
+  "type": "object",
+  "required": ["schemaVersion", "atomicSkills"],
+  "properties": {
+    "schemaVersion": { "type": "string" },
+    "atomicSkills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "label",
+          "description",
+          "topicIds",
+          "syllabusPointIds",
+          "conceptIds",
+          "action",
+          "difficulty",
+          "origin",
+          "sourceBasis",
+          "review"
+        ],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "label": { "type": "string", "minLength": 3 },
+          "description": { "type": "string" },
+          "topicIds": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+          "syllabusPointIds": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+          "conceptIds": { "type": "array", "items": { "type": "string" } },
+          "action": { "type": "string" },
+          "difficulty": {
+            "type": "object",
+            "required": ["minimumTier", "relativeLevel"],
+            "properties": {
+              "minimumTier": { "enum": ["core", "extended"] },
+              "relativeLevel": { "type": "integer", "minimum": 1, "maximum": 3 }
+            }
+          },
+          "origin": { "const": "lattice-derived" },
+          "sourceBasis": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["syllabusPointId", "reason"],
+              "properties": {
+                "syllabusPointId": { "type": "string" },
+                "reason": { "type": "string" }
+              }
+            }
+          },
+          "review": {
+            "type": "object",
+            "required": ["status", "notes"],
+            "properties": {
+              "status": { "type": "string" },
+              "notes": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "schemaVersion": "1.0",
+  "topics": [
+    {
+      "id": "number",
+      "syllabusCode": "0580",
+      "officialTitle": "Number",
+      "normalizedTitle": "number",
+      "order": 1,
+      "description": "Cambridge IGCSE Mathematics 0580 topic 1: Number.",
+      "syllabusPointIds": [
+        "C1.1",
+        "C1.2",
+        "C1.3",
+        "C1.4",
+        "C1.5",
+        "C1.6",
+        "C1.7",
+        "C1.8",
+        "C1.9",
+        "C1.10",
+        "C1.11",
+        "C1.12",
+        "C1.13",
+        "C1.14",
+        "C1.15",
+        "C1.16",
+        "C1.17",
+        "C1.18",
+        "E1.1",
+        "E1.2",
+        "E1.3",
+        "E1.4",
+        "E1.5",
+        "E1.6",
+        "E1.7",
+        "E1.8",
+        "E1.9",
+        "E1.10",
+        "E1.11",
+        "E1.12",
+        "E1.13",
+        "E1.14",
+        "E1.15",
+        "E1.16",
+        "E1.17",
+        "E1.18"
+      ],
+      "origin": "official-syllabus",
+      "sourceReferences": [
+        {
+          "page": 8,
+          "section": "Content overview"
+        }
+      ]
+    },
+    {
+      "id": "algebra-and-graphs",
+      "syllabusCode": "0580",
+      "officialTitle": "Algebra and graphs",
+      "normalizedTitle": "algebra-and-graphs",
+      "order": 2,
+      "description": "Cambridge IGCSE Mathematics 0580 topic 2: Algebra and graphs.",
+      "syllabusPointIds": [
+        "C2.1",
+        "C2.2",
+        "C2.3",
+        "C2.4",
+        "C2.5",
+        "C2.6",
+        "C2.7",
+        "C2.8",
+        "C2.9",
+        "C2.10",
+        "C2.11",
+        "C2.12",
+        "C2.13",
+        "E2.1",
+        "E2.2",
+        "E2.3",
+        "E2.4",
+        "E2.5",
+        "E2.6",
+        "E2.7",
+        "E2.8",
+        "E2.9",
+        "E2.10",
+        "E2.11",
+        "E2.12",
+        "E2.13"
+      ],
+      "origin": "official-syllabus",
+      "sourceReferences": [
+        {
+          "page": 8,
+          "section": "Content overview"
+        }
+      ]
+    },
+    {
+      "id": "coordinate-geometry",
+      "syllabusCode": "0580",
+      "officialTitle": "Coordinate geometry",
+      "normalizedTitle": "coordinate-geometry",
+      "order": 3,
+      "description": "Cambridge IGCSE Mathematics 0580 topic 3: Coordinate geometry.",
+      "syllabusPointIds": [
+        "C3.1",
+        "C3.2",
+        "C3.3",
+        "C3.4",
+        "C3.5",
+        "C3.6",
+        "C3.7",
+        "E3.1",
+        "E3.2",
+        "E3.3",
+        "E3.4",
+        "E3.5",
+        "E3.6",
+        "E3.7"
+      ],
+      "origin": "official-syllabus",
+      "sourceReferences": [
+        {
+          "page": 8,
+          "section": "Content overview"
+        }
+      ]
+    },
+    {
+      "id": "geometry",
+      "syllabusCode": "0580",
+      "officialTitle": "Geometry",
+      "normalizedTitle": "geometry",
+      "order": 4,
+      "description": "Cambridge IGCSE Mathematics 0580 topic 4: Geometry.",
+      "syllabusPointIds": [
+        "C4.1",
+        "C4.2",
+        "C4.3",
+        "C4.4",
+        "C4.5",
+        "C4.6",
+        "C4.7",
+        "C4.8",
+        "E4.1",
+        "E4.2",
+        "E4.3",
+        "E4.4",
+        "E4.5",
+        "E4.6",
+        "E4.7",
+        "E4.8"
+      ],
+      "origin": "official-syllabus",
+      "sourceReferences": [
+        {
+          "page": 8,
+          "section": "Content overview"
+        }
+      ]
+    },
+    {
+      "id": "mensuration",
+      "syllabusCode": "0580",
+      "officialTitle": "Mensuration",
+      "normalizedTitle": "mensuration",
+      "order": 5,
+      "description": "Cambridge IGCSE Mathematics 0580 topic 5: Mensuration.",
+      "syllabusPointIds": [
+        "C5.1",
+        "C5.2",
+        "C5.3",
+        "C5.4",
+        "C5.5",
+        "E5.1",
+        "E5.2",
+        "E5.3",
+        "E5.4",
+        "E5.5"
+      ],
+      "origin": "official-syllabus",
+      "sourceReferences": [
+        {
+          "page": 8,
+          "section": "Content overview"
+        }
+      ]
+    },
+    {
+      "id": "trigonometry",
+      "syllabusCode": "0580",
+      "officialTitle": "Trigonometry",
+      "normalizedTitle": "trigonometry",
+      "order": 6,
+      "description": "Cambridge IGCSE Mathematics 0580 topic 6: Trigonometry.",
+      "syllabusPointIds": [
+        "C6.1",
+        "C6.2",
+        "C6.3",
+        "C6.4",
+        "C6.5",
+        "C6.6",
+        "E6.1",
+        "E6.2",
+        "E6.3",
+        "E6.4",
+        "E6.5",
+        "E6.6"
+      ],
+      "origin": "official-syllabus",
+      "sourceReferences": [
+        {
+          "page": 8,
+          "section": "Content overview"
+        }
+      ]
+    },
+    {
+      "id": "transformations-and-vectors",
+      "syllabusCode": "0580",
+      "officialTitle": "Transformations and vectors",
+      "normalizedTitle": "transformations-and-vectors",
+      "order": 7,
+      "description": "Cambridge IGCSE Mathematics 0580 topic 7: Transformations and vectors.",
+      "syllabusPointIds": [
+        "C7.1",
+        "C7.2",
+        "C7.3",
+        "C7.4",
+        "E7.1",
+        "E7.2",
+        "E7.3",
+        "E7.4"
+      ],
+      "origin": "official-syllabus",
+      "sourceReferences": [
+        {
+          "page": 8,
+          "section": "Content overview"
+        }
+      ]
+    },
+    {
+      "id": "probability",
+      "syllabusCode": "0580",
+      "officialTitle": "Probability",
+      "normalizedTitle": "probability",
+      "order": 8,
+      "description": "Cambridge IGCSE Mathematics 0580 topic 8: Probability.",
+      "syllabusPointIds": [
+        "C8.1",
+        "C8.2",
+        "C8.3",
+        "C8.4",
+        "E8.1",
+        "E8.2",
+        "E8.3",
+        "E8.4"
+      ],
+      "origin": "official-syllabus",
+      "sourceReferences": [
+        {
+          "page": 8,
+          "section": "Content overview"
+        }
+      ]
+    },
+    {
+      "id": "statistics",
+      "syllabusCode": "0580",
+      "officialTitle": "Statistics",
+      "normalizedTitle": "statistics",
+      "order": 9,
+      "description": "Cambridge IGCSE Mathematics 0580 topic 9: Statistics.",
+      "syllabusPointIds": [
+        "C9.1",
+        "C9.2",
+        "C9.3",
+        "C9.4",
+        "C9.5",
+        "C9.6",
+        "C9.7",
+        "E9.1",
+        "E9.2",
+        "E9.3",
+        "E9.4",
+        "E9.5",
+        "E9.6",
+        "E9.7"
+      ],
+      "origin": "official-syllabus",
+      "sourceReferences": [
+        {
+          "page": 8,
+          "section": "Content overview"
+        }
+      ]
+    }
+  ]
+}

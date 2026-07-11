@@ -1,0 +1,12 @@
+{
+  "name": "lattice",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Internal curriculum and past-paper corpus system",
+  "scripts": {
+    "build:0580-taxonomy": "python scripts/build_0580_taxonomy.py",
+    "generate:0580-indexes": "python scripts/generate_0580_indexes.py",
+    "validate:0580-taxonomy": "python scripts/validate_0580_taxonomy.py",
+    "gate1:0580": "python scripts/build_0580_taxonomy.py && python scripts/validate_0580_taxonomy.py"
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "schemaVersion": "1.0",
+  "sharedRequirements": [
+    {
+      "corePointId": "C1.1",
+      "extendedPointId": "E1.1",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C1.2",
+      "extendedPointId": "E1.2",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C1.3",
+      "extendedPointId": "E1.3",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C1.4",
+      "extendedPointId": "E1.4",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C1.6",
+      "extendedPointId": "E1.6",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C1.9",
+      "extendedPointId": "E1.9",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C1.12",
+      "extendedPointId": "E1.12",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C1.15",
+      "extendedPointId": "E1.15",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C1.16",
+      "extendedPointId": "E1.16",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C2.1",
+      "extendedPointId": "E2.1",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C3.1",
+      "extendedPointId": "E3.1",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C3.6",
+      "extendedPointId": "E3.6",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C4.2",
+      "extendedPointId": "E4.2",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C4.3",
+      "extendedPointId": "E4.3",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C5.1",
+      "extendedPointId": "E5.1",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C6.1",
+      "extendedPointId": "E6.1",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C8.2",
+      "extendedPointId": "E8.2",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C8.3",
+      "extendedPointId": "E8.3",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C9.1",
+      "extendedPointId": "E9.1",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C9.4",
+      "extendedPointId": "E9.4",
+      "relationship": "equivalent-wording"
+    },
+    {
+      "corePointId": "C9.5",
+      "extendedPointId": "E9.5",
+      "relationship": "equivalent-wording"
+    }
+  ],
+  "coreOnlyRequirements": [],
+  "extendedOnlyRequirements": [],
+  "extendedBuildsOnCore": [
+    {
+      "corePointId": "C1.5",
+      "extendedPointId": "E1.5",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C1.7",
+      "extendedPointId": "E1.7",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C1.8",
+      "extendedPointId": "E1.8",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C1.11",
+      "extendedPointId": "E1.11",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C1.13",
+      "extendedPointId": "E1.13",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C1.14",
+      "extendedPointId": "E1.14",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C1.17",
+      "extendedPointId": "E1.17",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C1.18",
+      "extendedPointId": "E1.18",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C2.2",
+      "extendedPointId": "E2.2",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C2.3",
+      "extendedPointId": "E2.3",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C2.4",
+      "extendedPointId": "E2.4",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C2.6",
+      "extendedPointId": "E2.6",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C2.7",
+      "extendedPointId": "E2.7",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C2.8",
+      "extendedPointId": "E2.8",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C2.9",
+      "extendedPointId": "E2.9",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C2.10",
+      "extendedPointId": "E2.10",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C2.11",
+      "extendedPointId": "E2.11",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C2.12",
+      "extendedPointId": "E2.12",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C2.13",
+      "extendedPointId": "E2.13",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C3.2",
+      "extendedPointId": "E3.2",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C3.4",
+      "extendedPointId": "E3.4",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C3.5",
+      "extendedPointId": "E3.5",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C3.7",
+      "extendedPointId": "E3.7",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C4.1",
+      "extendedPointId": "E4.1",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C4.4",
+      "extendedPointId": "E4.4",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C4.5",
+      "extendedPointId": "E4.5",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C4.6",
+      "extendedPointId": "E4.6",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C4.7",
+      "extendedPointId": "E4.7",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C4.8",
+      "extendedPointId": "E4.8",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C5.2",
+      "extendedPointId": "E5.2",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C5.3",
+      "extendedPointId": "E5.3",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C5.4",
+      "extendedPointId": "E5.4",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C5.5",
+      "extendedPointId": "E5.5",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C6.2",
+      "extendedPointId": "E6.2",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C6.3",
+      "extendedPointId": "E6.3",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C6.4",
+      "extendedPointId": "E6.4",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C6.5",
+      "extendedPointId": "E6.5",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C6.6",
+      "extendedPointId": "E6.6",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C7.1",
+      "extendedPointId": "E7.1",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C7.2",
+      "extendedPointId": "E7.2",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C7.3",
+      "extendedPointId": "E7.3",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C7.4",
+      "extendedPointId": "E7.4",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C8.1",
+      "extendedPointId": "E8.1",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C8.4",
+      "extendedPointId": "E8.4",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C9.2",
+      "extendedPointId": "E9.2",
+      "relationship": "extended-extends-core",
+      "notes": "Extended statement adds depth beyond Core wording."
+    },
+    {
+      "corePointId": "C9.6",
+      "extendedPointId": "E9.6",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    },
+    {
+      "corePointId": "C9.7",
+      "extendedPointId": "E9.7",
+      "relationship": "extended-builds-on-core-placeholder",
+      "notes": "Core syllabus point is a placeholder; Extended contains assessable content."
+    }
+  ],
+  "uncertainEquivalence": [
+    {
+      "corePointId": "C1.10",
+      "extendedPointId": "E1.10",
+      "coreStatement": "Give upper and lower bounds for data rounded to a \nspecified accuracy.\ne.g. write down the upper bound of a length \nmeasured correct to the nearest metre.",
+      "extendedStatement": "1  Give upper and lower bounds for data rounded \nto a specified accuracy.\n2  Find upper and lower bounds of the results of \ncalculations which have used data rounded to a \nspecified accuracy.\ne.g. wri",
+      "notes": "Wording differs; teacher review required to confirm equivalence."
+    },
+    {
+      "corePointId": "C2.5",
+      "extendedPointId": "E2.5",
+      "coreStatement": "1  Construct simple expressions, equations and \nformulas.\n2  Solve linear equations in one unknown.\n3  Solve simultaneous linear equations in two \nunknowns.\n4  Change the subject of simple formulas.\ne",
+      "extendedStatement": "1  Construct expressions, equations and formulas.\n2  Solve linear equations in one unknown.\n3  Solve fractional equations with numerical and \nlinear algebraic denominators.\n4  Solve simultaneous linea",
+      "notes": "Wording differs; teacher review required to confirm equivalence."
+    },
+    {
+      "corePointId": "C3.3",
+      "extendedPointId": "E3.3",
+      "coreStatement": "Find the gradient of a straight line.\nFrom a grid only.",
+      "extendedStatement": "1  Find the gradient of a straight line.\n2  Calculate the gradient of a straight line from the \ncoordinates of two points on it.",
+      "notes": "Wording differs; teacher review required to confirm equivalence."
+    },
+    {
+      "corePointId": "C9.3",
+      "extendedPointId": "E9.3",
+      "coreStatement": "Calculate the mean, median, mode and range \nfor individual data and distinguish between the \npurposes for which these are used.",
+      "extendedStatement": "1  Calculate the mean, median, mode, quartiles, \nrange and interquartile range for individual data \nand distinguish between the purposes for which \nthese are used.\n2  Calculate an estimate of the mean",
+      "notes": "Wording differs; teacher review required to confirm equivalence."
+    }
+  ]
+}

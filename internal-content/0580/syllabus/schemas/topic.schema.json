@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "lattice://schemas/0580/topic.schema.json",
+  "title": "Lattice Topic Collection",
+  "type": "object",
+  "required": ["schemaVersion", "topics"],
+  "properties": {
+    "schemaVersion": { "type": "string" },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "syllabusCode",
+          "officialTitle",
+          "normalizedTitle",
+          "order",
+          "description",
+          "syllabusPointIds",
+          "origin",
+          "sourceReferences"
+        ],
+        "properties": {
+          "id": { "type": "string" },
+          "syllabusCode": { "type": "string" },
+          "officialTitle": { "type": "string" },
+          "normalizedTitle": { "type": "string" },
+          "order": { "type": "integer", "minimum": 1 },
+          "description": { "type": "string" },
+          "syllabusPointIds": { "type": "array", "items": { "type": "string" } },
+          "origin": { "const": "official-syllabus" },
+          "sourceReferences": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["page", "section"],
+              "properties": {
+                "page": { "type": "integer", "minimum": 1 },
+                "section": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

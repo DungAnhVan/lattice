@@ -1,0 +1,4523 @@
+{
+  "schemaVersion": "1.0",
+  "syllabusPoints": [
+    {
+      "id": "C1.1",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.1",
+      "officialTitle": "Types of number",
+      "officialStatement": "Identify and use:\n• natural numbers\n• integers (positive, zero and negative) \n• prime numbers \n• square numbers \n• cube numbers \n• common factors\n• common multiples\n• rational and irrational numbers\n• reciprocals.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Example tasks include:\n• convert between numbers and words, e.g.\nsix billion is 6 000 000 000\n10 007 is ten thousand and seven \n• express 72 as a product of its prime factors\n• find the highest common factor (HCF) of two \nnumbers\n• find the lowest common multiple (LCM) of two \nnumbers.\n\n13"
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 12,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "identify-and-use",
+        "identify-common-factors",
+        "identify-common-multiples",
+        "identify-cube-numbers",
+        "identify-integers-positive-zero-and-negative",
+        "identify-natural-numbers",
+        "identify-prime-numbers",
+        "identify-rational-and-irrational-numbers",
+        "identify-reciprocals",
+        "identify-square-numbers"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.2",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.2",
+      "officialTitle": "Sets",
+      "officialStatement": "Understand and use set language, notation and",
+      "notes": [
+        "Venn diagrams to describe sets.\nVenn diagrams are limited to two sets.\nThe following set notation will be used:\n• n(A) \nNumber of elements in set A\n• A′  \nComplement of set A\n• Universal set\n• A ∪ B   Union of A and B\n• A ∩ B   Intersection of A and B.\nExample definition of sets: \nA = {x: x is a natural number}\nB = {a, b, c, …}\nC = {x: a ⩽ x ⩽ b}."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 13,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "understand-and-use-set-language-notation-and"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.3",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.3",
+      "officialTitle": "Powers and roots",
+      "officialStatement": "Calculate with the following:\n• squares\n• square roots\n• cubes\n• cube roots\n• other powers and roots of numbers.",
+      "notes": [
+        "Includes recall of squares and their corresponding \nroots from 1 to 15, and recall of cubes and their \ncorresponding roots of 1, 2, 3, 4, 5 and 10, e.g.:\n• Write down the value of 169  .\n• Work out 5\n8\n2\n3\n#\n ."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 13,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-cube-roots",
+        "calculate-cubes",
+        "calculate-other-powers-and-roots-of-numbers",
+        "calculate-square-roots",
+        "calculate-squares",
+        "calculate-with-the-following"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.4",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.4",
+      "officialTitle": "Fractions, decimals and percentages",
+      "officialStatement": "1  Use the language and notation of the following in \nappropriate contexts:\n• \nproper fractions\n• \nimproper fractions\n• \nmixed numbers\n• \ndecimals\n• \npercentages.\n2  Recognise equivalence and convert between \nthese forms.",
+      "notes": [
+        "Candidates are expected to be able to write \nfractions in their simplest form.\nCandidates are not expected to use recurring \ndecimal notation.\nCandidates are not expected to demonstrate the \nconversion of a recurring decimal to a fraction and \nvice versa."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 13,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "recognise-equivalence-and-convert-between-these-forms",
+        "use-the-language-and-notation-of"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.5",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.5",
+      "officialTitle": "Ordering",
+      "officialStatement": "Order quantities by magnitude and demonstrate \nfamiliarity with the symbols =, ≠, >, < , ⩾ and ⩽ .\n\n14",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 13,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "order-quantities-by-magnitude-and-demonstrate"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.6",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.6",
+      "officialTitle": "The four operations",
+      "officialStatement": "Use the four operations for calculations with \nintegers, fractions and decimals, including correct \nordering of operations and use of brackets.",
+      "notes": [
+        "Includes: \n• negative numbers \n• improper fractions \n• mixed numbers\n• practical situations, e.g. temperature changes."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 14,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.6"
+        }
+      ],
+      "atomicSkillIds": [
+        "use-the-four-operations-for-calculations-with"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.7",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.7",
+      "officialTitle": "Indices I",
+      "officialStatement": "1  Understand and use indices (positive, zero and \nnegative integers).\n2  Understand and use the rules of indices.\ne.g. find the value of 7 –2. \ne.g. find the value of 2–3 × 24, (23)2, 23 ÷ 24.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 14,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.7"
+        }
+      ],
+      "atomicSkillIds": [
+        "understand-and-use-indices-positive-zero",
+        "understand-and-use-the-rules-of"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.8",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.8",
+      "officialTitle": "Standard form",
+      "officialStatement": "1  Use the standard form A × 10n where n is a \npositive or negative integer and 1 ⩽ A < 10.\n2  Convert numbers into and out of standard form.\n3  Calculate with values in standard form.",
+      "notes": [
+        "Core candidates are expected to calculate with \nstandard form only on Paper 3."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 14,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.8"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-with-values-in-standard-form",
+        "convert-numbers-into-and-out-of-standard-form",
+        "use-the-standard-form-a-10n"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.9",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.9",
+      "officialTitle": "Estimation",
+      "officialStatement": "1  Round values to a specified degree of accuracy. \n2  Make estimates for calculations involving \nnumbers, quantities and measurements.\n3  Round answers to a reasonable degree of \naccuracy in the context of a given problem.",
+      "notes": [
+        "Includes decimal places and significant figures.\ne.g. write 5764 correct to the nearest thousand.\ne.g. by writing each number correct to 1 significant\nfigure, estimate the value of .\n.\n.\n9 79\n0 765\n41 3\n#\n ."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 14,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.9"
+        }
+      ],
+      "atomicSkillIds": [
+        "make-estimates-for-calculations-involving-numbers",
+        "round-answers-to-a-reasonable-degree",
+        "round-values-to-a-specified-degree-of-accuracy"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.10",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.10",
+      "officialTitle": "Limits of accuracy",
+      "officialStatement": "Give upper and lower bounds for data rounded to a \nspecified accuracy.\ne.g. write down the upper bound of a length \nmeasured correct to the nearest metre.",
+      "notes": [
+        "Candidates are not expected to find the bounds \nof the results of calculations which have used data \nrounded to a specified accuracy.\n\n15"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 14,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.10"
+        }
+      ],
+      "atomicSkillIds": [
+        "give-upper-and-lower-bounds-for-data-rounded-to-a"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.11",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.11",
+      "officialTitle": "Ratio and proportion",
+      "officialStatement": "Understand and use ratio and proportion to:\n• give ratios in their simplest form \n• divide a quantity in a given ratio\n• use proportional reasoning and ratios in \ncontext.\ne.g. 20 : 30 : 40 in its simplest form is 2 : 3 : 4.\ne.g. adapt recipes; use map scales; determine best \nvalue.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 15,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.11"
+        }
+      ],
+      "atomicSkillIds": [
+        "understand-and-use-ratio-and-proportion-to",
+        "understand-divide-a-quantity-in-a-given-ratio",
+        "understand-give-ratios-in-their-simplest-form",
+        "understand-use-proportional-reasoning-and-ratios-in"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.12",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.12",
+      "officialTitle": "Rates",
+      "officialStatement": "1  Use common measures of rate.\n2  Apply other measures of rate.\n3  Solve problems involving average speed.\ne.g. calculate with:\n• hourly rates of pay\n• exchange rates between currencies\n• flow rates\n• fuel consumption.\ne.g. calculate with:\n• pressure\n• density\n• population density.",
+      "notes": [
+        "Required formulas will be given in the question.\nKnowledge of speed/distance/time formula is \nrequired. \ne.g. A cyclist travels 45 km in 3 hours 45 minutes. \nWhat is their average speed?\nNotation used will be, e.g. m/s (metres per second), \ng/cm3 (grams per cubic centimetre)."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 15,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.12"
+        }
+      ],
+      "atomicSkillIds": [
+        "apply-other-measures-of-rate",
+        "solve-problems-involving-average-speed-eg",
+        "use-common-measures-of-rate"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.13",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.13",
+      "officialTitle": "Percentages",
+      "officialStatement": "1  Calculate a given percentage of a quantity.\n2  Express one quantity as a percentage of another. \n3  Calculate percentage increase or decrease.\n4  Calculate with simple and compound interest.\nFormulas are not given. \nPercentage calculations may include:\n• deposit\n• discount\n• profit and loss (as an amount or a percentage)\n• earnings\n• percentages over 100%.\n\n16",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 15,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.13"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-a-given-percentage-of-a-quantity",
+        "calculate-percentage-increase-or-decrease",
+        "calculate-with-simple-and-compound-interest",
+        "express-one-quantity-as-a-percentage-of-another"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.14",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.14",
+      "officialTitle": "Using a calculator",
+      "officialStatement": "1  Use a calculator efficiently.\n2  Enter values appropriately on a calculator.\n3  Interpret the calculator display appropriately.\ne.g. know not to round values within a calculation \nand to only round the final answer.\ne.g. enter 2 hours 30 minutes as 2.5 hours or \n2° 30’ 0’’.\ne.g. in money 4.8 means $4.80; in time 3.25 means \n3 hours 15 minutes.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 16,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.14"
+        }
+      ],
+      "atomicSkillIds": [
+        "enter-values-appropriately-on-a-calculator",
+        "hours-15-minutes",
+        "interpret-the-calculator-display-appropriately-eg",
+        "use-a-calculator-efficiently"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.15",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.15",
+      "officialTitle": "Time",
+      "officialStatement": "1  Calculate with time: seconds (s), minutes (min), \nhours (h), days, weeks, months, years, including \nthe relationship between units.\n2  Calculate times in terms of the 24-hour and \n12-hour clock.\n3  Read clocks and timetables.\n1 year = 365 days.\nIn the 24-hour clock, for example, 3.15 a.m. will be \ndenoted by 03 15 and 3.15 p.m. by 15 15.",
+      "notes": [
+        "Includes problems involving time zones, local times \nand time differences."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 16,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.15"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-times-in-terms-of-the-24-hour-and-12-hour-clock",
+        "calculate-with-time-seconds-s-minutes",
+        "read-clocks-and-timetables",
+        "year-365-days-in-the-24"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.16",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.16",
+      "officialTitle": "Money",
+      "officialStatement": "1  Calculate with money.\n2  Convert from one currency to another.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 16,
+          "section": "Core subject content / Number",
+          "tableRow": "C1.16"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-with-money",
+        "convert-from-one-currency-to-another"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.17",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.17",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 16,
+          "section": "Core subject content / Number"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C1.18",
+      "tier": "core",
+      "topicId": "number",
+      "officialCode": "C1.18",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 16,
+          "section": "Core subject content / Number"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.1",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.1",
+      "officialTitle": "Introduction to algebra",
+      "officialStatement": "1  Know that letters can be used to represent \ngeneralised numbers.\n2  Substitute numbers into expressions and \nformulas.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 17,
+          "section": "Core subject content / Algebra and graphs",
+          "tableRow": "C2.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "know-that-letters-can-be-used",
+        "substitute-numbers-into-expressions-and-formulas"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.2",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.2",
+      "officialTitle": "Algebraic manipulation",
+      "officialStatement": "1  Simplify expressions by collecting like terms.\n2  Expand products of algebraic expressions.\n3  Factorise by extracting common factors.",
+      "notes": [
+        "Simplify means give the answer in its simplest form, \ne.g. 2a + 3b + 5a – 9b = 7a – 6b.\ne.g. expand 3x(2x – 4y).\nIncludes products of two brackets involving one \nvariable, e.g. expand (2x + 1)(x – 4).\nFactorise means factorise fully, \ne.g. 9x2 + 15xy = 3x(3x + 5y)."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 17,
+          "section": "Core subject content / Algebra and graphs",
+          "tableRow": "C2.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "expand-products-of-algebraic-expressions",
+        "factorise-by-extracting-common-factors",
+        "simplify-expressions-by-collecting-like-terms"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.3",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.3",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 17,
+          "section": "Core subject content / Algebra and graphs"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.4",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.4",
+      "officialTitle": "Indices II",
+      "officialStatement": "1  Understand and use indices (positive, zero and \nnegative).\n2  Understand and use the rules of indices.\ne.g. 2x = 32. Find the value of x.\ne.g. simplify:\n• (5x 3) 2\n• 12a 5 ÷ 3a –2\n• 6x 7y 4 × 5x –5y.",
+      "notes": [
+        "Knowledge of logarithms is not required."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 17,
+          "section": "Core subject content / Algebra and graphs",
+          "tableRow": "C2.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "understand-and-use-indices-positive-zero-and-negative",
+        "understand-and-use-the-rules-of"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.5",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.5",
+      "officialTitle": "Equations",
+      "officialStatement": "1  Construct simple expressions, equations and \nformulas.\n2  Solve linear equations in one unknown.\n3  Solve simultaneous linear equations in two \nunknowns.\n4  Change the subject of simple formulas.\ne.g. write an expression for a number that is 2 more \nthan n.",
+      "notes": [
+        "Includes constructing linear simultaneous \nequations.\nExamples include:\n• 3x + 4 = 10\n• 5 – 2x = 3(x + 7).\ne.g. change the subject of formulas where:\n• the subject only appears once\n• there is not a power or root of the subject.\n \n\n18"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 17,
+          "section": "Core subject content / Algebra and graphs",
+          "tableRow": "C2.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "change-the-subject-of-simple-formulas",
+        "construct-simple-expressions-equations-and-formulas",
+        "solve-linear-equations-in-one-unknown",
+        "solve-simultaneous-linear-equations-in-two-unknowns"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.6",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.6",
+      "officialTitle": "Inequalities",
+      "officialStatement": "Represent and interpret inequalities, including on a \nnumber line.",
+      "notes": [
+        "When representing and interpreting inequalities on \na number line:\n• open circles should be used to represent strict \ninequalities (<, >)\n• closed circles should be used to represent \ninclusive inequalities (⩽, ⩾) \ne.g. – 3 ⩽ x < 1\n– 3 – 2 – 1\n0\n1\nx"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 18,
+          "section": "Core subject content / Algebra and graphs",
+          "tableRow": "C2.6"
+        }
+      ],
+      "atomicSkillIds": [
+        "represent-and-interpret-inequalities-including-on-a"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.7",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.7",
+      "officialTitle": "Sequences",
+      "officialStatement": "1  Continue a given number sequence or pattern. \n2  Recognise patterns in sequences, including the \nterm-to-term rule, and relationships between \ndifferent sequences.\n3  Find and use the nth term of the following \nsequences:\n(a)  linear\n(b)  simple quadratic\n(c)  simple cubic.\ne.g. write the next two terms in this sequence: \n1, 3, 6, 10, 15, … , …\ne.g. find the nth term of 2, 5, 10, 17",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 18,
+          "section": "Core subject content / Algebra and graphs",
+          "tableRow": "C2.7"
+        }
+      ],
+      "atomicSkillIds": [
+        "continue-a-given-number-sequence-or-pattern",
+        "find-and-use-the-nth-term",
+        "recognise-patterns-in-sequences-including-the"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.8",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.8",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 18,
+          "section": "Core subject content / Algebra and graphs"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.9",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.9",
+      "officialTitle": "Graphs in practical situations",
+      "officialStatement": "1  Use and interpret graphs in practical situations \nincluding travel graphs and conversion graphs. \n2  Draw graphs from given data.\ne.g. interpret the gradient of a straight-line graph as \na rate of change.\ne.g. draw a distance–time graph to represent a \njourney.\n\n19",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 18,
+          "section": "Core subject content / Algebra and graphs",
+          "tableRow": "C2.9"
+        }
+      ],
+      "atomicSkillIds": [
+        "draw-graphs-from-given-data-eg",
+        "use-and-interpret-graphs-in-practical"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.10",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.10",
+      "officialTitle": "Graphs of functions",
+      "officialStatement": "1  Construct tables of values, and draw, recognise \nand interpret graphs for functions of the following \nforms:\n• ax + b\n •\n± x2 + ax + b\n• x\na  (x ≠ 0)\n  where a and b are integer constants.\n2  Solve associated equations graphically, including \nfinding and interpreting roots by graphical \nmethods.\ne.g. find the intersection of a line and a curve.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 19,
+          "section": "Core subject content / Algebra and graphs",
+          "tableRow": "C2.10"
+        }
+      ],
+      "atomicSkillIds": [
+        "construct-tables-of-values-and-draw",
+        "solve-associated-equations-graphically-including-finding"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.11",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.11",
+      "officialTitle": "Sketching curves",
+      "officialStatement": "Recognise, sketch and interpret graphs of the \nfollowing functions:\n(a)  linear \n(b)  quadratic.",
+      "notes": [
+        "Knowledge of symmetry and roots is required. \nKnowledge of turning points is not required."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 19,
+          "section": "Core subject content / Algebra and graphs",
+          "tableRow": "C2.11"
+        }
+      ],
+      "atomicSkillIds": [
+        "recognise-sketch-and-interpret-graphs-of-the"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.12",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.12",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 19,
+          "section": "Core subject content / Algebra and graphs"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C2.13",
+      "tier": "core",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "C2.13",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 19,
+          "section": "Core subject content / Algebra and graphs"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C3.1",
+      "tier": "core",
+      "topicId": "coordinate-geometry",
+      "officialCode": "C3.1",
+      "officialTitle": "Coordinates",
+      "officialStatement": "Use and interpret Cartesian coordinates in \ntwo dimensions.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 20,
+          "section": "Core subject content / Coordinate geometry",
+          "tableRow": "C3.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "use-and-interpret-cartesian-coordinates-in"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C3.2",
+      "tier": "core",
+      "topicId": "coordinate-geometry",
+      "officialCode": "C3.2",
+      "officialTitle": "Drawing linear graphs",
+      "officialStatement": "Draw straight-line graphs for linear equations.\nEquations will be given in the form y = mx + c \n(e.g. y = –2x + 5), unless a table of values is given.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 20,
+          "section": "Core subject content / Coordinate geometry",
+          "tableRow": "C3.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "draw-straight-line-graphs-for-linear-equations"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C3.3",
+      "tier": "core",
+      "topicId": "coordinate-geometry",
+      "officialCode": "C3.3",
+      "officialTitle": "Gradient of linear graphs",
+      "officialStatement": "Find the gradient of a straight line.\nFrom a grid only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 20,
+          "section": "Core subject content / Coordinate geometry",
+          "tableRow": "C3.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "find-the-gradient-of-a-straight-line"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C3.4",
+      "tier": "core",
+      "topicId": "coordinate-geometry",
+      "officialCode": "C3.4",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 20,
+          "section": "Core subject content / Coordinate geometry"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C3.5",
+      "tier": "core",
+      "topicId": "coordinate-geometry",
+      "officialCode": "C3.5",
+      "officialTitle": "Equations of linear graphs",
+      "officialStatement": "Interpret and obtain the equation of a straight-line \ngraph in the form y = mx + c.\nQuestions may:\n• use and request lines in the forms\ny = mx + c \nx = k\n• involve finding the equation when the graph is \ngiven\n• ask for the gradient or y-intercept of a graph \nfrom an equation, e.g. find the gradient and \ny-intercept of the graph with the equation \ny = 6x + 3.",
+      "notes": [
+        "Candidates are expected to give equations of a line \nin a fully simplified form."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 20,
+          "section": "Core subject content / Coordinate geometry",
+          "tableRow": "C3.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "ask-for-the-gradient-or-y-intercept-of-a-graph",
+        "involve-finding-the-equation-when-the-graph-is",
+        "use-and-request-lines-in-the-forms"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C3.6",
+      "tier": "core",
+      "topicId": "coordinate-geometry",
+      "officialCode": "C3.6",
+      "officialTitle": "Parallel lines",
+      "officialStatement": "Find the gradient and equation of a straight line \nparallel to a given line.\ne.g. find the equation of the line parallel to \ny = 4x – 1 that passes through (1, –3).",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 20,
+          "section": "Core subject content / Coordinate geometry",
+          "tableRow": "C3.6"
+        }
+      ],
+      "atomicSkillIds": [
+        "find-the-gradient-and-equation-of-a-straight-line"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C3.7",
+      "tier": "core",
+      "topicId": "coordinate-geometry",
+      "officialCode": "C3.7",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 20,
+          "section": "Core subject content / Coordinate geometry"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C4.1",
+      "tier": "core",
+      "topicId": "geometry",
+      "officialCode": "C4.1",
+      "officialTitle": "Geometrical terms",
+      "officialStatement": "1  Use and interpret the following geometrical \nterms:\n• \npoint\n• \nvertex\n• \nline\n• \nparallel\n• \nperpendicular\n• \nbearing\n• \nright angle\n• \nacute, obtuse and reflex angles\n• \ninterior and exterior angles\n• \nsimilar \n• \ncongruent\n• \nscale factor.\n2  Use and interpret the vocabulary of:\n• \ntriangles\n• \nspecial quadrilaterals\n• \npolygons\n• \nnets \n• \nsimple solids.\n3  Use and interpret the vocabulary of a circle.\nSimple solids:\n• cube\n• cuboid\n• prism\n• cylinder\n• pyramid\n• cone\n• sphere (term ‘hemisphere’ not required)\n• face\n• surface\n• edge.",
+      "notes": [
+        "Candidates are not expected to show that two \nshapes are congruent.\nIncludes the following terms:\nTriangles: \n• equilateral \n• isosceles \n• scalene\n• right-angled.\nQuadrilaterals:\n• square\n• rectangle\n• kite\n• rhombus\n• parallelogram\n• trapezium. \nPolygons:\n• regular and irregular polygons\n• pentagon\n• hexagon\n• octagon\n• decagon.\ncontinued\n\n22",
+        "Includes the following terms: \n• centre\n• radius (plural radii)\n• diameter\n• circumference\n• semicircle\n• chord\n• tangent\n• arc\n• sector\n• segment.",
+        "Includes the following terms: \n• centre\n• radius (plural radii)\n• diameter\n• circumference\n• semicircle\n• chord\n• tangent\n• arc\n• sector\n• segment.",
+        "Includes the following terms: \n• centre\n• radius (plural radii)\n• diameter\n• circumference\n• semicircle\n• chord\n• tangent\n• arc\n• sector\n• segment.",
+        "Includes the following terms: \n• centre\n• radius (plural radii)\n• diameter\n• circumference\n• semicircle\n• chord\n• tangent\n• arc\n• sector\n• segment."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 21,
+          "section": "Core subject content / Geometry",
+          "tableRow": "C4.1"
+        },
+        {
+          "page": 21,
+          "section": "Core subject content / Geometry (continued)",
+          "tableRow": "C4.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "use-and-interpret-the-following-geometrical",
+        "use-and-interpret-the-vocabulary-of",
+        "use-and-interpret-the-vocabulary-of-2"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C4.2",
+      "tier": "core",
+      "topicId": "geometry",
+      "officialCode": "C4.2",
+      "officialTitle": "Geometrical constructions",
+      "officialStatement": "1  Measure and draw lines and angles.\n2  Construct a triangle, given the lengths of all \nsides, using a ruler and pair of compasses only.\n3  Draw, use and interpret nets.\nA ruler should be used for all straight edges.\nConstructions of perpendicular bisectors and angle \nbisectors are not required. \ne.g. construct a rhombus by drawing two triangles. \nConstruction arcs must be shown.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Examples include: \n• draw nets of cubes, cuboids, prisms and \npyramids\n• use measurements from nets to calculate \nvolumes and surface areas.\n\n23"
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 22,
+          "section": "Core subject content / Geometry",
+          "tableRow": "C4.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "construct-a-triangle-given-the-lengths",
+        "draw-use-and-interpret-nets-a",
+        "measure-and-draw-lines-and-angles"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C4.3",
+      "tier": "core",
+      "topicId": "geometry",
+      "officialCode": "C4.3",
+      "officialTitle": "Scale drawings",
+      "officialStatement": "1  Draw and interpret scale drawings.\n2  Use and interpret three-figure bearings.",
+      "notes": [
+        "A ruler must be used for all straight edges.\nBearings are measured clockwise from north \n(000° to 360°). \ne.g. find the bearing of A from B if the bearing of B \nfrom A is 025°.\nIncludes an understanding of the terms north, east, \nsouth and west. \ne.g. point D is due east of point C."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 23,
+          "section": "Core subject content / Geometry",
+          "tableRow": "C4.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "draw-and-interpret-scale-drawings",
+        "use-and-interpret-three-figure-bearings"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C4.4",
+      "tier": "core",
+      "topicId": "geometry",
+      "officialCode": "C4.4",
+      "officialTitle": "Similarity",
+      "officialStatement": "Calculate lengths of similar shapes.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 23,
+          "section": "Core subject content / Geometry",
+          "tableRow": "C4.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-lengths-of-similar-shapes"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C4.5",
+      "tier": "core",
+      "topicId": "geometry",
+      "officialCode": "C4.5",
+      "officialTitle": "Symmetry",
+      "officialStatement": "Recognise line symmetry and order of rotational \nsymmetry in two dimensions.",
+      "notes": [
+        "Includes properties of triangles, quadrilaterals and \npolygons directly related to their symmetries."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 23,
+          "section": "Core subject content / Geometry",
+          "tableRow": "C4.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "recognise-line-symmetry-and-order-of-rotational"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C4.6",
+      "tier": "core",
+      "topicId": "geometry",
+      "officialCode": "C4.6",
+      "officialTitle": "Angles",
+      "officialStatement": "1  Calculate unknown angles and give simple \nexplanations using the following geometrical \nproperties:\n•  sum of angles at a point = 360°\n•  sum of angles at a point on a straight line = 180°\n•  vertically opposite angles are equal\n•  angle sum of a triangle = 180° and angle sum \nof a quadrilateral = 360°.\n2  Calculate unknown angles and give geometric \nexplanations for angles formed within parallel lines:\n•  corresponding angles are equal\n•  alternate angles are equal \n•  co-interior angles sum to 180° (supplementary). \n3  Know and use angle properties of regular \npolygons.",
+      "notes": [
+        "Knowledge of three-letter notation for angles is \nrequired, e.g. angle ABC. Candidates are expected \nto use the correct geometrical terminology when \ngiving reasons for answers.\nIncludes exterior and interior angles, and angle \nsum.\n\n24"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 23,
+          "section": "Core subject content / Geometry",
+          "tableRow": "C4.6"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-unknown-angles-and-give-geometric",
+        "calculate-unknown-angles-and-give-simple",
+        "know-and-use-angle-properties-of-regular-polygons"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C4.7",
+      "tier": "core",
+      "topicId": "geometry",
+      "officialCode": "C4.7",
+      "officialTitle": "Circle theorems",
+      "officialStatement": "Calculate unknown angles and give explanations \nusing the following geometrical properties of circles:\n• angle in a semicircle = 90°\n• angle between tangent and radius = 90°.\nCandidates will be expected to use the geometrical \nproperties listed in the syllabus when giving \nreasons for answers.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 24,
+          "section": "Core subject content / Geometry",
+          "tableRow": "C4.7"
+        }
+      ],
+      "atomicSkillIds": [
+        "angle-between-tangent-and-radius-90",
+        "angle-in-a-semicircle-90"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C4.8",
+      "tier": "core",
+      "topicId": "geometry",
+      "officialCode": "C4.8",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 24,
+          "section": "Core subject content / Geometry"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C5.1",
+      "tier": "core",
+      "topicId": "mensuration",
+      "officialCode": "C5.1",
+      "officialTitle": "Units of measure",
+      "officialStatement": "Use metric units of mass, length, area, volume \nand capacity in practical situations and convert \nquantities into larger or smaller units.\nUnits include: \n• mm, cm, m, km\n• mm2, cm2, m2, km2\n• mm3, cm3, m3\n• ml, l\n• g, kg. \nConversion between units includes: \n• between different units of area, e.g. cm2 ↔ m2 \n• between units of volume and capacity, \ne.g. m3 ↔ litres.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 25,
+          "section": "Core subject content / Mensuration",
+          "tableRow": "C5.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "between-different-units-of-area-eg-cm2-m2",
+        "between-units-of-volume-and-capacity",
+        "mm-cm-m-km",
+        "mm2-cm2-m2-km2",
+        "mm3-cm3-m3"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C5.2",
+      "tier": "core",
+      "topicId": "mensuration",
+      "officialCode": "C5.2",
+      "officialTitle": "Area and perimeter",
+      "officialStatement": "Carry out calculations involving the perimeter and \narea of a rectangle, triangle, parallelogram and \ntrapezium. \nExcept for area of a triangle, formulas are not \ngiven.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 25,
+          "section": "Core subject content / Mensuration",
+          "tableRow": "C5.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "carry-out-calculations-involving-the-perimeter-and"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C5.3",
+      "tier": "core",
+      "topicId": "mensuration",
+      "officialCode": "C5.3",
+      "officialTitle": "Circles, arcs and sectors",
+      "officialStatement": "1  Carry out calculations involving the \ncircumference and area of a circle.\n2  Carry out calculations involving arc length and \nsector area as fractions of the circumference and \narea of a circle, where the sector angle is a factor \nof 360°.\nAnswers may be asked for in terms of π.\nFormulas are given in the List of formulas.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 25,
+          "section": "Core subject content / Mensuration",
+          "tableRow": "C5.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "carry-out-calculations-involving-arc-length",
+        "carry-out-calculations-involving-the-circumference"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C5.4",
+      "tier": "core",
+      "topicId": "mensuration",
+      "officialCode": "C5.4",
+      "officialTitle": "Surface area and volume",
+      "officialStatement": "Carry out calculations and solve problems involving \nthe surface area and volume of a:\n• cuboid\n• prism\n• cylinder\n• sphere\n• pyramid\n• cone.\nAnswers may be asked for in terms of π.\nThe following formulas are given in the List of \nformulas:\n• curved surface area of a cylinder \n• curved surface area of a cone \n• surface area of a sphere \n• volume of a prism \n• volume of a pyramid \n• volume of a cylinder \n• volume of a cone\n• volume of a sphere.\nThe term prism refers to any solid with a uniform \ncross-section, e.g. a cylindrical sector.\n\n26",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 25,
+          "section": "Core subject content / Mensuration",
+          "tableRow": "C5.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "cuboid",
+        "curved-surface-area-of-a-cone",
+        "curved-surface-area-of-a-cylinder",
+        "cylinder",
+        "pyramid",
+        "sphere",
+        "surface-area-of-a-sphere",
+        "volume-of-a-cone",
+        "volume-of-a-cylinder",
+        "volume-of-a-prism",
+        "volume-of-a-pyramid",
+        "volume-of-a-sphere"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C5.5",
+      "tier": "core",
+      "topicId": "mensuration",
+      "officialCode": "C5.5",
+      "officialTitle": "Compound shapes and parts of shapes",
+      "officialStatement": "1  Carry out calculations and solve problems \ninvolving perimeters and areas of:\n•  compound shapes\n•  parts of shapes.\n2  Carry out calculations and solve problems \ninvolving surface areas and volumes of:\n•  compound solids\n•  parts of solids.\nAnswers may be asked for in terms of π. \ne.g. find the volume of half of a sphere.\n\n27",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 26,
+          "section": "Core subject content / Mensuration",
+          "tableRow": "C5.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "carry-out-calculations-and-solve-problems",
+        "carry-out-calculations-and-solve-problems-2"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C6.1",
+      "tier": "core",
+      "topicId": "trigonometry",
+      "officialCode": "C6.1",
+      "officialTitle": "Pythagoras’ theorem",
+      "officialStatement": "Know and use Pythagoras’ theorem.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 27,
+          "section": "Core subject content / Trigonometry",
+          "tableRow": "C6.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "know-and-use-pythagoras-theorem"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C6.2",
+      "tier": "core",
+      "topicId": "trigonometry",
+      "officialCode": "C6.2",
+      "officialTitle": "Right-angled triangles",
+      "officialStatement": "1  Know and use the sine, cosine and tangent \nratios for acute angles in calculations involving \nsides and angles of a right-angled triangle.\n2  Solve problems in two dimensions using \nPythagoras’ theorem and trigonometry.",
+      "notes": [
+        "Angles will be given in degrees and answers should \nbe written in degrees, with decimals correct to one \ndecimal place. \nKnowledge of bearings may be required."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 27,
+          "section": "Core subject content / Trigonometry",
+          "tableRow": "C6.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "know-and-use-the-sine-cosine",
+        "solve-problems-in-two-dimensions-using"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C6.3",
+      "tier": "core",
+      "topicId": "trigonometry",
+      "officialCode": "C6.3",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 27,
+          "section": "Core subject content / Trigonometry"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C6.4",
+      "tier": "core",
+      "topicId": "trigonometry",
+      "officialCode": "C6.4",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 27,
+          "section": "Core subject content / Trigonometry"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C6.5",
+      "tier": "core",
+      "topicId": "trigonometry",
+      "officialCode": "C6.5",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 27,
+          "section": "Core subject content / Trigonometry"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C6.6",
+      "tier": "core",
+      "topicId": "trigonometry",
+      "officialCode": "C6.6",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 27,
+          "section": "Core subject content / Trigonometry"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C7.1",
+      "tier": "core",
+      "topicId": "transformations-and-vectors",
+      "officialCode": "C7.1",
+      "officialTitle": "Transformations",
+      "officialStatement": "Recognise, describe and draw the following \ntransformations:\n1  Reflection of a shape in a vertical or horizontal \nline.\n2  Rotation of a shape about the origin, vertices \nor midpoints of edges of the shape, through \nmultiples of 90°.\n3  Enlargement of a shape from a centre by a scale \nfactor.\n4  Translation of a shape by a vector x\ny\nJ\nL\nKK\nN\nP\nOO.",
+      "notes": [
+        "Questions will not involve combinations of \ntransformations. A ruler must be used for all straight \nedges.\nPositive and fractional scale factors only."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 28,
+          "section": "Core subject content / Transformations and vectors",
+          "tableRow": "C7.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "enlargement-of-a-shape-from-a-centre-by-a-scale-factor",
+        "reflection-of-a-shape-in-a-vertical-or-horizontal-line",
+        "rotation-of-a-shape-about-the",
+        "translation-of-a-shape-by-a-vector-x-y-j-l-kk-n-p-oo"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C7.2",
+      "tier": "core",
+      "topicId": "transformations-and-vectors",
+      "officialCode": "C7.2",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 28,
+          "section": "Core subject content / Transformations and vectors"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C7.3",
+      "tier": "core",
+      "topicId": "transformations-and-vectors",
+      "officialCode": "C7.3",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 28,
+          "section": "Core subject content / Transformations and vectors"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C7.4",
+      "tier": "core",
+      "topicId": "transformations-and-vectors",
+      "officialCode": "C7.4",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 28,
+          "section": "Core subject content / Transformations and vectors"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C8.1",
+      "tier": "core",
+      "topicId": "probability",
+      "officialCode": "C8.1",
+      "officialTitle": "Introduction to probability",
+      "officialStatement": "1  Understand and use the probability scale from \n0 to 1.\n2  Calculate the probability of a single event. \n3  Understand that the probability of an event \nnot occurring = 1 – the probability of the event \noccurring.\nProbability notation is not required.",
+      "notes": [
+        "Probabilities should be given as a fraction, decimal \nor percentage. Problems may require using \ninformation from tables, graphs or Venn diagrams \n(limited to two sets). \ne.g. The probability that a counter is blue is 0.8. \nWhat is the probability that it is not blue?"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 29,
+          "section": "Core subject content / Probability",
+          "tableRow": "C8.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-the-probability-of-a-single-event",
+        "understand-and-use-the-probability-scale-from",
+        "understand-that-the-probability-of-an"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C8.2",
+      "tier": "core",
+      "topicId": "probability",
+      "officialCode": "C8.2",
+      "officialTitle": "Relative and expected frequencies",
+      "officialStatement": "1  Understand relative frequency as an estimate of \nprobability.\n2  Calculate expected frequencies.\ne.g. use results of experiments with a spinner to \nestimate the probability of a given outcome.\ne.g. use probability to estimate an expected value \nfrom a population.",
+      "notes": [
+        "Includes understanding what is meant by fair, bias \nand random."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 29,
+          "section": "Core subject content / Probability",
+          "tableRow": "C8.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-expected-frequencies-eg-use-results",
+        "understand-relative-frequency-as-an-estimate-of-probability"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C8.3",
+      "tier": "core",
+      "topicId": "probability",
+      "officialCode": "C8.3",
+      "officialTitle": "Probability of combined events",
+      "officialStatement": "Calculate the probability of combined events using, \nwhere appropriate:\n• sample space diagrams\n• Venn diagrams\n• tree diagrams.",
+      "notes": [
+        "Combined events will only be with replacement.\nVenn diagrams will be limited to two sets.\nIn tree diagrams, outcomes will be written at the \nend of the branches and probabilities by the side of \nthe branches."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 29,
+          "section": "Core subject content / Probability",
+          "tableRow": "C8.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "sample-space-diagrams",
+        "tree-diagrams",
+        "venn-diagrams"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C8.4",
+      "tier": "core",
+      "topicId": "probability",
+      "officialCode": "C8.4",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 29,
+          "section": "Core subject content / Probability"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C9.1",
+      "tier": "core",
+      "topicId": "statistics",
+      "officialCode": "C9.1",
+      "officialTitle": "Classifying statistical data",
+      "officialStatement": "Classify and tabulate statistical data.\ne.g. tally tables, two-way tables.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 30,
+          "section": "Core subject content / Statistics",
+          "tableRow": "C9.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "classify-and-tabulate-statistical-data"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C9.2",
+      "tier": "core",
+      "topicId": "statistics",
+      "officialCode": "C9.2",
+      "officialTitle": "Interpreting statistical data",
+      "officialStatement": "1  Read, interpret and draw inferences from tables \nand statistical diagrams.\n2  Compare sets of data using tables, graphs and \nstatistical measures.\n3  Appreciate restrictions on drawing conclusions \nfrom given data.\ne.g. compare averages and ranges between two \ndata sets.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 30,
+          "section": "Core subject content / Statistics",
+          "tableRow": "C9.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "appreciate-restrictions-on-drawing-conclusions-from",
+        "compare-sets-of-data-using-tables",
+        "read-interpret-and-draw-inferences-from"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C9.3",
+      "tier": "core",
+      "topicId": "statistics",
+      "officialCode": "C9.3",
+      "officialTitle": "Averages and range",
+      "officialStatement": "Calculate the mean, median, mode and range \nfor individual data and distinguish between the \npurposes for which these are used.",
+      "notes": [
+        "Data may be in a list or frequency table, but will not \nbe grouped."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 30,
+          "section": "Core subject content / Statistics",
+          "tableRow": "C9.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-the-mean-median-mode-and-range"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C9.4",
+      "tier": "core",
+      "topicId": "statistics",
+      "officialCode": "C9.4",
+      "officialTitle": "Statistical charts and diagrams",
+      "officialStatement": "Draw and interpret:\n(a)   bar charts\n(b)  pie charts\n(c)   pictograms\n(d)  stem-and-leaf diagrams\n(e)   simple frequency distributions.",
+      "notes": [
+        "Includes composite (stacked) and dual (side-by-\nside) bar charts. \nStem-and-leaf diagrams should have ordered data \nwith a key.\n\n31"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 30,
+          "section": "Core subject content / Statistics",
+          "tableRow": "C9.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "draw-and-interpret"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C9.5",
+      "tier": "core",
+      "topicId": "statistics",
+      "officialCode": "C9.5",
+      "officialTitle": "Scatter diagrams",
+      "officialStatement": "1  Draw and interpret scatter diagrams.\n2  Understand what is meant by positive, negative \nand zero correlation.\n3  Draw by eye, interpret and use a straight line of \nbest fit.",
+      "notes": [
+        "Plotted points should be clearly marked, for \nexample as small crosses (×).\nA line of best fit:\n• should be a single ruled line drawn by \ninspection\n• should extend across the full data set\n• does not need to coincide exactly with any of \nthe points but there should be a roughly even \ndistribution of points either side of the line over \nits entire length."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 31,
+          "section": "Core subject content / Statistics",
+          "tableRow": "C9.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "draw-and-interpret-scatter-diagrams",
+        "draw-by-eye-interpret-and-use-a-straight-line-of-best-fit",
+        "understand-what-is-meant-by-positive"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C9.6",
+      "tier": "core",
+      "topicId": "statistics",
+      "officialCode": "C9.6",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 31,
+          "section": "Core subject content / Statistics"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "C9.7",
+      "tier": "core",
+      "topicId": "statistics",
+      "officialCode": "C9.7",
+      "officialTitle": "Extended content only",
+      "officialStatement": "Extended content only.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": true,
+      "sourceReferences": [
+        {
+          "page": 31,
+          "section": "Core subject content / Statistics"
+        }
+      ],
+      "atomicSkillIds": [],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.1",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.1",
+      "officialTitle": "Types of number",
+      "officialStatement": "Identify and use:\n• natural numbers\n• integers (positive, zero and negative) \n• prime numbers \n• square numbers \n• cube numbers \n• common factors\n• common multiples\n• rational and irrational numbers\n• reciprocals.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Example tasks include: \n• convert between numbers and words, e.g.\nsix billion is 6 000 000 000\n10 007 is ten thousand and seven \n• express 72 as a product of its prime factors\n• find the highest common factor (HCF) of two \nnumbers\n• find the lowest common multiple (LCM) of two \nnumbers."
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 32,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "identify-and-use",
+        "identify-common-factors",
+        "identify-common-multiples",
+        "identify-cube-numbers",
+        "identify-integers-positive-zero-and-negative",
+        "identify-natural-numbers",
+        "identify-prime-numbers",
+        "identify-rational-and-irrational-numbers",
+        "identify-reciprocals",
+        "identify-square-numbers"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.2",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.2",
+      "officialTitle": "Sets",
+      "officialStatement": "Understand and use set language, notation and",
+      "notes": [
+        "Venn diagrams to describe sets and represent \nrelationships between sets.\nVenn diagrams are limited to two or three sets.\nThe following set notation will be used:\n• n(A)  \nNumber of elements in set A\n• ∈ \n“… is an element of …” \n• ∉ \n“… is not an element of …”\n• A′  \nComplement of set A\n• ∅ \nThe empty set\n• Universal set\n• A ⊆ B   A is a subset of B\n• A ⊈ B   A is not a subset of B\n• A ∪ B   Union of A and B\n• A ∩ B   Intersection of A and B.\nExample definition of sets: \nA = {x: x is a natural number}\nB = {(x, y): y = mx + c}\nC = {x: a ⩽ x ⩽ b}\nD = {a, b, c, …}."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 32,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "understand-and-use-set-language-notation-and"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.3",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.3",
+      "officialTitle": "Powers and roots",
+      "officialStatement": "Calculate with the following:\n• squares\n• square roots\n• cubes\n• cube roots\n• other powers and roots of numbers.",
+      "notes": [
+        "Includes recall of squares and their corresponding \nroots from 1 to 15, and recall of cubes and their \ncorresponding roots of 1, 2, 3, 4, 5 and 10, e.g.:\n• Write down the value of 169  . \n• Work out 5\n8\n2\n3\n#\n .\n\n33"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 32,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-cube-roots",
+        "calculate-cubes",
+        "calculate-other-powers-and-roots-of-numbers",
+        "calculate-square-roots",
+        "calculate-squares",
+        "calculate-with-the-following"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.4",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.4",
+      "officialTitle": "Fractions, decimals and percentages",
+      "officialStatement": "1  Use the language and notation of the following in \nappropriate contexts: \n• \nproper fractions\n• \nimproper fractions\n• \nmixed numbers\n• \ndecimals\n• \npercentages.\n2  Recognise equivalence and convert between \nthese forms.",
+      "notes": [
+        "Candidates are expected to be able to write \nfractions in their simplest form.\nRecurring decimal notation is required, e.g. \n• .\n.\n0 17\n0 1777f\n=\no\n \n.\n.\n0 123\n0 1232323f\n=\no o\n \n• .\n.\n0 123\n0 123123f\n=\n  \nIncludes converting between recurring decimals \nand fractions and vice versa, \ne.g. write .0 17o  as a fraction."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 33,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "recognise-equivalence-and-convert-between-these-forms",
+        "use-the-language-and-notation-of"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.5",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.5",
+      "officialTitle": "Ordering",
+      "officialStatement": "Order quantities by magnitude and demonstrate \nfamiliarity with the symbols =, ≠, >, < , ⩾ and ⩽.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 33,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "order-quantities-by-magnitude-and-demonstrate"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.6",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.6",
+      "officialTitle": "The four operations",
+      "officialStatement": "Use the four operations for calculations with \nintegers, fractions and decimals, including correct \nordering of operations and use of brackets.",
+      "notes": [
+        "Includes:\n• negative numbers \n• improper fractions \n• mixed numbers\n• practical situations, e.g. temperature changes."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 33,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.6"
+        }
+      ],
+      "atomicSkillIds": [
+        "use-the-four-operations-for-calculations-with"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.7",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.7",
+      "officialTitle": "Indices I",
+      "officialStatement": "1  Understand and use indices (positive, zero, \nnegative, and fractional).\n2  Understand and use the rules of indices.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Examples include:\n• 6\n6\n2\n1\n=\n \n• 16\n16\n4\n4\n1\n=\n \n• find the value of 7 –2, 81 2\n1\n, 8\n3\n2\n-  .\ne.g. find the value of 2–3 × 24, (23)2, 23 ÷ 24."
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 33,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.7"
+        }
+      ],
+      "atomicSkillIds": [
+        "understand-and-use-indices-positive-zero",
+        "understand-and-use-the-rules-of-indices"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.8",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.8",
+      "officialTitle": "Standard form",
+      "officialStatement": "1  Use the standard form A × 10n where n is a \npositive or negative integer and 1 ⩽ A < 10.\n2  Convert numbers into and out of standard form.\n3  Calculate with values in standard form.\n\n34",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 33,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.8"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-with-values-in-standard-form",
+        "convert-numbers-into-and-out-of-standard-form",
+        "use-the-standard-form-a-10n"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.9",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.9",
+      "officialTitle": "Estimation",
+      "officialStatement": "1  Round values to a specified degree of accuracy. \n2  Make estimates for calculations involving \nnumbers, quantities and measurements.\n3  Round answers to a reasonable degree of \naccuracy in the context of a given problem.",
+      "notes": [
+        "Includes decimal places and significant figures.\ne.g. write 5764 correct to the nearest thousand.\ne.g. by writing each number correct to 1 significant \nfigure, estimate the value of \n.\n.\n.\n9 79\n0 765\n41 3\n#\n ."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 34,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.9"
+        }
+      ],
+      "atomicSkillIds": [
+        "make-estimates-for-calculations-involving-numbers",
+        "round-answers-to-a-reasonable-degree",
+        "round-values-to-a-specified-degree-of-accuracy"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.10",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.10",
+      "officialTitle": "Limits of accuracy",
+      "officialStatement": "1  Give upper and lower bounds for data rounded \nto a specified accuracy.\n2  Find upper and lower bounds of the results of \ncalculations which have used data rounded to a \nspecified accuracy.\ne.g. write down the upper bound of a length \nmeasured correct to the nearest metre.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Example calculations include:\n• calculate the upper bound of the perimeter \nor the area of a rectangle given dimensions \nmeasured to the nearest centimetre\n• find the lower bound of the speed given \nrounded values of distance and time."
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 34,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.10"
+        }
+      ],
+      "atomicSkillIds": [
+        "find-upper-and-lower-bounds-of",
+        "give-upper-and-lower-bounds-for"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.11",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.11",
+      "officialTitle": "Ratio and proportion",
+      "officialStatement": "Understand and use ratio and proportion to:\n• give ratios in their simplest form \n• divide a quantity in a given ratio\n• use proportional reasoning and ratios in \ncontext.\ne.g. 20 : 30 : 40 in its simplest form is 2 : 3 : 4.\ne.g. adapt recipes; use map scales; determine best \nvalue.\n\n35",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 34,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.11"
+        }
+      ],
+      "atomicSkillIds": [
+        "understand-and-use-ratio-and-proportion-to",
+        "understand-divide-a-quantity-in-a-given-ratio",
+        "understand-give-ratios-in-their-simplest-form",
+        "understand-use-proportional-reasoning-and-ratios-in"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.12",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.12",
+      "officialTitle": "Rates",
+      "officialStatement": "1  Use common measures of rate.\n2  Apply other measures of rate. \n3  Solve problems involving average speed.\ne.g. calculate with:\n• hourly rates of pay\n• exchange rates between currencies\n• flow rates\n• fuel consumption.\ne.g. calculate with:\n• pressure\n• density\n• population density.",
+      "notes": [
+        "Required formulas will be given in the question.\nKnowledge of speed/distance/time formula is \nrequired. \ne.g. A cyclist travels 45 km in 3 hours 45 minutes. \nWhat is their average speed?\nNotation used will be, e.g. m/s (metres per second), \ng/cm3 (grams per cubic centimetre)."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 35,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.12"
+        }
+      ],
+      "atomicSkillIds": [
+        "apply-other-measures-of-rate",
+        "solve-problems-involving-average-speed-eg",
+        "use-common-measures-of-rate"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.13",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.13",
+      "officialTitle": "Percentages",
+      "officialStatement": "1  Calculate a given percentage of a quantity.\n2  Express one quantity as a percentage of another.\n3  Calculate percentage increase or decrease.\n4  Calculate with simple and compound interest.\n5  Calculate using reverse percentages.",
+      "notes": [
+        "Problems may include repeated percentage \nchange. \nFormulas are not given.\ne.g. find the cost price given the selling price and \nthe percentage profit.\nPercentage calculations may include: \n• deposit\n• discount\n• profit and loss (as an amount or a percentage)\n• earnings\n• percentages over 100%."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 35,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.13"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-a-given-percentage-of-a-quantity",
+        "calculate-percentage-increase-or-decrease",
+        "calculate-using-reverse-percentages",
+        "calculate-with-simple-and-compound-interest",
+        "express-one-quantity-as-a-percentage-of-another"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.14",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.14",
+      "officialTitle": "Using a calculator",
+      "officialStatement": "1  Use a calculator efficiently.\n2  Enter values appropriately on a calculator.\n3  Interpret the calculator display appropriately.\ne.g. know not to round values within a calculation \nand to only round the final answer.\ne.g. enter 2 hours 30 minutes as 2.5 hours or \n2° 30’ 0’’.\ne.g. in money 4.8 means $4.80; in time 3.25 means \n3 hours 15 minutes.\n\n36",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 35,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.14"
+        }
+      ],
+      "atomicSkillIds": [
+        "enter-values-appropriately-on-a-calculator",
+        "hours-15-minutes",
+        "interpret-the-calculator-display-appropriately-eg",
+        "use-a-calculator-efficiently"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.15",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.15",
+      "officialTitle": "Time",
+      "officialStatement": "1  Calculate with time: seconds (s), minutes (min), \nhours (h), days, weeks, months, years, including \nthe relationship between units.\n2  Calculate times in terms of the 24-hour and \n12-hour clock.\n3  Read clocks and timetables.\n1 year = 365 days.\nIn the 24-hour clock, for example, 3.15 a.m. will be \ndenoted by 03 15 and 3.15 p.m. by 15 15.",
+      "notes": [
+        "Includes problems involving time zones, local times \nand time differences."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 36,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.15"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-times-in-terms-of-the-24-hour-and-12-hour-clock",
+        "calculate-with-time-seconds-s-minutes",
+        "read-clocks-and-timetables",
+        "year-365-days-in-the-24"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.16",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.16",
+      "officialTitle": "Money",
+      "officialStatement": "1  Calculate with money.\n2  Convert from one currency to another.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 36,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.16"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-with-money",
+        "convert-from-one-currency-to-another"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.17",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.17",
+      "officialTitle": "Exponential growth and decay",
+      "officialStatement": "Use exponential growth and decay.\ne.g. depreciation, population change.",
+      "notes": [
+        "Knowledge of e is not required."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 36,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.17"
+        }
+      ],
+      "atomicSkillIds": [
+        "use-exponential-growth-and-decay"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E1.18",
+      "tier": "extended",
+      "topicId": "number",
+      "officialCode": "E1.18",
+      "officialTitle": "Surds",
+      "officialStatement": "1  Understand and use surds, including simplifying \nexpressions. \n2  Rationalise the denominator.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Examples include:\n• 20\n2\n5\n=\n \n200\n32\n6\n2\n−\n=\n.\nExamples include:\n• 5\n10\n2\n5\n=\n \n1\n3\n1\n2\n1\n3\n−+\n=\n+\n.\n\n37"
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 36,
+          "section": "Extended subject content / Number",
+          "tableRow": "E1.18"
+        }
+      ],
+      "atomicSkillIds": [
+        "rationalise-the-denominator",
+        "understand-and-use-surds-including-simplifying-expressions"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.1",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.1",
+      "officialTitle": "Introduction to algebra",
+      "officialStatement": "1  Know that letters can be used to represent \ngeneralised numbers.\n2  Substitute numbers into expressions and \nformulas.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 37,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "know-that-letters-can-be-used",
+        "substitute-numbers-into-expressions-and-formulas"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.2",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.2",
+      "officialTitle": "Algebraic manipulation",
+      "officialStatement": "1  Simplify expressions by collecting like terms.\n2  Expand products of algebraic expressions.\n3  Factorise by extracting common factors.\n4  Factorise expressions of the form:\n• \nax + bx + kay + kby\n• \na2x2 − b2y2\n• \na2 + 2ab + b2\n• \nax2 + bx + c\n• \nax3 + bx2 + cx.\n5  Complete the square for expressions in the form \nax2 + bx + c.",
+      "notes": [
+        "Simplify means give the answer in its simplest form, \ne.g. 2a2 + 3ab – 1 + 5a2 – 9ab + 4 = 7a2 – 6ab + 3. \ne.g. expand 3x(2x – 4y), (3x + y)(x – 4y).\nIncludes products of more than two brackets,\ne.g. expand (x – 2)(x + 3)(2x + 1).\nFactorise means factorise fully, \ne.g. 9x2 + 15xy = 3x(3x + 5y)."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 37,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "complete-the-square-for-expressions-in-the-form-ax2-bx-c",
+        "expand-products-of-algebraic-expressions",
+        "factorise-by-extracting-common-factors",
+        "factorise-expressions-of-the-form-ax",
+        "simplify-expressions-by-collecting-like-terms"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.3",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.3",
+      "officialTitle": "Algebraic fractions",
+      "officialStatement": "1  Manipulate algebraic fractions.\n2  Factorise and simplify rational expressions.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Examples include:\n• x\n3 + x – 4\n2\n \n• 2x\n3  – 3(x –5)\n2\n• 3a\n4  × 9a\n10\n• 3a\n4  ÷ 9a\n10\n• 1\nx – 2 + x + 1\nx – 3 .\ne.g. \nx2 – 2x\nx2 – 5x + 6\n .\n\n38"
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 37,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "factorise-and-simplify-rational-expressions",
+        "manipulate-algebraic-fractions"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.4",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.4",
+      "officialTitle": "Indices II",
+      "officialStatement": "1  Understand and use indices (positive, zero, \nnegative and fractional).\n2  Understand and use the rules of indices.\ne.g. solve:\n• 32x = 2\n• 5x + 1 = 25x.\ne.g. simplify:\n• x\nx\n3\n3\n2\n4\n2\n1\n#\n−\n \nx\nx\n5\n2\n2\n2\n2\n1 '\n−\n•\nx\n3\n2 5 3\nJ\nL\nKK\nN\nP\nOO  .",
+      "notes": [
+        "Knowledge of logarithms is not required."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 38,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "5-3-j-l-kk-n-p-oo",
+        "indices-ii-3",
+        "indices-ii-4",
+        "understand-and-use-indices-positive-zero",
+        "understand-and-use-the-rules-of"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.5",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.5",
+      "officialTitle": "Equations",
+      "officialStatement": "1  Construct expressions, equations and formulas.\n2  Solve linear equations in one unknown.\n3  Solve fractional equations with numerical and \nlinear algebraic denominators.\n4  Solve simultaneous linear equations in two \nunknowns.\n5  Solve simultaneous equations, involving one \nlinear and one non-linear.\n6  Solve quadratic equations by factorisation, \ncompleting the square and by use of the \nquadratic formula.\n7  Change the subject of formulas.\ne.g. write an expression for the product of two \nconsecutive even numbers.",
+      "notes": [
+        "Includes constructing simultaneous equations.\nExamples include:\n• 3x + 4 = 10\n• 5 – 2x = 3(x + 7).\nExamples include:\n• x\n2x + 1 = 4\n• 2\nx + 2 + \n3\n2x – 1 = 1 \n• x\nx + 2 = \n3\nx – 6 .\nWith powers no higher than two.\nIncludes writing a quadratic expression in \ncompleted square form. \nCandidates may be expected to give solutions in \nsurd form. \nThe quadratic formula is given in the List of \nformulas. \ne.g. change the subject of a formula where:\n• the subject appears twice\n• there is a power or root of the subject.\n\n39"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 38,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "change-the-subject-of-formulas-eg",
+        "construct-expressions-equations-and-formulas",
+        "solve-fractional-equations-with-numerical-and",
+        "solve-linear-equations-in-one-unknown",
+        "solve-quadratic-equations-by-factorisation-completing",
+        "solve-simultaneous-equations-involving-one-linear",
+        "solve-simultaneous-linear-equations-in-two-unknowns"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.6",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.6",
+      "officialTitle": "Inequalities",
+      "officialStatement": "1  Represent and interpret inequalities, including on \na number line.\n2  Construct, solve and interpret linear inequalities.\n3  Represent and interpret linear inequalities in two \nvariables graphically.\n4  List inequalities that define a given region.",
+      "notes": [
+        "When representing and interpreting inequalities on \na number line:\n• open circles should be used to represent strict \ninequalities (<, >)\n• closed circles should be used to represent \ninclusive inequalities (⩽, ⩾).\ne.g. – 3 ⩽ x < 1\n– 3 – 2 – 1\n0\n1\nx\nExamples include:\n• 3x < 2x + 4\n• –3 ⩽ 3x – 2 < 7 .\nThe following conventions should be used:\n• broken lines should be used to represent strict \ninequalities (<, >)\n• solid lines should be used to represent inclusive \ninequalities (⩽, ⩾)\n• shading should be used to represent unwanted \nregions (unless otherwise directed in the \nquestion). \ne.g.\n \n0\n1\n2\n0\n1\n2\nx\nx\ny\ny\n1\n2\n1\n2\nx < 1\ny ⩾ 1\nLinear programming problems are not included."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 39,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.6"
+        }
+      ],
+      "atomicSkillIds": [
+        "construct-solve-and-interpret-linear-inequalities",
+        "list-inequalities-that-define-a-given-region",
+        "represent-and-interpret-inequalities-including-on",
+        "represent-and-interpret-linear-inequalities-in"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.7",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.7",
+      "officialTitle": "Sequences",
+      "officialStatement": "1  Continue a given number sequence or pattern.\n2  Recognise patterns in sequences, including the \nterm-to-term rule, and relationships between \ndifferent sequences.\n3  Find and use the nth term of sequences. \nSubscript notation may be used, e.g. Tn is the nth \nterm of sequence T.",
+      "notes": [
+        "Includes linear, quadratic, cubic and exponential \nsequences and simple combinations of these.\n\n40"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 39,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.7"
+        }
+      ],
+      "atomicSkillIds": [
+        "continue-a-given-number-sequence-or-pattern",
+        "find-and-use-the-nth-term",
+        "recognise-patterns-in-sequences-including-the"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.8",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.8",
+      "officialTitle": "Proportion",
+      "officialStatement": "Express direct and inverse proportion in algebraic \nterms and use this form of expression to find \nunknown quantities.",
+      "notes": [
+        "Includes linear, square, square root, cube and cube \nroot proportion.\nKnowledge of proportional symbol (∝) is required."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 40,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.8"
+        }
+      ],
+      "atomicSkillIds": [
+        "express-direct-and-inverse-proportion-in-algebraic"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.9",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.9",
+      "officialTitle": "Graphs in practical situations",
+      "officialStatement": "1  Use and interpret graphs in practical situations \nincluding travel graphs and conversion graphs.\n2  Draw graphs from given data.\n3  Apply the idea of rate of change to simple \nkinematics involving distance–time and \nspeed–time graphs, acceleration and \ndeceleration.\n4  Calculate distance travelled as area under a \nspeed–time graph.",
+      "notes": [
+        "Includes estimation and interpretation of the \ngradient of a tangent at a point.\nAreas will involve linear sections of the graph only."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 40,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.9"
+        }
+      ],
+      "atomicSkillIds": [
+        "apply-the-idea-of-rate-of",
+        "calculate-distance-travelled-as-area-under-a-speedtime-graph",
+        "draw-graphs-from-given-data",
+        "use-and-interpret-graphs-in-practical"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.10",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.10",
+      "officialTitle": "Graphs of functions",
+      "officialStatement": "1  Construct tables of values, and draw, recognise \nand interpret graphs for functions of the following \nforms:\n• \naxn (includes sums of no more than three of \nthese)\n• \nabx + c\n    where n = –2, –1, \n2\n1\n−, 0, 2\n1  , 1, 2, 3; a and c are \n    rational numbers; and b is a positive integer.\n2  Solve associated equations graphically, including \nfinding and interpreting roots by graphical \nmethods.\n3  Draw and interpret graphs representing \nexponential growth and decay problems.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Examples include:\n• y = x3 + x – 4\n• y = 2x + 3\nx2\n• y = 4\n1  × 2x.\ne.g. finding the intersection of a line and a curve.\n\n41"
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 40,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.10"
+        }
+      ],
+      "atomicSkillIds": [
+        "2-3-a-and-c-are-rational-numbers-and-b-is-a-positive-integer",
+        "construct-tables-of-values-and-draw",
+        "draw-and-interpret-graphs-representing-exponential",
+        "graphs-of-functions-2",
+        "solve-associated-equations-graphically-including-finding"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.11",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.11",
+      "officialTitle": "Sketching curves",
+      "officialStatement": "Recognise, sketch and interpret graphs of the \nfollowing functions:\n(a)  linear\n(b)  quadratic\n(c)  cubic\n(d)  reciprocal\n(e)  exponential.\nFunctions will be equivalent to:\n• ax + by = c\n• y = ax2 + bx + c\n• y = ax3 + b\n• y = ax3 + bx2 + cx\n• y\nx\na\nb\n=\n+\n \ny = arx + b\nwhere a, b and c are rational numbers and r is a \nrational, positive number.",
+      "notes": [
+        "Knowledge of turning points, roots and symmetry is \nrequired.\nKnowledge of vertical and horizontal asymptotes is \nrequired.  \nFinding turning points of quadratics by completing \nthe square is required."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 41,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.11"
+        }
+      ],
+      "atomicSkillIds": [
+        "ax-by-c",
+        "y-ax2-bx-c",
+        "y-ax3-b",
+        "y-ax3-bx2-cx"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.12",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.12",
+      "officialTitle": "Differentiation",
+      "officialStatement": "1  Estimate gradients of curves by drawing \ntangents.\n2  Use the derivatives of functions of the form axn, \nwhere a is a rational constant and n is a positive \ninteger or zero, and simple sums of not more \nthan three of these.\n3  Apply differentiation to gradients and stationary \npoints (turning points).\n4  Discriminate between maxima and minima by \nany method.\nd\nd\nx\ny notation will be expected.\nMaximum and minimum points may be identified by:\n• an accurate sketch\n• use of the second differential\n• inspecting the gradient either side of a turning \npoint.",
+      "notes": [
+        "Candidates are not expected to identify points of \ninflection.\n\n42"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 41,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.12"
+        }
+      ],
+      "atomicSkillIds": [
+        "apply-differentiation-to-gradients-and-stationary",
+        "discriminate-between-maxima-and-minima-by",
+        "estimate-gradients-of-curves-by-drawing-tangents",
+        "use-the-derivatives-of-functions-of"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E2.13",
+      "tier": "extended",
+      "topicId": "algebra-and-graphs",
+      "officialCode": "E2.13",
+      "officialTitle": "Functions",
+      "officialStatement": "1  Understand functions, domain and range and \nuse function notation. \n2  Understand and find inverse functions f –1(x).\n3  Form composite functions as defined by \ngf(x) = g(f(x)).",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Examples include:\n• f (x) = 3x – 5\n• g(x) = 3(x + 4)\n5\n \n• h(x) = 2x2 + 3.\ne.g. f(x) = \n3\nx + 2  and g(x) = (3x + 5)2. Find fg(x). \nGive your answer as a fraction in its simplest form.\nCandidates are not expected to find the domains \nand ranges of composite functions.\nThis topic may include mapping diagrams.\n\n43"
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 42,
+          "section": "Extended subject content / Algebra and graphs",
+          "tableRow": "E2.13"
+        }
+      ],
+      "atomicSkillIds": [
+        "form-composite-functions-as-defined-by-gfx-gfx",
+        "understand-and-find-inverse-functions-f-1x",
+        "understand-functions-domain-and-range-and"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E3.1",
+      "tier": "extended",
+      "topicId": "coordinate-geometry",
+      "officialCode": "E3.1",
+      "officialTitle": "Coordinates",
+      "officialStatement": "Use and interpret Cartesian coordinates in two \ndimensions.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 43,
+          "section": "Extended subject content / Coordinate geometry",
+          "tableRow": "E3.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "use-and-interpret-cartesian-coordinates-in-two"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E3.2",
+      "tier": "extended",
+      "topicId": "coordinate-geometry",
+      "officialCode": "E3.2",
+      "officialTitle": "Drawing linear graphs",
+      "officialStatement": "Draw straight-line graphs for linear equations.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Examples include:\n• y = –2x + 5\n• y = 7 – 4x\n• 3x + 2y = 5."
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 43,
+          "section": "Extended subject content / Coordinate geometry",
+          "tableRow": "E3.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "draw-straight-line-graphs-for-linear-equations"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E3.3",
+      "tier": "extended",
+      "topicId": "coordinate-geometry",
+      "officialCode": "E3.3",
+      "officialTitle": "Gradient of linear graphs",
+      "officialStatement": "1  Find the gradient of a straight line.\n2  Calculate the gradient of a straight line from the \ncoordinates of two points on it.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 43,
+          "section": "Extended subject content / Coordinate geometry",
+          "tableRow": "E3.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-the-gradient-of-a-straight",
+        "find-the-gradient-of-a-straight-line"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E3.4",
+      "tier": "extended",
+      "topicId": "coordinate-geometry",
+      "officialCode": "E3.4",
+      "officialTitle": "Length and midpoint",
+      "officialStatement": "1  Calculate the length of a line segment.\n2  Find the coordinates of the midpoint of a line \nsegment.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 43,
+          "section": "Extended subject content / Coordinate geometry",
+          "tableRow": "E3.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-the-length-of-a-line-segment",
+        "find-the-coordinates-of-the-midpoint-of-a-line-segment"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E3.5",
+      "tier": "extended",
+      "topicId": "coordinate-geometry",
+      "officialCode": "E3.5",
+      "officialTitle": "Equations of linear graphs",
+      "officialStatement": "Interpret and obtain the equation of a straight-line \ngraph.\nQuestions may:\n• use and request lines in different forms, e.g.\nax + by = c\ny = mx + c\nx = k\n• involve finding the equation when the graph is \ngiven\n• ask for the gradient or y-intercept of a graph \nfrom an equation, e.g. find the gradient and \ny-intercept of the graph with equation \n5x + 4y = 8.",
+      "notes": [
+        "Candidates are expected to give equations of a line \nin a fully simplified form.\n\n44"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 43,
+          "section": "Extended subject content / Coordinate geometry",
+          "tableRow": "E3.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "ask-for-the-gradient-or-y-intercept-of-a-graph",
+        "involve-finding-the-equation-when-the-graph-is",
+        "use-and-request-lines-in-different-forms-eg"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E3.6",
+      "tier": "extended",
+      "topicId": "coordinate-geometry",
+      "officialCode": "E3.6",
+      "officialTitle": "Parallel lines",
+      "officialStatement": "Find the gradient and equation of a straight line \nparallel to a given line.\ne.g. find the equation of the line parallel to \ny = 4x – 1 that passes through (1, –3).",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 44,
+          "section": "Extended subject content / Coordinate geometry",
+          "tableRow": "E3.6"
+        }
+      ],
+      "atomicSkillIds": [
+        "find-the-gradient-and-equation-of-a-straight-line"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E3.7",
+      "tier": "extended",
+      "topicId": "coordinate-geometry",
+      "officialCode": "E3.7",
+      "officialTitle": "Perpendicular lines",
+      "officialStatement": "Find the gradient and equation of a straight line \nperpendicular to a given line.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Examples include:\n• find the gradient of a line perpendicular to \n2y = 3x + 1\n• find the equation of the perpendicular bisector \nof the line joining the points (–3, 8) and (9, –2).\n\n45"
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 44,
+          "section": "Extended subject content / Coordinate geometry",
+          "tableRow": "E3.7"
+        }
+      ],
+      "atomicSkillIds": [
+        "find-the-gradient-and-equation-of-a-straight-line"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E4.1",
+      "tier": "extended",
+      "topicId": "geometry",
+      "officialCode": "E4.1",
+      "officialTitle": "Geometrical terms",
+      "officialStatement": "1  Use and interpret the following geometrical \nterms: \n• \npoint\n• \nvertex\n• \nline\n• \nplane\n• \nparallel\n• \nperpendicular\n• \nperpendicular bisector\n• \nbearing\n• \nright angle\n• \nacute, obtuse and reflex angles\n• \ninterior and exterior angles\n• \nsimilar\n• \ncongruent\n• \nscale factor.\n2  Use and interpret the vocabulary of:\n• \ntriangles\n• \nspecial quadrilaterals\n• \npolygons\n• \nnets\n• \nsolids.\n3  Use and interpret the vocabulary of a circle.\nPolygons: \n• regular and irregular polygons\n• pentagon\n• hexagon\n• octagon\n• decagon. \nSolids: \n• \ncube\n• \ncuboid\n• \nprism\n• \ncylinder\n• \npyramid\n• \ncone\n• \nsphere\n• \nhemisphere\n• \nfrustum\n• \nface\n• \nsurface\n• \nedge.",
+      "notes": [
+        "Candidates are not expected to show that two \nshapes are congruent.\nIncludes the following terms.\nTriangles: \n• equilateral\n• isosceles\n• scalene\n• right-angled.\nQuadrilaterals: \n• square\n• rectangle\n• kite\n• rhombus\n• parallelogram\n• trapezium.\ncontinued\n\n46",
+        "Includes the following terms: \n• centre\n• radius (plural radii)\n• diameter\n• circumference\n• semicircle\n• chord\n• tangent\n• major and minor arc\n• sector\n• segment.\n\n47",
+        "Includes the following terms: \n• centre\n• radius (plural radii)\n• diameter\n• circumference\n• semicircle\n• chord\n• tangent\n• major and minor arc\n• sector\n• segment.\n\n47",
+        "Includes the following terms: \n• centre\n• radius (plural radii)\n• diameter\n• circumference\n• semicircle\n• chord\n• tangent\n• major and minor arc\n• sector\n• segment.\n\n47",
+        "Includes the following terms: \n• centre\n• radius (plural radii)\n• diameter\n• circumference\n• semicircle\n• chord\n• tangent\n• major and minor arc\n• sector\n• segment.\n\n47"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 45,
+          "section": "Extended subject content / Geometry",
+          "tableRow": "E4.1"
+        },
+        {
+          "page": 45,
+          "section": "Extended subject content / Geometry (continued)",
+          "tableRow": "E4.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "use-and-interpret-the-following-geometrical",
+        "use-and-interpret-the-vocabulary-of",
+        "use-and-interpret-the-vocabulary-of-2"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E4.2",
+      "tier": "extended",
+      "topicId": "geometry",
+      "officialCode": "E4.2",
+      "officialTitle": "Geometrical constructions",
+      "officialStatement": "1  Measure and draw lines and angles.\n2  Construct a triangle, given the lengths of all \nsides, using a ruler and pair of compasses only.\n3  Draw, use and interpret nets.\nA ruler should be used for all straight edges.\nConstructions of perpendicular bisectors and angle \nbisectors are not required. \ne.g. construct a rhombus by drawing two triangles. \nConstruction arcs must be shown.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Examples include:\n• draw nets of cubes, cuboids, prisms and \npyramids\n• use measurements from nets to calculate \nvolumes and surface areas."
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 47,
+          "section": "Extended subject content / Geometry",
+          "tableRow": "E4.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "construct-a-triangle-given-the-lengths",
+        "draw-use-and-interpret-nets-a",
+        "measure-and-draw-lines-and-angles"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E4.3",
+      "tier": "extended",
+      "topicId": "geometry",
+      "officialCode": "E4.3",
+      "officialTitle": "Scale drawings",
+      "officialStatement": "1  Draw and interpret scale drawings.\n2  Use and interpret three-figure bearings.",
+      "notes": [
+        "A ruler must be used for all straight edges.\nBearings are measured clockwise from north \n(000° to 360°). \ne.g. find the bearing of A from B if the bearing of B \nfrom A is 025°.\nIncludes an understanding of the terms north, east, \nsouth and west. \ne.g. point D is due east of point C."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 47,
+          "section": "Extended subject content / Geometry",
+          "tableRow": "E4.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "draw-and-interpret-scale-drawings",
+        "use-and-interpret-three-figure-bearings"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E4.4",
+      "tier": "extended",
+      "topicId": "geometry",
+      "officialCode": "E4.4",
+      "officialTitle": "Similarity",
+      "officialStatement": "1  Calculate lengths of similar shapes.\n2  Use the relationships between lengths and areas \nof similar shapes and lengths, surface areas and \nvolumes of similar solids.\n3  Solve problems and give simple explanations \ninvolving similarity.",
+      "notes": [
+        "Includes use of scale factor, e.g.  \nB\nA\nB\nA\nVolume of\nVolume of\nLength of\nLength of\n3\n3\n=\n`\n`\nj\nj\n .\nIncludes showing that two triangles are similar \nusing geometric reasons."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 47,
+          "section": "Extended subject content / Geometry",
+          "tableRow": "E4.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-lengths-of-similar-shapes",
+        "solve-problems-and-give-simple-explanations",
+        "use-the-relationships-between-lengths-and"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E4.5",
+      "tier": "extended",
+      "topicId": "geometry",
+      "officialCode": "E4.5",
+      "officialTitle": "Symmetry",
+      "officialStatement": "1  Recognise line symmetry and order of rotational \nsymmetry in two dimensions.\n2  Recognise symmetry properties of prisms, \ncylinders, pyramids and cones.",
+      "notes": [
+        "Includes properties of triangles, quadrilaterals and \npolygons directly related to their symmetries.\ne.g. identify planes and axes of symmetry. \n\n48"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 47,
+          "section": "Extended subject content / Geometry",
+          "tableRow": "E4.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "recognise-line-symmetry-and-order-of",
+        "recognise-symmetry-properties-of-prisms-cylinders"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E4.6",
+      "tier": "extended",
+      "topicId": "geometry",
+      "officialCode": "E4.6",
+      "officialTitle": "Angles",
+      "officialStatement": "1  Calculate unknown angles and give simple \nexplanations using the following geometrical \nproperties:\n•  sum of angles at a point = 360°\n•  sum of angles at a point on a straight line = 180°\n•  vertically opposite angles are equal\n•  angle sum of a triangle = 180° and angle sum \nof a quadrilateral = 360°.\n2  Calculate unknown angles and give geometric \nexplanations for angles formed within parallel lines:\n•  corresponding angles are equal\n•  alternate angles are equal \n•  co-interior angles sum to 180° (supplementary). \n3  Know and use angle properties of regular and \nirregular polygons.",
+      "notes": [
+        "Knowledge of 3-letter notation for angles is \nrequired, e.g. angle ABC. Candidates are expected \nto use the correct geometrical terminology when \ngiving reasons for answers.\nIncludes exterior and interior angles, and angle \nsum."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 48,
+          "section": "Extended subject content / Geometry",
+          "tableRow": "E4.6"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-unknown-angles-and-give-geometric",
+        "calculate-unknown-angles-and-give-simple",
+        "know-and-use-angle-properties-of"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E4.7",
+      "tier": "extended",
+      "topicId": "geometry",
+      "officialCode": "E4.7",
+      "officialTitle": "Circle theorems I",
+      "officialStatement": "Calculate unknown angles and give explanations \nusing the following geometrical properties of circles:\n• angle in a semicircle = 90°\n• angle between tangent and radius = 90°\n• angle at the centre is twice the angle at the \ncircumference\n• angles in the same segment are equal\n• opposite angles of a cyclic quadrilateral sum to \n180° (supplementary)\n• alternate segment theorem.",
+      "notes": [
+        "Candidates are expected to use the geometrical \nproperties listed in the syllabus when giving \nreasons for answers."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 48,
+          "section": "Extended subject content / Geometry",
+          "tableRow": "E4.7"
+        }
+      ],
+      "atomicSkillIds": [
+        "alternate-segment-theorem",
+        "angle-at-the-centre-is-twice-the-angle-at-the",
+        "angle-between-tangent-and-radius-90",
+        "angle-in-a-semicircle-90",
+        "angles-in-the-same-segment-are-equal",
+        "opposite-angles-of-a-cyclic-quadrilateral-sum-to"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E4.8",
+      "tier": "extended",
+      "topicId": "geometry",
+      "officialCode": "E4.8",
+      "officialTitle": "Circle theorems II",
+      "officialStatement": "Use the following symmetry properties of circles:\n• equal chords are equidistant from the centre\n• the perpendicular bisector of a chord passes \nthrough the centre\n• tangents from an external point are equal in \nlength.",
+      "notes": [
+        "Candidates are expected to use the geometrical \nproperties listed in the syllabus when giving \nreasons for answers.\n\n49"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 48,
+          "section": "Extended subject content / Geometry",
+          "tableRow": "E4.8"
+        }
+      ],
+      "atomicSkillIds": [
+        "use-equal-chords-are-equidistant-from-the-centre",
+        "use-tangents-from-an-external-point-are-equal-in",
+        "use-the-following-symmetry-properties-of-circles",
+        "use-the-perpendicular-bisector-of-a-chord-passes"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E5.1",
+      "tier": "extended",
+      "topicId": "mensuration",
+      "officialCode": "E5.1",
+      "officialTitle": "Units of measure",
+      "officialStatement": "Use metric units of mass, length, area, volume \nand capacity in practical situations and convert \nquantities into larger or smaller units.\nUnits include: \n• mm, cm, m, km\n• mm2, cm2, m2, km2\n• mm3, cm3, m3\n• ml, l\n• g, kg.\nConversion between units includes: \n• between different units of area, e.g. cm2 ↔ m2\n• between units of volume and capacity, \ne.g. m3 ↔ litres.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 49,
+          "section": "Extended subject content / Mensuration",
+          "tableRow": "E5.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "between-different-units-of-area-eg-cm2-m2",
+        "between-units-of-volume-and-capacity",
+        "mm-cm-m-km",
+        "mm2-cm2-m2-km2",
+        "mm3-cm3-m3"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E5.2",
+      "tier": "extended",
+      "topicId": "mensuration",
+      "officialCode": "E5.2",
+      "officialTitle": "Area and perimeter",
+      "officialStatement": "Carry out calculations involving the perimeter and \narea of a rectangle, triangle, parallelogram and \ntrapezium. \nExcept for the area of a triangle, formulas are not \ngiven.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 49,
+          "section": "Extended subject content / Mensuration",
+          "tableRow": "E5.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "carry-out-calculations-involving-the-perimeter-and"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E5.3",
+      "tier": "extended",
+      "topicId": "mensuration",
+      "officialCode": "E5.3",
+      "officialTitle": "Circles, arcs and sectors",
+      "officialStatement": "1  Carry out calculations involving the \ncircumference and area of a circle.\n2  Carry out calculations involving arc length and \nsector area as fractions of the circumference and \narea of a circle.\nAnswers may be asked for in terms of π.\nFormulas are given in the List of formulas.",
+      "notes": [
+        "Includes minor and major sectors."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 49,
+          "section": "Extended subject content / Mensuration",
+          "tableRow": "E5.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "carry-out-calculations-involving-arc-length",
+        "carry-out-calculations-involving-the-circumference"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E5.4",
+      "tier": "extended",
+      "topicId": "mensuration",
+      "officialCode": "E5.4",
+      "officialTitle": "Surface area and volume",
+      "officialStatement": "Carry out calculations and solve problems involving \nthe surface area and volume of a:\n• cuboid\n• prism\n• cylinder\n• sphere\n• pyramid\n• cone.\nAnswers may be asked for in terms of π.\nThe following formulas are given in the List of \nformulas:\n• curved surface area of a cylinder \n• curved surface area of a cone \n• surface area of a sphere \n• volume of a prism \n• volume of a pyramid \n• volume of a cylinder \n• volume of a cone\n• volume of a sphere.\nThe term prism refers to any solid with a uniform \ncross-section, e.g. a cylindrical sector.\n\n50",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 49,
+          "section": "Extended subject content / Mensuration",
+          "tableRow": "E5.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "cuboid",
+        "curved-surface-area-of-a-cone",
+        "curved-surface-area-of-a-cylinder",
+        "cylinder",
+        "pyramid",
+        "sphere",
+        "surface-area-of-a-sphere",
+        "volume-of-a-cone",
+        "volume-of-a-cylinder",
+        "volume-of-a-prism",
+        "volume-of-a-pyramid",
+        "volume-of-a-sphere"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E5.5",
+      "tier": "extended",
+      "topicId": "mensuration",
+      "officialCode": "E5.5",
+      "officialTitle": "Compound shapes and parts of shapes",
+      "officialStatement": "1  Carry out calculations and solve problems \ninvolving perimeters and areas of:\n• \ncompound shapes\n• \nparts of shapes.\n2  Carry out calculations and solve problems \ninvolving surface areas and volumes of: \n• \ncompound solids\n• \nparts of solids.\nAnswers may be asked for in terms of π. \ne.g. find the surface area and volume of a frustum.\n\n51",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 50,
+          "section": "Extended subject content / Mensuration",
+          "tableRow": "E5.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "carry-out-calculations-and-solve-problems",
+        "carry-out-calculations-and-solve-problems-2"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E6.1",
+      "tier": "extended",
+      "topicId": "trigonometry",
+      "officialCode": "E6.1",
+      "officialTitle": "Pythagoras’ theorem",
+      "officialStatement": "Know and use Pythagoras’ theorem.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 51,
+          "section": "Extended subject content / Trigonometry",
+          "tableRow": "E6.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "know-and-use-pythagoras-theorem"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E6.2",
+      "tier": "extended",
+      "topicId": "trigonometry",
+      "officialCode": "E6.2",
+      "officialTitle": "Right-angled triangles",
+      "officialStatement": "1  Know and use the sine, cosine and tangent \nratios for acute angles in calculations involving \nsides and angles of a right-angled triangle.\n2  Solve problems in two dimensions using \nPythagoras’ theorem and trigonometry.\n3  Know that the perpendicular distance from a \npoint to a line is the shortest distance to the line.\n4  Carry out calculations involving angles of \nelevation and depression.",
+      "notes": [
+        "Angles will be given in degrees and answers should \nbe written in degrees, with decimals correct to one \ndecimal place. \nKnowledge of bearings may be required."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 51,
+          "section": "Extended subject content / Trigonometry",
+          "tableRow": "E6.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "carry-out-calculations-involving-angles-of",
+        "know-and-use-the-sine-cosine",
+        "know-that-the-perpendicular-distance-from",
+        "solve-problems-in-two-dimensions-using"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E6.3",
+      "tier": "extended",
+      "topicId": "trigonometry",
+      "officialCode": "E6.3",
+      "officialTitle": "Exact trigonometric values",
+      "officialStatement": "Know the exact values of:\n1  sin x and cos x for x = 0°, 30°, 45°, 60° and 90°.\n2  tan x for x = 0°, 30°, 45° and 60°.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 51,
+          "section": "Extended subject content / Trigonometry",
+          "tableRow": "E6.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "sin-x-and-cos-x-for-x-0-30-45-60-and-90",
+        "tan-x-for-x-0-30-45-and-60"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E6.4",
+      "tier": "extended",
+      "topicId": "trigonometry",
+      "officialCode": "E6.4",
+      "officialTitle": "Trigonometric functions",
+      "officialStatement": "1  Recognise, sketch and interpret the following \ngraphs for 0° ⩽ x ⩽ 360°:\n• \ny = sin x\n• \ny = cos x \n• \ny = tan x.\n2  Solve trigonometric equations involving sin x, \ncos x or tan x, for 0° ⩽ x ⩽ 360°.\ne.g. solve:\n• sin x = 2\n3  for 0° ⩽ x ⩽ 360°\n• 2 cos x + 1 = 0 for 0° ⩽ x ⩽ 360°.\n\n52",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 51,
+          "section": "Extended subject content / Trigonometry",
+          "tableRow": "E6.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "for-0-x-360-2-cos-x-1-0-for-0-x-360",
+        "recognise-sketch-and-interpret-the-following",
+        "solve-trigonometric-equations-involving-sin-x"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E6.5",
+      "tier": "extended",
+      "topicId": "trigonometry",
+      "officialCode": "E6.5",
+      "officialTitle": "Non-right-angled triangles",
+      "officialStatement": "1  Use the sine and cosine rules in calculations \ninvolving lengths and angles for any triangle. \n2  Use the formula \narea of triangle = 2\n1 ab sin C.",
+      "notes": [
+        "Includes problems involving obtuse angles and the \nambiguous case.\nThe sine and cosine rules and the formula for area \nof a triangle are given in the List of formulas."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 52,
+          "section": "Extended subject content / Trigonometry",
+          "tableRow": "E6.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "ab-sin-c",
+        "use-the-formula-area-of-triangle-2",
+        "use-the-sine-and-cosine-rules"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E6.6",
+      "tier": "extended",
+      "topicId": "trigonometry",
+      "officialCode": "E6.6",
+      "officialTitle": "\u0007Pythagoras’ theorem and trigonometry",
+      "officialStatement": "in 3D\nCarry out calculations and solve problems in \nthree dimensions using Pythagoras’ theorem \nand trigonometry, including calculating the angle \nbetween a line and a plane.\n\n53",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 52,
+          "section": "Extended subject content / Trigonometry",
+          "tableRow": "E6.6"
+        }
+      ],
+      "atomicSkillIds": [
+        "pythagoras-theorem-and-trigonometry"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E7.1",
+      "tier": "extended",
+      "topicId": "transformations-and-vectors",
+      "officialCode": "E7.1",
+      "officialTitle": "Transformations",
+      "officialStatement": "Recognise, describe and draw the following \ntransformations: \n1  Reflection of a shape in a straight line.\n2  Rotation of a shape about a centre through \nmultiples of 90°.\n3  Enlargement of a shape from a centre by a scale \nfactor.\n4  Translation of a shape by a vector x\ny\nJ\nL\nKK\nN\nP\nOO. \nQuestions may involve combinations of \ntransformations. A ruler must be used for all straight \nedges.\nPositive, fractional and negative scale factors may \nbe used.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 53,
+          "section": "Extended subject content / Transformations and vectors",
+          "tableRow": "E7.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "enlargement-of-a-shape-from-a-centre-by-a-scale-factor",
+        "reflection-of-a-shape-in-a-straight-line",
+        "rotation-of-a-shape-about-a-centre-through-multiples-of-90",
+        "translation-of-a-shape-by-a"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E7.2",
+      "tier": "extended",
+      "topicId": "transformations-and-vectors",
+      "officialCode": "E7.2",
+      "officialTitle": "Vectors in two dimensions",
+      "officialStatement": "1  Describe a translation using a vector represented \n    by x\ny\nJ\nL\nKK\nN\nP\nOO, AB or a.\n2  Add and subtract vectors.\n3  Multiply a vector by a scalar.\nVectors will be printed as AB or a.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 53,
+          "section": "Extended subject content / Transformations and vectors",
+          "tableRow": "E7.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "add-and-subtract-vectors",
+        "describe-a-translation-using-a-vector",
+        "multiply-a-vector-by-a-scalar"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E7.3",
+      "tier": "extended",
+      "topicId": "transformations-and-vectors",
+      "officialCode": "E7.3",
+      "officialTitle": "Magnitude of a vector",
+      "officialStatement": "Calculate the magnitude of a vector x\ny\nJ\nL\nKK\nN\nP\nOO as \nx\ny\n2\n2\n+\n .\nThe magnitudes of vectors will be denoted by \nmodulus signs, e.g.\n• a  is the magnitude of a\n• AB  is the magnitude of AB.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 53,
+          "section": "Extended subject content / Transformations and vectors",
+          "tableRow": "E7.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "the-magnitudes-of-vectors-will-be"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E7.4",
+      "tier": "extended",
+      "topicId": "transformations-and-vectors",
+      "officialCode": "E7.4",
+      "officialTitle": "Vector geometry",
+      "officialStatement": "1  Represent vectors by directed line segments.\n2  Use position vectors. \n3  Use the sum and difference of two or more \nvectors to express given vectors in terms of two \ncoplanar vectors.\n4  Use vectors to reason and to solve geometric \nproblems.",
+      "notes": [],
+      "examplesFromSyllabus": [
+        "Examples include:\n• show that vectors are parallel\n• show that 3 points are collinear\n• solve vector problems involving ratio and \nsimilarity.\n\n54"
+      ],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 53,
+          "section": "Extended subject content / Transformations and vectors",
+          "tableRow": "E7.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "represent-vectors-by-directed-line-segments",
+        "use-position-vectors",
+        "use-the-sum-and-difference-of",
+        "use-vectors-to-reason-and-to-solve-geometric-problems"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E8.1",
+      "tier": "extended",
+      "topicId": "probability",
+      "officialCode": "E8.1",
+      "officialTitle": "Introduction to probability",
+      "officialStatement": "1  Understand and use the probability scale from \n0 to 1.\n2  Understand and use probability notation.\n3  Calculate the probability of a single event. \n4  Understand that the probability of an event \nnot occurring = 1 – the probability of the event \noccurring.\nP(A) is the probability of A\nP(A′) is the probability of not A",
+      "notes": [
+        "Probabilities should be given as a fraction, decimal \nor percentage. \nProblems may require using information from \ntables, graphs or Venn diagrams. \ne.g. P(B) = 0.8, find P(B′)"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 54,
+          "section": "Extended subject content / Probability",
+          "tableRow": "E8.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-the-probability-of-a-single-event",
+        "understand-and-use-probability-notation",
+        "understand-and-use-the-probability-scale-from",
+        "understand-that-the-probability-of-an"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E8.2",
+      "tier": "extended",
+      "topicId": "probability",
+      "officialCode": "E8.2",
+      "officialTitle": "Relative and expected frequencies",
+      "officialStatement": "1  Understand relative frequency as an estimate of \nprobability.\n2  Calculate expected frequencies.\ne.g. use results of experiments with a spinner to \nestimate the probability of a given outcome.\ne.g. use probability to estimate an expected value \nfrom a population.",
+      "notes": [
+        "Includes understanding what is meant by fair, bias \nand random."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 54,
+          "section": "Extended subject content / Probability",
+          "tableRow": "E8.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-expected-frequencies-eg-use-results",
+        "understand-relative-frequency-as-an-estimate-of-probability"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E8.3",
+      "tier": "extended",
+      "topicId": "probability",
+      "officialCode": "E8.3",
+      "officialTitle": "Probability of combined events",
+      "officialStatement": "Calculate the probability of combined events using, \nwhere appropriate:\n• sample space diagrams\n• Venn diagrams\n• tree diagrams.",
+      "notes": [
+        "Combined events could be with or without \nreplacement.\nThe notation P(A ∩ B) and P(A ∪ B) may be used \nin the context of Venn diagrams.\nOn tree diagrams outcomes will be written at the \nend of branches and probabilities by the side of the \nbranches."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 54,
+          "section": "Extended subject content / Probability",
+          "tableRow": "E8.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "sample-space-diagrams",
+        "tree-diagrams",
+        "venn-diagrams"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E8.4",
+      "tier": "extended",
+      "topicId": "probability",
+      "officialCode": "E8.4",
+      "officialTitle": "Conditional probability",
+      "officialStatement": "Calculate conditional probability using Venn \ndiagrams, tree diagrams and tables.",
+      "notes": [
+        "Knowledge of notation, P(A|B), and formulas \nrelating to conditional probability is not required.\n\n55"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 54,
+          "section": "Extended subject content / Probability",
+          "tableRow": "E8.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-conditional-probability-using-venn"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E9.1",
+      "tier": "extended",
+      "topicId": "statistics",
+      "officialCode": "E9.1",
+      "officialTitle": "Classifying statistical data",
+      "officialStatement": "Classify and tabulate statistical data.\ne.g. tally tables, two-way tables.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 55,
+          "section": "Extended subject content / Statistics",
+          "tableRow": "E9.1"
+        }
+      ],
+      "atomicSkillIds": [
+        "classify-and-tabulate-statistical-data"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E9.2",
+      "tier": "extended",
+      "topicId": "statistics",
+      "officialCode": "E9.2",
+      "officialTitle": "Interpreting statistical data",
+      "officialStatement": "1  Read, interpret and draw inferences from tables \nand statistical diagrams.\n2  Compare sets of data using tables, graphs and \nstatistical measures.\n3  Appreciate restrictions on drawing conclusions \nfrom given data.\ne.g. compare averages and measures of spread \nbetween two data sets.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 55,
+          "section": "Extended subject content / Statistics",
+          "tableRow": "E9.2"
+        }
+      ],
+      "atomicSkillIds": [
+        "appreciate-restrictions-on-drawing-conclusions-from",
+        "compare-sets-of-data-using-tables",
+        "read-interpret-and-draw-inferences-from"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E9.3",
+      "tier": "extended",
+      "topicId": "statistics",
+      "officialCode": "E9.3",
+      "officialTitle": "Averages and measures of spread",
+      "officialStatement": "1  Calculate the mean, median, mode, quartiles, \nrange and interquartile range for individual data \nand distinguish between the purposes for which \nthese are used.\n2  Calculate an estimate of the mean for grouped \ndiscrete or grouped continuous data.\n3  Identify the modal class from a grouped \nfrequency distribution.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 55,
+          "section": "Extended subject content / Statistics",
+          "tableRow": "E9.3"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-an-estimate-of-the-mean",
+        "calculate-the-mean-median-mode-quartiles",
+        "identify-the-modal-class-from-a"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E9.4",
+      "tier": "extended",
+      "topicId": "statistics",
+      "officialCode": "E9.4",
+      "officialTitle": "Statistical charts and diagrams",
+      "officialStatement": "Draw and interpret:\n(a)   bar charts\n(b)  pie charts\n(c)   pictograms\n(d)  stem-and-leaf diagrams\n(e)   simple frequency distributions.",
+      "notes": [
+        "Includes composite (stacked) and dual (side-by-\nside) bar charts. \nStem-and-leaf diagrams should have ordered data \nwith a key.\n\n56"
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 55,
+          "section": "Extended subject content / Statistics",
+          "tableRow": "E9.4"
+        }
+      ],
+      "atomicSkillIds": [
+        "draw-and-interpret"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E9.5",
+      "tier": "extended",
+      "topicId": "statistics",
+      "officialCode": "E9.5",
+      "officialTitle": "Scatter diagrams",
+      "officialStatement": "1  Draw and interpret scatter diagrams.\n2  Understand what is meant by positive, negative \nand zero correlation.\n3  Draw by eye, interpret and use a straight line of \nbest fit.",
+      "notes": [
+        "Plotted points should be clearly marked, for \nexample as small crosses (×).\nA line of best fit:\n• should be a single ruled line drawn by \ninspection\n• should extend across the full data set\n• does not need to coincide exactly with any of \nthe points but there should be a roughly even \ndistribution of points either side of the line over \nits entire length."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 56,
+          "section": "Extended subject content / Statistics",
+          "tableRow": "E9.5"
+        }
+      ],
+      "atomicSkillIds": [
+        "draw-and-interpret-scatter-diagrams",
+        "draw-by-eye-interpret-and-use-a-straight-line-of-best-fit",
+        "understand-what-is-meant-by-positive"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E9.6",
+      "tier": "extended",
+      "topicId": "statistics",
+      "officialCode": "E9.6",
+      "officialTitle": "Cumulative frequency diagrams",
+      "officialStatement": "1  Draw and interpret cumulative frequency tables \nand diagrams.\n2  Estimate and interpret the median, percentiles, \nquartiles and interquartile range from cumulative \nfrequency diagrams.",
+      "notes": [
+        "Plotted points on a cumulative frequency diagram \nshould be clearly marked, for example as small \ncrosses (×), and be joined with a smooth curve."
+      ],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 56,
+          "section": "Extended subject content / Statistics",
+          "tableRow": "E9.6"
+        }
+      ],
+      "atomicSkillIds": [
+        "draw-and-interpret-cumulative-frequency-tables-and-diagrams",
+        "estimate-and-interpret-the-median-percentiles"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    },
+    {
+      "id": "E9.7",
+      "tier": "extended",
+      "topicId": "statistics",
+      "officialCode": "E9.7",
+      "officialTitle": "Histograms",
+      "officialStatement": "1  Draw and interpret histograms. \n2  Calculate with frequency density.\nOn histograms, the vertical axis is labelled \n‘Frequency density’. \nFrequency density is defined as \nfrequency density = frequency ÷ class width.",
+      "notes": [],
+      "examplesFromSyllabus": [],
+      "extendedOnlyPlaceholder": false,
+      "sourceReferences": [
+        {
+          "page": 56,
+          "section": "Extended subject content / Statistics",
+          "tableRow": "E9.7"
+        }
+      ],
+      "atomicSkillIds": [
+        "calculate-with-frequency-density-on-histograms",
+        "draw-and-interpret-histograms"
+      ],
+      "syllabusCode": "0580",
+      "prerequisiteSyllabusPointIds": [],
+      "relatedSyllabusPointIds": [],
+      "origin": "official-syllabus",
+      "review": {
+        "status": "pending-review",
+        "notes": ""
+      }
+    }
+  ]
+}

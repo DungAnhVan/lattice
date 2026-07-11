@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0",
+  "id": "cambridge-igcse-mathematics-0580-2025-2027",
+  "board": "cambridge",
+  "qualification": "igcse",
+  "subject": "mathematics",
+  "syllabusCode": "0580",
+  "validFrom": 2025,
+  "validTo": 2027,
+  "taxonomyVersion": "0580-2025-2027-v1",
+  "source": {
+    "file": "../sources/2025-2027-syllabus.pdf",
+    "title": "Cambridge IGCSE Mathematics 0580 syllabus for examination in 2025, 2026 and 2027",
+    "publicationCode": "662466",
+    "syllabusVersion": 3,
+    "published": "May 2024",
+    "accessedLocally": true
+  },
+  "topicIds": [
+    "number",
+    "algebra-and-graphs",
+    "coordinate-geometry",
+    "geometry",
+    "mensuration",
+    "trigonometry",
+    "transformations-and-vectors",
+    "probability",
+    "statistics"
+  ],
+  "createdAt": "2026-07-11T02:04:28Z",
+  "updatedAt": "2026-07-11T02:04:28Z"
+}
